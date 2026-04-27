@@ -1,0 +1,119 @@
+### I3. Relative Energy Deficiency in Sport (RED-S)
+**ID:** I3-ENERGY-AVAILABILITY
+**Created:** 2025-04-24 (Updated: 2025-01-16)
+
+## Quick Takeaway
+RED-S occurs when athletes don't eat enough to fuel both their training and basic body functions, leading to serious health problems and decreased performance across multiple body systems.
+
+## Key Points
+- Energy availability below 30 kcal/kg fat-free mass/day triggers RED-S symptoms
+- Affects bone health, hormones, metabolism, immune function, and mental health in both male and female athletes
+- Most common in sports emphasizing leanness (gymnastics, distance running, wrestling)
+- Recovery requires increasing food intake and/or reducing training load under medical supervision
+- Prevention is key - maintain energy availability around 45 kcal/kg fat-free mass/day
+
+## Deep Dive
+
+### Definition and Mechanism
+Relative Energy Deficiency in Sport (RED-S) is a syndrome resulting from low energy availability (LEA), where dietary energy intake is insufficient to cover the energy expended in exercise *plus* the energy required for basal physiological functions (Mountjoy et al., 2018). This condition impairs numerous body systems, negatively impacting both health and performance in male and female athletes.
+
+Energy Availability (EA) is calculated as: EA = (Energy Intake - Exercise Energy Expenditure) / Fat-Free Mass
+
+LEA occurs when EA falls below 30-35 kcal/kg FFM/day, while optimal energy availability is approximately 45 kcal/kg FFM/day (Loucks & Thuma, 2003). The energy deficit can be intentional (dieting) or unintentional (inadequate refueling).
+
+### Multi-System Physiological Consequences
+
+**Endocrine and Reproductive System:**
+- Menstrual dysfunction and reduced estrogen in females
+- Decreased testosterone levels in males
+- Altered thyroid hormones, cortisol, growth hormone, and IGF-1
+- Disrupted metabolic regulation
+
+**Bone Health:**
+- Impaired bone formation and remodeling
+- Reduced bone mineral density (BMD)
+- Significantly increased stress fracture risk
+- Long-term osteoporosis risk
+
+**Metabolic Effects:**
+- Decreased resting metabolic rate through [[C8. Metabolic Adaptation (Adaptive Thermogenesis)]]
+- Impaired protein synthesis
+- Reduced metabolic efficiency
+
+**Other Systems:**
+- **Hematological:** Potential iron deficiency and anemia
+- **Growth & Development:** Stunted growth in adolescent athletes
+- **Cardiovascular:** Reduced cardiac function and potential arrhythmias
+- **Gastrointestinal:** Delayed gastric emptying and digestive issues
+- **Immunological:** Suppressed immune function and increased illness risk
+- **Psychological:** Increased depression, anxiety, and disordered eating behaviors
+
+### Performance Consequences
+RED-S significantly impairs athletic performance through:
+- Decreased endurance capacity and VO2max
+- Reduced strength and power output
+- Impaired training adaptations and recovery
+- Decreased coordination and concentration
+- Increased injury and illness rates
+- Compromised glycogen storage and utilization
+
+### Risk Factors and Vulnerable Populations
+**High-Risk Sports:**
+- Aesthetic sports (gymnastics, figure skating, dance)
+- Endurance sports (distance running, cycling, triathlon)
+- Weight-class sports (wrestling, boxing, rowing)
+- Sports emphasizing leanness for performance
+
+**Individual Risk Factors:**
+- High training volumes without adequate nutrition
+- Intentional dieting or weight loss
+- Disordered eating behaviors
+- Limited nutritional knowledge
+- Perfectionist personality traits
+- Psychological stress and pressure
+
+## Research Evidence
+
+**Foundational Research:**
+- Mountjoy M, et al. (2018). International Olympic Committee (IOC) Consensus Statement on Relative Energy Deficiency in Sport (RED-S): 2018 Update. International Journal of Sport Nutrition and Exercise Metabolism, 28(4), 316-331. DOI: 10.1123/ijsnem.2018-0136
+- Logue DM, et al. (2020). Low Energy Availability in Athletes 2020: An Updated Narrative Review of Prevalence, Risk, Within-Day Energy Balance, Knowledge, and Impact on Sports Performance. Nutrients, 12(3), 835. DOI: 10.3390/nu12030835
+- Loucks AB, Thuma JR. (2003). Luteinizing hormone pulsatility is disrupted at a threshold of energy availability in regularly menstruating women. Journal of Clinical Endocrinology & Metabolism, 88(1), 297-311.
+
+**Clinical Evidence:**
+- De Souza MJ, et al. (2014). 2014 Female Athlete Triad Coalition Consensus Statement on Treatment and Return to Play of the Female Athlete Triad. British Journal of Sports Medicine, 48(4), 289. DOI: 10.1136/bjsports-2013-093218
+- Ackerman KE, et al. (2019). #REDS (Relative Energy Deficiency in Sport): time to screen females and males? British Journal of Sports Medicine, 53(17), 1053-1055. DOI: 10.1136/bjsports-2019-100710
+
+## Practical Applications
+
+**Assessment and Monitoring:**
+- Calculate energy availability using 3-7 day food and exercise logs
+- Monitor body weight trends and body composition changes
+- Track menstrual function in females
+- Assess training performance and recovery markers
+- Screen for psychological symptoms and eating behaviors
+
+**Treatment Protocol:**
+1. **Increase Energy Intake:** Add 300-600 kcal/day through nutrient-dense foods
+2. **Modify Training:** Temporarily reduce volume/intensity by 10-20%
+3. **Medical Monitoring:** Regular blood work and bone density assessments
+4. **Psychological Support:** Address disordered eating and performance anxiety
+5. **Gradual Progression:** Slowly return to full training as health markers improve
+
+**Prevention Strategies:**
+- Maintain energy availability ≥45 kcal/kg FFM/day
+- Plan nutrition around training schedule
+- Educate athletes and coaches about RED-S risks
+- Regular health screenings for at-risk athletes
+
+## Common Mistakes
+⚠️ **Focusing only on total calories** - Energy availability relative to exercise expenditure matters more than absolute intake
+⚠️ **Ignoring male athletes** - RED-S affects both sexes, though symptoms may differ
+⚠️ **Continuing intense training** - Recovery requires reducing training load, not just increasing food
+⚠️ **Self-diagnosis and treatment** - RED-S requires professional medical and nutritional intervention
+⚠️ **Expecting quick fixes** - Recovery typically takes months of consistent energy availability restoration
+
+## Related Concepts
+Understanding [[A1. Energy Balance]] principles and appropriate [[C1. Caloric Targets for Different Goals]] helps prevent RED-S development. The condition involves [[C8. Metabolic Adaptation (Adaptive Thermogenesis)]] as the body conserves energy. RED-S intersects with [[I1. Training and Hormonal Responses]] and [[I2. Female-Specific Physiological Considerations]], requiring specialized approaches for [[G. Special Populations]]. Management often involves [[D. Weight Management]] strategies and distinguishing from [[M2. Overtraining and Functional Overreaching]].
+
+## Update Log
+- 2025-01-16: Restructured for accessibility, added practical applications section, expanded research evidence with DOI links, clarified energy availability calculations

@@ -1,0 +1,102 @@
+### A7. Muscle Physiology Fundamentals
+**ID:** A7-MUSCLE-PHYSIOLOGY
+**Created:** 2025-04-23 (Updated: 2025-01-13)
+
+## Quick Takeaway
+Skeletal muscle contracts through actin-myosin cross-bridge cycling powered by ATP, with different fiber types determining performance characteristics and training adaptations.
+
+## Key Points
+- Muscle contraction follows the sliding filament theory: calcium triggers actin-myosin binding, ATP powers the power stroke
+- Eccentric contractions produce the highest force and cause the most muscle damage, making them crucial for strength and hypertrophy
+- Type I fibers excel at endurance, Type II fibers generate high force/power but fatigue quickly
+- Fiber type ratios are largely genetic but training can shift some Type IIx to Type IIa
+- Understanding contraction types (concentric, eccentric, isometric) guides exercise selection and programming
+
+## Deep Dive
+
+### Muscle Architecture and Structure
+Skeletal muscle has a hierarchical organization that enables force production and transmission. At the cellular level, muscle fibers contain myofibrils, which house the contractile units called sarcomeres. Each sarcomere contains the contractile proteins actin (thin filaments) and myosin (thick filaments) arranged in a precise pattern.
+
+The connective tissue system plays a crucial role in force transmission: the endomysium surrounds individual fibers, perimysium bundles fibers into fascicles, and epimysium encases the entire muscle. This architecture determines a muscle's force-generating capacity and mechanical properties.
+
+### The Sliding Filament Theory
+Muscle contraction occurs through a precisely orchestrated molecular process:
+
+1. **Neural Activation:** Motor neurons release acetylcholine (ACh) at the neuromuscular junction
+2. **Excitation:** The signal spreads across the sarcolemma and down T-tubules
+3. **Calcium Release:** Sarcoplasmic reticulum releases stored calcium ions
+4. **Cross-Bridge Formation:** Calcium binds to troponin, shifting tropomyosin to expose binding sites on actin
+5. **Power Stroke:** Myosin heads bind to actin and pull the filaments past each other using ATP energy
+6. **Detachment and Reset:** ATP binding causes myosin to release from actin and recock for the next cycle
+7. **Relaxation:** Calcium is pumped back into the sarcoplasmic reticulum when stimulation ceases
+
+This process was first described by Huxley and Niedergerke and remains the fundamental model of muscle contraction.
+
+### Types of Muscle Contractions
+Understanding contraction types is essential for exercise programming:
+
+**Concentric Contractions:** Muscle shortens while producing force (e.g., the lifting phase of a bicep curl). These contractions are metabolically demanding and primarily drive the pump sensation during exercise.
+
+**Eccentric Contractions:** Muscle lengthens while under tension (e.g., lowering a weight). These contractions can produce 20-50% more force than concentric actions and cause greater muscle damage, making them particularly effective for strength and hypertrophy adaptations through enhanced [[B20. Eccentric Training]].
+
+**Isometric Contractions:** Muscle produces force without changing length (e.g., holding a plank position). These contractions are joint-angle specific and useful for addressing strength deficits at specific positions, as utilized in [[B19. Isometrics]].
+
+### Muscle Fiber Type Classification
+Muscle fibers are classified based on their myosin heavy chain (MHC) isoforms, which determine contractile and metabolic properties:
+
+**Type I (Slow-Twitch Oxidative):**
+- High oxidative enzyme activity and capillary density
+- Fatigue-resistant with sustained force production
+- Lower peak force and power output
+- Recruited first during low-intensity activities
+- Optimal for endurance performance
+
+**Type IIa (Fast-Twitch Oxidative-Glycolytic):**
+- Moderate oxidative and glycolytic capacity
+- Intermediate force, power, and fatigue characteristics
+- Most adaptable fiber type
+- Important for activities requiring sustained moderate-to-high intensity
+
+**Type IIx (Fast-Twitch Glycolytic):**
+- High glycolytic enzyme activity
+- Highest force and power potential
+- Rapid fatigue onset
+- Recruited during high-intensity, short-duration efforts
+- Primary target for maximal strength training
+
+Fiber type distribution is largely determined by genetics (45-80% heritable), but training can induce shifts from Type IIx to Type IIa fibers, improving the oxidative capacity of fast-twitch muscle.
+
+## Research Evidence
+
+**Huxley AF, Niedergerke R. (1954).** Structural changes in muscle during contraction; interference microscopy of living muscle fibres. *Nature*, 173(4412), 971-973. DOI: https://doi.org/10.1038/173971a0
+- Key finding: First demonstration of the sliding filament mechanism during muscle contraction
+- Study type: Experimental/Observational
+- Evidence quality: High (foundational discovery)
+
+**Lieber RL, Fridén J. (2000).** Functional and clinical significance of skeletal muscle architecture. *Muscle & Nerve*, 23(11), 1647-1666. DOI: https://doi.org/10.1002/1097-4598(200011)23:11<1647::AID-MUS1>3.0.CO;2-M
+- Key finding: Muscle architecture (fiber length, pennation angle, cross-sectional area) determines force production capacity
+- Study type: Review
+- Evidence quality: High (comprehensive analysis)
+
+**Schiaffino S, Reggiani C. (2011).** Fiber types in mammalian skeletal muscles. *Physiological Reviews*, 91(4), 1447-1531. DOI: https://doi.org/10.1152/physrev.00031.2010
+- Key finding: Detailed classification of fiber types based on myosin heavy chain isoforms and metabolic properties
+- Study type: Systematic review
+- Evidence quality: High (authoritative reference)
+
+## Practical Applications
+- **Exercise Selection:** Choose eccentric-emphasized exercises for maximum hypertrophy stimulus
+- **Load Prescription:** Higher loads (>85% 1RM) recruit Type II fibers for strength development
+- **Tempo Manipulation:** Slow eccentric phases (3-5 seconds) maximize mechanical tension
+- **Volume Distribution:** Type I fiber dominance may require higher training volumes
+- **Recovery Planning:** Eccentric-heavy sessions require longer recovery periods (48-72 hours)
+
+## Common Mistakes
+⚠️ **Ignoring eccentric phases:** Rushing through the lowering portion of lifts misses the most potent stimulus for adaptation
+⚠️ **Assuming fiber type:** Individual fiber type distribution varies widely; adjust training based on response patterns
+⚠️ **Overemphasizing isometrics:** Joint-angle specificity limits transfer to dynamic movements
+
+## Related Concepts
+Muscle physiology directly informs training methodology through [[B3. Hypertrophy Training Principles]] and [[B4. Strength Training Principles]]. The specific adaptations principle [[A20. Principle of Specificity (SAID)]] explains how different training stimuli preferentially target specific fiber types. Understanding muscle structure connects to broader [[G-VII-1. Musculoskeletal Anatomy Overview]] and motor control via [[G-VII-3. Neurophysiology of Movement]] motor unit recruitment patterns. Specialized applications include targeted [[B19. Isometrics]] and advanced [[B20. Eccentric Training]] methodologies.
+
+## Update Log
+- 2025-01-13: Restructured for accessibility, added practical applications and common mistakes sections, enhanced research citations with DOI links

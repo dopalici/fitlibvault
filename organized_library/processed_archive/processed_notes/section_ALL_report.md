@@ -1,0 +1,326 @@
+# Section ALL Processing Report
+Generated: 2025-06-03 19:47:42
+
+## Summary
+- **Files Processed:** 292
+- **Files Failed:** 0  
+- **Files Skipped:** 24
+- **Success Rate:** 100.0% (of attempted)
+
+## Detailed Results
+- ⏭️ **.md**: skipped - Too short (0 words)
+- ✅ **A. Foundational Concepts.md**: success
+- ✅ **A1. Energy Balance.md**: success
+- ✅ **A10. Hormonal Responses to Exercise.md**: success
+- ✅ **A11. Biomechanics Levers in the Human Body.md**: success
+- ✅ **A12. Biomechanics Force Vectors.md**: success
+- ✅ **A13. Biomechanics Torque and Movement.md**: success
+- ✅ **A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM).md**: success
+- ✅ **A15. Biomechanics Posture Analysis.md**: success
+- ✅ **A16. Biomechanics Gait Analysis.md**: success
+- ✅ **A17. Movement Screening.md**: success
+- ✅ **A18. Proper Lifting Mechanics.md**: success
+- ✅ **A19. Principle of Overload.md**: success
+- ✅ **A2. Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE).md**: success
+- ✅ **A20. Principle of Specificity (SAID).md**: success
+- ✅ **A21. Principle of Progression.md**: success
+- ✅ **A22. Principle of Reversibility (Detraining).md**: success
+- ✅ **A23. Principle of Individuality.md**: success
+- ✅ **A24. Principle of Diminishing Returns.md**: success
+- ✅ **A25. Principle of Periodization.md**: success
+- ✅ **A26. Principle of Recovery.md**: success
+- ✅ **A27. Thermoregulation During Exercise.md**: success
+- ✅ **A28. Advanced Movement Assessment Methodologies.md**: success
+- ✅ **A29. Tissue Adaptation to Exercise (Molecular & Cellular).md**: success
+- ✅ **A3. Macronutrients.md**: success
+- ✅ **A4. Micronutrients.md**: success
+- ✅ **A5. FITT Principle.md**: success
+- ✅ **A6. Energy Systems (Detailed).md**: success
+- ✅ **A7. Muscle Physiology Fundamentals.md**: success
+- ✅ **A8. Cardiovascular Physiology Fundamentals.md**: success
+- ✅ **A9. Respiratory Physiology Fundamentals.md**: success
+- ⏭️ **Appendix References and Meta-information.md**: skipped - Too short (20 words)
+- ⏭️ **B. Resistance Training.md**: skipped - Too short (80 words)
+- ✅ **B1. Progressive Overload.md**: success
+- ✅ **B10. Machine Training.md**: success
+- ✅ **B11. Resistance Bands.md**: success
+- ✅ **B12. Suspension Training (TRX).md**: success
+- ✅ **B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance).md**: success
+- ✅ **B14. Powerlifting.md**: success
+- ⏭️ **B15 Olympic Weightlifting.md**: skipped - Too short (0 words)
+- ✅ **B15. Olympic Weightlifting.md**: success
+- ✅ **B16. Bodybuilding.md**: success
+- ✅ **B17. Strongman Training.md**: success
+- ✅ **B18. Circuit Training.md**: success
+- ✅ **B19. Isometrics.md**: success
+- ✅ **B2. Protein Requirements for Muscle Growth.md**: success
+- ✅ **B20. Eccentric Training.md**: success
+- ✅ **B3. Hypertrophy Training Principles.md**: success
+- ✅ **B4. Strength Training Principles.md**: success
+- ✅ **B5. Training Volume and Frequency.md**: success
+- ✅ **B6. Rest and Recovery for Optimal Adaptation (Resistance Training Focus).md**: success
+- ✅ **B7. Bodyweight Training.md**: success
+- ✅ **B8. Free Weights (Barbells, Dumbbells).md**: success
+- ✅ **B9. Kettlebell Training.md**: success
+- ✅ **C. Nutrition & Diet.md**: success
+- ✅ **C1. Caloric Targets for Different Goals.md**: success
+- ✅ **C10. Mediterranean Diet.md**: success
+- ✅ **C11. Vegetarian & Vegan Diets.md**: success
+- ✅ **C12. Paleo Diet (Paleolithic Diet).md**: success
+- ✅ **C13. Ketogenic Diet.md**: success
+- ✅ **C14. Intermittent Fasting (IF).md**: success
+- ✅ **C15. Low-Carb Diets (General).md**: success
+- ✅ **C16. High-Protein Diets.md**: success
+- ✅ **C17. Carb Cycling.md**: success
+- ✅ **C18. Flexible Dieting (IIFYM - If It Fits Your Macros).md**: success
+- ✅ **C19. Intuitive Eating.md**: success
+- ✅ **C2. Macronutrient Distribution.md**: success
+- ✅ **C20. Supplements (Overview & Framework).md**: success
+- ✅ **C21. Evidence-Based Supplements (Group A).md**: success
+- ✅ **C22. Supplements with LimitedMixed Evidence (Group B).md**: success
+- ✅ **C23. Supplement Safety, Regulation, and Quality Control.md**: success
+- ✅ **C24. Ergogenic Aids.md**: success
+- ✅ **C25. Nutrition for Muscle Gain (Hypertrophy).md**: success
+- ✅ **C26. Nutrition for Fat Loss.md**: success
+- ✅ **C27. Nutrition for Endurance Performance (Carb Loading).md**: success
+- ✅ **C28. Nutrition for Strength Power Athletes.md**: success
+- ✅ **C29. Nutrition for Recovery.md**: success
+- ✅ **C3. Nutrient Timing.md**: success
+- ✅ **C30. Food Quality & Health (Whole vs Processed).md**: success
+- ✅ **C31. Reading Nutrition Labels.md**: success
+- ✅ **C32. Gut Health and Microbiome.md**: success
+- ✅ **C33. Anti-Inflammatory FoodsDiets.md**: success
+- ✅ **C34. Antioxidants.md**: success
+- ✅ **C35. Specialized Nutrition for Performance Demands.md**: success
+- ✅ **C4. Hydration.md**: success
+- ✅ **C5. Electrolytes.md**: success
+- ✅ **C5. Pre, During, and Post-Exercise Nutrition.md**: success
+- ✅ **C6. Micronutrients (Detailed Roles & Considerations).md**: success
+- ✅ **C7. Energy Balance & Nutritional Aspects of Weight Management.md**: success
+- ✅ **C8. Metabolic Adaptation (Adaptive Thermogenesis).md**: success
+- ✅ **C9. Dietary Strategies & Approaches (Overview).md**: success
+- ⏭️ **D. Weight Management.md**: skipped - Too short (21 words)
+- ✅ **D1. Evidence-Based Weight Loss Principles.md**: success
+- ✅ **D2. Diet Adherence and Behavior Change.md**: success
+- ✅ **D3. Weight Maintenance After Loss.md**: success
+- ⏭️ **E. Cardiovascular  Endurance Training.md**: skipped - Too short (72 words)
+- ✅ **E1. Aerobic vs. Anaerobic Training.md**: success
+- ✅ **E10. Cross-Training for Endurance Athletes.md**: success
+- ✅ **E11. VO2 Max Training.md**: success
+- ✅ **E12. Lactate Threshold Training.md**: success
+- ✅ **E13. Heart Rate Zone Training.md**: success
+- ✅ **E14. Concurrent Training Updated Protocols & Considerations.md**: success
+- ✅ **E2. Steady-State Cardio (LISS - Low-Intensity Steady State).md**: success
+- ✅ **E3. High-Intensity Interval Training (HIIT).md**: success
+- ⏭️ **E4. Concurrent Training (Interference Effect).md**: skipped - Too short (0 words)
+- ✅ **E4. Interval Training (General).md**: success
+- ✅ **E5. Fartlek Training.md**: success
+- ✅ **E6. Running (Technique, Programming).md**: success
+- ✅ **E7. Cycling (Technique, Programming).md**: success
+- ✅ **E8. Swimming (Technique, Programming).md**: success
+- ✅ **E9. Rowing (Ergometer).md**: success
+- ✅ **EXL-01 Barbell Back Squat (High Bar & Low Bar).md**: success
+- ✅ **EXL-02 Barbell Bench Press (Flat).md**: success
+- ✅ **EXL-03 Barbell Conventional Deadlift.md**: success
+- ✅ **EXL-04 Barbell Sumo Deadlift.md**: success
+- ✅ **EXL-05 Barbell Overhead Press (Standing).md**: success
+- ✅ **EXL-06 Barbell Bent-Over Row (Pronated Grip).md**: success
+- ✅ **EXL-07 Barbell Hip Thrust.md**: success
+- ✅ **EXL-08 Barbell Front Squat.md**: success
+- ✅ **EXL-09 Barbell Romanian Deadlift (RDL).md**: success
+- ✅ **EXL-10 Barbell Good Morning.md**: success
+- ✅ **EXL-100 Assault Bike  Air Bike.md**: success
+- ✅ **EXL-11 Barbell Incline Bench Press.md**: success
+- ✅ **EXL-12 Barbell Floor Press.md**: success
+- ✅ **EXL-13 Barbell Skullcrusher (Lying Triceps Extension).md**: success
+- ✅ **EXL-14 Barbell Bicep Curl.md**: success
+- ✅ **EXL-15 Barbell Lunge.md**: success
+- ✅ **EXL-16 Barbell Shrug.md**: success
+- ✅ **EXL-17 Pendlay Row.md**: success
+- ✅ **EXL-18 Yates Row (Underhand Barbell Row).md**: success
+- ✅ **EXL-19 Zercher Squat.md**: success
+- ✅ **EXL-20 Barbell Calf Raise.md**: success
+- ✅ **EXL-21 Dumbbell Bench Press (Flat).md**: success
+- ✅ **EXL-22 Dumbbell Incline Bench Press.md**: success
+- ✅ **EXL-23 Dumbbell Shoulder Press (Seated).md**: success
+- ✅ **EXL-24 Dumbbell Lateral Raise.md**: success
+- ✅ **EXL-25 Dumbbell Front Raise.md**: success
+- ✅ **EXL-26 Dumbbell Bent-Over Rear Delt Raise.md**: success
+- ✅ **EXL-27 Dumbbell Row (Single Arm).md**: success
+- ✅ **EXL-28 Dumbbell Bench Supported Row (Chest Supported).md**: success
+- ✅ **EXL-29 Dumbbell Pullover.md**: success
+- ✅ **EXL-30 Dumbbell Bicep Curl (Standing, Alternating).md**: success
+- ✅ **EXL-31 Dumbbell Hammer Curl.md**: success
+- ✅ **EXL-32 Dumbbell Concentration Curl.md**: success
+- ✅ **EXL-33 Dumbbell Incline Curl.md**: success
+- ✅ **EXL-34 Dumbbell Triceps Kickback.md**: success
+- ✅ **EXL-35 Dumbbell Overhead Triceps Extension (Single & Double Arm).md**: success
+- ✅ **EXL-36 Dumbbell Lunge (StaticAlternatingWalking).md**: success
+- ✅ **EXL-37 Dumbbell Romanian Deadlift (RDL).md**: success
+- ✅ **EXL-38 Dumbbell Split Squat.md**: success
+- ✅ **EXL-39 Dumbbell Goblet Squat.md**: success
+- ✅ **EXL-40 Dumbbell Step-Up.md**: success
+- ✅ **EXL-41 Dumbbell Shrug.md**: success
+- ✅ **EXL-42 Dumbbell Calf Raise (Standing).md**: success
+- ✅ **EXL-43 Renegade Row.md**: success
+- ✅ **EXL-44 Dumbbell Floor Press.md**: success
+- ✅ **EXL-45 Arnold Press.md**: success
+- ✅ **EXL-46 Leg Press (Machine).md**: success
+- ✅ **EXL-47 Leg Extension (Machine).md**: success
+- ✅ **EXL-48 Seated Leg Curl (Machine).md**: success
+- ✅ **EXL-49 Lying Leg Curl (Machine).md**: success
+- ✅ **EXL-50 Hack Squat (Machine).md**: success
+- ✅ **EXL-51 Chest Press (Machine - Seated).md**: success
+- ✅ **EXL-52 Shoulder Press (Machine - Seated).md**: success
+- ✅ **EXL-53 Lateral Raise (Machine).md**: success
+- ✅ **EXL-54 Pec Deck Fly (Machine).md**: success
+- ✅ **EXL-55 Rear Delt Fly  Reverse Pec Deck (Machine).md**: success
+- ✅ **EXL-56 Lat Pulldown (Machine - Wide Grip).md**: success
+- ✅ **EXL-57 Seated Row (Machine - Close GripNeutral).md**: success
+- ✅ **EXL-58 Chest Supported Row (Machine).md**: success
+- ✅ **EXL-59 Triceps Extension (Machine - Overhead or Pushdown type).md**: success
+- ✅ **EXL-60 Bicep Curl (Machine - Preacher or Seated).md**: success
+- ✅ **EXL-61 Calf Raise (Machine - Standing).md**: success
+- ✅ **EXL-62 Calf Raise (Machine - Seated).md**: success
+- ✅ **EXL-63 Hip Abduction (Machine).md**: success
+- ✅ **EXL-64 Hip Adduction (Machine).md**: success
+- ✅ **EXL-65 Assisted Pull-upDip Machine.md**: success
+- ✅ **EXL-66 Cable Crossover  Fly.md**: success
+- ✅ **EXL-67 Cable Triceps Pushdown (RopeBar).md**: success
+- ✅ **EXL-68 Cable Overhead Triceps Extension (RopeBar).md**: success
+- ✅ **EXL-69 Cable Bicep Curl (BarHandles).md**: success
+- ✅ **EXL-70 Cable Hammer Curl (Rope).md**: success
+- ✅ **EXL-71 Cable Lateral Raise.md**: success
+- ✅ **EXL-72 Cable Front Raise.md**: success
+- ✅ **EXL-73 Cable Face Pull.md**: success
+- ✅ **EXL-74 Cable Seated Row (Various grips).md**: success
+- ✅ **EXL-75 Cable Lat Pulldown (Various grips).md**: success
+- ✅ **EXL-76 Cable Woodchop (High-to-Low  Low-to-High).md**: success
+- ✅ **EXL-77 Cable Pallof Press (Anti-Rotation).md**: success
+- ✅ **EXL-78 Cable Glute Kickback.md**: success
+- ✅ **EXL-79 Cable Pull-Through.md**: success
+- ✅ **EXL-80 Cable Upright Row.md**: success
+- ✅ **EXL-81 Pull-up  Chin-up (Bodyweight).md**: success
+- ✅ **EXL-82 Dip (Parallel Bar).md**: success
+- ✅ **EXL-83 Push-up (Standard & Variations).md**: success
+- ✅ **EXL-84 Plank (Standard & Variations).md**: success
+- ✅ **EXL-85 Side Plank (Standard & Variations).md**: success
+- ✅ **EXL-86 Back Extension  Hyperextension (Bench).md**: success
+- ✅ **EXL-87 Glute-Ham Raise (GHR).md**: success
+- ✅ **EXL-88 Hanging Leg Raise  Knee Raise (Captain's Chair or Pull-up Bar).md**: success
+- ✅ **EXL-89 Abdominal Crunch  Sit-up (Floor or Bench).md**: success
+- ✅ **EXL-90 Russian Twist (Bodyweight or Weighted).md**: success
+- ✅ **EXL-91 Treadmill (WalkingRunning).md**: success
+- ✅ **EXL-92 Elliptical Trainer.md**: success
+- ✅ **EXL-93 Stationary Bike (Upright).md**: success
+- ✅ **EXL-94 Stationary Bike (Recumbent).md**: success
+- ✅ **EXL-95 Spin Bike.md**: success
+- ✅ **EXL-96 Rowing Ergometer (Rower).md**: success
+- ✅ **EXL-97 Stair Climber  Stepmill.md**: success
+- ✅ **EXL-98 Arc Trainer.md**: success
+- ✅ **EXL-99 Ski Ergometer.md**: success
+- ✅ **EXL. Exercise Library.md**: success
+- ⏭️ **F. Optimal Performance Factors.md**: skipped - Too short (19 words)
+- ✅ **F1. Sleep Quality and Quantity.md**: success
+- ✅ **F2. Performance Optimization Factors.md**: success
+- ✅ **F3. Injury Prevention and Management.md**: success
+- ✅ **F4. Behavioral Psychology in Fitness.md**: success
+- ✅ **G-VII-1. Musculoskeletal Anatomy Overview.md**: success
+- ✅ **G-VII-2. Kinesiology Movement Analysis.md**: success
+- ✅ **G-VII-3. Neurophysiology of Movement.md**: success
+- ⏭️ **G-VII. Anatomy, Physiology & Biomechanics (More Applied).md**: skipped - Too short (12 words)
+- ⏭️ **G. Special Populations.md**: skipped - Too short (20 words)
+- ✅ **G1. Exercise During Pregnancy.md**: success
+- ✅ **G2. Age-Specific Exercise Recommendations.md**: success
+- ✅ **G3. Training with Health Limitations  Chronic Conditions.md**: success
+- ⏭️ **H. Body Composition.md**: skipped - Too short (18 words)
+- ✅ **H1. Body Composition Assessment.md**: success
+- ✅ **H2. Realistic Muscle Gain Rates.md**: success
+- ✅ **H3. Realistic Fat Loss Rates.md**: success
+- ⏭️ **I. Hormones and Fitness.md**: skipped - Too short (16 words)
+- ✅ **I1. Training and Hormonal Responses.md**: success
+- ✅ **I2. Female-Specific Physiological Considerations.md**: success
+- ✅ **I3. Relative Energy Deficiency in Sport (RED-S).md**: success
+- ✅ **IX-1. Common Musculoskeletal Injuries.md**: success
+- ✅ **IX-2. Injury Prevention Strategies.md**: success
+- ✅ **IX-3. Basic Injury Management (Acute Phase).md**: success
+- ✅ **IX-4. Exercise with Chronic Conditions.md**: success
+- ✅ **IX-5. Introduction to Rehabilitation Principles.md**: success
+- ⏭️ **IX-6 Exercise Contraindications.md**: skipped - Too short (0 words)
+- ✅ **IX-6. Exercise Contraindications.md**: success
+- ✅ **IX-7. Pain Science in Exercise & Rehabilitation.md**: success
+- ⏭️ **IX. Health Conditions, Injuries & Rehabilitation.md**: skipped - Too short (34 words)
+- ⏭️ **J. Technology in Fitness.md**: skipped - Too short (16 words)
+- ✅ **J1. Wearable Technology and Fitness Tracking.md**: success
+- ✅ **J2. Evaluating Scientific Research in Fitness.md**: success
+- ✅ **J3. Misinformation in Fitness.md**: success
+- ⏭️ **K. Elite Performance.md**: skipped - Too short (26 words)
+- ✅ **K1. Genetic Factors in Athletic Performance.md**: success
+- ✅ **K2. Advanced Periodization Strategies.md**: success
+- ✅ **K3. Psychological Aspects of Elite Performance.md**: success
+- ✅ **K4. Advanced Periodization Models Explored.md**: success
+- ✅ **K5. Advanced Mental Performance Techniques.md**: success
+- ⏭️ **L. Cross-Training and Functional Fitness.md**: skipped - Too short (20 words)
+- ✅ **L1. Movement Patterns and Functional Training.md**: success
+- ✅ **L2. Mobility and Flexibility Development.md**: success
+- ✅ **L3. Balance and Coordination Training.md**: success
+- ✅ **L4. Core Stability Training.md**: success
+- ⏭️ **M. Recovery Strategies.md**: skipped - Too short (28 words)
+- ✅ **M1. Recovery Modalities Evidence and Application.md**: success
+- ✅ **M2. Overtraining and Functional Overreaching.md**: success
+- ✅ **M3. Stress Management and Performance.md**: success
+- ⏭️ **N. Long-Term Development.md**: skipped - Too short (17 words)
+- ✅ **N1. Fitness Across the Lifespan.md**: success
+- ✅ **N2. Training for Longevity (Healthspan & Lifespan).md**: success
+- ✅ **N3. Building Sustainable Fitness Habits.md**: success
+- ⏭️ **O. Integrated Approaches.md**: skipped - Too short (13 words)
+- ✅ **O1. Integrated Programming Considerations.md**: success
+- ✅ **O2. Measuring Fitness Progress.md**: success
+- ✅ **O3. Integrating Nutrition and Training.md**: success
+- ⏭️ **P. Ethical Considerations.md**: skipped - Too short (23 words)
+- ✅ **P1. Ethical Training and Coaching.md**: success
+- ✅ **P2. Performance Enhancement Ethics.md**: success
+- ✅ **P3. Body Image and Fitness Culture.md**: success
+- ✅ **P4. Evidence-Based Coaching Methodologies.md**: success
+- ⏭️ **Q. Key Topic Overviews.md**: skipped - Too short (44 words)
+- ✅ **Q1. Exercise Progression Principles.md**: success
+- ✅ **Q2. Core Nutrition Principles Overview.md**: success
+- ✅ **Q3. Core Recovery Principles Overview.md**: success
+- ✅ **Q4. Interpreting Biometric & Progress Data.md**: success
+- ✅ **Q5. Exercise Considerations for Health Conditions Overview.md**: success
+- ✅ **Q6. Training Methodologies Overview.md**: success
+- ✅ **Q7. Integrative Health & Lifestyle Medicine Approaches.md**: success
+- ✅ **Q8. Advanced Data Analysis for Self-Quantification.md**: success
+- ✅ **VIII-1. Home Gym Setup.md**: success
+- ✅ **VIII-2. Commercial Gym Equipment.md**: success
+- ✅ **VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs).md**: success
+- ✅ **VIII-4. Fitness Apps.md**: success
+- ✅ **VIII-5. Apparel & Footwear.md**: success
+- ⏭️ **VIII. Fitness Equipment & Technology.md**: skipped - Too short (55 words)
+- ⏭️ **X. Sports-Specific Training.md**: skipped - Too short (59 words)
+- ✅ **X1. Running (Track, Road, Trail).md**: success
+- ✅ **X1.1. Strength Training for Runners.md**: success
+- ✅ **X10. CrossFit.md**: success
+- ✅ **X11. Sprinting.md**: success
+- ✅ **X11.1 Sprint Start & Acceleration Technique.md**: success
+- ✅ **X11.2 Maximum Velocity Mechanics.md**: success
+- ✅ **X11.3 Speed Endurance Development.md**: success
+- ✅ **X11.4 Strength Training Programming for Sprinters.md**: success
+- ✅ **X11.5 Plyometric Training for Sprinters.md**: success
+- ✅ **X11.6 Resisted & Assisted Sprint Training Methods.md**: success
+- ✅ **X11.7 Sprinting Biomechanics & Force Analysis.md**: success
+- ✅ **X11.8 Hamstring Injury Prevention in Sprinters.md**: success
+- ✅ **X12. Vertical Jump Training.md**: success
+- ✅ **X2. Cycling (Road, Mountain, Track).md**: success
+- ✅ **X3. Swimming.md**: success
+- ✅ **X3.1. Dry-Land Training for Swimmers.md**: success
+- ✅ **X4. Team Sports - General Considerations.md**: success
+- ✅ **X5. Racquet Sports (Tennis, Squash, Badminton).md**: success
+- ✅ **X6. Combat Sports (Boxing, MMA, Wrestling, Judo).md**: success
+- ✅ **X7. Golf.md**: success
+- ✅ **X8. Climbing (Rock Climbing, Bouldering).md**: success
+- ✅ **X9. Gymnastics  Calisthenics.md**: success
+- ✅ **Z1. Understanding this Zettelkasten.md**: success
+- ✅ **Z2. Practical Implementation Guide.md**: success
+- ✅ **Z3. Cultural & Historical Perspectives on Fitness.md**: success
+- ✅ **fitlib.md**: success

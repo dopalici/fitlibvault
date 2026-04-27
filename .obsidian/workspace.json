@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "9978a934644665fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "219810dbf87c1253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc03d789346089b6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a94369f6f4a874c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c836dba4fe28dd23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b54b885d4df1d00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64c76c9bc3c85d76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "f",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18b45887090e1c45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.5
+  },
+  "right": {
+    "id": "7e4eb4b9a1e11b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0efc6c344ce413bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93e6e2ac5bf967d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance)"
+            }
+          },
+          {
+            "id": "fc313d283443325f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ftilib.docx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ftilib.docx"
+            }
+          },
+          {
+            "id": "2a8ac37782385b41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b9f55e6380413011",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8d4201fac4e008fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dc03d789346089b6",
+  "lastOpenFiles": [
+    "B46. Unilateral Training Progressions.md",
+    "C60. Gastrointestinal Training Protocols.md",
+    "A47. Training Periodization and Planning.md",
+    "X15. Extreme Heat Training.md",
+    "organized_library/hormones_fitness/I1. Training and Hormonal Responses.md",
+    "organized_library/hormones_fitness/I2. Female-Specific Physiological Considerations.md",
+    "organized_library/hormones_fitness/I3. Relative Energy Deficiency in Sport (RED-S).md",
+    "organized_library/hormones_fitness/I. Hormones and Fitness.md",
+    "organized_library/recovery/M5. Passive Recovery Methods.md",
+    "organized_library/sports_specific/X1.1. Strength Training for Runners.md",
+    "L1. Movement Patterns and Functional Training.md",
+    "B9. Kettlebell Training.md",
+    "EXL-77 Cable Pallof Press (Anti-Rotation).md",
+    "M3. Stress Management and Performance.md",
+    "A9. Respiratory Physiology Fundamentals.md",
+    "A1. Energy Balance.md",
+    "A3. Macronutrients.md",
+    "maani.md",
+    "organized_library/original_backup/C25. Nutrition for Muscle Gain (Hypertrophy)_20250605_180303_backup.md",
+    "C34. Antioxidants.md",
+    "C13. Ketogenic Diet.md",
+    "EXL-25 Dumbbell Front Raise.md",
+    "EXL-72 Cable Front Raise.md",
+    "EXL-93 Stationary Bike (Upright).md",
+    "C52. Genetic-Based Nutrition.md",
+    "organized_library/technology/J10. Telehealth and Remote Coaching.md",
+    "organized_library/automation_tools/test_suite.py",
+    "organized_library/automation_tools/monitoring.py",
+    "organized_library/frontend/node_modules/eslint-config-react-app/index.js",
+    "organized_library/frontend/package-lock.json",
+    "organized_library/frontend/node_modules/typescript/ThirdPartyNoticeText.txt",
+    "organized_library/frontend/node_modules/typescript/LICENSE.txt",
+    "organized_library/frontend/node_modules/typescript/package.json",
+    "organized_library/frontend/node_modules/core-js-pure/package.json",
+    "organized_library/frontend/node_modules/core-js/package.json",
+    "organized_library/frontend/node_modules/core-js-pure/postinstall.js",
+    "organized_library/frontend/node_modules/renderkid/docs/images/usage.png",
+    "organized_library/frontend/node_modules/renderkid/docs/images/display.png",
+    "organized_library/frontend/node_modules/renderkid/docs/images/bullets-1.png",
+    "organized_library/frontend/node_modules/istanbul-reports/lib/html/assets/sort-arrow-sprite.png",
+    "organized_library/frontend/node_modules/istanbul-reports/lib/html-spa/assets/sort-arrow-sprite.png",
+    "organized_library/frontend/node_modules/istanbul-reports/lib/html/assets/favicon.png",
+    "organized_library/frontend/node_modules/psl/browserstack-logo.svg",
+    "organized_library/frontend/node_modules/detect-port-alt/logo.png",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_world.png",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_word.png",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,98 @@
+### E11. VO2 Max Training
+**ID:** E11-VO2MAX-TRAINING
+**Created:** 2025-04-23 (Updated: 2025-01-27)
+
+## Quick Takeaway
+VO2 max training requires high-intensity intervals at 90-100% max effort to improve your body's ceiling for oxygen use, but genetics play a major role in how much you can improve.
+
+## Key Points
+- Train at 90-100% of your max heart rate using 2-5 minute intervals with equal rest periods
+- Limit VO2 max sessions to 1-2 per week due to high recovery demands
+- Build an aerobic base first - this isn't beginner training
+- Expect 5-15% improvements over 8-12 weeks in most people
+- Combine with threshold and easy training for best endurance performance
+
+## Deep Dive
+
+### What is VO2 Max?
+VO2 max represents the maximum rate at which an individual can take in, transport, and utilize oxygen during intense exercise. It's measured in milliliters of oxygen consumed per kilogram of body weight per minute (ml/kg/min) and serves as the ceiling of your aerobic capacity.
+
+### Physiological Determinants
+VO2 max depends on both central and peripheral factors working together ([[A8. Cardiovascular Physiology Fundamentals]], [[A9. Respiratory Physiology Fundamentals]]):
+
+**Central Factors:**
+- Maximum cardiac output (heart rate × stroke volume)
+- Oxygen carrying capacity of blood (hemoglobin levels)
+- Lung function and oxygen uptake
+
+**Peripheral Factors:**
+- Muscle blood flow distribution
+- Capillary density in working muscles  
+- Mitochondrial density and enzyme activity
+- Oxygen extraction efficiency (a-vO2 difference)
+
+### Training Stimulus Requirements
+VO2 max improvements require exercising at intensities that maximally stress the oxygen transport and utilization systems. This means working at >90% of maximum heart rate or velocity at VO2 max (vVO2max) to create sufficient physiological stress for adaptation.
+
+### Effective Training Methods
+
+**High-Intensity Interval Training (HIIT - [[E3. High-Intensity Interval Training (HIIT)]])**
+Most potent stimulus for VO2 max improvement. Intervals typically last 2-5 minutes at 90-100% VO2 max intensity with work-to-rest ratios around 1:1. This allows sustained time at or near VO2 max while managing fatigue.
+
+**Supramaximal Interval Training (SIT)**
+Very short, all-out efforts (15-30 seconds) can also improve VO2 max, though the mechanism differs from traditional HIIT approaches.
+
+**Tempo/Threshold Training ([[E12. Lactate Threshold Training]])**
+While not directly targeting VO2 max, threshold training contributes by improving the sustainable percentage of VO2 max you can maintain during longer efforts.
+
+## Research Evidence
+
+**Midgley AW, et al. (2007).** Training intensity for improving VO2max: a systematic review. *Sports Medicine*, 37(2), 117-132.
+- Systematic review confirming that training intensities >90% VO2 max produce the greatest improvements
+- Moderate evidence quality across multiple studies
+
+**Buchheit M, Laursen PB. (2013).** High-intensity interval training, solutions to the programming puzzle: Part I: cardiopulmonary emphasis. *Sports Medicine*, 43(5), 313-338.
+- Review of HIIT programming for cardiopulmonary adaptations
+- Provides framework for interval prescription and progression
+
+**Helgerud J, et al. (2007).** Aerobic high-intensity intervals improve VO2max more than moderate training. *Medicine and Science in Sports and Exercise*, 39(4), 665-671.
+- Direct comparison showing 4×4 minute intervals at 90-95% HRmax improved VO2 max by 10.8% vs 0% for moderate continuous training
+- Well-controlled study in trained individuals
+
+## Practical Applications
+
+**Sample VO2 Max Session:**
+- Warm-up: 15-20 minutes easy pace
+- Main set: 4×4 minutes at 90-95% max heart rate with 3-minute active recovery
+- Cool-down: 10-15 minutes easy pace
+
+**Weekly Programming:**
+- 1-2 VO2 max sessions per week maximum
+- Schedule 48-72 hours between high-intensity sessions
+- Balance with 80% low-intensity training volume ([[E2. Steady-State Cardio (LISS - Low-Intensity Steady State)]])
+- Periodize into 4-6 week blocks during specific training phases
+
+**Progression Guidelines:**
+- Start with 3×3 minute intervals for beginners to high-intensity work
+- Progress to 5×4 minutes over 4-6 weeks
+- Monitor recovery between sessions - reduce volume if performance drops
+
+## Common Mistakes
+
+⚠️ **Starting too intensively** - Beginning with maximum interval volumes leads to overreaching and poor adaptations
+
+⚠️ **Training VO2 max year-round** - This high-stress training should be periodized into specific blocks, not maintained constantly  
+
+⚠️ **Ignoring the aerobic base** - VO2 max training requires substantial aerobic fitness foundation to be effective and safe
+
+⚠️ **Focusing only on VO2 max** - Endurance performance depends equally on lactate threshold and economy, not just maximal capacity
+
+⚠️ **Inadequate recovery** - Not allowing 48+ hours between sessions limits adaptations and increases injury risk
+
+## Related Concepts
+
+Understanding aerobic vs anaerobic energy systems ([[E1. Aerobic vs. Anaerobic Training]]) provides context for VO2 max training's role. General interval training principles ([[E4. Interval Training (General)]) apply to programming considerations. Combining with lactate threshold work ([[E12. Lactate Threshold Training]]) and aerobic base training ([[E2. Steady-State Cardio (LISS - Low-Intensity Steady State)]]) creates comprehensive endurance development. The underlying cardiovascular ([[A8. Cardiovascular Physiology Fundamentals]]) and respiratory ([[A9. Respiratory Physiology Fundamentals]]) systems determine your physiological ceiling for improvement.
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical protocols and common mistakes section, enhanced research evidence formatting
+[[E4. Interval Training (General)]]

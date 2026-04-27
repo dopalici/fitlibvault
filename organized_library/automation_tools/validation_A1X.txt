@@ -1,0 +1,48 @@
+2025-06-05 02:50:20,182 - INFO - Found 66 files to validate
+2025-06-05 02:50:20,182 - INFO - Validating citations in rewritten_A30. Biomechanics - Stability vs. Mobility.md
+2025-06-05 02:50:25,073 - INFO - Validating citations in rewritten_A31. Force-Velocity Profiling.md
+2025-06-05 02:50:28,464 - INFO - Validating citations in rewritten_A32. Power Profiling and Testing.md
+2025-06-05 02:50:33,024 - INFO - Validating citations in rewritten_A33. Motor Learning and Skill Acquisition.md
+2025-06-05 02:50:36,674 - INFO - Validating citations in rewritten_A34. Neural Adaptations to Training.md
+2025-06-05 02:50:44,513 - INFO - Validating citations in rewritten_A35. Metabolic Adaptations to Training.md
+2025-06-05 02:50:48,086 - INFO - Validating citations in rewritten_A36. Structural Adaptations to Training.md
+2025-06-05 02:50:52,153 - INFO - Validating citations in rewritten_A37. Hormonal Adaptations to Training.md
+2025-06-05 02:50:55,411 - INFO - Validating citations in rewritten_A38. Immune System Adaptations to Training.md
+2025-06-05 02:50:59,890 - INFO - Validating citations in rewritten_A39. Cardiovascular Adaptations to Training.md
+2025-06-05 02:51:04,191 - INFO - Validating citations in rewritten_A4. Micronutrients.md
+2025-06-05 02:51:12,552 - INFO - Validating citations in rewritten_A40. Respiratory Adaptations to Training.md
+2025-06-05 02:51:16,345 - INFO - Validating citations in rewritten_A41. Skeletal Adaptations to Training.md
+2025-06-05 02:51:19,968 - INFO - Validating citations in rewritten_A42. Connective Tissue Adaptations to Training.md
+2025-06-05 02:51:23,030 - INFO - Validating citations in rewritten_A43. Muscular Adaptations to Training.md
+2025-06-05 02:51:28,632 - INFO - Validating citations in rewritten_A44. Neuromuscular Adaptations to Training.md
+2025-06-05 02:51:32,980 - INFO - Validating citations in rewritten_A45. Metabolic Adaptations to Training.md
+2025-06-05 02:51:41,834 - INFO - Validating citations in rewritten_A46. Adaptation Monitoring and Assessment.md
+2025-06-05 02:51:46,876 - INFO - Validating citations in rewritten_A47. Training Periodization and Planning.md
+2025-06-05 02:51:52,522 - INFO - Validating citations in rewritten_A48. Training Load Monitoring.md
+2025-06-05 02:51:56,698 - INFO - Validating citations in rewritten_A49. Recovery Monitoring and Assessment.md
+2025-06-05 02:52:00,787 - INFO - Validating citations in rewritten_A5. FITT Principle.md
+2025-06-05 02:52:04,903 - INFO - Validating citations in rewritten_A50. Performance Testing and Evaluation.md
+2025-06-05 02:52:09,535 - INFO - Validating citations in rewritten_A51. Training Adaptation Assessment.md
+2025-06-05 02:52:14,092 - INFO - Validating citations in rewritten_A52. Training Specificity and Transfer.md
+2025-06-05 02:52:18,257 - INFO - Validating citations in rewritten_A53. Training Load Management.md
+2025-06-05 02:52:24,516 - INFO - Validating citations in rewritten_A54. Training Periodization.md
+2025-06-05 02:52:28,688 - INFO - Validating citations in rewritten_A55. Training Recovery.md
+2025-06-05 02:52:34,211 - INFO - Validating citations in rewritten_A56. Training Specificity.md
+2025-06-05 02:52:38,692 - INFO - Validating citations in rewritten_A57. Training Adaptation.md
+2025-06-05 02:52:42,702 - INFO - Validating citations in rewritten_A58. Training Monitoring.md
+2025-06-05 02:52:47,311 - INFO - Validating citations in rewritten_A59. Myokine Signaling.md
+2025-06-05 02:52:52,124 - INFO - Validating citations in rewritten_A6. Energy Systems (Detailed).md
+2025-06-05 02:53:01,698 - INFO - Validating citations in rewritten_A60. Vascular Adaptations.md
+2025-06-05 02:53:04,611 - INFO - Validating citations in rewritten_A61. Calcium Signaling in Muscle.md
+2025-06-05 02:53:09,307 - INFO - Validating citations in rewritten_A62. Metabolic Flexibility Training.md
+2025-06-05 02:53:13,491 - INFO - Validating citations in rewritten_A63. pH Regulation Mechanisms.md
+2025-06-05 02:53:18,201 - INFO - Validating citations in rewritten_A64. Oxygen Sensing Pathways.md
+2025-06-05 02:53:22,062 - INFO - Validating citations in rewritten_A65. Exercise-Induced Neuroplasticity.md
+2025-06-05 02:53:26,081 - INFO - Validation report saved to citation_validation_report.md
+2025-06-05 02:53:26,086 - INFO - 
+Validation Complete!
+📊 Total Citations: 126
+✅ Valid Citations: 63
+❌ Invalid Citations: 63
+⚠️  Without Links: 0
+

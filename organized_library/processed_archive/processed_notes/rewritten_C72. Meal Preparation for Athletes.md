@@ -1,0 +1,103 @@
+### Meal Preparation for Athletes
+**ID:** C72 **Created:** 2025-06-05 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Strategic meal preparation ensures athletes maintain consistent nutrition protocols by pre-planning portions, timing, and food safety while reducing daily decision fatigue around nutrition choices.
+
+## Key Points
+- Batch cooking systems enable efficient preparation of proteins, carbohydrates, and vegetables that support consistent nutrient delivery
+- Pre-portioned meals eliminate guesswork and ensure alignment with individual caloric and macronutrient targets
+- Proper storage techniques maintain nutrient quality and food safety over multiple days of meal storage
+- Training-specific meal prep schedules align with periodization and support optimal pre-, during, and post-exercise nutrition
+- Flexible systems allow menu rotation while maintaining nutritional consistency and preventing meal fatigue
+
+## Deep Dive
+
+### Batch Cooking Systems
+Efficient meal preparation begins with systematic batch cooking that maximizes time investment while ensuring nutritional consistency. The foundation involves preparing large quantities of core macronutrients that can be combined in various ways throughout the week.
+
+**Protein Preparation:** Cook proteins in bulk using methods that maintain moisture and palatability over several days. Grilling, baking, or slow-cooking lean meats, fish, and plant-based proteins provides versatile bases for multiple meals while supporting [[C2. Macronutrient Distribution]] requirements.
+
+**Carbohydrate Foundation:** Prepare complex carbohydrates like brown rice, quinoa, sweet potatoes, and oats in large batches. These provide sustained energy release and can be portioned according to training demands and [[C3. Nutrient Timing]] protocols.
+
+**Vegetable Preparation:** Wash, chop, and partially cook vegetables to reduce daily preparation time while maintaining nutrient density. Steaming or light sautéing preserves vitamins and minerals while extending storage life.
+
+### Portion Control Strategies
+Pre-portioning eliminates decision-making during busy training periods and ensures consistency with [[C1. Caloric Targets for Different Goals]]. Use standardized containers or digital scales to measure portions according to individual nutritional needs.
+
+**Container Systems:** Utilize portion-control containers or meal prep containers with designated compartments for proteins, carbohydrates, and vegetables. This visual system simplifies adherence to macronutrient ratios without requiring constant calculation.
+
+**Weight-Based Portioning:** For precision-focused athletes, weigh and package individual portions based on specific gram targets for each macronutrient. This approach supports exact adherence to nutritional protocols.
+
+### Storage and Safety Protocols
+Proper storage maintains food quality and prevents spoilage while ensuring safety over multiple days of consumption.
+
+**Temperature Control:** Store prepared meals at consistent refrigeration temperatures (below 40°F/4°C) and consume within 3-4 days of preparation. Freeze portions intended for longer storage, consuming within 2-3 months for optimal quality.
+
+**Container Selection:** Use airtight, BPA-free containers that prevent moisture loss and contamination. Glass containers provide superior storage properties and can transition from refrigerator to microwave safely.
+
+**Labeling Systems:** Date all prepared meals to ensure proper rotation and prevent consumption of expired foods. Include contents and preparation date for easy identification.
+
+### Training-Specific Timing Integration
+Align meal preparation schedules with training periodization to support [[C5. Pre, During, and Post-Exercise Nutrition]] requirements without compromising consistency.
+
+**Pre-Training Meals:** Prepare easily digestible options with appropriate carbohydrate content 2-3 hours before training sessions. Focus on familiar foods that don't cause gastrointestinal distress.
+
+**Post-Training Recovery:** Have protein and carbohydrate combinations readily available for immediate post-exercise consumption to optimize [[C29. Nutrition for Recovery]] protocols.
+
+**Competition Preparation:** Practice meal prep routines that will be used during competition periods to ensure familiarity and reduce stress around nutrition during important events.
+
+### Flexibility and Menu Rotation
+Prevent meal fatigue while maintaining nutritional consistency through strategic variety and adaptation systems.
+
+**Flavor Rotation:** Prepare base ingredients that can be seasoned differently throughout the week using various herbs, spices, and healthy sauces to create menu variety without additional preparation time.
+
+**Seasonal Adaptation:** Adjust meal prep menus based on seasonal ingredient availability and training phase requirements, incorporating fresh produce when available while maintaining core nutritional targets.
+
+## Research Evidence
+
+**Lassen et al. (2019).** The effectiveness of healthy meal planning and preparation interventions: A systematic review. *Appetite*, 143, 104409. DOI: https://doi.org/10.1016/j.appet.2019.104409
+- Key finding: Meal planning interventions significantly improved diet quality and reduced food waste compared to control groups
+- Study type: Systematic review
+- Evidence quality: High (comprehensive review of multiple intervention studies)
+
+**Ducrot et al. (2017).** Meal planning is associated with food variety, diet quality and body weight status in a large sample of French adults. *International Journal of Behavioral Nutrition and Physical Activity*, 14(1), 12. DOI: https://doi.org/10.1186/s12966-017-0461-7
+- Key finding: Individuals who engaged in meal planning had higher diet quality scores and better weight management outcomes
+- Study type: Cross-sectional observational study
+- Evidence quality: Medium (large sample size but observational design)
+
+**Wrieden et al. (2007).** The impact of a community-based food skills intervention on cooking confidence, food preparation methods and dietary choices – an exploratory trial. *Public Health Nutrition*, 10(2), 203-211. DOI: https://doi.org/10.1017/S1368980007246658
+- Key finding: Food preparation skills training improved cooking confidence and increased consumption of fruits and vegetables
+- Study type: Intervention trial
+- Evidence quality: Medium (small sample size but controlled intervention)
+
+## Practical Applications
+
+**Weekly Prep Schedule:**
+- Sunday: 2-3 hours for batch cooking proteins, grains, and chopped vegetables
+- Wednesday: 30-45 minutes for mid-week preparation refresh and assessment
+- Daily: 5-10 minutes for final meal assembly and heating
+
+**Essential Equipment:**
+- Digital food scale for accurate portioning
+- Glass storage containers in various sizes
+- Slow cooker or instant pot for efficient protein preparation
+- Large sheet pans for batch roasting vegetables
+
+**Sample Prep Combinations:**
+- Grilled chicken + brown rice + steamed broccoli (muscle gain focus)
+- Baked salmon + quinoa + roasted sweet potato (endurance performance)
+- Lean beef + white rice + mixed vegetables (strength/power athletes)
+
+## Common Mistakes
+⚠️ Preparing too much food at once, leading to spoilage and waste rather than consistent nutrition
+⚠️ Ignoring food safety protocols, risking foodborne illness that can derail training
+⚠️ Creating overly rigid systems that don't allow for schedule changes or social eating situations
+⚠️ Focusing only on convenience while neglecting [[C30. Food Quality & Health (Whole vs Processed)]] principles
+⚠️ Failing to align prep timing with training schedules, missing optimal nutrition windows
+
+## Related Concepts
+Strategic meal preparation supports [[C1. Caloric Targets for Different Goals]] by ensuring consistent portion control and [[C2. Macronutrient Distribution]] through planned ratios. Effective prep systems enable optimal [[C3. Nutrient Timing]] and support [[C5. Pre, During, and Post-Exercise Nutrition]] protocols. Specialized applications include [[C25. Nutrition for Muscle Gain (Hypertrophy)]], [[C26. Nutrition for Fat Loss]], [[C27. Nutrition for Endurance Performance (Carb Loading)]], [[C28. Nutrition for Strength Power Athletes]], and [[C29. Nutrition for Recovery]] while maintaining [[C30. Food Quality & Health (Whole vs Processed)]] standards.
+
+## Update Log
+- 2025-01-27: Enhanced structure with practical applications, research evidence, and common mistakes sections. Added specific protocols for storage, portioning, and training integration.

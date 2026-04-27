@@ -1,0 +1,78 @@
+### Low-Carbohydrate Diets (LCDs)
+**ID:** C15-LOW-CARB-DIETS
+**Created:** 2025-04-26 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Low-carb diets can be effective for weight loss and blood sugar control, but may impair high-intensity athletic performance due to reduced muscle glycogen stores.
+
+## Key Points
+- Typically limit carbs to under 40-45% of calories or below 130-150g daily
+- Effective for weight loss primarily by creating caloric deficit through increased satiety
+- Can significantly improve blood sugar control in people with diabetes or insulin resistance
+- May impair high-intensity exercise performance but less impact on endurance activities
+- Long-term weight loss similar to other diets when calories and protein are matched
+
+## Deep Dive
+
+### Definition and Characteristics
+Low-carbohydrate diets encompass eating patterns with reduced carbohydrate intake compared to typical dietary guidelines, generally falling below 40-45% of total calories or often below 130-150g per day. This category is broader and less restrictive than very-low-carbohydrate ketogenic diets [[C13. Ketogenic Diet]].
+
+Key characteristics include:
+- Carbohydrate intake reduced, often replaced with higher proportions of protein [[C16. High-Protein Diets]] and/or fat [[A3. Macronutrients]]
+- Emphasis on non-starchy vegetables, protein sources, and healthy fats
+- Limits or excludes high-carbohydrate foods like grains, sugars, starchy vegetables, and many fruits
+- Does not necessarily induce or maintain nutritional ketosis
+
+### Weight Loss Mechanisms
+Low-carb diets facilitate weight loss primarily through creating a caloric deficit [[A1. Energy Balance]] via several mechanisms:
+- Reduced food choices leading to lower calorie intake
+- Increased satiety from higher protein and fat content
+- Potentially reduced appetite
+- Initial rapid weight loss includes water weight from glycogen depletion
+
+Research consistently shows that long-term weight loss effectiveness is comparable to other energy-restricted diets when calories and protein are matched (Naude et al., 2014).
+
+### Metabolic Benefits
+**Glycemic Control:** Low-carb diets can be particularly effective for improving blood sugar management in individuals with type 2 diabetes or insulin resistance by directly reducing glucose load.
+
+**Cardiovascular Risk Factors:** May improve triglyceride levels and HDL cholesterol, though effects on LDL cholesterol are variable and depend on fat quality and quantity consumed.
+
+## Research Evidence
+- **Naude, C.E., et al. (2014).** Low carbohydrate versus isoenergetic balanced diets for reducing weight and cardiovascular risk: a systematic review and meta-analysis. *PLoS One*, 9(7), e100652. (Finds similar weight loss when calories matched)
+
+- **Gardner, C.D., et al. (2018).** Effect of Low-Fat vs Low-Carbohydrate Diet on 12-Month Weight Loss in Overweight Adults and the Association With Genotype Pattern or Insulin Secretion: The DIETFITS Randomized Clinical Trial. *JAMA*, 319(7), 667-679. (Highlights individual variability and adherence)
+
+- **Aragon, A.A., et al. (2017).** International society of sports nutrition position stand: diets and body composition. *Journal of the International Society of Sports Nutrition*, 14, 16. [Available online](https://www.researchgate.net/publication/317708391_International_society_of_sports_nutrition_position_stand_Diets_and_body_composition)
+
+## Practical Applications
+
+### For Weight Loss
+- Start with 100-150g carbs daily and adjust based on results and adherence
+- Focus on non-starchy vegetables, lean proteins, and healthy fats
+- Ensure adequate protein intake [[B2. Protein Requirements for Muscle Growth]] (0.8-1.2g/kg body weight minimum)
+- Monitor total calorie intake [[C1. Caloric Targets for Different Goals]] as this remains the primary driver of weight loss
+
+### For Athletic Performance
+**High-Intensity Sports:** Consider periodized approach - higher carbs around training, lower on rest days
+**Endurance Athletes:** May adapt better to moderate low-carb (100-150g daily) rather than very low carb
+**Strength Athletes:** Ensure adequate calories and protein to maintain performance [[C28. Nutrition for Strength Power Athletes]]
+
+### Fitness & Performance Considerations
+**High-Intensity Performance:** Reducing carbohydrate availability can impair performance in activities heavily reliant on glycolysis due to reduced muscle glycogen stores [[A6. Energy Systems (Detailed)]]. Effects may be less pronounced than with ketogenic diets but still significant for many athletes [[C27. Nutrition for Endurance Performance (Carb Loading)]], [[C28. Nutrition for Strength Power Athletes]].
+
+**Endurance Performance:** Less likely to negatively impact lower-intensity, aerobic activities where fat oxidation plays a larger role.
+
+**Strength & Muscle Gain:** Can support strength maintenance or gains if protein [[B2. Protein Requirements for Muscle Growth]] and total calories [[C1. Caloric Targets for Different Goals]] are adequate, but may not be optimal for maximizing hypertrophy [[C25. Nutrition for Muscle Gain (Hypertrophy)]] due to potential impacts on training intensity.
+
+## Common Mistakes
+⚠️ Eliminating carbs entirely instead of following a moderate low-carb approach
+⚠️ Not eating enough protein or total calories when active
+⚠️ Expecting the same high-intensity performance immediately without adaptation period
+⚠️ Focusing only on carb restriction while ignoring overall calorie balance
+⚠️ Not adjusting carb intake based on training demands and individual response
+
+## Related Concepts
+Related dietary approaches include [[C9. Dietary Strategies & Approaches (Overview)]] and more restrictive [[C13. Ketogenic Diet]]. Understanding macronutrient balance [[A3. Macronutrients]] and setting appropriate caloric targets [[C1. Caloric Targets for Different Goals]] with proper macronutrient distribution [[C2. Macronutrient Distribution]] is essential. For weight loss, follow evidence-based principles [[D1. Evidence-Based Weight Loss Principles]] while ensuring adequate protein [[B2. Protein Requirements for Muscle Growth]]. Consider impact on energy systems [[A6. Energy Systems (Detailed)]] for athletic performance.
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical applications section, clarified performance impacts, preserved all scientific accuracy and citations

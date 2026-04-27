@@ -1,0 +1,101 @@
+### B4. Strength Training Principles
+**ID:** B4-STRENGTH
+**Created:** 2025-04-23 (Updated: 2025-01-16)
+
+## Quick Takeaway
+Strength training prioritizes maximal force production through heavy loads (85%+ 1RM), low reps (1-5), and long rest periods, driving both neural adaptations and structural changes for peak strength gains.
+
+## Key Points
+- Train primarily with loads ≥85% 1RM for 1-5 reps to maximize motor unit recruitment
+- Use 3-5+ minute rest periods between sets to maintain force output and technique quality
+- Focus on compound movements (squats, deadlifts, presses) that allow heavy loading
+- Train specific movement patterns 2-4 times per week for optimal skill and strength development
+- Master technique before progressing to maximal loads to prevent injury and optimize performance
+
+## Deep Dive
+
+### Primary Mechanisms for Strength Development
+
+Strength training increases maximal force-generating capacity through two primary pathways: neural adaptations and structural changes. Neural adaptations dominate early training phases and heavy load training, while structural changes provide the foundation for long-term strength development.
+
+### Neural Adaptations - The Key to Maximal Strength
+
+Neural factors are crucial for strength expression, especially with heavy loads (Folland & Williams, 2007):
+
+**Motor Unit Recruitment & Rate Coding:**
+- High-threshold motor units only activate under heavy loads or maximal effort
+- Increased firing frequency allows more forceful contractions
+- Training at 85%+ 1RM optimally stimulates these adaptations
+
+**Coordination Improvements:**
+- Reduced antagonist muscle co-activation allows more force from prime movers
+- Improved intermuscular coordination between muscle groups
+- Enhanced motor unit synchronization for coordinated force production
+
+### Optimal Training Parameters
+
+**Intensity Requirements:**
+Heavy loading is non-negotiable for maximal strength. Training primarily with loads ≥85% 1RM (1-5 rep range) maximally recruits high-threshold motor units and stimulates the neural adaptations specific to heavy lifting (Suchomel et al., 2018).
+
+**Volume Considerations:**
+Moderate volume with emphasis on quality over quantity. Typically 2-6 working sets per exercise, with total weekly volume often lower than hypertrophy programs due to high neural demands and longer recovery requirements between sessions focusing on strength training [[B5. Training Volume and Frequency]].
+
+**Frequency Programming:**
+Training specific movement patterns 2-4 times per week provides optimal stimulus frequency while allowing adequate recovery. Higher frequencies require careful session-to-session load management to prevent overreaching.
+
+**Rest Period Management:**
+Extended rest periods (3-5+ minutes) between heavy sets are essential for ATP-PCr resynthesis and neural recovery, enabling maintenance of force output and technique quality across all working sets in accordance with proper recovery protocols [[B6. Rest and Recovery for Optimal Adaptation (Resistance Training Focus)]].
+
+## Research Evidence
+
+**Primary Studies:**
+- Suchomel TJ, et al. (2018). The Importance of Muscular Strength: Training Considerations. Sports Medicine, 48(4), 765-785. DOI: 10.1007/s40279-017-0793-0
+- Folland JP, Williams AG. (2007). The adaptations to strength training: morphological and neurological contributions to increased strength. Sports Medicine, 37(2), 145-168. DOI: 10.2165/00007256-200737020-00004
+- Schoenfeld BJ, et al. (2017). Strength and Hypertrophy Adaptations Between Low- vs. High-Load Resistance Training: A Systematic Review and Meta-Analysis. Journal of Strength and Conditioning Research, 31(12), 3508-3523. DOI: 10.1519/JSC.0000000000002200
+- Campos GE, et al. (2002). Muscular adaptations in response to three different resistance-training regimens: specificity of repetition maximum training zones. European Journal of Applied Physiology, 88(1-2), 50-60. DOI: 10.1007/s00421-002-0681-6
+
+**Key Findings:**
+- High-load training (≥85% 1RM) produces superior maximal strength gains compared to moderate loads
+- Neural adaptations account for majority of strength gains in first 8-12 weeks
+- Specificity of training velocity and load crucial for maximal strength development
+
+## Practical Applications
+
+**Session Structure Example:**
+- Warm-up with movement-specific patterns at 40-60% 1RM
+- Work up to heavy singles, doubles, or triples at 85-95% 1RM
+- 2-4 compound exercises per session maximum
+- Assistance work at moderate intensity (70-80% 1RM) for 6-8 reps
+
+**Weekly Programming:**
+- Main lift practice 2-4x per week
+- Alternate heavy and moderate intensity days
+- Include deload weeks every 3-4 weeks at 70-80% normal intensity
+
+**Progression Strategies:**
+- Increase load by 2.5-5% when completing all prescribed reps
+- Use percentage-based programming for consistent progression
+- Track performance metrics beyond just load (bar speed, RPE)
+
+## Common Mistakes
+
+⚠️ **Training to failure regularly** - Heavy strength training should stop 1-2 reps short of failure to maintain technique and manage fatigue
+
+⚠️ **Insufficient rest between sets** - Rushing rest periods compromises force output and increases injury risk with heavy loads
+
+⚠️ **Ignoring technique for load** - Poor movement quality with heavy weights reduces training effectiveness and increases injury risk
+
+⚠️ **Excessive volume** - More is not better with heavy loading; quality of heavy sets matters more than quantity
+
+⚠️ **Neglecting deload phases** - Continuous heavy loading without planned recovery leads to stagnation and overreaching
+
+## Related Concepts
+
+Understanding fundamental muscle physiology [[A7. Muscle Physiology Fundamentals]] and neurophysiology of movement [[G-VII-3. Neurophysiology of Movement]] provides the foundation for effective strength training application. Progressive overload principles [[B1. Progressive Overload]] guide systematic advancement, while contrasting with hypertrophy-focused training approaches [[B3. Hypertrophy Training Principles]]. 
+
+Proper implementation requires attention to training volume and frequency [[B5. Training Volume and Frequency]], adequate recovery protocols [[B6. Rest and Recovery for Optimal Adaptation (Resistance Training Focus)]], and understanding different strength training goals [[B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance)]]. 
+
+Success depends on mastering proper lifting mechanics [[A18. Proper Lifting Mechanics]], applying specificity principles [[A20. Principle of Specificity (SAID)]], and utilizing periodization strategies [[A25. Principle of Periodization]] with comprehensive recovery strategies [[M. Recovery Strategies]].
+
+## Update Log
+- 2025-01-16: Restructured for accessibility, added practical applications section, expanded common mistakes, improved research organization while preserving all scientific content and links

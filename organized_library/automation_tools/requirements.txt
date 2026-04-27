@@ -1,0 +1,5 @@
+anthropic==0.8.1
+pathlib>=1.0.1
+typing>=3.7.4.3
+python-dotenv==1.0.0
+requests==2.31.0 

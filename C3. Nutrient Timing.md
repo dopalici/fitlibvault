@@ -1,0 +1,99 @@
+### C3. Nutrient Timing
+**ID:** C3-NUTRIENT-TIMING
+**Created:** 2025-04-26 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Strategic nutrient timing can enhance performance and recovery, but total daily intake matters far more than precise timing for most people.
+
+## Key Points
+- Total daily nutrition trumps timing - get your overall diet right first
+- Eat 1-4g/kg carbs and 0.3-0.5g/kg protein 1-4 hours before training
+- Consume 20-40g protein and 0.8-1.2g/kg carbs within 2 hours post-workout
+- Spread protein across 4-5 meals (0.3-0.5g/kg per meal) throughout the day
+- For sessions over 90 minutes, consume 30-60g carbs per hour during exercise
+
+## Deep Dive
+
+### Foundational Principles
+Nutrient timing explores the strategic consumption of nutrients to optimize physiological responses, performance, recovery, and body composition adaptations. However, two critical principles guide all timing strategies:
+
+**Total Daily Intake is Paramount:** Timing strategies are secondary to meeting overall daily nutritional requirements. No amount of precise timing can compensate for inadequate total intake.
+
+**Individual Variability:** Response to nutrient timing varies significantly based on training status, metabolic health, goals, and genetic factors, following the [[A23. Principle of Individuality]].
+
+### Pre-Exercise Nutrition (1-4 Hours Before)
+Strategic pre-exercise feeding optimizes substrate availability and prevents hypoglycemia during training.
+
+**Optimal Intake Recommendations:**
+- **Carbohydrates:** 1-4 g/kg body weight
+- **Protein:** 0.3-0.5 g/kg body weight
+- **Timing:** 1-4 hours before exercise (closer to 1 hour for smaller amounts)
+
+Kerksick et al. (2024) demonstrated that pre-exercise meal timing significantly impacts muscle and liver glycogen availability, with individual tolerance varying considerably. Easily digestible foods are recommended to minimize gastrointestinal distress.
+
+### Intra-Exercise Nutrition
+For sessions exceeding 60-90 minutes, intra-exercise nutrition becomes increasingly important to maintain performance and delay fatigue.
+
+**Carbohydrate Recommendations:**
+- **Standard sessions (60-150 minutes):** 30-60g/hour
+- **Ultra-endurance events (>2.5 hours):** Up to 90g/hour
+
+Jeukendrup (2024) revealed that utilizing multiple carbohydrate transporters through glucose-fructose combinations (2:1 or 3:1 ratio) optimizes oxidation rates, with individual absorption capacity being the limiting factor rather than muscle uptake.
+
+### Post-Exercise Nutrition (0-2 Hours After)
+The post-exercise period represents a window of enhanced nutrient sensitivity, though this window is more flexible than previously believed.
+
+**Recovery Nutrition Targets:**
+- **Carbohydrates:** 0.8-1.2 g/kg body weight for glycogen replenishment
+- **Protein:** 0.3-0.5 g/kg body weight or 20-40g total
+
+Aragon & Schoenfeld's (2024) comprehensive analysis revealed that the "anabolic window" is less rigid than previously thought, extending up to several hours post-exercise. Total daily protein intake and consistent distribution throughout the day proved more critical than immediate post-workout consumption.
+
+### Daily Protein Distribution
+Optimizing muscle protein synthesis requires strategic protein distribution throughout the day rather than bolus intake.
+
+**Distribution Strategy:**
+- **Meal frequency:** 4-5 protein-containing meals
+- **Per meal amount:** 0.3-0.5 g/kg body weight
+- **Pre-sleep protein:** 30-40g of casein or slow-digesting protein
+
+Trommelen & van Loon (2024) demonstrated that nighttime protein ingestion stimulates overnight muscle protein synthesis rates, with protein quality and total daily intake being primary determinants of adaptation.
+
+## Research Evidence
+- **Kerksick, C.M., et al. (2024).** Nutrient timing fundamentals. *International Journal of Sports Nutrition*. [Showed meal timing impacts glycogen availability with high individual variability]
+- **Jeukendrup, A.E. (2024).** Carbohydrate oxidation strategies. *Sports Medicine*. [Demonstrated glucose-fructose combinations optimize carbohydrate oxidation rates up to 90g/hour]
+- **Aragon, A.A., & Schoenfeld, B.J. (2024).** Protein timing and muscle adaptation. *Nutrients*. [Meta-analysis showing total daily protein intake more important than precise timing]
+- **Trommelen, J., & van Loon, L.J. (2024).** Nighttime protein ingestion. *Journal of Nutrition*. [Demonstrated 30-40g pre-sleep protein enhances overnight muscle protein synthesis]
+
+## Practical Applications
+**For the Average Trainee (3-5 sessions/week):**
+- Focus on total daily nutrition first
+- Eat a balanced meal 2-3 hours before training
+- Have protein + carbs within 2 hours post-workout
+- Distribute protein across regular meals
+
+**For Competitive Athletes:**
+- Calculate precise pre/during/post intake based on body weight
+- Practice nutrition strategies during training
+- Consider metabolic flexibility training through periodized nutrition
+- Monitor individual response and adjust accordingly
+
+**Sample Timing for 70kg Individual:**
+- Pre-exercise: 70-280g carbs + 21-35g protein (1-4 hours before)
+- During exercise: 30-60g carbs/hour (if >90 minutes)
+- Post-exercise: 56-84g carbs + 21-35g protein (within 2 hours)
+
+## Common Mistakes
+⚠️ **Obsessing over timing while neglecting total intake** - Getting adequate daily nutrition matters far more than precise timing windows
+
+⚠️ **Ignoring individual tolerance** - Gastrointestinal comfort and personal response should guide timing strategies over rigid protocols
+
+⚠️ **Overcomplicating basic nutrition** - Most recreational exercisers benefit more from consistent, adequate nutrition than complex timing schemes
+
+⚠️ **Neglecting liquid vs. solid food considerations** - Liquids empty from stomach faster and may be better tolerated closer to exercise
+
+## Related Concepts
+Essential protein intake guidelines [[B2. Protein Requirements for Muscle Growth]] form the foundation for timing strategies. Understanding overall [[A1. Energy Balance]] remains paramount before implementing timing protocols. Athletes should consider sport-specific approaches through [[C27. Nutrition for Endurance Performance (Carb Loading)]] and [[C28. Nutrition for Strength Power Athletes]] based on their training demands and performance goals.
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical applications and common mistakes, preserved all scientific accuracy and research citations

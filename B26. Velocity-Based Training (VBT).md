@@ -1,0 +1,102 @@
+### B26. Velocity-Based Training (VBT)
+**ID:** B26-VELOCITY-BASED-TRAINING
+**Created:** 2025-06-05 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Velocity-Based Training uses real-time movement speed measurements to automatically adjust training loads based on daily performance, providing more precise and individualized strength training than traditional percentage-based methods.
+
+## Key Points
+- VBT measures concentric lifting velocity to determine optimal training loads in real-time
+- Each individual has a unique load-velocity relationship that serves as their training blueprint
+- Different velocity zones target specific adaptations: power (>1.0 m/s), strength-power (0.75-1.0 m/s), strength (0.5-0.75 m/s)
+- Velocity feedback enables autoregulation, adjusting loads based on daily neuromuscular readiness
+- Technology ranges from linear position transducers to smartphone-based accelerometer apps
+
+## Deep Dive
+
+### The Load-Velocity Relationship
+Every individual exhibits a predictable relationship between load and movement velocity. As external load increases, concentric velocity decreases in a linear fashion. This relationship serves as a personalized training template, allowing coaches to prescribe loads based on target velocities rather than estimated percentages of 1RM.
+
+The load-velocity profile is exercise-specific and must be established for each movement pattern. Once established, this profile remains relatively stable over time, though it can shift upward with training adaptations or downward with fatigue accumulation.
+
+### Velocity Zones and Training Adaptations
+VBT categorizes training into distinct velocity zones, each targeting specific physiological adaptations:
+
+**Power Zone (>1.0 m/s):** Emphasizes rate of force development and neural drive. Loads typically range from 30-60% 1RM.
+
+**Strength-Power Zone (0.75-1.0 m/s):** Develops both maximal strength and power qualities. Loads generally fall between 60-80% 1RM.
+
+**Strength Zone (0.5-0.75 m/s):** Focuses on maximal force production and hypertrophy. Loads typically exceed 80% 1RM.
+
+**Absolute Strength Zone (<0.5 m/s):** Targets pure maximal strength with loads approaching or exceeding 1RM.
+
+### Autoregulation and Fatigue Monitoring
+VBT's primary advantage lies in its ability to autoregulate training loads based on daily performance variations. When an athlete's velocity at a given load drops below their baseline profile, it indicates accumulated fatigue or reduced neuromuscular readiness. Training loads can then be adjusted downward to maintain the intended stimulus.
+
+Conversely, when velocities exceed baseline values, loads can be increased to maintain appropriate training stress. This approach ensures that athletes train at optimal intensities regardless of daily fluctuations in performance capacity.
+
+### Technology and Implementation
+VBT requires technology to measure movement velocity accurately. Options include:
+
+**Linear Position Transducers (LPTs):** Gold standard devices that attach to the barbell via cable, providing highly accurate velocity measurements.
+
+**Inertial Measurement Units (IMUs):** Accelerometer-based devices that attach directly to the barbell, offering good accuracy with greater convenience.
+
+**Computer Vision Systems:** Camera-based systems that track barbell movement without physical attachment, though accuracy may be reduced.
+
+**Smartphone Applications:** Accelerometer-based apps that provide basic velocity feedback, making VBT accessible to broader populations.
+
+## Research Evidence
+
+**González-Badillo & Sánchez-Medina (2010).** Movement velocity as a measure of loading intensity in resistance training. *International Journal of Sports Medicine*, 31(5), 347-352. DOI: https://doi.org/10.1055/s-0030-1248333
+- Key finding: Strong linear relationship (r > 0.97) between relative load and mean concentric velocity across multiple exercises
+- Study type: Observational
+- Evidence quality: High (Established foundational relationship for VBT)
+
+**Dorrell et al. (2020).** Comparison of velocity-based and traditional percentage-based loading methods on maximal strength and power adaptations. *Journal of Strength and Conditioning Research*, 34(1), 46-53. DOI: https://doi.org/10.1519/JSC.0000000000003089
+- Key finding: VBT group showed 6.2% greater improvement in peak power compared to percentage-based training
+- Study type: RCT
+- Evidence quality: High (Randomized controlled trial with matched training volumes)
+
+**Orange et al. (2019).** Validity and reliability of a wearable inertial sensor to measure velocity and power in the back squat and bench press. *Journal of Strength and Conditioning Research*, 33(9), 2398-2408. DOI: https://doi.org/10.1519/JSC.0000000000002574
+- Key finding: Wearable devices showed high validity (ICC > 0.95) and reliability for velocity measurements
+- Study type: Observational validation study
+- Evidence quality: High (Comprehensive validation of practical VBT technology)
+
+## Practical Applications
+
+**Establishing Load-Velocity Profiles:**
+1. Perform incremental loading test from 30-100% 1RM
+2. Measure mean concentric velocity at each load
+3. Plot load vs. velocity to establish individual profile
+4. Update profile every 4-6 weeks or after significant training blocks
+
+**Daily Training Implementation:**
+- Start with predetermined load based on velocity target
+- Adjust load up/down by 2.5-5% if velocity deviates >0.05 m/s from target
+- Stop set when velocity drops >10% from first repetition
+- Use velocity loss thresholds: 10% for power, 15-20% for strength
+
+**Periodization Integration:**
+- High-velocity phases: Target >0.8 m/s for power development
+- Mixed phases: Alternate between velocity zones within sessions
+- Strength phases: Focus on 0.5-0.75 m/s range with controlled velocity loss
+
+## Common Mistakes
+
+⚠️ **Over-relying on technology:** VBT devices can malfunction or provide inaccurate readings; always maintain awareness of subjective effort levels
+
+⚠️ **Ignoring exercise specificity:** Load-velocity profiles are movement-specific; don't apply squat profiles to bench press training
+
+⚠️ **Excessive velocity loss:** Allowing velocity to drop >20% can shift training stimulus toward endurance rather than intended strength/power qualities
+
+⚠️ **Inadequate warm-up:** Cold muscles produce artificially low velocities; ensure thorough preparation before VBT sessions
+
+## Related Concepts
+
+Understanding individual force production capabilities through [[A31. Force-Velocity Profiling]] provides the foundation for VBT implementation. The principles align closely with [[B4. Strength Training Principles]], particularly the concepts of progressive overload and specificity. Modern [[J1. Wearable Technology and Fitness Tracking]] makes VBT increasingly accessible to athletes and coaches at all levels.
+
+## Update Log
+- 2025-01-27: Enhanced with research evidence, practical applications, and comprehensive implementation guidelines
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1519/JSC.0000000000003089; Invalid or broken DOI: 10.1519/JSC.0000000000002574 -->

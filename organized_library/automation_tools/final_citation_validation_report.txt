@@ -1,0 +1,25 @@
+2025-06-05 02:48:04,410 - INFO - Found 66 files to validate
+2025-06-05 02:48:04,410 - INFO - Validating citations in rewritten_A30. Biomechanics - Stability vs. Mobility.md
+2025-06-05 02:48:09,558 - INFO - Validating citations in rewritten_A31. Force-Velocity Profiling.md
+2025-06-05 02:48:12,814 - INFO - Validating citations in rewritten_A32. Power Profiling and Testing.md
+2025-06-05 02:48:17,716 - INFO - Validating citations in rewritten_A33. Motor Learning and Skill Acquisition.md
+2025-06-05 02:48:21,423 - INFO - Validating citations in rewritten_A34. Neural Adaptations to Training.md
+2025-06-05 02:48:28,792 - INFO - Validating citations in rewritten_A35. Metabolic Adaptations to Training.md
+2025-06-05 02:48:32,527 - INFO - Validating citations in rewritten_A36. Structural Adaptations to Training.md
+2025-06-05 02:48:36,646 - INFO - Validating citations in rewritten_A37. Hormonal Adaptations to Training.md
+2025-06-05 02:48:40,054 - INFO - Validating citations in rewritten_A38. Immune System Adaptations to Training.md
+2025-06-05 02:48:44,574 - INFO - Validating citations in rewritten_A39. Cardiovascular Adaptations to Training.md
+2025-06-05 02:48:49,861 - INFO - Validating citations in rewritten_A4. Micronutrients.md
+2025-06-05 02:48:59,753 - INFO - Validating citations in rewritten_A40. Respiratory Adaptations to Training.md
+2025-06-05 02:49:03,620 - INFO - Validating citations in rewritten_A41. Skeletal Adaptations to Training.md
+2025-06-05 02:49:07,201 - INFO - Validating citations in rewritten_A42. Connective Tissue Adaptations to Training.md
+2025-06-05 02:49:10,501 - INFO - Validating citations in rewritten_A43. Muscular Adaptations to Training.md
+2025-06-05 02:49:15,823 - INFO - Validating citations in rewritten_A44. Neuromuscular Adaptations to Training.md
+2025-06-05 02:49:20,347 - INFO - Validating citations in rewritten_A45. Metabolic Adaptations to Training.md
+2025-06-05 02:49:32,968 - INFO - Validating citations in rewritten_A46. Adaptation Monitoring and Assessment.md
+2025-06-05 02:49:38,396 - INFO - Validating citations in rewritten_A47. Training Periodization and Planning.md
+2025-06-05 02:49:44,216 - INFO - Validating citations in rewritten_A48. Training Load Monitoring.md
+2025-06-05 02:49:48,271 - INFO - Validating citations in rewritten_A49. Recovery Monitoring and Assessment.md
+2025-06-05 02:49:52,448 - INFO - Validating citations in rewritten_A5. FITT Principle.md
+2025-06-05 02:49:56,764 - INFO - Validating citations in rewritten_A50. Performance Testing and Evaluation.md
+2025-06-05 02:50:01,016 - INFO - Validating citations in rewritten_A51. Training Adaptation Assessment.md
