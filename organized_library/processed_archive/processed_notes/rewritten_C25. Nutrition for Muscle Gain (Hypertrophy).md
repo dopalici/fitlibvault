@@ -1,0 +1,93 @@
+### C25-NUTRITION-MUSCLE-GAIN
+**ID:** C25-NUTRITION-MUSCLE-GAIN
+**Created:** 2025-04-26 (Updated: 2025-01-14)
+
+## Quick Takeaway
+Muscle growth requires a modest caloric surplus (~250-500 kcal/day), adequate protein (1.6-2.2 g/kg bodyweight), and consistent adherence paired with progressive resistance training.
+
+## Key Points
+- Maintain a 10-20% caloric surplus above TDEE to maximize muscle-to-fat gain ratio
+- Consume 1.6-2.2 g/kg bodyweight of protein daily, spread across 4-5 meals
+- Include 3-6+ g/kg carbohydrates daily to fuel training sessions and recovery
+- Aim for 0.25-0.5% bodyweight gain per week to prioritize lean mass
+- Add creatine monohydrate (3-5g daily) as the most evidence-based supplement
+
+## Deep Dive
+
+Optimizing nutrition for muscle hypertrophy requires strategic coordination with effective resistance training [[B3. Hypertrophy Training Principles]] to support muscle protein synthesis (MPS) and provide adequate energy for training and tissue growth.
+
+### Energy Balance for Muscle Growth
+
+A positive energy balance is generally required to maximize muscle gain through energy balance optimization [[A1. Energy Balance]]. Research consistently shows that a modest surplus of **10-20% above TDEE** (approximately 250-500 kcal/day) optimizes the muscle gain to fat gain ratio when setting caloric targets [[C1. Caloric Targets for Different Goals]]. This aligns with realistic muscle gain expectations [[H2. Realistic Muscle Gain Rates]]. 
+
+Excessive caloric surpluses primarily lead to fat accumulation rather than additional muscle growth (Slater et al., 2019). The key is finding the minimum effective surplus that supports maximal muscle protein synthesis without unnecessary fat gain.
+
+### Protein Requirements and Distribution
+
+Sufficient protein intake provides essential amino acids for MPS. Research supports targeting **1.6-2.2 g/kg body weight per day** for optimal muscle protein synthesis [[B2. Protein Requirements for Muscle Growth]]. 
+
+Protein distribution matters: spreading intake across 4-5 meals or snacks (0.3-0.5 g/kg per meal) likely maximizes the 24-hour MPS response through strategic nutrient timing [[C3. Nutrient Timing]]. Focus on high-quality sources rich in leucine, which serves as the primary trigger for MPS initiation.
+
+### Carbohydrate and Fat Requirements
+
+Adequate carbohydrate intake provides primary fuel for resistance training sessions, enabling sufficient training volume and intensity [[B5. Training Volume and Frequency]]. Carbohydrates also replenish glycogen stores and may support an anabolic environment through insulin signaling. Intake typically ranges from **3-6+ g/kg/day** depending on training volume and individual needs, as outlined in macronutrient distribution guidelines [[C2. Macronutrient Distribution]].
+
+Fat intake should comprise **20-35% of total calories** to support hormone production and overall health, ensuring adequate essential fatty acid consumption [[A3. Macronutrients]].
+
+### Timing Strategies
+
+While less critical than total daily intake, consuming protein and carbohydrates around training windows may offer small advantages for recovery and adaptation [[C3. Nutrient Timing]], [[C5. Pre, During, and Post-Exercise Nutrition]]. Pre-sleep protein consumption (~30-40g casein) can enhance overnight MPS rates [[B2. Protein Requirements for Muscle Growth]].
+
+## Research Evidence
+
+**Energy Surplus Requirements:**
+- Slater, G.J., et al. (2019). Is an Energy Surplus Required to Maximize Skeletal Muscle Hypertrophy Associated With Resistance Training. *Frontiers in Nutrition*, 6, 131. DOI: 10.3389/fnut.2019.00131
+
+**Protein Supplementation:**
+- Morton, R.W., et al. (2018). A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. *British Journal of Sports Medicine*, 52(6), 376-384. DOI: 10.1136/bjsports-2017-097608
+
+**Position Statements:**
+- Jäger, R., et al. (2017). International Society of Sports Nutrition Position Stand: protein and exercise. *Journal of the International Society of Sports Nutrition*, 14, 20. [Available online](https://pmc.ncbi.nlm.nih.gov/articles/PMC2117006/)
+
+- Aragon, A.A., et al. (2017). International society of sports nutrition position stand: diets and body composition. *Journal of the International Society of Sports Nutrition*, 14, 16. [Available online](https://www.researchgate.net/publication/317708391_International_society_of_sports_nutrition_position_stand_Diets_and_body_composition)
+
+## Practical Applications
+
+**Daily Implementation:**
+- Calculate TDEE and add 250-500 calories for moderate surplus
+- Weigh yourself 3-4 times weekly and aim for 0.25-0.5% bodyweight gain per week
+- Plan 4-5 protein-containing meals with 25-40g protein each
+- Time largest carbohydrate portions around training sessions
+- Take creatine monohydrate (3-5g) daily, timing is flexible
+
+**Sample Day Structure:**
+- Breakfast: 30g protein + carbohydrates
+- Pre-workout: Light protein + carbs 1-2 hours before training
+- Post-workout: 25-40g protein + carbs within 2 hours
+- Dinner: 35-40g protein + vegetables + healthy fats
+- Pre-sleep: 30-40g casein protein or Greek yogurt
+
+## Common Mistakes
+
+⚠️ **Excessive caloric surplus** - More than 500 kcal/day primarily increases fat gain without additional muscle benefits
+
+⚠️ **Inadequate protein distribution** - Consuming most daily protein in 1-2 large meals rather than spreading across the day
+
+⚠️ **Ignoring training quality** - Focusing solely on nutrition while neglecting progressive overload principles
+
+⚠️ **Unrealistic expectations** - Expecting rapid muscle gain leading to excessive surplus and unnecessary fat accumulation
+
+⚠️ **Inconsistent adherence** - Intermittent compliance with caloric and protein targets undermines long-term progress
+
+## Related Concepts
+
+Essential foundation: progressive overload principles [[B1. Progressive Overload]] and comprehensive resistance training [[B. Resistance Training]]
+
+Nutritional framework: understanding energy balance [[A1. Energy Balance]], setting appropriate caloric targets [[C1. Caloric Targets for Different Goals]], and optimizing macronutrient distribution [[C2. Macronutrient Distribution]]
+
+Implementation support: strategic nutrient timing [[C3. Nutrient Timing]], pre/post-exercise nutrition [[C5. Pre, During, and Post-Exercise Nutrition]], and evidence-based supplementation [[C21. Evidence-Based Supplements (Group A)]]
+
+Monitoring progress: tracking realistic muscle gain rates [[H2. Realistic Muscle Gain Rates]], measuring fitness progress [[O2. Measuring Fitness Progress]], and integrating nutrition with training [[O3. Integrating Nutrition and Training]]
+
+## Update Log
+- 2025-01-14: Restructured for accessibility, added practical applications section, expanded implementation guidance, and clarified common mistakes while preserving all scientific accuracy and existing links

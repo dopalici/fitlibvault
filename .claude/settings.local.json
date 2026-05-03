@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(ls:*)",
+      "Bash(pkill:*)",
+      "Bash(python:*)",
+      "WebFetch(domain:pubmed.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:www.frontiersin.org)",
+      "WebFetch(domain:www.ncbi.nlm.nih.gov)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(chmod:*)",
+      "Bash(find:*)",
+      "Bash(mv:*)",
+      "Bash(true)",
+      "Bash(rg:*)",
+      "Bash(grep:*)"
+    ],
+    "deny": []
+  }
+}

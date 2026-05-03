@@ -1,0 +1,70 @@
+### E12. Lactate Threshold Training
+**ID:** E12-LACTATE-THRESHOLD-TRAINING
+**Created:** 2025-04-23 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Lactate threshold training improves your ability to sustain higher intensities aerobically by training at the point where lactate begins to accumulate faster than your body can clear it.
+
+## Key Points
+- Train at 80-90% max heart rate (RPE "comfortably hard") for 20-60 minutes
+- Focus on 1-2 threshold sessions per week with proper recovery
+- LT2/MLSS is often a better predictor of endurance performance than VO2max
+- Combine with high-volume easy training for optimal adaptation
+- Requires accurate intensity determination through testing or field assessments
+
+## Deep Dive
+
+### Understanding Lactate Thresholds
+Lactate threshold training targets two key physiological markers that determine sustainable exercise intensity. The first lactate threshold (LT1/Aerobic Threshold) represents the point where lactate begins to rise above baseline levels. The second threshold (LT2/Anaerobic Threshold or MLSS - Maximal Lactate Steady State) marks the highest intensity where lactate production equals clearance.
+
+These thresholds are closely tied to the body's [[A6. Energy Systems (Detailed)]], representing the balance between lactate production through glycolysis and lactate clearance through oxidation and gluconeogenesis. Training adaptations include increased mitochondrial density, enhanced monocarboxylate transporter (MCT) capacity, and improved lactate tolerance.
+
+### Effective Training Methods
+
+#### Tempo/Threshold Training
+The cornerstone approach involves sustained efforts at or slightly below LT2/MLSS intensity. This typically corresponds to 80-90% of maximum heart rate, Zone 3-4 training, or an RPE described as "comfortably hard." Sessions can be structured as:
+- Continuous efforts: 20-60 minutes at threshold intensity
+- Long intervals: 2-4 repetitions of 10-20 minutes with short recovery periods
+
+#### Sweet Spot Training
+Popular in cycling, this method targets intensities slightly below functional threshold power (FTP) or LT2, typically 88-94% of FTP. This approach allows substantial training volume accumulation at a challenging but sustainable intensity, maximizing adaptations while managing fatigue.
+
+#### Supporting Aerobic Base Training
+Extensive aerobic training through low-intensity steady-state cardio [[E2. Steady-State Cardio (LISS - Low-Intensity Steady State)]] improves the aerobic foundation and LT1, creating a platform that supports higher-intensity threshold work.
+
+## Research Evidence
+- Faude O, Kindermann W, Meyer T. (2009). Lactate threshold concepts: how valid are they? Sports Medicine, 39(6), 469-490. - Comprehensive review establishing the physiological validity and practical applications of lactate threshold concepts.
+
+- Seiler S, Tønnessen E. (2009). Intervals, thresholds, and long slow distance: the role of intensity and duration in endurance training. Sportscience, 13, 32-53. - Analysis showing the importance of intensity distribution in endurance training, highlighting threshold training's role.
+
+- Jones AM, Carter H. (2000). The effect of endurance training on parameters of aerobic fitness. Sports Medicine, 29(6), 373-386. - Meta-analysis demonstrating how different training intensities affect lactate threshold improvements.
+
+## Practical Applications
+**Weekly Programming:**
+- Include 1-2 threshold sessions per week during build phases
+- Allow 48-72 hours recovery between high-intensity sessions
+- Combine with 2-3 easy aerobic sessions for optimal adaptation
+
+**Intensity Determination:**
+- Laboratory testing: Direct lactate measurement during incremental protocol
+- Field testing: 30-60 minute time trials or functional threshold power tests
+- Heart rate estimation: 80-90% of age-predicted maximum
+- RPE guidance: "Comfortably hard" - sustainable but challenging pace
+
+**Sample Sessions:**
+- Continuous: 30-40 minute tempo run at threshold pace
+- Intervals: 3 x 15 minutes at threshold with 3-minute easy recovery
+- Sweet spot: 2 x 20 minutes at 90% threshold with 5-minute recovery
+
+## Common Mistakes
+⚠️ Training too hard - exceeding threshold intensity reduces sustainable duration and training quality
+⚠️ Insufficient recovery - not allowing adequate time between sessions leads to accumulated fatigue
+⚠️ Poor intensity estimation - training without proper testing often results in incorrect target zones
+⚠️ Neglecting aerobic base - focusing only on threshold work without supporting easy volume
+⚠️ Excessive frequency - performing threshold sessions more than 2-3 times per week
+
+## Related Concepts
+Understanding energy system contributions [[A6. Energy Systems (Detailed)]] provides the physiological foundation for threshold training. This approach bridges aerobic versus anaerobic training methods [[E1. Aerobic vs. Anaerobic Training]] and complements steady-state cardio [[E2. Steady-State Cardio (LISS - Low-Intensity Steady State)]]. Threshold training can be programmed alongside interval training [[E4. Interval Training (General)]] and VO2max development [[E11. VO2 Max Training]], often using heart rate zone training [[E13. Heart Rate Zone Training]] for intensity guidance.
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical applications and common mistakes, maintained all scientific accuracy and citations

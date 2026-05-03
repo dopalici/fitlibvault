@@ -1,0 +1,97 @@
+### Post-Exercise Recovery Nutrition
+**ID:** C29-NUTRITION-RECOVERY
+**Created:** 2025-04-26 (Updated: 2025-01-17)
+
+## Quick Takeaway
+Optimal recovery nutrition follows the "4 R's": refuel with carbs (1.0-1.2 g/kg/hour), repair with protein (20-40g), rehydrate with 125-150% of fluid lost, and reduce inflammation with whole foods—all within 2 hours post-exercise for best results.
+
+## Key Points
+- Consume carbs and protein together within 2 hours of training for maximum recovery benefit
+- Replace 125-150% of fluid lost through sweat, including sodium to enhance retention
+- Prioritize whole foods with natural antioxidants over high-dose supplements
+- Recovery nutrition is most critical when training sessions are less than 8-12 hours apart
+- Sleep and overall daily nutrition matter more than perfect post-workout timing
+
+## Deep Dive
+
+Post-exercise nutrition is critical for optimizing recovery by replenishing fuel stores, promoting muscle repair and adaptation, reducing exercise-induced stress, and rehydrating the body. Effective recovery nutrition enhances readiness for subsequent training sessions and maximizes long-term adaptation through the principle of [[A26. Principle of Recovery]].
+
+### The 4 R's Framework
+
+**1. Refuel (Carbohydrates)**
+The primary goal is replenishing muscle and liver glycogen stores depleted during exercise. This becomes crucial for subsequent performance, especially if training again within 8-12 hours.
+
+Consume **1.0-1.2 g CHO/kg body weight per hour** for the first 4 hours post-exercise when rapid replenishment is the priority, as supported by [[C3. Nutrient Timing]] research. However, total daily carbohydrate intake through [[C2. Macronutrient Distribution]] remains the primary determinant of full glycogen restoration. Research shows that combining carbohydrates with protein may slightly enhance glycogen synthesis rates.
+
+**2. Repair (Protein)**
+The repair phase focuses on providing essential amino acids (EAAs) to stimulate muscle protein synthesis (MPS), counter muscle protein breakdown, and repair exercise-induced muscle damage.
+
+The optimal strategy involves consuming **0.3-0.5 g/kg body weight or 20-40g** of high-quality protein rich in leucine within 0-2 hours post-exercise, following guidelines from [[B2. Protein Requirements for Muscle Growth]]. Continue regular protein intake evenly distributed across 4-5 meals throughout the day to sustain MPS, as detailed in [[C3. Nutrient Timing]].
+
+**3. Rehydrate (Fluids & Electrolytes)**
+Rehydration aims to replace fluid and electrolytes lost through sweat to restore euhydration and plasma volume.
+
+Consume **125-150% of the fluid deficit** (estimated from body weight change) within 2-6 hours post-exercise. Include sodium (~0.5-0.7 g/L) in recovery fluids to aid fluid retention and stimulate thirst, following principles outlined in [[C4. Hydration]] and [[C5. Electrolytes]].
+
+**4. Reduce (Inflammation/Oxidative Stress)**
+This phase requires nuanced management of excessive inflammation and oxidative stress while allowing necessary adaptive signaling.
+
+Emphasize whole foods rich in phytonutrients and natural antioxidants including fruits, vegetables, nuts, and seeds as described in [[C33. Anti-Inflammatory FoodsDiets]] and [[C34. Antioxidants]]. Omega-3 fatty acids may help resolve inflammation, though evidence remains mixed per [[C22. Supplements with LimitedMixed Evidence (Group B)]].
+
+### Timing Considerations
+
+While the post-exercise "anabolic window" is more flexible than previously thought, timely intake within 2 hours of carbohydrates and protein remains beneficial, particularly when recovery time between sessions is short (<8 hours), as supported by [[C3. Nutrient Timing]] research.
+
+## Research Evidence
+
+**High-Quality Position Stands:**
+- Kerksick, C.M., et al. (2017). International Society of Sports Nutrition position stand: nutrient timing. Journal of the International Society of Sports Nutrition, 14, 33. DOI: Available at ResearchGate
+- Thomas, D.T., et al. (2016). Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. Journal of the Academy of Nutrition and Dietetics, 116(3), 501-528.
+
+**Mechanistic Research:**
+- Beelen, M., et al. (2010). Nutritional strategies to promote postexercise recovery. International Journal of Sport Nutrition and Exercise Metabolism, 20(6), 515-532.
+- Jäger, R., et al. (2017). International Society of Sports Nutrition Position Stand: protein and exercise. Journal of the International Society of Sports Nutrition, 14, 20.
+
+**Recovery Context:**
+- Van Hooren, B., & Peake, J.M. (2018). Do We Need a Cool-Down After Exercise? A Narrative Review of the Psychophysiological Effects and the Effects on Performance, Injuries and the Long-Term Adaptive Response. Sports Medicine, 48(7), 1575-1595.
+
+## Practical Applications
+
+**Ideal Recovery Meals/Snacks:**
+- Chocolate milk (3:1 carb to protein ratio)
+- Greek yogurt with fruit and granola
+- Chicken stir-fry with rice
+- Smoothie with protein powder and fruit
+- Tuna sandwich with banana
+- Cottage cheese with berries
+
+**Hydration Protocol:**
+1. Weigh yourself before and after exercise
+2. Drink 125-150% of weight lost (e.g., lose 1 lb = drink 16-20 oz fluid)
+3. Add 0.5-0.7g sodium per liter of fluid
+4. Monitor urine color for hydration status
+
+**Sample Recovery Timeline:**
+- 0-30 minutes: Begin fluid replacement
+- 0-2 hours: Consume carbs + protein meal/snack
+- 2-6 hours: Complete full rehydration
+- Throughout day: Continue regular meal pattern
+
+## Common Mistakes
+
+⚠️ **Relying solely on supplements instead of whole foods** - Real food provides superior nutrient profiles and satiety
+
+⚠️ **Taking high-dose antioxidant supplements** - These may hinder beneficial training adaptations as noted in [[C34. Antioxidants]]
+
+⚠️ **Ignoring hydration status** - Dehydration significantly impairs recovery and subsequent performance
+
+⚠️ **Obsessing over precise timing while neglecting sleep** - Recovery quality through [[F1. Sleep Quality and Quantity]] often matters more than perfect nutrient timing
+
+⚠️ **Undereating overall calories** - Total daily energy intake trumps post-workout nutrition optimization
+
+## Related Concepts
+
+Essential recovery strategies through [[M. Recovery Strategies]] and evidence-based approaches in [[M1. Recovery Modalities Evidence and Application]]. Understanding optimal [[C3. Nutrient Timing]] and meeting [[B2. Protein Requirements for Muscle Growth]] while maintaining proper [[C2. Macronutrient Distribution]]. Support recovery with adequate [[C4. Hydration]], [[C5. Electrolytes]], and [[C6. Micronutrients (Detailed Roles & Considerations)]] while being cautious with [[C34. Antioxidants]]. Prioritize [[F1. Sleep Quality and Quantity]] alongside the fundamental [[A26. Principle of Recovery]].
+
+## Update Log
+- 2025-01-17: Restructured for accessibility, added practical applications section, clarified timing flexibility, emphasized whole food approach over supplements

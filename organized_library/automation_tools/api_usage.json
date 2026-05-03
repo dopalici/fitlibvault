@@ -1,0 +1,17 @@
+{
+  "total_input_tokens": 2720,
+  "total_output_tokens": 0,
+  "total_cost_usd": 0.040799999999999996,
+  "daily_usage": {
+    "2025-06-05": {
+      "input_tokens": 2720,
+      "output_tokens": 0,
+      "cost": 0.040799999999999996,
+      "calls": 16,
+      "failed_calls": 16
+    }
+  },
+  "session_start": "2025-06-05T17:32:27.286368",
+  "calls_made": 16,
+  "failed_calls": 16
+}

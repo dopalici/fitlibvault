@@ -1,0 +1,117 @@
+### B7. Bodyweight Training
+**ID:** B7-BODYWEIGHT-TRAINING
+**Created:** 2025-04-23 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Bodyweight training is a highly accessible and effective method for building strength, movement quality, and body control using your own body weight as resistance.
+
+## Key Points
+- Start with basic movements (squats, push-ups, planks) and progress systematically
+- Focus on perfect form before advancing to harder variations
+- Can be done anywhere with minimal equipment, making it ideal for consistency
+- Excellent for building relative strength (strength compared to your body weight)
+- Naturally develops core stability and body awareness through compound movements
+
+## Deep Dive
+
+Bodyweight training (calisthenics) utilizes the individual's own body mass as the primary source of resistance. Research demonstrates it's a highly effective method for developing foundational strength, movement competency, stability, and muscular endurance (Kotarsky et al., 2018).
+
+### Primary Benefits
+
+**Accessibility & Cost-Effectiveness**
+Requires minimal or no equipment and can be performed virtually anywhere, creating a low barrier to entry for consistent training.
+
+**Movement Pattern Development**
+Excellent for learning and refining basic human movement patterns ([[L1. Movement Patterns and Functional Training]]) like squatting, lunging, pushing, pulling, hinging, and bracing. This builds a foundation for all other training methods.
+
+**Relative Strength Development**
+Directly improves strength relative to one's own body weight, a key component of athleticism and functional capacity. Studies show bodyweight training can produce significant strength gains comparable to traditional resistance training (Harrison, 2010).
+
+**Enhanced Body Awareness**
+Improves kinesthetic awareness, balance ([[L3. Balance and Coordination Training]]), and proprioception due to the need to stabilize the entire body during movements.
+
+**Core Integration**
+Many bodyweight exercises inherently require significant core activation for stability ([[L4. Core Stability Training]]), developing functional core strength rather than isolated muscle training.
+
+### Exercise Progressions
+
+**Upper Body Pushing**
+- Incline push-ups → Knee push-ups → Standard push-ups → Decline push-ups → Plyometric → One-arm variations
+
+**Upper Body Pulling**
+- Inverted rows (various angles) → Band-assisted pull-ups → Full pull-ups/chin-ups → Weighted variations
+
+**Lower Body**
+- Bodyweight squats → Paused squats → Jump squats → Single-leg (pistol) squats
+- Static lunges → Walking lunges → Reverse lunges → Lateral lunges → Jumping lunges
+
+**Hip Hinge Patterns**
+- Glute bridges → Single-leg glute bridges → Bodyweight good mornings → Single-leg RDLs
+
+**Core Stability**
+- Planks → Side planks → Bird dog → Hollow body holds → Leg raises → Advanced levers
+
+### Progression Strategies
+
+The key to continued advancement in bodyweight training lies in manipulating variables beyond just adding weight (Klika & Jordan, 2013):
+
+**Leverage Manipulation**
+Adjusting body position relative to gravity (incline vs. decline variations) or changing pivot points to increase difficulty.
+
+**Unilateral Training**
+Shifting load to a single limb dramatically increases demand and addresses strength imbalances.
+
+**Tempo Control**
+Slowing down eccentric phases, adding pauses, or controlling concentric speed increases time under tension and difficulty.
+
+**Range of Motion**
+Increasing movement depth or amplitude challenges muscles through greater ranges.
+
+**Volume and Density**
+Progressing through increased repetitions, sets, or decreased rest periods.
+
+## Research Evidence
+
+Kotarsky CJ, et al. (2018). Effect of Progressive Calisthenic Push-up Training on Muscle Strength and Thickness. Journal of Strength and Conditioning Research, 32(3), 651-659.
+- Found significant increases in both muscle strength and thickness from progressive bodyweight training
+- Demonstrated that bodyweight exercises can produce hypertrophy when progressed appropriately
+
+Harrison JS. (2010). Bodyweight training: A return to basics. Strength & Conditioning Journal, 32(2), 52-55.
+- Reviews the effectiveness of bodyweight training for strength development
+- Highlights the functional benefits of compound bodyweight movements
+
+Klika B, Jordan C. (2013). High-intensity circuit training using body weight: Maximum results with minimal investment. ACSM's Health & Fitness Journal, 17(3), 8-13.
+- Demonstrates the cardiovascular and strength benefits of high-intensity bodyweight circuits
+- Shows significant fitness improvements with minimal time investment
+
+## Practical Applications
+
+**Beginner Protocol (Weeks 1-4)**
+- 3 sessions per week, full-body focus
+- Master basic patterns: squats (3x8-12), push-ups (3x5-10), planks (3x20-30sec)
+- Focus on form over speed or advanced variations
+
+**Intermediate Progression (Weeks 5-12)**
+- 4 sessions per week, upper/lower split possible
+- Add unilateral variations and tempo changes
+- Include pulling movements with resistance bands or suspension trainers ([[B12. Suspension Training (TRX)]])
+
+**Advanced Applications**
+- Progress toward gymnastic skills like handstand push-ups, muscle-ups, and levers ([[X9. Gymnastics  Calisthenics]])
+- Combine with external loading (weighted vests, dip belts) for continued progression
+- Integrate with other training methods following progressive overload principles ([[B1. Progressive Overload]])
+
+## Common Mistakes
+
+⚠️ **Progressing Too Quickly:** Advancing to harder variations before mastering basic movements with perfect form
+⚠️ **Neglecting Pulling Movements:** Focusing only on push-ups and squats while ignoring pulling patterns, creating imbalances
+⚠️ **Ignoring Progressive Overload:** Doing the same routine indefinitely without systematic progression
+⚠️ **Poor Form Under Fatigue:** Allowing technique to deteriorate as reps increase rather than stopping at technical failure
+⚠️ **Skipping Fundamentals:** Attempting advanced skills without building proper foundational strength and mobility
+
+## Related Concepts
+
+Understanding proper lifting mechanics ([[A18. Proper Lifting Mechanics]]) applies to bodyweight training for injury prevention. Progressive overload principles ([[B1. Progressive Overload]]) guide systematic advancement. Balance and coordination development ([[L3. Balance and Coordination Training]]) enhances through bodyweight training. Core stability training ([[L4. Core Stability Training]]) integrates naturally with most bodyweight exercises. Advanced practitioners can explore gymnastics and calisthenics skills ([[X9. Gymnastics  Calisthenics]]) or incorporate suspension training tools ([[B12. Suspension Training (TRX)]]).
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical protocols, expanded research section, included common mistakes and clearer progression guidelines

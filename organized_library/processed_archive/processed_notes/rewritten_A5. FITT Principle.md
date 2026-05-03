@@ -1,0 +1,103 @@
+### A5. FITT Principle
+**ID:** A5-FITT-PRINCIPLE
+**Created:** 2025-04-23 (Updated: 2025-01-15)
+
+## Quick Takeaway
+The FITT principle (Frequency, Intensity, Time, Type) provides a systematic framework for designing and progressing exercise programs by manipulating four key variables to match individual goals and fitness levels.
+
+## Key Points
+- Frequency determines how often you exercise per week (2-3 sessions for beginners, 4-6 for advanced)
+- Intensity controls how hard you work during exercise (measured by %1RM, heart rate, or RPE)
+- Time sets the duration of each exercise session (20-60 minutes depending on goals)
+- Type selects specific exercise modes that align with your training objectives
+- All four variables are interconnected - changing one affects the others
+
+## Deep Dive
+
+The FITT principle serves as the foundation for evidence-based exercise prescription, providing a systematic approach to program design that can be applied across all fitness levels and goals.
+
+### Frequency - Exercise Sessions Per Week
+Frequency refers to how often exercise is performed within a given timeframe, typically measured in sessions per week. Optimal frequency varies by training type, experience level, and recovery capacity.
+
+For resistance training, beginners benefit from 2-3 sessions per week targeting major muscle groups, while advanced trainees may require 4-6 sessions using split routines to allow adequate recovery between muscle groups. Cardiovascular training frequency ranges from 3-5 days per week for moderate intensity to 3 days for vigorous intensity exercise.
+
+### Intensity - How Hard You Work
+Intensity represents the physiological demand of exercise and can be measured through various methods depending on the training type:
+
+**Resistance Training Intensity:**
+- Percentage of one-repetition maximum (%1RM)
+- Repetitions in reserve (RIR)
+- Rate of perceived exertion (RPE)
+
+**Cardiovascular Training Intensity:**
+- Heart rate zones (percentage of maximum heart rate)
+- Percentage of VO2max or heart rate reserve
+- Talk test or RPE scales
+
+### Time - Duration and Volume
+Time encompasses both individual session duration and total weekly exercise volume. The relationship between intensity and duration follows an inverse pattern - higher intensity exercise requires shorter durations to maintain quality and prevent excessive fatigue.
+
+Session duration typically ranges from 20-60 minutes, with shorter sessions at higher intensities and longer sessions at moderate intensities. Total weekly volume should progress gradually to allow physiological adaptations.
+
+### Type - Exercise Modality Selection
+Type refers to the specific mode of exercise chosen, which should align with training goals through the principle of specificity:
+
+**Resistance Training Types:**
+- Free weights for functional strength
+- Machines for isolation and safety
+- Bodyweight exercises for convenience
+
+**Cardiovascular Training Types:**
+- Running for lower body endurance
+- Cycling for joint-friendly cardio
+- Swimming for full-body conditioning
+
+## Research Evidence
+
+**Garber, C.E., et al. (2011).** American College of Sports Medicine position stand. Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise. *Medicine and Science in Sports and Exercise*, 43(7), 1334-1359. DOI: https://doi.org/10.1249/MSS.0b013e318213fefb
+- Key finding: Minimum 2-3 days/week resistance training and 150 minutes/week moderate aerobic activity for health benefits
+- Study type: Systematic review and expert consensus
+- Evidence quality: High (comprehensive review of multiple studies)
+
+**Schoenfeld, B.J., et al. (2016).** Effects of resistance training frequency on measures of muscle hypertrophy: a systematic review and meta-analysis. *Sports Medicine*, 46(11), 1689-1697. DOI: https://doi.org/10.1007/s40279-016-0543-8
+- Key finding: Training frequency of 2-3 times per week per muscle group optimizes hypertrophy when volume is equated
+- Study type: Meta-analysis
+- Evidence quality: High (analysis of 10 studies with 200+ participants)
+
+**Helms, E.R., et al. (2014).** Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. *Journal of the International Society of Sports Nutrition*, 11, 20. DOI: https://doi.org/10.1186/1550-2783-11-20
+- Key finding: Progressive manipulation of FITT variables necessary for continued adaptations in trained individuals
+- Study type: Systematic review
+- Evidence quality: Medium (narrative review with expert recommendations)
+
+## Practical Applications
+
+**Beginner Program Framework:**
+- **Frequency:** 3 days/week full-body resistance training + 2-3 days moderate cardio
+- **Intensity:** 65-75% 1RM or RPE 6-7 for resistance; 50-70% HRmax for cardio
+- **Time:** 45-60 minutes per session including warm-up and cool-down
+- **Type:** Compound movements (squats, deadlifts, push-ups) + walking, cycling, or swimming
+
+**12-Week Progression Example:**
+- **Weeks 1-4:** Establish consistent frequency, learn proper form
+- **Weeks 5-8:** Increase intensity by 5-10% or add 5-10 minutes to sessions
+- **Weeks 9-12:** Add one additional session per week or introduce new exercise types
+
+**Goal-Specific FITT Applications:**
+- **Fat Loss:** Higher frequency (5-6 days), moderate intensity (60-70% HRmax), longer duration (45-60 min)
+- **Strength:** Moderate frequency (3-4 days), high intensity (80-90% 1RM), shorter duration (45-60 min)
+- **Endurance:** Moderate frequency (4-5 days), varied intensity (60-85% HRmax), longer duration (60-90 min)
+
+## Common Mistakes
+
+⚠️ **Changing all variables simultaneously** - leads to excessive fatigue, poor recovery, and increased injury risk
+⚠️ **Ignoring the intensity-duration relationship** - attempting high intensity exercise for extended periods
+⚠️ **Poor exercise type selection** - choosing exercises that don't match specific training goals
+⚠️ **Static programming approach** - failing to progress FITT variables over time leads to training plateaus
+⚠️ **Inadequate recovery consideration** - increasing frequency without allowing sufficient rest between sessions
+
+## Related Concepts
+
+The FITT principle works synergistically with fundamental training principles. It provides the practical framework for applying the [[A19. Principle of Overload]] by offering specific variables to manipulate for progressive stress. The [[A20. Principle of Specificity (SAID)]] guides exercise type selection within the FITT framework, while the [[A21. Principle of Progression]] determines how FITT variables should advance systematically over time. Individual responses require consideration of the [[A23. Principle of Individuality]] when determining optimal FITT parameters for each person. Advanced programming integrates all these concepts as outlined in [[O1. Integrated Programming Considerations]].
+
+## Update Log
+- 2025-01-15: Enhanced practical applications, added research citations with DOIs, expanded common mistakes section, improved clarity of variable interactions

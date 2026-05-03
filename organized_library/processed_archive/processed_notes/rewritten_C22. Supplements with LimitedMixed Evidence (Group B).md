@@ -1,0 +1,92 @@
+### C22. Supplements - Limited Evidence
+**ID:** C22-SUPPLEMENTS-LIMITED-EVIDENCE
+**Created:** 2025-04-26 (Updated: 2025-01-27)
+
+## Quick Takeaway
+These supplements show promising but inconsistent research results - they may help some athletes in specific situations, but more research is needed before making blanket recommendations.
+
+## Key Points
+- Evidence is preliminary or conflicting for performance/recovery benefits
+- Individual responses vary significantly, making personal experimentation necessary
+- Best results often seen in specific populations (untrained individuals, high stress periods)
+- Consider under expert guidance due to variable quality and dosing protocols
+- Classified as AIS Group B / IOC 'Limited Evidence' category
+
+## Deep Dive
+
+This category includes supplements with preliminary or conflicting scientific evidence regarding their efficacy for performance or recovery. More research is needed before definitive recommendations can be made. Their use should be considered on an individual basis, potentially under expert guidance, acknowledging the current limitations in evidence (aligns with AIS Group B / IOC 'Limited Evidence').
+
+### HMB (β-Hydroxy β-Methylbutyrate)
+**Claim:** Anti-catabolic effects, may enhance recovery and hypertrophy.
+
+**Evidence:** Mixed results across studies. Some research shows potential benefits for preserving lean body mass and slight strength gains, primarily in untrained individuals starting resistance training or during periods of very high stress/muscle damage (e.g., prolonged bed rest). Less convincing evidence exists in well-trained individuals engaging in standard resistance training. The free acid form (HMB-FA) appears to have better bioavailability than the calcium salt form (HMB-Ca).
+
+### Collagen Peptides/Hydrolyzed Collagen
+**Claim:** Supports joint health, connective tissue repair, and reduces joint pain.
+
+**Evidence:** Emerging evidence suggests potential benefits for improving activity-related joint pain and possibly supporting connective tissue synthesis when combined with targeted exercise and Vitamin C. Requires specific protocols including timing relative to exercise. More high-quality, long-term research is needed on functional outcomes and optimal dosing (Close et al., 2019).
+
+### Fish Oil (Omega-3s - EPA/DHA)
+**Claim:** Reduces inflammation, aids recovery, potential performance benefits.
+
+**Evidence:** Strong evidence exists for general cardiovascular health benefits. For athletes, may help reduce DOMS perception and markers of inflammation post-exercise. Potential neuroprotective benefits in contact sports are being explored. Direct evidence for improving performance metrics (endurance, strength) is less consistent, though some studies suggest benefits for endurance capacity. Athletes are often at risk of omega-3 inadequacy (VanDusseldorp et al., 2024).
+
+### Probiotics
+**Claim:** Improves gut health, immune function, reduces GI distress and upper respiratory tract infections in athletes.
+
+**Evidence:** Highly strain-specific effects. Some evidence suggests certain strains may reduce the incidence and severity of upper respiratory tract infections (URTIs) and potentially exercise-induced GI symptoms in athletes. However, results vary significantly between studies and strains, making specific recommendations difficult (Jäger et al., 2019).
+
+### Curcumin (from Turmeric)
+**Claim:** Anti-inflammatory effects, reduces muscle soreness.
+
+**Evidence:** Some studies indicate potential for reducing markers of inflammation and DOMS following eccentric exercise. Bioavailability is a key limitation, leading to formulations with absorption enhancers like piperine. Evidence for direct performance enhancement remains weak.
+
+### Citrulline (Malate or L-Citrulline)
+**Claim:** Enhances nitric oxide production, improves blood flow, performance, and reduces soreness.
+
+**Evidence:** Mixed findings across studies. Some research shows improvements in resistance training performance (reps to failure) and reduced muscle soreness. Other meta-analyses find limited evidence for direct performance enhancement, particularly in endurance activities. L-Citrulline may be more effective than L-Arginine for increasing blood arginine levels (González & Trexler, 2020).
+
+### Carnitine
+**Claim:** Enhances fat oxidation, spares glycogen, improves performance and recovery.
+
+**Evidence:** Generally ineffective for enhancing fat oxidation or performance in healthy individuals unless a deficiency exists. L-Carnitine L-Tartrate (LCLT) form has shown some minor potential benefits for recovery markers including reduced muscle damage markers and soreness in some studies.
+
+## Research Evidence
+
+**Key Position Statements:**
+- Maughan, R.J., et al. (2018). IOC consensus statement: dietary supplements and the high-performance athlete. British Journal of Sports Medicine, 52(7), 439-455. DOI: Available at [Pines Nutrition](https://pinesnutrition.org/the-ioc-consensus-statement-on-dietary-supplements-2/)
+
+**Specific Supplement Research:**
+- Close, G.L., et al. (2019). Nutrition for collagen synthesis and joint health. European Journal of Sport Science, 19(1), 1-11.
+- VanDusseldorp, T.A., et al. (2024). International Society of Sports Nutrition Position Stand: Long-Chain Omega-3 Polyunsaturated Fatty Acids. Journal of the International Society of Sports Nutrition. Available at [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11737053/)
+- Jäger, R., et al. (2019). International Society of Sports Nutrition Position Stand: Probiotics. Journal of the International Society of Sports Nutrition, 16(1), 62.
+- González, A.M., & Trexler, E.T. (2020). Effects of Citrulline Supplementation on Exercise Performance in Humans: A Review of the Current Literature. Journal of Strength and Conditioning Research, 34(5), 1480-1495.
+
+## Practical Applications
+
+**HMB:** 3g daily, split into 1g doses with meals. Consider during high-stress training periods or when starting new training programs.
+
+**Collagen:** 15-20g daily, taken 30-60 minutes before targeted exercise with 50-100mg Vitamin C for optimal synthesis.
+
+**Fish Oil:** 1-3g combined EPA/DHA daily with meals to reduce GI upset. Focus on high EPA content for anti-inflammatory effects.
+
+**Probiotics:** Choose multi-strain formulas with 10+ billion CFUs. Take consistently for 4-6 weeks minimum to assess benefits.
+
+**Curcumin:** 500-1000mg daily with enhanced bioavailability formulations. Take with meals containing fat for better absorption.
+
+**Citrulline:** 6-8g L-Citrulline or 8-10g Citrulline Malate, 30-45 minutes pre-workout for resistance training benefits.
+
+## Common Mistakes
+
+⚠️ Expecting immediate results - these supplements typically require 4-8 weeks of consistent use
+⚠️ Using suboptimal forms (e.g., regular curcumin instead of enhanced bioavailability versions)
+⚠️ Inconsistent dosing protocols or timing relative to exercise
+⚠️ Assuming all probiotics are equivalent regardless of strain specificity
+⚠️ Overlooking potential interactions with medications or other supplements
+
+## Related Concepts
+
+Supplement framework and evidence hierarchy [[C20. Supplements (Overview & Framework)]], proven supplement options [[C21. Evidence-Based Supplements (Group A)]], safety considerations [[C23. Supplement Safety, Regulation, and Quality Control]], gut health optimization [[C32. Gut Health and Microbiome]], dietary anti-inflammatory strategies [[C33. Anti-Inflammatory FoodsDiets]]
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical dosing protocols, expanded safety considerations, and updated citation formatting

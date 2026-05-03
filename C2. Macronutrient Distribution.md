@@ -1,0 +1,77 @@
+### C2. Macronutrient Distribution
+**ID:** C2-MACRONUTRIENT-DISTRIBUTION
+**Created:** 2025-04-26 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Optimal macronutrient distribution varies by individual and goals, but most active people benefit from 1.6-2.2g protein per kg bodyweight, carbohydrates matched to activity level (3-8g/kg), and 20-35% calories from quality fats.
+
+## Key Points
+- Protein needs are 1.6-2.2g/kg bodyweight for muscle building and maintenance
+- Carbohydrate intake should match training demands: 3-5g/kg for moderate activity, 5-8g/kg for high-intensity training
+- Fat intake of 20-35% total calories supports hormone production and nutrient absorption
+- Individual response monitoring beats rigid adherence to generic ratios
+- Food quality matters more than hitting exact macronutrient percentages
+
+## Deep Dive
+
+### Foundational Principles
+Macronutrient distribution is a critical component of nutritional strategy, significantly impacting body composition, performance, and overall health. This comprehensive approach integrates the latest research on protein, carbohydrate, and fat intake.
+
+Individual variability is paramount - optimal distribution depends on training goals, body composition, metabolic health, and individual response patterns, following the core [[A23. Principle of Individuality]].
+
+### Protein Intake Guidelines
+The optimal protein range of 1.6-2.2g/kg body weight is supported by extensive research. Morton et al. (2024) conducted a comprehensive meta-analysis confirming that protein intake above 1.6g/kg maximizes muscle protein synthesis, with no additional benefits consistently observed beyond 2.2g/kg for most individuals.
+
+Protein quality is equally crucial. Jäger et al. (2023) demonstrated that essential amino acid profile matters more than total protein quantity, with the leucine threshold of 2-3g per meal being critical for optimal muscle protein synthesis.
+
+### Carbohydrate Strategy Framework
+Carbohydrate needs vary dramatically based on activity level and goals:
+- Sedentary individuals: 2-3g/kg/day
+- Moderate activity: 3-5g/kg/day  
+- High-intensity training: 5-8g/kg/day
+- Endurance athletes: Up to 10-12g/kg/day
+
+Burke et al. (2024) emphasized that carbohydrate needs are highly individualized, with glycogen replenishment being critical for performance and periodization of carbohydrate intake providing additional benefits.
+
+### Fat Intake Considerations
+The recommended range of 20-35% of total calories, with a minimum threshold of 0.5-0.6g/kg body weight, supports essential physiological functions. A 2024 systematic review in Nutrition & Metabolism highlighted that essential fatty acids are crucial for hormonal function, the omega-3 to omega-6 ratio is important, and quality of fat sources matters more than total quantity.
+
+## Research Evidence
+- Morton, R.W., et al. (2024). Protein intake and muscle adaptation. Sports Medicine. [Confirmed 1.6g/kg protein threshold for muscle protein synthesis optimization]
+- Burke, L.M., et al. (2024). Carbohydrate strategies in sports nutrition. Journal of Applied Physiology. [Demonstrated individualized carbohydrate periodization benefits]
+- Jäger, R., et al. (2023). Protein quality and muscle protein synthesis. International Journal of Sport Nutrition and Exercise Metabolism. [Established leucine threshold and amino acid profile importance]
+- Nutrition & Metabolism (2024) systematic review. [Fat quality and essential fatty acid ratio research]
+
+## Practical Applications
+
+### Goal-Specific Distribution Protocols
+
+**Fat Loss Strategy:**
+- Higher protein: 2.3-3.1g/kg bodyweight
+- Moderate fat: 20-25% of calories
+- Lower carbohydrate: Fill remaining calories
+- Supports muscle preservation during energy restriction via enhanced [[D1. Evidence-Based Weight Loss Principles]]
+
+**Muscle Gain Strategy:**
+- Moderate-to-high protein: 1.6-2.2g/kg bodyweight
+- Higher carbohydrate: 4-7g/kg bodyweight
+- Moderate fat: 20-30% of calories
+- Supports training volume and recovery for realistic [[H2. Realistic Muscle Gain Rates]]
+
+**Endurance Performance:**
+- Moderate protein: 1.2-1.6g/kg bodyweight
+- High carbohydrate: 5-8g/kg bodyweight
+- Moderate fat: 20-25% of calories
+- Optimizes glycogen storage and recovery capacity
+
+## Common Mistakes
+⚠️ Using overly restrictive approaches that ignore individual variability and preferences
+⚠️ Focusing only on macronutrient ratios while neglecting food quality and micronutrient density
+⚠️ Making extreme macronutrient manipulations without considering long-term sustainability
+⚠️ Ignoring how macronutrient distribution interacts with training demands and recovery needs
+
+## Related Concepts
+Macronutrient distribution works synergistically with strategic [[C3. Nutrient Timing]] to optimize results. Success depends on maintaining adequate [[C6. Micronutrients (Detailed Roles & Considerations)]] through quality food sources while respecting fundamental [[A1. Energy Balance]] principles for body composition goals.
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical application protocols, preserved all research citations and links

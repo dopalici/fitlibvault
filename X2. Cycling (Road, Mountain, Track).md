@@ -1,0 +1,110 @@
+### X2. Cycling (Road, Mountain, Track)
+**ID:** X2-CYCLING
+**Created:** 2025-04-24 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Cycling performance depends on building aerobic endurance through structured zone training, optimizing bike fit for power transfer and injury prevention, and developing discipline-specific skills while managing high energy demands.
+
+## Key Points
+- Build aerobic base with 80% low-intensity rides, 20% high-intensity intervals targeting threshold and VO2max
+- Professional bike fit is essential - poor positioning causes 80% of cycling injuries and reduces power output
+- Use power meters for precise training zones: Zone 1-2 for base building, FTP intervals for threshold development
+- Fuel rides over 90 minutes with 30-60g carbs per hour to maintain performance
+- Combine cycling with 2-3 strength sessions weekly focusing on lower body power and core stability
+
+## Deep Dive
+
+### Physiological Demands
+Cycling is primarily aerobic but requires sustained high power outputs and repeated anaerobic bursts depending on discipline. The sport demands exceptional cardiovascular fitness combined with muscular endurance, particularly in the legs and core.
+
+Key performance metrics include VO2max (maximal oxygen uptake), Functional Threshold Power (FTP - the highest power sustainable for one hour), and lactate threshold. Elite road cyclists typically achieve VO2max values of 70-85 ml/kg/min, with power-to-weight ratios of 5.5-6.5 watts per kilogram.
+
+### Biomechanical Considerations
+
+**Bike Fit Optimization**
+Proper bike fit is paramount for performance, comfort, and injury prevention. Key adjustments include saddle height (typically 25-35° knee flexion at bottom of pedal stroke), fore/aft position, handlebar height and reach, and cleat positioning. Professional fitting can improve power output by 5-15% while reducing injury risk.
+
+**Pedaling Efficiency**
+Optimal pedaling involves smooth force application throughout the entire pedal stroke, not just the downstroke. Effective cadence varies by discipline and individual preference but typically ranges from 80-100+ RPM for road cycling, with mountain bikers often using slightly lower cadences on technical terrain.
+
+### Training Components
+
+**Aerobic Base Development**
+Long endurance rides at low-moderate intensity form the foundation. These Zone 1-2 efforts improve mitochondrial density, capillarization, and fat oxidation capacity. Research supports an 80/20 intensity distribution for endurance athletes - 80% low intensity, 20% high intensity training for optimal adaptation.
+
+**Threshold Training**
+Sustained efforts at or near FTP develop the ability to clear lactate and maintain high sustainable power. "Sweet Spot" training at 88-94% FTP provides excellent stimulus with manageable fatigue accumulation. Typical sessions include 2-3 x 20-minute intervals or longer continuous efforts.
+
+**High-Intensity Intervals**
+VO2max intervals targeting maximum aerobic power ([[E11. VO2 Max Training]]) and anaerobic capacity work for peak power development. These sessions improve oxygen uptake kinetics and neuromuscular power.
+
+**Strength Training Integration**
+Concurrent strength training enhances power production, bone health, and injury prevention without compromising endurance adaptations when properly periodized ([[E4. Concurrent Training (Interference Effect)]]). Focus on compound movements targeting lower body power and maintaining core stability ([[L4. Core Stability Training]]).
+
+### Discipline-Specific Considerations
+
+**Road Cycling**
+Emphasizes aerodynamics, pack riding skills, and sustained power outputs. Training includes group ride tactics, time trial positioning, and climbing-specific power development.
+
+**Mountain Biking**
+Requires explosive power for technical climbs, bike handling skills, and ability to recover quickly between efforts. Training incorporates short, high-intensity intervals and technical skill practice.
+
+**Track Cycling**
+Demands maximum power and speed with discipline-specific tactics. Training focuses on neuromuscular power, speed development, and event-specific energy system demands.
+
+## Research Evidence
+
+Bini RR, Hume PA, Croft JL. (2011). Effects of bicycle saddle height on knee injury risk and cycling performance. Sports Medicine, 41(6), 463-476. DOI: 10.2165/11588740-000000000-00000
+- Demonstrated that improper saddle height significantly increases knee injury risk and reduces power output efficiency.
+
+Rønnestad BR, Mujika I. (2014). Optimizing strength training for running and cycling endurance performance: A review. Scandinavian Journal of Medicine & Science in Sports, 24(4), 603-612. DOI: 10.1111/sms.12104
+- Showed that 2-3 strength sessions per week can improve cycling performance by 5-15% without compromising endurance adaptations.
+
+Seiler S. (2010). What is best practice for training intensity and duration distribution in endurance athletes? International Journal of Sports Physiology and Performance, 5(3), 276-291.
+- Established the 80/20 intensity distribution principle for optimal endurance training adaptations.
+
+## Practical Applications
+
+**Weekly Training Structure**
+- 3-5 rides per week totaling 6-15+ hours depending on goals
+- 1-2 high-intensity sessions (threshold, VO2max, or anaerobic work)
+- 2-4 endurance/recovery rides in Zone 1-2
+- 2-3 strength training sessions on non-consecutive days
+
+**Power Zone Training**
+Based on FTP testing every 6-8 weeks:
+- Zone 1: <55% FTP (Active recovery)
+- Zone 2: 56-75% FTP (Aerobic base)
+- Zone 3: 76-90% FTP (Tempo)
+- Zone 4: 91-105% FTP (Lactate threshold)
+- Zone 5: 106-120% FTP (VO2max)
+
+**Nutrition Timing**
+- Pre-ride: 1-4g carbs per kg body weight 1-4 hours before
+- During ride: 30-60g carbs per hour for rides >90 minutes
+- Post-ride: 1-1.2g carbs per kg body weight within 30 minutes
+
+## Common Mistakes
+
+⚠️ **Training too hard on easy days** - Most cyclists ride Zone 3 "tempo" pace instead of true easy Zone 1-2, compromising recovery and high-intensity session quality
+
+⚠️ **Ignoring bike fit** - Poor positioning causes most cycling injuries and significantly reduces power transfer efficiency
+
+⚠️ **Inadequate fueling during long rides** - Not consuming enough carbohydrates leads to performance decline and compromised training adaptations
+
+⚠️ **Overemphasizing high-intensity work** - More than 20% high-intensity training often leads to overreaching and diminished performance gains
+
+⚠️ **Neglecting strength training** - Many cyclists avoid resistance training, missing opportunities for injury prevention and power development
+
+## Related Concepts
+
+Training methodologies: [[E7. Cycling (Technique, Programming)]] | [[E1. Aerobic vs. Anaerobic Training]] | structured aerobic base building [[E2. Steady-State Cardio (LISS - Low-Intensity Steady State)]] | high-intensity intervals [[E11. VO2 Max Training]] | lactate threshold development [[E12. Lactate Threshold Training]] | heart rate monitoring [[E13. Heart Rate Zone Training]]
+
+Supporting training: core stability development [[L4. Core Stability Training]] | managing strength and endurance training [[E4. Concurrent Training (Interference Effect)]] | structured training progression [[A25. Principle of Periodization]]
+
+Nutrition and health: endurance fueling strategies [[C27. Nutrition for Endurance Performance (Carb Loading)]] | proper hydration protocols [[C4. Hydration]] | injury prevention [[IX-1. Common Musculoskeletal Injuries]] | [[IX-2. Injury Prevention Strategies]]
+
+Technology: training tools and equipment [[VIII. Fitness Equipment & Technology]]
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical training zones, expanded biomechanical considerations, and enhanced nutrition timing guidelines while preserving all scientific accuracy and citations

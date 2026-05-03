@@ -1,0 +1,90 @@
+### E4. Interval Training (General)
+**ID:** E4-INTERVAL-TRAINING
+**Created:** 2025-04-23 (Updated: 2025-01-20)
+
+## Quick Takeaway
+Interval training alternates high-intensity work periods with recovery periods, allowing you to accumulate more high-quality training volume than continuous exercise while targeting specific energy systems.
+
+## Key Points
+- Allows greater total high-intensity work volume compared to continuous training at the same intensity
+- Highly customizable through work/rest ratios, intensities, and durations to target specific adaptations
+- More time-efficient than steady-state training for improving both aerobic and anaerobic capacity
+- Work:rest ratio is the most critical variable - determines recovery quality and training stress
+- Can target everything from speed/power (short intervals) to aerobic capacity (longer intervals)
+
+## Deep Dive
+
+Interval training is a broad category of training that involves alternating periods of higher intensity exercise with periods of lower intensity exercise or rest. [[E3. High-Intensity Interval Training (HIIT)]] is a specific subset of interval training characterized by very high intensities and specific work:rest ratios.
+
+### Core Training Principle
+
+The fundamental advantage of interval training lies in its ability to allow individuals to perform greater amounts of high-intensity work than would be possible with continuous exercise at the same intensity (Billat, 2001). This occurs because the recovery periods allow for partial restoration of energy systems and clearance of metabolic byproducts.
+
+### Key Variables to Manipulate
+
+**Work Interval Intensity:**
+- Ranges from moderate (threshold pace - [[E12. Lactate Threshold Training]]) to maximal (sprint pace)
+- Determines primary energy system stressed and physiological adaptations
+- Higher intensities target anaerobic systems; moderate intensities stress aerobic systems
+
+**Work Interval Duration:**
+- Very short (<10 seconds): Targets phosphocreatine system and neuromuscular power
+- Short (10 seconds - 2 minutes): Emphasizes anaerobic glycolysis
+- Moderate (2-8 minutes): Stresses VO2max and aerobic power
+- Long (>8-10 minutes): Targets lactate threshold and aerobic capacity
+
+**Recovery Interval Management:**
+- **Intensity:** Passive rest vs. active recovery (light activity)
+- **Duration:** Determines degree of recovery between work bouts
+- **Work:Rest Ratio:** Critical variable affecting training stimulus and adaptation
+
+Active recovery may enhance lactate clearance but adds to overall training stress (Seiler & Tønnessen, 2009).
+
+**Volume Variables:**
+- **Number of repetitions:** Determines total high-intensity work volume
+- **Number of sets:** Allows grouping of intervals with extended recovery between sets
+
+## Research Evidence
+
+**Billat VL. (2001).** Interval training for performance: a scientific and empirical practice. Special recommendations for middle- and long-distance running. Part I: aerobic interval training. *Sports Medicine*, 31(1), 13-31.
+- Comprehensive review establishing that interval training allows greater training volume at high intensities
+- Demonstrated superior adaptations compared to continuous training for aerobic capacity
+
+**Seiler S, Tønnessen E. (2009).** Intervals, thresholds, and long slow distance: the role of intensity and duration in endurance training. *Sportscience*, 13, 32-53.
+- Analysis of elite endurance training showing 80% low-intensity, 20% high-intensity distribution
+- Highlighted importance of work:rest ratios in determining training adaptations
+
+## Practical Applications
+
+**Threshold Intervals (Aerobic Focus):**
+- Duration: 5-15 minutes per interval
+- Intensity: Lactate threshold pace (comfortably hard, sustainable for 30-60 minutes)
+- Recovery: 1:1 or 2:1 work:rest ratio
+- Example: 4 x 8 minutes at threshold pace with 4-minute active recovery
+
+**VO2max Intervals (Aerobic Power):**
+- Duration: 2-5 minutes per interval
+- Intensity: 90-100% of VO2max pace (very hard, sustainable for 6-8 minutes)
+- Recovery: 1:1 work:rest ratio typically optimal
+- Example: 5 x 3 minutes at VO2max pace with 3-minute recovery
+
+**Speed/Power Intervals (Anaerobic Focus):**
+- Duration: 10-30 seconds
+- Intensity: Near-maximal to maximal
+- Recovery: 1:3 to 1:5 work:rest ratio for full recovery
+- Example: 8 x 15 seconds all-out with 60-75 seconds complete rest
+
+## Common Mistakes
+
+⚠️ **Inadequate recovery between intervals** - leads to intensity decay and reduced training quality
+⚠️ **Wrong work:rest ratios** - using endurance ratios (1:1) for power work or power ratios (1:5) for aerobic intervals
+⚠️ **Inconsistent pacing** - starting too fast and fading, rather than maintaining target intensity throughout
+⚠️ **Ignoring total volume** - doing too many intervals in single sessions, compromising quality
+⚠️ **Poor intensity selection** - mixing different energy system targets within same workout
+
+## Related Concepts
+
+Understanding energy system contributions [[E1. Aerobic vs. Anaerobic Training]] helps determine appropriate interval structure. Specific high-intensity protocols are covered in [[E3. High-Intensity Interval Training (HIIT)]], while targeted approaches for aerobic development include [[E11. VO2 Max Training]] and [[E12. Lactate Threshold Training]]. Integration with overall training structure follows [[A25. Principle of Periodization]] and [[O1. Integrated Programming Considerations]].
+
+## Update Log
+- 2025-01-20: Restructured for accessibility, added practical protocols and common mistakes, expanded research evidence section
