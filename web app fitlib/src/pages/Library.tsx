@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useEffect } from 'react';
+import React, { useState, useMemo, useEffect, useRef } from 'react';
 import { KnowledgeGraph } from '../components/KnowledgeGraph';
 import { CitationCard } from '../components/CitationCard';
 import { nodeService } from '../services/nodeService';
@@ -14,6 +14,7 @@ import {
   Filter, 
   BookOpen, 
   ChevronRight,
+  ChevronLeft,
   Download,
   Share2,
   Bookmark,
@@ -25,6 +26,23 @@ import ReactMarkdown from 'react-markdown';
 import { motion, AnimatePresence } from 'motion/react';
 import { cn } from '../lib/utils';
 import { buildWikilinkResolver, convertWikilinksToMarkdown } from '../lib/wikilinks';
+
+interface ContentHeading {
+  id: string;
+  title: string;
+  level: number;
+}
+
+function normalizeHeadingId(value: string): string {
+  return value.toLowerCase().replace(/[^a-z0-9\s-]/g, '').trim().replace(/\s+/g, '-');
+}
+
+function headingText(children: React.ReactNode): string {
+  return React.Children.toArray(children)
+    .map((child) => (typeof child === 'string' ? child : ''))
+    .join(' ')
+    .trim();
+}
 
 export const Library: React.FC = () => {
   const FREE_NODE_LIMIT = 5;
@@ -55,7 +73,6 @@ export const Library: React.FC = () => {
         const data = await nodeService.searchNodes({
           search: debouncedSearchQuery || undefined,
           series: activeSeries || undefined,
-          limit: 150,
         });
         setNodes(data);
       } catch (error) {
@@ -126,6 +143,7 @@ export const Library: React.FC = () => {
   }, [filteredNodes]);
 
   const [selectedNodeDetail, setSelectedNodeDetail] = useState<NodeData | null>(null);
+  const drawerContentRef = useRef<HTMLDivElement | null>(null);
   const wikilinkResolver = useMemo(() => buildWikilinkResolver(nodes), [nodes]);
   const renderedMarkdown = useMemo(() => {
     if (!selectedNodeDetail) {
@@ -137,6 +155,24 @@ export const Library: React.FC = () => {
     () => (isPremium ? filteredNodes : filteredNodes.slice(0, FREE_NODE_LIMIT)),
     [filteredNodes, isPremium]
   );
+  const selectedNodeIndex = useMemo(
+    () => filteredNodes.findIndex((node) => node.id === selectedNodeId),
+    [filteredNodes, selectedNodeId]
+  );
+  const contentHeadings = useMemo<ContentHeading[]>(() => {
+    if (!selectedNodeDetail?.content) return [];
+    return selectedNodeDetail.content
+      .split('\n')
+      .map((line) => line.trim())
+      .filter((line) => line.startsWith('#'))
+      .map((line) => {
+        const level = line.match(/^#+/)?.[0].length || 1;
+        const title = line.replace(/^#+\s*/, '').trim();
+        const id = normalizeHeadingId(title);
+        return { id, title, level };
+      })
+      .filter((heading) => heading.title.length > 0 && heading.level <= 3);
+  }, [selectedNodeDetail]);
 
   const handleNodeAccess = (nodeId: string) => {
     if (!isPremium && !accessibleNodes.some((node) => node.id === nodeId)) {
@@ -144,6 +180,20 @@ export const Library: React.FC = () => {
       return;
     }
     setSelectedNodeId(nodeId);
+  };
+  const handleRelativeNavigation = (direction: -1 | 1) => {
+    if (selectedNodeIndex < 0) return;
+    const nextNode = filteredNodes[selectedNodeIndex + direction];
+    if (nextNode) {
+      handleNodeAccess(nextNode.id);
+    }
+  };
+  const jumpToHeading = (headingId: string) => {
+    if (!drawerContentRef.current) return;
+    const target = drawerContentRef.current.querySelector(`#${headingId}`);
+    if (target instanceof HTMLElement) {
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
   };
 
   useEffect(() => {
@@ -428,15 +478,62 @@ export const Library: React.FC = () => {
                 </div>
               </div>
               <div className="flex gap-2">
+                 <button
+                   onClick={() => handleRelativeNavigation(-1)}
+                   disabled={selectedNodeIndex <= 0}
+                   className="p-2 hover:bg-slate-800 rounded-lg transition-colors text-slate-400 disabled:opacity-40"
+                 >
+                   <ChevronLeft className="w-5 h-5" />
+                 </button>
+                 <button
+                   onClick={() => handleRelativeNavigation(1)}
+                   disabled={selectedNodeIndex === -1 || selectedNodeIndex >= filteredNodes.length - 1}
+                   className="p-2 hover:bg-slate-800 rounded-lg transition-colors text-slate-400 disabled:opacity-40"
+                 >
+                   <ChevronRight className="w-5 h-5" />
+                 </button>
                  <button className="p-2 hover:bg-slate-800 rounded-lg transition-colors text-slate-400"><Bookmark className="w-5 h-5" /></button>
                  <button className="p-2 hover:bg-slate-800 rounded-lg transition-colors text-slate-400"><Share2 className="w-5 h-5" /></button>
               </div>
             </div>
 
-            <div className="flex-1 overflow-y-auto p-10">
+            <div ref={drawerContentRef} className="flex-1 overflow-y-auto p-10">
+              {contentHeadings.length > 0 && (
+                <div className="mb-8">
+                  <h3 className="text-xs font-bold text-slate-500 uppercase tracking-widest mb-3">In this file</h3>
+                  <div className="flex flex-wrap gap-2">
+                    {contentHeadings.slice(0, 12).map((heading) => (
+                      <button
+                        key={heading.id}
+                        onClick={() => jumpToHeading(heading.id)}
+                        className={cn(
+                          "text-xs px-2 py-1 rounded border transition-colors",
+                          heading.level === 1
+                            ? "border-blue-500/50 text-blue-300"
+                            : "border-slate-700 text-slate-400 hover:text-slate-200"
+                        )}
+                      >
+                        {heading.title}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              )}
               <div className="markdown-body prose prose-invert prose-blue max-w-none mb-16">
                  <ReactMarkdown
                    components={{
+                    h1: ({ children }) => {
+                      const id = normalizeHeadingId(headingText(children));
+                      return <h1 id={id}>{children}</h1>;
+                    },
+                    h2: ({ children }) => {
+                      const id = normalizeHeadingId(headingText(children));
+                      return <h2 id={id}>{children}</h2>;
+                    },
+                    h3: ({ children }) => {
+                      const id = normalizeHeadingId(headingText(children));
+                      return <h3 id={id}>{children}</h3>;
+                    },
                     a: ({ href, children }) => {
                       if (href?.startsWith('fitlib://node/')) {
                         const nodeId = decodeURIComponent(href.replace('fitlib://node/', ''));

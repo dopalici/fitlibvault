@@ -1,6 +1,54 @@
 # FITLIB Development Progress
 
-*Last Updated: April 5, 2026*
+*Last Updated: May 5, 2026*
+
+## Current Snapshot (Condensed)
+
+### What is now fully implemented
+
+- Static content bridge for full vault coverage:
+  - all markdown files extracted into web-ready JSON
+  - generated outputs:
+    - `public/content/index.json`
+    - `public/content/series/*.json`
+    - `public/content/nodes/*.json`
+- Library now loads all matching files (no forced 150-item cap).
+- In-drawer navigation improved:
+  - in-file heading jump list (`In this file`)
+  - previous/next topic navigation controls
+  - wikilink rendering with internal node navigation
+  - linked-node prefetching for faster navigation
+- Build pipeline updated:
+  - `npm run content:build` generates bridge content
+  - `npm run build` now runs content build + Vite build
+- Frontend deployment prep:
+  - `vercel.json` SPA rewrite config added
+  - Vercel deployment checklist document added
+
+### Verified status
+
+- `npm run lint` passes
+- `npm run build` passes
+- content generation latest run:
+  - 2027 nodes extracted
+  - 1414 citations parsed
+  - 20782 / 27191 wikilinks resolved
+  - 5 series chunks generated
+
+### Still pending / blockers
+
+- Vercel CLI deployment requires account login completion.
+- Production API topology still needs final decision:
+  - separate backend host for `server.ts`, or
+  - migrate `/api/*` endpoints to platform-native serverless.
+- Admin import to Firestore requires `FIREBASE_SERVICE_ACCOUNT_KEY` at runtime.
+
+### Immediate next steps
+
+1. Complete Vercel login and run `vercel pull` + first deploy.
+2. Finalize backend hosting approach for `/api/*` routes.
+3. Set production env vars in Vercel + backend host.
+4. Run smoke test: `/library` load, search, node detail, wikilink navigation.
 
 ## Phase 2 Build Status: ✅ COMPLETE
 

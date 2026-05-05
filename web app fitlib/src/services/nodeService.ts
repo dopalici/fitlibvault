@@ -123,10 +123,13 @@ export const nodeService = {
     if (bridgeIndex?.nodes) {
       const filtered = bridgeIndex.nodes
         .filter((node) => (!params.series ? true : node.series === params.series))
-        .filter((node) => matchesSearch(node, params.search))
-        .slice(0, params.limit || 50);
+        .filter((node) => matchesSearch(node, params.search));
 
-      return filtered.map((node) => ({
+      const sliced = typeof params.limit === 'number'
+        ? filtered.slice(0, params.limit)
+        : filtered;
+
+      return sliced.map((node) => ({
         ...node,
         content: node.excerpt,
         citations: [],
@@ -140,7 +143,9 @@ export const nodeService = {
     if (params.series) {
       queryParams.set('series', params.series);
     }
-    queryParams.set('limit', String(params.limit || 50));
+    if (typeof params.limit === 'number') {
+      queryParams.set('limit', String(params.limit));
+    }
 
     try {
       const response = await fetch(getApiUrl(`/api/nodes?${queryParams.toString()}`));
