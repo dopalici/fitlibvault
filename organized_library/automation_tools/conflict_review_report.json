@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-05-05",
+  "semantic_conflicts_count": 3,
+  "punctuation_only_conflicts_count": 2,
+  "semantic_conflicts": [
+    {
+      "id": "C5",
+      "titles": [
+        "C5. Electrolytes",
+        "C5. Pre, During, and Post-Exercise Nutrition"
+      ],
+      "files": [
+        "C5. Electrolytes.md",
+        "C5. Pre, During, and Post-Exercise Nutrition.md",
+        "organized_library/nutrition_diet/C5. Electrolytes.md",
+        "organized_library/nutrition_diet/C5. Pre, During, and Post-Exercise Nutrition.md"
+      ]
+    },
+    {
+      "id": "X15",
+      "titles": [
+        "X15. Extreme Heat Training",
+        "X15. Soccer_Football Training"
+      ],
+      "files": [
+        "X15. Extreme Heat Training.md",
+        "X15. Soccer_Football Training.md",
+        "organized_library/sports_specific/X15. Soccer_Football Training.md"
+      ]
+    },
+    {
+      "id": "E4",
+      "titles": [
+        "E4. Concurrent Training (Interference Effect)",
+        "E4. Interval Training (General)"
+      ],
+      "files": [
+        "E4. Concurrent Training (Interference Effect).md",
+        "E4. Interval Training (General).md",
+        "organized_library/cardiovascular_training/E4. Concurrent Training (Interference Effect).md",
+        "organized_library/cardiovascular_training/E4. Interval Training (General).md"
+      ]
+    }
+  ],
+  "punctuation_only_conflicts": [
+    {
+      "id": "B15",
+      "titles": [
+        "B15 Olympic Weightlifting",
+        "B15. Olympic Weightlifting"
+      ],
+      "files": [
+        "B15 Olympic Weightlifting.md",
+        "B15. Olympic Weightlifting.md",
+        "organized_library/resistance_training/B15 Olympic Weightlifting.md",
+        "organized_library/resistance_training/B15. Olympic Weightlifting.md"
+      ]
+    },
+    {
+      "id": "IX-6",
+      "titles": [
+        "IX-6 Exercise Contraindications",
+        "IX-6. Exercise Contraindications"
+      ],
+      "files": [
+        "IX-6 Exercise Contraindications.md",
+        "IX-6. Exercise Contraindications.md",
+        "organized_library/health_conditions/IX-6 Exercise Contraindications.md",
+        "organized_library/health_conditions/IX-6. Exercise Contraindications.md"
+      ]
+    }
+  ]
+}

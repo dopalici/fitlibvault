@@ -10,7 +10,16 @@ const EXCLUDED_DIRS = new Set([
   'node_modules',
   '.cursor',
   'web app fitlib/dist',
+  'organized_library/automation_tools',
 ]);
+
+interface MarkdownCandidate {
+  filePath: string;
+  relativePath: string;
+  content: string;
+  title: string;
+  id: string;
+}
 
 export interface VaultMetadata {
   version: string;
@@ -49,6 +58,19 @@ function extractSectionContent(content: string, sectionName: string): string {
   const regex = new RegExp(`## ${sectionName}\\n([\\s\\S]*?)(?=##|$)`, 'i');
   const match = content.match(regex);
   return match ? match[1].trim() : '';
+}
+
+function extractExplicitId(content: string): string | null {
+  const idMatch = content.match(/\*\*ID:\*\*\s*([^\n*]+?)(?:\s+\*\*Created:|\s*$)/i);
+  if (!idMatch?.[1]) return null;
+  const normalized = idMatch[1]
+    .trim()
+    .replace(/\s+/g, '-')
+    .replace(/[^A-Za-z0-9-]/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .toUpperCase();
+  return normalized || null;
 }
 
 function extractCitations(content: string): Citation[] {
@@ -137,11 +159,21 @@ function collectMarkdownFiles(dir: string, baseDir = dir): string[] {
   return files;
 }
 
-function deriveNodeId(relativePath: string, title: string): string {
+function deriveNodeId(relativePath: string, title: string, content?: string): string {
+  const explicitId = content ? extractExplicitId(content) : null;
+  if (explicitId) {
+    return explicitId;
+  }
+
   const filename = path.basename(relativePath, '.md');
+  const dottedIdMatch = filename.match(/^([A-Z]{1,4}-?\d+(?:\.\d+)+)\b/i);
+  if (dottedIdMatch) {
+    return dottedIdMatch[1].toUpperCase().replace(/\./g, '-');
+  }
+
   const idMatch = filename.match(/^([A-Z]{1,4}-?\d+)\b/i);
   if (idMatch) {
-    return idMatch[1].toUpperCase();
+    return idMatch[1].toUpperCase().replace(/\./g, '-');
   }
 
   const slug = relativePath
@@ -155,12 +187,105 @@ function deriveNodeId(relativePath: string, title: string): string {
   return slug || title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
 }
 
+function isBackupPath(relativePath: string): boolean {
+  return relativePath.includes('original_backup/') || /_backup\.md$/i.test(relativePath);
+}
+
+function isRewrittenPath(relativePath: string): boolean {
+  const filename = path.basename(relativePath);
+  return relativePath.includes('/rewritten_') || filename.startsWith('rewritten_');
+}
+
+function candidatePriority(relativePath: string): number {
+  // Prefer canonical vault files (repo root) over organized/archive copies.
+  if (relativePath.startsWith('organized_library/')) return 10;
+  return 100;
+}
+
+function normalizeLeadingIdTitle(title: string): string {
+  return title
+    .replace(/^([A-Z]{1,4}-?\d+)\.\s+/i, '$1 ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .toLowerCase();
+}
+
+function hasDottedIdPrefix(value: string): boolean {
+  return /^([A-Z]{1,4}-?\d+)\.\s+/i.test(value);
+}
+
+function shouldReplaceCandidate(nextDoc: MarkdownCandidate, currentDoc: MarkdownCandidate): boolean {
+  const nextPriority = candidatePriority(nextDoc.relativePath);
+  const currentPriority = candidatePriority(currentDoc.relativePath);
+  if (nextPriority !== currentPriority) return nextPriority > currentPriority;
+
+  // If these are punctuation-only title variants, prefer dotted canonical style ("B15. ...").
+  const nextNormalizedTitle = normalizeLeadingIdTitle(nextDoc.title);
+  const currentNormalizedTitle = normalizeLeadingIdTitle(currentDoc.title);
+  if (nextNormalizedTitle === currentNormalizedTitle) {
+    const nextIsDotted = hasDottedIdPrefix(nextDoc.title);
+    const currentIsDotted = hasDottedIdPrefix(currentDoc.title);
+    if (nextIsDotted !== currentIsDotted) return nextIsDotted;
+  }
+
+  if (nextDoc.relativePath.length !== currentDoc.relativePath.length) {
+    return nextDoc.relativePath.length < currentDoc.relativePath.length;
+  }
+  return nextDoc.relativePath < currentDoc.relativePath;
+}
+
 export async function extractVault(): Promise<ExportData> {
   if (!fs.existsSync(VAULT_PATH)) {
     throw new Error(`Vault not found at ${VAULT_PATH}`);
   }
 
   const markdownPaths = collectMarkdownFiles(VAULT_PATH);
+  const candidates: MarkdownCandidate[] = [];
+  const ignoredBackupOrRewritten: string[] = [];
+
+  markdownPaths.forEach((filePath) => {
+    const relativePath = path.relative(VAULT_PATH, filePath).replace(/\\/g, '/');
+    if (isBackupPath(relativePath) || isRewrittenPath(relativePath)) {
+      ignoredBackupOrRewritten.push(relativePath);
+      return;
+    }
+
+    const content = fs.readFileSync(filePath, 'utf-8');
+    const filename = path.basename(filePath, '.md');
+    const heading = content.match(/^#\s+(.+)$/m)?.[1]?.trim();
+    const title = heading || filename;
+    const id = deriveNodeId(relativePath, title, content);
+    candidates.push({ filePath, relativePath, content, title, id });
+  });
+
+  const preferredDocsById = new Map<string, MarkdownCandidate>();
+  const overriddenDocs: Array<{ id: string; preferred: string; discarded: string }> = [];
+
+  candidates.forEach((candidate) => {
+    const existing = preferredDocsById.get(candidate.id);
+    if (!existing) {
+      preferredDocsById.set(candidate.id, candidate);
+      return;
+    }
+
+    if (shouldReplaceCandidate(candidate, existing)) {
+      overriddenDocs.push({
+        id: candidate.id,
+        preferred: candidate.relativePath,
+        discarded: existing.relativePath,
+      });
+      preferredDocsById.set(candidate.id, candidate);
+      return;
+    }
+
+    overriddenDocs.push({
+      id: candidate.id,
+      preferred: existing.relativePath,
+      discarded: candidate.relativePath,
+    });
+  });
+
+  const selectedDocs = Array.from(preferredDocsById.values());
   const nodes: NodeData[] = [];
   const aliasToId = new Map<string, string>();
   const brokenLinks: Array<{ source_node: string; broken_link: string; issue: string }> = [];
@@ -168,38 +293,32 @@ export async function extractVault(): Promise<ExportData> {
   let resolvedWikilinks = 0;
 
   // First pass: build aliases and IDs for all markdown docs.
-  markdownPaths.forEach(filePath => {
-    const relativePath = path.relative(VAULT_PATH, filePath).replace(/\\/g, '/');
-    const raw = fs.readFileSync(filePath, 'utf-8');
-    const filename = path.basename(filePath, '.md');
-    const heading = raw.match(/^#\s+(.+)$/m)?.[1]?.trim();
-    const title = heading || filename;
-    const id = deriveNodeId(relativePath, title);
+  selectedDocs.forEach((doc) => {
+    const filename = path.basename(doc.filePath, '.md');
 
     const aliases = new Set([
       filename,
-      title,
+      doc.title,
       `${filename}.md`,
-      `${title}.md`,
-      relativePath,
-      relativePath.replace(/\.md$/i, ''),
+      `${doc.title}.md`,
+      doc.relativePath,
+      doc.relativePath.replace(/\.md$/i, ''),
     ]);
 
     const idPrefix = filename.match(/^([A-Z]{1,4}-?\d+)\b/i)?.[1];
-    if (idPrefix) aliases.add(idPrefix.toUpperCase());
+    if (idPrefix) {
+      aliases.add(idPrefix.toUpperCase());
+    }
 
-    aliases.forEach((alias) => aliasToId.set(normalizeAlias(alias), id));
+    aliases.forEach((alias) => aliasToId.set(normalizeAlias(alias), doc.id));
   });
 
   // Second pass: extract content.
-  markdownPaths.forEach(filePath => {
-    const relativePath = path.relative(VAULT_PATH, filePath).replace(/\\/g, '/');
-    const content = fs.readFileSync(filePath, 'utf-8');
+  selectedDocs.forEach((doc) => {
+    const content = doc.content;
     const frontmatter = extractFrontmatter(content);
-    const fileTitle = path.basename(filePath, '.md');
-    const heading = content.match(/^#\s+(.+)$/m)?.[1]?.trim();
-    const title = heading || fileTitle;
-    const id = deriveNodeId(relativePath, title);
+    const id = doc.id;
+    const title = doc.title;
     const seriesCandidate = (id.match(/^([A-Z])/i)?.[1] || 'Other').toUpperCase();
     const series = ['A', 'B', 'C', 'E'].includes(seriesCandidate)
       ? (seriesCandidate as 'A' | 'B' | 'C' | 'E')
@@ -277,6 +396,12 @@ export async function extractVault(): Promise<ExportData> {
   console.log(`✅ Extracted ${nodes.length} nodes from Obsidian vault`);
   console.log(`✅ Total citations: ${exportData.metadata.total_citations}`);
   console.log(`✅ Wikilinks resolved: ${resolvedWikilinks}/${totalWikilinks}`);
+  if (ignoredBackupOrRewritten.length > 0) {
+    console.log(`ℹ️ Ignored ${ignoredBackupOrRewritten.length} backup/rewritten markdown files`);
+  }
+  if (overriddenDocs.length > 0) {
+    console.log(`ℹ️ Resolved ${overriddenDocs.length} duplicate ID candidates using canonical path priority`);
+  }
   console.log(`✅ Export saved to ${OUTPUT_PATH}`);
 
   return exportData;
