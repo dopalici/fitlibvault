@@ -1,0 +1,63 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // 0. Default Deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // --- Helpers ---
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    // 1. Nodes (Public Library)
+    match /nodes/{nodeId} {
+      allow read: if true; // Publicly accessible research
+      // Only admins (defined in /admins collection) can write
+      allow write: if isSignedIn() && exists(/databases/$(database)/documents/admins/$(request.auth.uid));
+
+      match /citations/{citationId} {
+        allow read: if true;
+        allow write: if isSignedIn() && exists(/databases/$(database)/documents/admins/$(request.auth.uid));
+      }
+    }
+
+    // 2. User Profiles
+    match /users/{userId} {
+      allow get: if isOwner(userId);
+      allow list: if false; // Users cannot be listed
+      allow create: if isOwner(userId) && isValidUser(request.resource.data);
+      allow update: if isOwner(userId) && isValidUserUpdate();
+    }
+
+    function isValidUser(data) {
+      return data.keys().hasAll(['email', 'streak', 'totalReadingTime']) &&
+             data.email is string &&
+             data.streak is number &&
+             data.totalReadingTime is number;
+    }
+
+    function isValidUserUpdate() {
+      // Prevent identity spoofing
+      return incoming().email == existing().email &&
+             incoming().diff(existing()).affectedKeys().hasOnly(['streak', 'totalReadingTime', 'favorites', 'seriesProgress', 'lastActive']);
+    }
+  }
+}

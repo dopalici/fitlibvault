@@ -1,0 +1,57 @@
+# Context Budget Protection for Cline
+# This file works like .gitignore and prevents Cline from reading heavy files
+
+# Node dependencies (biggest offender)
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn.lock
+
+# Build outputs and caches
+dist/
+build/
+.next/
+.cache/
+*.tsbuildinfo
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+firebase-applet-config.json
+firebase-blueprint.json
+
+# Git and VCS
+.git/
+.gitignore
+.github/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Large data files and databases
+*.db
+*.sqlite
+*.sql
+*.csv
+data/large-*.json
+src/data/mock*.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Dependencies of dependencies (deeply nested)
+**/.git/
+**/node_modules/
