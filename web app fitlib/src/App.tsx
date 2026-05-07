@@ -9,54 +9,106 @@ import { Dashboard } from './pages/Dashboard';
 import { About } from './pages/About';
 import { Landing } from './pages/Landing';
 import { cn } from './lib/utils';
-import { LayoutDashboard, Library as LibraryIcon, Info, Home } from 'lucide-react';
+import { Moon, Sun } from 'lucide-react';
+import { useTheme } from './lib/theme';
 
-function Navigation() {
+function TopBar() {
   const location = useLocation();
+  const [theme, , toggleTheme] = useTheme();
+
+  // Landing pages get to own their own chrome — the breadcrumb bar is for the
+  // working surfaces (Library / Dashboard / Transparency).
+  if (location.pathname === '/') return null;
 
   const navItems = [
-    { path: '/library', label: 'Library', icon: LibraryIcon },
-    { path: '/dashboard', label: 'Dashboard', icon: LayoutDashboard },
-    { path: '/about', label: 'Transparency', icon: Info },
+    { path: '/library', label: 'Library' },
+    { path: '/dashboard', label: 'Dashboard' },
+    { path: '/about', label: 'Transparency' },
   ];
 
   return (
-    <nav className="fixed bottom-6 left-1/2 -translate-x-1/2 bg-slate-900/80 backdrop-blur-xl border border-slate-800 px-2 py-2 rounded-2xl flex items-center gap-1 z-[100] shadow-2xl">
-      {navItems.map((item) => {
-        const isActive = location.pathname === item.path;
-        return (
-          <Link
-            key={item.path}
-            to={item.path}
-            className={cn(
-              "flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-bold transition-all",
-              isActive 
-                ? "bg-blue-600 text-white shadow-lg shadow-blue-500/20" 
-                : "text-slate-400 hover:text-slate-200 hover:bg-slate-800"
-            )}
+    <header
+      className="sticky top-0 z-50 h-12 flex items-center justify-between px-6"
+      style={{
+        background: 'color-mix(in oklab, var(--paper) 92%, transparent)',
+        borderBottom: '1px solid var(--hairline)',
+        backdropFilter: 'blur(8px)',
+      }}
+    >
+      <div className="flex items-center gap-2 min-w-0">
+        <Link
+          to="/"
+          className="flex items-center gap-2 shrink-0"
+          aria-label="FitLib home"
+        >
+          <span
+            className="w-6 h-6 rounded-md flex items-center justify-center font-black italic text-[11px]"
+            style={{ background: 'var(--accent)', color: 'var(--paper)' }}
           >
-            <item.icon className="w-4 h-4" />
-            <span className="hidden md:inline">{item.label}</span>
-          </Link>
-        );
-      })}
-    </nav>
+            F
+          </span>
+          <span
+            className="text-sm font-semibold tracking-tight"
+            style={{ color: 'var(--ink-strong)' }}
+          >
+            FitLib
+          </span>
+        </Link>
+        <span style={{ color: 'var(--ink-faint)' }}>/</span>
+        <nav className="flex items-center gap-1 min-w-0 overflow-x-auto">
+          {navItems.map((item) => {
+            const isActive = location.pathname.startsWith(item.path);
+            return (
+              <Link
+                key={item.path}
+                to={item.path}
+                className={cn(
+                  'px-2.5 py-1 rounded-md text-sm transition-colors whitespace-nowrap',
+                  isActive ? 'font-semibold' : 'hover:bg-[var(--paper-elevated)]'
+                )}
+                style={{
+                  color: isActive ? 'var(--ink-strong)' : 'var(--ink-muted)',
+                }}
+              >
+                {item.label}
+              </Link>
+            );
+          })}
+        </nav>
+      </div>
+
+      <div className="flex items-center gap-2">
+        <button
+          onClick={() => toggleTheme()}
+          aria-label={`Switch to ${theme === 'dark' ? 'light' : 'dark'} theme`}
+          className="p-2 rounded-md transition-colors hover:bg-[var(--paper-elevated)]"
+          style={{ color: 'var(--ink-muted)' }}
+          title={`Switch to ${theme === 'dark' ? 'light' : 'dark'} theme`}
+        >
+          {theme === 'dark' ? <Sun className="w-4 h-4" /> : <Moon className="w-4 h-4" />}
+        </button>
+      </div>
+    </header>
   );
 }
 
 export default function App() {
   return (
     <Router>
-      <main className="relative min-h-screen bg-slate-950">
-        <Routes>
-          <Route path="/" element={<Landing />} />
-          <Route path="/library" element={<Library />} />
-          <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/about" element={<About />} />
-        </Routes>
-        <Navigation />
+      <main
+        className="relative min-h-screen flex flex-col"
+        style={{ background: 'var(--paper)' }}
+      >
+        <TopBar />
+        <div className="flex-1 min-h-0 flex flex-col">
+          <Routes>
+            <Route path="/" element={<Landing />} />
+            <Route path="/library" element={<Library />} />
+            <Route path="/dashboard" element={<Dashboard />} />
+            <Route path="/about" element={<About />} />
+          </Routes>
+        </div>
       </main>
     </Router>
   );
 }
-

@@ -187,6 +187,48 @@ function deriveNodeId(relativePath: string, title: string, content?: string): st
   return slug || title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
 }
 
+// Section headings used by the structured note schema. These are *not* note
+// titles, even though they sit at the same markdown level — the title-fix
+// must look past them.
+const STRUCTURED_SECTION_HEADINGS = new Set([
+  'quick takeaway',
+  'key points',
+  'deep dive',
+  'research evidence',
+  'evidence',
+  'practical applications',
+  'common mistakes',
+  'related concepts',
+  'update log',
+  'note',
+]);
+
+function findStructuredTitle(content: string): string | null {
+  // Prefer the first level-3 heading (canonical: `### Title`). Fall back to
+  // the level-1 heading. In both cases, skip headings whose normalized text
+  // matches a known section name.
+  const lines = content.split('\n');
+  // Pass 1: level 3
+  for (const line of lines) {
+    const m = line.match(/^###\s+(.+?)\s*$/);
+    if (!m) continue;
+    const text = m[1].trim();
+    const stripped = text.replace(/^[A-Z]{1,4}-?\d+(?:\.\d+)*\.\s*/, '').toLowerCase();
+    if (STRUCTURED_SECTION_HEADINGS.has(stripped)) continue;
+    if (STRUCTURED_SECTION_HEADINGS.has(text.toLowerCase())) continue;
+    return text;
+  }
+  // Pass 2: level 2 (some rewrites use `##` as the title bar)
+  for (const line of lines) {
+    const m = line.match(/^##\s+(.+?)\s*$/);
+    if (!m) continue;
+    const text = m[1].trim();
+    if (STRUCTURED_SECTION_HEADINGS.has(text.toLowerCase())) continue;
+    return text;
+  }
+  return null;
+}
+
 function isBackupPath(relativePath: string): boolean {
   return relativePath.includes('original_backup/') || /_backup\.md$/i.test(relativePath);
 }
@@ -252,8 +294,22 @@ export async function extractVault(): Promise<ExportData> {
 
     const content = fs.readFileSync(filePath, 'utf-8');
     const filename = path.basename(filePath, '.md');
+
+    // Prefer the title declared inside the rewritten note body when the file
+    // also carries an explicit `**ID:**` line (the rewritten-vault variant).
+    // Without this, files whose filename was never updated after a rewrite
+    // surface a stale title in the reader (e.g. "A58. Training Monitoring"
+    // showing instead of "A58. Cellular Autophagy Enhancement").
+    //
+    // Important: the structured schema lays out section headings as `##`
+    // ("Quick Takeaway", "Key Points", etc.). We must skip those when looking
+    // for the title — otherwise an `## Quick Takeaway` ends up as the note's
+    // displayed name. Look only at the highest-level heading present (#, then
+    // ###) and reject section names explicitly.
+    const explicitId = extractExplicitId(content);
+    const structuredTitle = explicitId ? findStructuredTitle(content) : null;
     const heading = content.match(/^#\s+(.+)$/m)?.[1]?.trim();
-    const title = heading || filename;
+    const title = structuredTitle || heading || filename;
     const id = deriveNodeId(relativePath, title, content);
     candidates.push({ filePath, relativePath, content, title, id });
   });
@@ -285,7 +341,32 @@ export async function extractVault(): Promise<ExportData> {
     });
   });
 
-  const selectedDocs = Array.from(preferredDocsById.values());
+  // Title-based dedupe: when two distinct ids end up with the same display
+  // title (e.g. `A3-MACRONUTRIENTS` from the rewritten file and `A3` from a
+  // legacy filename-only copy), prefer the one whose source carried an
+  // explicit `**ID:**` line — that's the canonical rewrite. The discarded
+  // copy still contributes its filename to the alias map below so any
+  // wikilink that targeted the legacy slug still resolves.
+  const docsByTitle = new Map<string, MarkdownCandidate>();
+  const titleAliasFallback: MarkdownCandidate[] = [];
+  preferredDocsById.forEach((candidate) => {
+    const titleKey = candidate.title.trim().toLowerCase();
+    const existing = docsByTitle.get(titleKey);
+    if (!existing) {
+      docsByTitle.set(titleKey, candidate);
+      return;
+    }
+    const existingHasId = Boolean(extractExplicitId(existing.content));
+    const candidateHasId = Boolean(extractExplicitId(candidate.content));
+    if (candidateHasId && !existingHasId) {
+      titleAliasFallback.push(existing);
+      docsByTitle.set(titleKey, candidate);
+    } else {
+      titleAliasFallback.push(candidate);
+    }
+  });
+
+  const selectedDocs = Array.from(docsByTitle.values());
   const nodes: NodeData[] = [];
   const aliasToId = new Map<string, string>();
   const brokenLinks: Array<{ source_node: string; broken_link: string; issue: string }> = [];
@@ -293,9 +374,8 @@ export async function extractVault(): Promise<ExportData> {
   let resolvedWikilinks = 0;
 
   // First pass: build aliases and IDs for all markdown docs.
-  selectedDocs.forEach((doc) => {
+  const buildAliases = (doc: MarkdownCandidate): Set<string> => {
     const filename = path.basename(doc.filePath, '.md');
-
     const aliases = new Set([
       filename,
       doc.title,
@@ -304,13 +384,24 @@ export async function extractVault(): Promise<ExportData> {
       doc.relativePath,
       doc.relativePath.replace(/\.md$/i, ''),
     ]);
-
     const idPrefix = filename.match(/^([A-Z]{1,4}-?\d+)\b/i)?.[1];
-    if (idPrefix) {
-      aliases.add(idPrefix.toUpperCase());
-    }
+    if (idPrefix) aliases.add(idPrefix.toUpperCase());
+    return aliases;
+  };
 
-    aliases.forEach((alias) => aliasToId.set(normalizeAlias(alias), doc.id));
+  selectedDocs.forEach((doc) => {
+    buildAliases(doc).forEach((alias) => aliasToId.set(normalizeAlias(alias), doc.id));
+  });
+
+  // Title-dedupe fallback: ensure aliases of the discarded twin still point
+  // to the kept id, otherwise wikilinks that used the legacy slug 404.
+  titleAliasFallback.forEach((discarded) => {
+    const survivorId = docsByTitle.get(discarded.title.trim().toLowerCase())?.id;
+    if (!survivorId) return;
+    buildAliases(discarded).forEach((alias) => {
+      const key = normalizeAlias(alias);
+      if (!aliasToId.has(key)) aliasToId.set(key, survivorId);
+    });
   });
 
   // Second pass: extract content.

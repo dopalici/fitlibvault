@@ -1,7 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
 import { GraphNode, GraphLink } from '../types';
-import { motion } from 'motion/react';
 
 interface KnowledgeGraphProps {
   nodes: GraphNode[];
@@ -9,12 +8,17 @@ interface KnowledgeGraphProps {
   onNodeClick: (nodeId: string) => void;
 }
 
+// Resolved off the live theme tokens at render time so dark/light flips
+// are picked up automatically. The `series` palette deliberately sits in
+// muted tones — the graph is reference, not poster art.
 const SERIES_COLORS: Record<string, string> = {
-  A: '#3B82F6', // Foundational
-  B: '#10B981', // Resistance Training
-  C: '#F59E0B', // Nutrition
-  E: '#EF4444', // Cardiovascular
-  Other: '#8B5CF6', // Other
+  A: '#7DB7FF',
+  B: '#7BC9A2',
+  C: '#E0B179',
+  D: '#B8A4DA',
+  E: '#E07B7B',
+  F: '#E6C77A',
+  Other: '#8E94A0',
 };
 
 export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ nodes, links, onNodeClick }) => {
@@ -46,9 +50,15 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ nodes, links, on
       .force('center', d3.forceCenter(width / 2, height / 2))
       .force('collision', d3.forceCollide().radius(d => (d as GraphNode).credibilityScore * 15 + 10));
 
+    const styles = getComputedStyle(document.documentElement);
+    const inkFaint = styles.getPropertyValue('--ink-faint').trim() || '#6A707A';
+    const inkMuted = styles.getPropertyValue('--ink-muted').trim() || '#A0A4AC';
+    const inkStrong = styles.getPropertyValue('--ink-strong').trim() || '#FFFFFF';
+    const paper = styles.getPropertyValue('--paper').trim() || '#0F1115';
+
     const link = g.append('g')
-      .attr('stroke', '#94a3b8')
-      .attr('stroke-opacity', 0.6)
+      .attr('stroke', inkFaint)
+      .attr('stroke-opacity', 0.45)
       .selectAll('line')
       .data(links)
       .join('line')
@@ -66,25 +76,25 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ nodes, links, on
         .on('end', dragended));
 
     node.append('circle')
-      .attr('r', d => 5 + (d.credibilityScore * 15))
+      .attr('r', d => 4 + (d.credibilityScore * 12))
       .attr('fill', d => SERIES_COLORS[d.series] || SERIES_COLORS.Other)
-      .attr('stroke', '#fff')
-      .attr('stroke-width', 2);
+      .attr('stroke', paper)
+      .attr('stroke-width', 1.5);
 
-    node.append('title')
-      .text(d => d.title);
+    node.append('title').text(d => d.title);
 
     node.append('text')
       .attr('dy', '.35em')
-      .attr('x', d => 8 + (d.credibilityScore * 15))
+      .attr('x', d => 8 + (d.credibilityScore * 12))
       .text(d => d.title)
       .style('font-size', '10px')
-      .style('fill', '#e2e8f0')
+      .style('font-family', 'var(--font-sans), sans-serif')
+      .style('fill', inkMuted)
       .style('pointer-events', 'none')
       .style('opacity', 0)
       .transition()
       .duration(500)
-      .style('opacity', 0.8);
+      .style('opacity', 0.85);
 
     simulation.on('tick', () => {
       link
@@ -120,10 +130,32 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ nodes, links, on
   }, [nodes, links, onNodeClick]);
 
   return (
-    <div ref={containerRef} className="w-full h-full bg-slate-950 overflow-hidden relative">
+    <div
+      ref={containerRef}
+      className="w-full h-full overflow-hidden relative"
+      style={{ background: 'var(--paper)' }}
+    >
       <svg ref={svgRef} className="w-full h-full" />
-      <div className="absolute top-4 left-4 text-slate-400 bg-slate-900/50 p-2 rounded-md backdrop-blur-sm border border-slate-800 text-xs">
-        <p>A: Foundational | B: Resistance | C: Nutrition | E: Cardiovascular</p>
+      <div
+        className="absolute top-4 left-4 px-3 py-2 rounded-lg flex items-center gap-3 flex-wrap"
+        style={{
+          background: 'var(--paper-raised)',
+          border: '1px solid var(--hairline)',
+        }}
+      >
+        {Object.entries(SERIES_COLORS).map(([key, colour]) => (
+          <span
+            key={key}
+            className="inline-flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-widest"
+            style={{ color: 'var(--ink-muted)' }}
+          >
+            <span
+              className="w-1.5 h-1.5 rounded-full"
+              style={{ background: colour }}
+            />
+            {key}
+          </span>
+        ))}
       </div>
     </div>
   );

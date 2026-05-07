@@ -1,385 +1,319 @@
-import React, { useState, useEffect } from 'react';
-import { motion } from 'motion/react';
-import { 
-  Sparkles, 
-  Target, 
-  BookOpen, 
-  Users, 
-  ChevronRight, 
-  Check,
-  Brain,
-  TrendingUp,
-  Award,
-  Flame,
-  ArrowRight,
-  Globe,
-  Lock,
-  Zap
-} from 'lucide-react';
+/**
+ * Landing — the front cover of FitLib.
+ *
+ * Design intent (matching the rest of the rewrite):
+ *   - Quiet typography over hype. Treat the page like the inside of a book
+ *     jacket, not a SaaS marketing splash.
+ *   - The hero number is real. We pull `totalNodes` and `totalCitations`
+ *     straight from the content bridge so the front page can never lie
+ *     about how much is in the library.
+ *   - Two routes off this page — read or review. Sign-up isn't required;
+ *     dev/admin builds skip it entirely.
+ */
+
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { cn } from '../lib/utils';
-import { PremiumPaywall } from '../components/PremiumPaywall';
-
-const HERO_STATS = [
-  { value: "2,000+", label: "Research Papers" },
-  { value: "15+", label: "Expert Authors" },
-  { value: "50K+", label: "Hours Saved" },
-  { value: "98%", label: "Accuracy Rate" }
-];
-
-const FEATURES = [
-  {
-    icon: Brain,
-    title: "Evidence-Based Knowledge",
-    description: "Every claim backed by peer-reviewed research and expert analysis.",
-    color: "text-blue-500"
-  },
-  {
-    icon: Target,
-    title: "Structured Learning Path",
-    description: "Progressive curriculum from foundations to advanced concepts.",
-    color: "text-green-500"
-  },
-  {
-    icon: TrendingUp,
-    title: "Track Your Progress",
-    description: "Monitor completion rates, streaks, and knowledge mastery.",
-    color: "text-purple-500"
-  },
-  {
-    icon: Users,
-    title: "Expert Curated",
-    description: "Content reviewed by leading researchers and practitioners.",
-    color: "text-orange-500"
-  }
-];
-
-const TESTIMONIALS = [
-  {
-    name: "Dr. Sarah Chen",
-    role: "Sports Scientist",
-    content: "FitLib has revolutionized how I stay current with exercise science research. The structured format saves me hours of reading.",
-    avatar: "🧑‍🔬"
-  },
-  {
-    name: "Marcus Rodriguez",
-    role: "Certified Trainer",
-    content: "My clients get better results because I can confidently apply the latest evidence-based practices from FitLib.",
-    avatar: "💪"
-  },
-  {
-    name: "Lisa Thompson",
-    role: "Nutrition Coach",
-    content: "The nutrition modules are incredibly detailed yet digestible. Perfect for staying ahead in this rapidly evolving field.",
-    avatar: "🥗"
-  }
-];
+import {
+  ArrowRight,
+  Brain,
+  ScrollText,
+  ShieldCheck,
+  Sparkles,
+  Network,
+  Layers,
+} from 'lucide-react';
+import { loadLibraryStats, type LibraryStats } from '../lib/libraryStats';
 
 export const Landing: React.FC = () => {
-  const [showPaywall, setShowPaywall] = useState(false);
-  const [scrollY, setScrollY] = useState(0);
+  const [stats, setStats] = useState<LibraryStats | null>(null);
 
   useEffect(() => {
-    const handleScroll = () => setScrollY(window.scrollY);
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
+    let cancelled = false;
+    loadLibraryStats().then((s) => !cancelled && setStats(s));
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 overflow-x-hidden">
-      {/* Hero Section */}
-      <section className="relative min-h-screen flex items-center justify-center px-6">
-        {/* Animated Background Elements */}
-        <div className="absolute inset-0 overflow-hidden">
-          {[...Array(20)].map((_, i) => (
-            <motion.div
-              key={i}
-              className="absolute w-1 h-1 bg-blue-500/30 rounded-full"
-              animate={{
-                x: [0, Math.random() * 1000],
-                y: [0, Math.random() * 800],
-                opacity: [0, 1, 0],
-              }}
-              transition={{
-                duration: Math.random() * 10 + 10,
-                repeat: Infinity,
-                delay: Math.random() * 5,
-              }}
-            />
-          ))}
-        </div>
-
-        <div className="relative z-10 text-center max-w-6xl mx-auto">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
-            className="mb-8"
-          >
-            <div className="inline-flex items-center gap-2 bg-blue-500/10 border border-blue-500/20 rounded-full px-4 py-2 mb-6">
-              <Sparkles className="w-4 h-4 text-blue-400" />
-              <span className="text-sm font-semibold text-blue-400">Evidence-Based Fitness Knowledge</span>
-            </div>
-            
-            <h1 className="text-5xl md:text-7xl font-black mb-6 leading-tight">
-              Master <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">Exercise Science</span><br />
-              With Confidence
-            </h1>
-            
-            <p className="text-xl md:text-2xl text-slate-400 mb-8 max-w-4xl mx-auto leading-relaxed">
-              Stop wasting time on conflicting fitness advice. Access 2,000+ research papers transformed into 
-              actionable knowledge by leading experts in exercise physiology, nutrition, and sports science.
-            </p>
-          </motion.div>
-
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.3 }}
-            className="flex flex-col sm:flex-row gap-4 justify-center mb-12"
-          >
-            <button 
-              onClick={() => setShowPaywall(true)}
-              className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-xl font-bold text-lg shadow-2xl shadow-blue-500/25 transition-all hover:scale-105 flex items-center gap-2 justify-center"
+    <div
+      className="flex-1 min-h-0 overflow-y-auto"
+      style={{ background: 'var(--paper)' }}
+    >
+      {/* Brand bar — separate from the global TopBar (which doesn't render on /). */}
+      <header className="px-6 py-5">
+        <div className="max-w-6xl mx-auto flex items-center justify-between">
+          <div className="flex items-center gap-2.5">
+            <span
+              className="w-7 h-7 rounded-md flex items-center justify-center font-black italic"
+              style={{ background: 'var(--accent)', color: 'var(--paper)' }}
             >
-              Start Learning Now
-              <ArrowRight className="w-5 h-5" />
-            </button>
-            
-            <Link 
-              to="/library"
-              className="border border-slate-700 hover:border-slate-600 text-slate-300 hover:text-white px-8 py-4 rounded-xl font-bold text-lg transition-all hover:scale-105 flex items-center gap-2 justify-center"
+              F
+            </span>
+            <span
+              className="text-base font-semibold tracking-tight"
+              style={{ color: 'var(--ink-strong)' }}
             >
-              Explore Free Content
-              <BookOpen className="w-5 h-5" />
+              FitLib
+            </span>
+          </div>
+          <nav className="flex items-center gap-1">
+            <Link
+              to="/about"
+              className="px-3 py-1.5 rounded-md text-sm transition-colors hover:bg-[var(--paper-elevated)]"
+              style={{ color: 'var(--ink-muted)' }}
+            >
+              Transparency
             </Link>
-          </motion.div>
-
-          {/* Hero Stats */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.6 }}
-            className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-3xl mx-auto"
-          >
-            {HERO_STATS.map((stat, index) => (
-              <div key={index} className="text-center">
-                <div className="text-3xl md:text-4xl font-black text-white mb-2">{stat.value}</div>
-                <div className="text-sm text-slate-400 font-semibold">{stat.label}</div>
-              </div>
-            ))}
-          </motion.div>
+            <Link
+              to="/dashboard"
+              className="px-3 py-1.5 rounded-md text-sm transition-colors hover:bg-[var(--paper-elevated)]"
+              style={{ color: 'var(--ink-muted)' }}
+            >
+              Dashboard
+            </Link>
+            <Link
+              to="/library"
+              className="ml-2 px-4 py-1.5 rounded-lg text-sm font-semibold transition-transform hover:translate-y-[-1px]"
+              style={{ background: 'var(--accent)', color: 'var(--paper)' }}
+            >
+              Open the library
+            </Link>
+          </nav>
         </div>
-      </section>
+      </header>
 
-      {/* Features Section */}
-      <section className="py-24 px-6 relative">
-        <div className="max-w-7xl mx-auto">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
-            className="text-center mb-16"
+      {/* HERO */}
+      <section className="px-6 pt-24 pb-20">
+        <div className="max-w-3xl mx-auto text-center">
+          <p
+            className="font-mono text-[10px] uppercase tracking-[0.24em] mb-6 inline-flex items-center gap-2"
+            style={{ color: 'var(--accent)' }}
           >
-            <h2 className="text-4xl md:text-5xl font-black mb-6">
-              Why Choose <span className="text-blue-400">FitLib</span>?
-            </h2>
-            <p className="text-xl text-slate-400 max-w-3xl mx-auto">
-              We bridge the gap between cutting-edge research and practical application, 
-              giving you the confidence to make evidence-based decisions.
-            </p>
-          </motion.div>
-
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {FEATURES.map((feature, index) => (
-              <motion.div
-                key={index}
-                initial={{ opacity: 0, y: 30 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.8, delay: index * 0.1 }}
-                className="group p-8 bg-slate-900/50 border border-slate-800 rounded-2xl hover:border-blue-500/50 transition-all duration-300 hover:-translate-y-2"
-              >
-                <div className={cn("w-12 h-12 rounded-xl bg-slate-800 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform", 
-                  feature.color.replace('text', 'bg').replace('500', '500/10'))}>
-                  <feature.icon className={cn("w-6 h-6", feature.color)} />
-                </div>
-                <h3 className="text-xl font-bold mb-3 group-hover:text-blue-400 transition-colors">
-                  {feature.title}
-                </h3>
-                <p className="text-slate-400 leading-relaxed">
-                  {feature.description}
-                </p>
-              </motion.div>
-            ))}
+            <ShieldCheck className="w-3 h-3" /> Evidence-based fitness, indexed
+          </p>
+          <h1
+            className="text-5xl md:text-7xl mb-7 leading-[1.02]"
+            style={{
+              color: 'var(--ink-strong)',
+              fontFamily: 'var(--font-serif)',
+              fontWeight: 600,
+              letterSpacing: '-0.015em',
+            }}
+          >
+            A reading library for the science of training.
+          </h1>
+          <p
+            className="text-lg md:text-xl max-w-2xl mx-auto leading-relaxed mb-10"
+            style={{ color: 'var(--ink)', fontFamily: 'var(--font-serif)' }}
+          >
+            {stats
+              ? `${stats.totalNodes.toLocaleString()} cross-linked notes, ${stats.totalCitations.toLocaleString()} cited papers, one disciplined schema. Read it like Wikipedia, recall it like Anki.`
+              : 'Hundreds of cross-linked notes, every claim sourced. Read it like Wikipedia, recall it like Anki.'}
+          </p>
+          <div className="flex flex-col sm:flex-row gap-3 justify-center">
+            <Link
+              to="/library"
+              className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl text-sm font-semibold transition-transform hover:translate-y-[-1px]"
+              style={{ background: 'var(--accent)', color: 'var(--paper)' }}
+            >
+              <ScrollText className="w-4 h-4" /> Start reading
+            </Link>
+            <Link
+              to="/about"
+              className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl text-sm font-semibold transition-colors hover:bg-[var(--paper-elevated)]"
+              style={{
+                color: 'var(--ink-strong)',
+                border: '1px solid var(--hairline-strong)',
+              }}
+            >
+              How it works <ArrowRight className="w-4 h-4" />
+            </Link>
           </div>
         </div>
       </section>
 
-      {/* Social Proof Section */}
-      <section className="py-24 px-6 bg-slate-900/30">
-        <div className="max-w-7xl mx-auto">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
-            className="text-center mb-16"
-          >
-            <h2 className="text-4xl md:text-5xl font-black mb-6">
-              Trusted by <span className="text-green-400">Industry Leaders</span>
-            </h2>
-            <p className="text-xl text-slate-400">
-              Join thousands of professionals who rely on FitLib for accurate, up-to-date information.
-            </p>
-          </motion.div>
+      {/* HERO METRICS */}
+      <section className="px-6 pb-20">
+        <div className="max-w-4xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-3">
+          <Metric label="Notes" value={stats?.totalNodes} />
+          <Metric label="Citations" value={stats?.totalCitations} />
+          <Metric label="Cross-links" value={stats?.totalLinks} />
+          <Metric
+            label="Recall cards"
+            value={stats?.totalCards}
+            hint={
+              stats
+                ? `${Math.round(stats.cardCoverage * 100)}% coverage`
+                : undefined
+            }
+          />
+        </div>
+      </section>
 
-          <div className="grid md:grid-cols-3 gap-8 mb-16">
-            {TESTIMONIALS.map((testimonial, index) => (
-              <motion.div
-                key={index}
-                initial={{ opacity: 0, y: 30 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.8, delay: index * 0.2 }}
-                className="p-8 bg-slate-900/80 border border-slate-800 rounded-2xl"
-              >
-                <div className="flex items-center gap-4 mb-6">
-                  <div className="text-3xl">{testimonial.avatar}</div>
-                  <div>
-                    <h4 className="font-bold text-white">{testimonial.name}</h4>
-                    <p className="text-slate-400 text-sm">{testimonial.role}</p>
-                  </div>
-                </div>
-                <p className="text-slate-300 leading-relaxed italic">
-                  "{testimonial.content}"
-                </p>
-              </motion.div>
-            ))}
+      {/* WHY */}
+      <section
+        className="px-6 py-16"
+        style={{
+          borderTop: '1px solid var(--hairline)',
+          borderBottom: '1px solid var(--hairline)',
+          background: 'var(--paper-raised)',
+        }}
+      >
+        <div className="max-w-5xl mx-auto">
+          <p
+            className="font-mono text-[10px] uppercase tracking-[0.2em] mb-2"
+            style={{ color: 'var(--accent)' }}
+          >
+            How it reads
+          </p>
+          <h2
+            className="text-3xl md:text-4xl mb-3"
+            style={{
+              color: 'var(--ink-strong)',
+              fontFamily: 'var(--font-serif)',
+              fontWeight: 600,
+            }}
+          >
+            Built around four findings in cognitive science.
+          </h2>
+          <p
+            className="leading-relaxed max-w-2xl mb-10"
+            style={{ color: 'var(--ink)', fontFamily: 'var(--font-serif)' }}
+          >
+            Reading fitness theory and forgetting it the next week is the
+            normal experience. FitLib is a library shaped to fight that.
+          </p>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
+            <Pillar
+              icon={Layers}
+              title="Stacked panels"
+              body="Open a wikilink and the linked note slides in to the right. Hold context while expanding."
+            />
+            <Pillar
+              icon={Brain}
+              title="Active recall"
+              body="Every focused note ends with a typed-answer block. Producing beats re-reading."
+            />
+            <Pillar
+              icon={Sparkles}
+              title="Spaced practice"
+              body="FSRS schedules each cloze at the moment you're about to forget — without rote daily drills."
+            />
+            <Pillar
+              icon={Network}
+              title="Local graph"
+              body="A 1-hop neighbourhood beside every note shows where the idea lives in the wider library."
+            />
           </div>
         </div>
       </section>
 
-      {/* Pricing Section */}
-      <section className="py-24 px-6">
-        <div className="max-w-4xl mx-auto text-center">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
+      {/* CTA */}
+      <section className="px-6 py-20">
+        <div className="max-w-3xl mx-auto text-center">
+          <h2
+            className="text-3xl md:text-4xl mb-5"
+            style={{
+              color: 'var(--ink-strong)',
+              fontFamily: 'var(--font-serif)',
+              fontWeight: 600,
+            }}
           >
-            <h2 className="text-4xl md:text-5xl font-black mb-6">
-              Simple, <span className="text-blue-400">Transparent</span> Pricing
-            </h2>
-            <p className="text-xl text-slate-400 mb-12">
-              Less than the cost of a single research journal subscription. 
-              Get access to our entire curated library.
-            </p>
-
-            <div className="grid md:grid-cols-2 gap-8 max-w-2xl mx-auto">
-              {/* Monthly */}
-              <motion.div
-                initial={{ opacity: 0, scale: 0.95 }}
-                whileInView={{ opacity: 1, scale: 1 }}
-                transition={{ duration: 0.5 }}
-                className="p-8 bg-slate-900/50 border border-slate-800 rounded-2xl"
-              >
-                <h3 className="text-2xl font-bold mb-4">Monthly</h3>
-                <div className="text-4xl font-black mb-6">
-                  $7.99<span className="text-slate-400 text-lg font-normal">/month</span>
-                </div>
-                <ul className="space-y-3 mb-8 text-left">
-                  <li className="flex items-center gap-3">
-                    <Check className="w-5 h-5 text-green-400" />
-                    <span>Full library access</span>
-                  </li>
-                  <li className="flex items-center gap-3">
-                    <Check className="w-5 h-5 text-green-400" />
-                    <span>Progress tracking</span>
-                  </li>
-                  <li className="flex items-center gap-3">
-                    <Check className="w-5 h-5 text-green-400" />
-                    <span>Regular updates</span>
-                  </li>
-                </ul>
-                <button
-                  onClick={() => setShowPaywall(true)}
-                  className="w-full bg-slate-800 hover:bg-slate-700 text-white px-6 py-3 rounded-xl font-bold transition-all"
-                >
-                  Get Started
-                </button>
-              </motion.div>
-
-              {/* Annual */}
-              <motion.div
-                initial={{ opacity: 0, scale: 0.95 }}
-                whileInView={{ opacity: 1, scale: 1 }}
-                transition={{ duration: 0.5, delay: 0.1 }}
-                className="p-8 bg-gradient-to-br from-blue-600/20 to-purple-600/20 border-2 border-blue-500/50 rounded-2xl relative"
-              >
-                <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-blue-600 text-white px-4 py-1 rounded-full text-sm font-bold">
-                  Best Value
-                </div>
-                <h3 className="text-2xl font-bold mb-4">Annual</h3>
-                <div className="text-4xl font-black mb-2">
-                  $79<span className="text-slate-400 text-lg font-normal">/year</span>
-                </div>
-                <div className="text-green-400 text-sm font-semibold mb-4">Save $16.88</div>
-                <ul className="space-y-3 mb-8 text-left">
-                  <li className="flex items-center gap-3">
-                    <Check className="w-5 h-5 text-green-400" />
-                    <span>Everything in Monthly</span>
-                  </li>
-                  <li className="flex items-center gap-3">
-                    <Check className="w-5 h-5 text-green-400" />
-                    <span>Priority support</span>
-                  </li>
-                  <li className="flex items-center gap-3">
-                    <Check className="w-5 h-5 text-green-400" />
-                    <span>Exclusive content</span>
-                  </li>
-                </ul>
-                <button
-                  onClick={() => setShowPaywall(true)}
-                  className="w-full bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-xl font-bold transition-all shadow-xl shadow-blue-500/25"
-                >
-                  Get Started
-                </button>
-              </motion.div>
-            </div>
-          </motion.div>
+            Pick a note. Read it. Remember it.
+          </h2>
+          <p
+            className="text-lg leading-relaxed mb-8 max-w-xl mx-auto"
+            style={{ color: 'var(--ink)', fontFamily: 'var(--font-serif)' }}
+          >
+            No sign-up. The library is the product; the reader is the
+            interface.
+          </p>
+          <Link
+            to="/library"
+            className="inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-xl text-sm font-semibold transition-transform hover:translate-y-[-1px]"
+            style={{ background: 'var(--accent)', color: 'var(--paper)' }}
+          >
+            Open the library <ArrowRight className="w-4 h-4" />
+          </Link>
         </div>
       </section>
 
-      {/* CTA Section */}
-      <section className="py-24 px-6 bg-gradient-to-r from-blue-900/20 to-purple-900/20">
-        <div className="max-w-4xl mx-auto text-center">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
-          >
-            <h2 className="text-4xl md:text-5xl font-black mb-6">
-              Ready to Master Exercise Science?
-            </h2>
-            <p className="text-xl text-slate-400 mb-8">
-              Join the community of evidence-based fitness professionals who trust FitLib 
-              to stay ahead of the curve.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button
-                onClick={() => setShowPaywall(true)}
-                className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-xl font-bold text-lg shadow-2xl shadow-blue-500/25 transition-all hover:scale-105 flex items-center gap-2 justify-center"
-              >
-                Start Your Journey
-                <Zap className="w-5 h-5" />
-              </button>
-            </div>
-          </motion.div>
-        </div>
-      </section>
-
-      {/* Premium Paywall Modal */}
-      {showPaywall && (
-        <PremiumPaywall onClose={() => setShowPaywall(false)} />
-      )}
+      <footer
+        className="px-6 py-8 text-center"
+        style={{ borderTop: '1px solid var(--hairline)' }}
+      >
+        <p
+          className="font-mono text-[11px]"
+          style={{ color: 'var(--ink-faint)' }}
+        >
+          {stats?.generatedAt
+            ? `Snapshot · ${new Date(stats.generatedAt).toLocaleString()}`
+            : 'Static content bridge · public/content/index.json'}
+        </p>
+      </footer>
     </div>
   );
 };
+
+const Metric: React.FC<{ label: string; value?: number; hint?: string }> = ({
+  label,
+  value,
+  hint,
+}) => (
+  <div
+    className="rounded-2xl px-5 py-5 text-center"
+    style={{ background: 'var(--paper-raised)', border: '1px solid var(--hairline)' }}
+  >
+    <div
+      className="text-3xl md:text-4xl font-semibold tabular-nums"
+      style={{
+        color: 'var(--ink-strong)',
+        fontFamily: 'var(--font-serif)',
+      }}
+    >
+      {value === undefined ? '—' : value.toLocaleString()}
+    </div>
+    <div
+      className="font-mono text-[10px] uppercase tracking-widest mt-1"
+      style={{ color: 'var(--ink-faint)' }}
+    >
+      {label}
+      {hint && <span className="normal-case font-medium"> · {hint}</span>}
+    </div>
+  </div>
+);
+
+const Pillar: React.FC<{
+  icon: React.ComponentType<{ className?: string; style?: React.CSSProperties }>;
+  title: string;
+  body: string;
+}> = ({ icon: Icon, title, body }) => (
+  <div
+    className="p-5 rounded-2xl"
+    style={{ background: 'var(--paper)', border: '1px solid var(--hairline)' }}
+  >
+    <div
+      className="w-10 h-10 rounded-xl flex items-center justify-center mb-3"
+      style={{
+        background: 'var(--accent-soft)',
+        border: '1px solid var(--hairline)',
+      }}
+    >
+      <Icon className="w-5 h-5" style={{ color: 'var(--accent)' }} />
+    </div>
+    <h3
+      className="font-semibold text-base mb-1"
+      style={{ color: 'var(--ink-strong)' }}
+    >
+      {title}
+    </h3>
+    <p
+      className="text-sm leading-relaxed"
+      style={{ color: 'var(--ink)', fontFamily: 'var(--font-serif)' }}
+    >
+      {body}
+    </p>
+  </div>
+);
