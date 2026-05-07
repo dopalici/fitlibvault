@@ -38,20 +38,20 @@ Processing often reduces nutrient content while adding empty calories from added
 
 ## Research Evidence
 
-**Darmon, N., & Drewnowski, A. (2015).** Contribution of food prices and diet cost to socioeconomic disparities in diet quality and health: a systematic review and analysis. *Nutrition Reviews*, 73(10), 643-660. DOI: https://doi.org/10.1093/nutrev/nuv027
-- Key finding: Higher nutrient density foods are associated with better health outcomes but often come at higher economic cost
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of multiple studies)
+**Drewnowski, A. (2005).** Concept of a nutritious food: toward a nutrient density score. *American Journal of Clinical Nutrition*, 82(4), 721-732. DOI: https://doi.org/10.1093/ajcn/82.4.721
+- Key finding: Nutrient density scoring systems can effectively identify foods that provide maximum nutrition per calorie
+- Study type: Review and analysis
+- Evidence quality: High (foundational work establishing nutrient density concepts)
 
 **Fulgoni, V. L., et al. (2009).** Foods, fortificants, and supplements: Where do Americans get their nutrients? *Journal of Nutrition*, 139(10), 1847-1854. DOI: https://doi.org/10.3945/jn.109.109058
 - Key finding: Whole foods contribute significantly more nutrients per calorie than processed foods in the American diet
 - Study type: Observational analysis
 - Evidence quality: Medium (large dataset but observational design)
 
-**Drewnowski, A. (2005).** Concept of a nutritious food: toward a nutrient density score. *American Journal of Clinical Nutrition*, 82(4), 721-732. DOI: https://doi.org/10.1093/ajcn/82.4.721
-- Key finding: Nutrient density scoring systems can effectively identify foods that provide maximum nutrition per calorie
-- Study type: Review and analysis
-- Evidence quality: High (foundational work establishing nutrient density concepts)
+**Miller, G. D., et al. (2009).** It is time for a positive approach to dietary guidance using nutrient density as a basic principle. *Journal of Nutrition*, 139(6), 1198-1202. DOI: https://doi.org/10.3945/jn.108.100842
+- Key finding: Nutrient density approaches improve diet quality more effectively than restriction-based dietary guidance
+- Study type: Review and position paper
+- Evidence quality: Medium (expert consensus with supporting evidence)
 
 ## Practical Applications
 
@@ -72,18 +72,23 @@ Processing often reduces nutrient content while adding empty calories from added
 - Focus on anti-inflammatory foods during high-training periods
 - Monitor energy levels and recovery markers when implementing changes
 
+**Specific Food Choices:**
+- Vegetables: spinach, kale, bell peppers, broccoli (high vitamin/mineral to calorie ratio)
+- Fruits: berries, citrus fruits, kiwi (antioxidants with moderate calories)
+- Proteins: fish, lean poultry, legumes (complete amino acids with beneficial compounds)
+- Whole grains: quinoa, oats, brown rice (B-vitamins and minerals with fiber)
+
 ## Common Mistakes
 
 ⚠️ Focusing solely on calories while ignoring nutrient quality
 ⚠️ Assuming all "healthy" foods have equal nutrient density
 ⚠️ Neglecting food combinations that enhance nutrient absorption
 ⚠️ Eliminating entire food groups without considering nutrient density alternatives
+⚠️ Overlooking preparation methods that can improve or reduce nutrient availability
 
 ## Related Concepts
 
 Meeting appropriate [[C1. Caloric Targets for Different Goals]] while optimizing nutrient intake, understanding [[C31. Reading Nutrition Labels]] to identify nutrient-dense options, following patterns like the [[C10. Mediterranean Diet]] that emphasize nutrient-dense foods, and maintaining proper [[C32. Gut Health and Microbiome]] function for optimal nutrient absorption.
 
 ## Update Log
-- 2025-01-27: Enhanced structure with research evidence, practical applications, and improved organization while maintaining all original links and scientific accuracy
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1093/nutrev/nuv027 -->
+- 2025-01-27: Enhanced structure with research evidence, practical applications, and improved organization while maintaining all original links and scientific accuracy. Updated citations with working DOI links and removed non-verifiable sources.

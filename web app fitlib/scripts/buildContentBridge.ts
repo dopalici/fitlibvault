@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { extractVault } from './extractVault';
+import { buildCards } from './buildClozeCards';
 import { NodeData, NodeSummary } from '../src/types';
 
 const PROJECT_ROOT = process.cwd();
@@ -96,6 +97,20 @@ async function buildContentBridge() {
   fs.writeFileSync(path.join(CONTENT_ROOT, 'index.json'), JSON.stringify(indexPayload));
   console.log(`✅ Content bridge generated with ${summaries.length} nodes`);
   console.log(`✅ Series chunks generated: ${Object.keys(bySeries).length}`);
+
+  // Generate cloze cards for spaced-repetition recall.
+  // Runs after node JSON files are written so it can read them back.
+  try {
+    const cardStats = buildCards();
+    const coverage = cardStats.nodes === 0
+      ? 0
+      : (cardStats.nodes - cardStats.zeroCardNodes.length) / cardStats.nodes;
+    console.log(
+      `✅ Cloze cards: ${cardStats.cards} cards across ${cardStats.nodes} nodes (${(coverage * 100).toFixed(1)}% coverage)`
+    );
+  } catch (err) {
+    console.warn(`⚠️  Cloze card generation skipped:`, err instanceof Error ? err.message : err);
+  }
 }
 
 buildContentBridge().catch((error) => {

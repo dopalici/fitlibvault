@@ -32,6 +32,10 @@ Training load monitoring through [[A48. Training Load Monitoring]] provides obje
 
 The response mechanisms involve real-time adjustments based on training metrics such as training stress score, rate of perceived exertion, and recovery indicators from [[A49. Recovery Monitoring and Assessment]]. These data points inform decisions about meal timing, macronutrient distribution, and supplementation strategies.
 
+### Energy Availability and Performance
+
+Recent research highlights the critical relationship between energy availability and training adaptation quality. Low energy availability, particularly in elite athletes, can compromise sleep quality and recovery processes, creating a cascade of negative effects on training load tolerance. This emphasizes the importance of maintaining adequate energy intake relative to exercise energy expenditure during high training load periods.
+
 ### Adaptation-Specific Coordination
 
 Different training adaptations require distinct nutritional coordination approaches. Hypertrophy-focused training benefits from strategies outlined in [[C25. Nutrition for Muscle Gain (Hypertrophy)]], emphasizing protein availability and energy surplus timing. Endurance adaptations utilize approaches from [[C27. Nutrition for Endurance Performance (Carb Loading)]] to optimize substrate availability and utilization efficiency.
@@ -39,11 +43,6 @@ Different training adaptations require distinct nutritional coordination approac
 The coordination process must account for the specific metabolic demands of different training stimuli while supporting the desired physiological adaptations through targeted nutritional interventions.
 
 ## Research Evidence
-
-**Stellingwerff & Cox (2014).** Systematic review: Carbohydrate supplementation on exercise performance, carbohydrate oxidation and cognitive decline. *Sports Medicine*, 44(2), S113-S122. DOI: https://doi.org/10.1007/s40279-014-0249-z
-- Key finding: Carbohydrate periodization matched to training intensity improved training adaptation and performance outcomes
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of multiple RCTs)
 
 **Impey et al. (2018).** Fuel for the work required: a theoretical framework for carbohydrate periodization and the glycogen threshold hypothesis. *Sports Medicine*, 48(5), 1031-1048. DOI: https://doi.org/10.1007/s40279-018-0867-7
 - Key finding: Training with varying glycogen availability enhanced metabolic flexibility and endurance capacity
@@ -54,6 +53,11 @@ The coordination process must account for the specific metabolic demands of diff
 - Key finding: Protein distribution every 3 hours optimized muscle protein synthesis during recovery from high training loads
 - Study type: RCT
 - Evidence quality: High (controlled design with mechanistic outcomes)
+
+**Logue et al. (2018).** Low energy availability in athletes: a review of prevalence, dietary patterns, physiological health, and sports performance. *Sports Medicine*, 48(1), 73-96. DOI: https://doi.org/10.1007/s40279-017-0790-3
+- Key finding: Energy availability below 30 kcal/kg fat-free mass compromised training adaptation and recovery in athletes
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of multiple studies)
 
 ## Practical Applications
 
@@ -68,6 +72,11 @@ The coordination process must account for the specific metabolic demands of diff
 - Moderate weeks: 4-6g/kg carbohydrates, 1.4-1.8g/kg protein  
 - Recovery weeks: 3-5g/kg carbohydrates, 1.2-1.6g/kg protein
 
+**Energy Availability Monitoring:**
+- Calculate energy availability as (energy intake - exercise energy expenditure) ÷ fat-free mass
+- Maintain energy availability >30 kcal/kg fat-free mass during high training loads
+- Monitor sleep quality as an indicator of adequate energy availability
+
 **Real-Time Adjustments:**
 - Use [[C54. Precision Nutrition Monitoring]] data to modify intake based on recovery status
 - Increase antioxidant-rich foods during high oxidative stress periods
@@ -81,7 +90,9 @@ The coordination process must account for the specific metabolic demands of diff
 
 ⚠️ **Overcomplicating timing:** Creating overly complex nutritional schedules that are difficult to maintain consistently during varying training loads
 
-⚠️ **Neglecting micronutrients:** Focusing only on macronutrient coordination while ignoring increased micronutrient demands during high training loads
+⚠️ **Neglecting energy availability:** Focusing only on macronutrient ratios while ignoring total energy intake relative to training demands
+
+⚠️ **Overlooking sleep-nutrition connections:** Failing to recognize how inadequate nutrition affects sleep quality and subsequent training capacity
 
 ## Related Concepts
 
@@ -92,6 +103,4 @@ Specific nutritional strategies include [[C3. Nutrient Timing]] for optimal meal
 Recovery optimization through [[C29. Nutrition for Recovery]] becomes critical during high training load periods. Advanced monitoring via [[C54. Precision Nutrition Monitoring]] enables real-time coordination adjustments. Integration concepts from [[O1. Integrated Programming Considerations]] and [[O3. Integrating Nutrition and Training]] provide broader programming context.
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, added research evidence with working DOI links, expanded practical applications, and enhanced integration with related concepts
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1007/s40279-014-0249-z -->
+- 2025-01-27: Restructured for accessibility, added research evidence with working DOI links, expanded practical applications with energy availability monitoring, and enhanced integration with related concepts including sleep-nutrition connections

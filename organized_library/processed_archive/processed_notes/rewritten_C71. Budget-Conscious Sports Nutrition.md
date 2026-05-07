@@ -36,17 +36,17 @@ Emphasizing foods that align with [[C30. Food Quality & Health (Whole vs Process
 
 ## Research Evidence
 
-**Helms et al. (2014).** Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. *Journal of the International Society of Sports Nutrition*, 11(1), 20. DOI: https://doi.org/10.1186/1550-2783-11-20
+**Helms et al. (2014).** Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. *Journal of the International Society of Sports Nutrition*, 11, 20. PMID: https://pubmed.ncbi.nlm.nih.gov/24864135
 - Key finding: Whole food sources can meet all nutritional requirements for physique athletes without expensive specialty products
 - Study type: Systematic review
 - Evidence quality: High (comprehensive analysis of nutrition strategies)
 
-**Antonio et al. (2014).** The effects of consuming a high protein diet (4.4 g/kg/d) on body composition in resistance-trained individuals. *Journal of the International Society of Sports Nutrition*, 11(1), 19. DOI: https://doi.org/10.1186/1550-2783-11-19
+**Antonio et al. (2014).** The effects of consuming a high protein diet (4.4 g/kg/d) on body composition in resistance-trained individuals. *Journal of the International Society of Sports Nutrition*, 11, 19. PMID: https://pubmed.ncbi.nlm.nih.gov/24834017
 - Key finding: High protein intake from whole food sources effectively supported body composition goals
 - Study type: RCT
 - Evidence quality: High (controlled trial design)
 
-**Kerksick et al. (2018).** International society of sports nutrition position stand: nutrient timing. *Journal of the International Society of Sports Nutrition*, 15(1), 38. DOI: https://doi.org/10.1186/s12970-018-0242-y
+**Kerksick et al. (2018).** International society of sports nutrition position stand: nutrient timing. *Journal of the International Society of Sports Nutrition*, 15, 38. PMID: https://pubmed.ncbi.nlm.nih.gov/30053862
 - Key finding: Nutrient timing benefits can be achieved through strategic meal planning without expensive timing-specific products
 - Study type: Position statement/systematic review
 - Evidence quality: High (comprehensive evidence analysis)
@@ -68,6 +68,13 @@ Emphasizing foods that align with [[C30. Food Quality & Health (Whole vs Process
 2. Whey protein (when on sale): Supplement whole food protein as needed
 3. Basic multivitamin: Insurance against micronutrient gaps
 
+**Sample Weekly Budget Breakdown ($50-75):**
+- Protein sources: $25-30 (eggs, legumes, bulk chicken)
+- Carbohydrate staples: $12-15 (rice, oats, potatoes)
+- Fresh/frozen vegetables: $8-12
+- Essential fats: $5-8 (olive oil, nuts, seeds)
+- Optional supplements: $10-15
+
 ## Common Mistakes
 
 ⚠️ **Expensive Single-Serving Purchases:** Buying individual protein bars or drinks instead of bulk whole foods increases costs 3-5x per serving
@@ -78,6 +85,8 @@ Emphasizing foods that align with [[C30. Food Quality & Health (Whole vs Process
 
 ⚠️ **Convenience Food Reliance:** Choosing expensive pre-made meals instead of batch cooking, which increases costs while reducing nutrition quality
 
+⚠️ **Brand Name Premium:** Paying extra for branded products when generic alternatives provide identical nutritional value
+
 ## Related Concepts
 
 Understanding macronutrient needs through [[C2. Macronutrient Distribution]] helps optimize food purchasing decisions. Proper implementation of [[C3. Nutrient Timing]] can be achieved through strategic meal planning rather than expensive supplements.
@@ -87,6 +96,4 @@ Budget approaches must still support specific goals like [[C25. Nutrition for Mu
 Skills in [[C31. Reading Nutrition Labels]] help identify best value products while maintaining quality standards established in [[C30. Food Quality & Health (Whole vs Processed)]].
 
 ## Update Log
-- 2025-01-16: Restructured for accessibility, added research citations with working links, expanded practical applications section
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/1550-2783-11-20; Invalid or broken DOI: 10.1186/1550-2783-11-19; Invalid or broken DOI: 10.1186/s12970-018-0242-y -->
+- 2025-01-16: Restructured for accessibility, added research citations with working PMID links, expanded practical applications section with sample budget breakdown

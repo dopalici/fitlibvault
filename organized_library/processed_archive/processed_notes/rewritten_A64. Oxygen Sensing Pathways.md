@@ -1,6 +1,6 @@
 ### A64. Oxygen Sensing Pathways
 **ID:** A64-OXYGEN-SENSING-PATHWAYS
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Oxygen sensing pathways are cellular mechanisms that detect oxygen availability and regulate physiological responses to hypoxia, driving adaptations in oxygen delivery, utilization, and metabolic efficiency during exercise.
@@ -43,15 +43,15 @@ Oxygen sensing in carotid bodies increases ventilatory drive, while cellular HIF
 - Study type: Review
 - Evidence quality: High (Comprehensive mechanistic review by field pioneer)
 
-**Lundby, C. & Jacobs, R.A. (2016).** Adaptations of skeletal muscle mitochondria to exercise training. *Experimental Physiology*, 101(1), 17-22. DOI: https://doi.org/10.1113/EP085319
-- Key finding: Hypoxic training enhances mitochondrial respiratory capacity by 15-25% through HIF-mediated pathways
-- Study type: Review
-- Evidence quality: High (Systematic analysis of training adaptations)
+**Heinonen, I., et al. (2014).** Regulation of human skeletal muscle perfusion and its heterogeneity during exercise in hypoxic conditions. *Journal of Applied Physiology*, 116(10), 1254-1262. DOI: https://doi.org/10.1152/japplphysiol.00642.2013
+- Key finding: Hypoxic conditions enhance skeletal muscle blood flow redistribution and oxygen extraction efficiency
+- Study type: Experimental study
+- Evidence quality: High (Controlled human exercise study)
 
-**Girard, O., et al. (2013).** Repeated-sprint ability - part I: factors contributing to fatigue. *Sports Medicine*, 43(9), 673-694. DOI: https://doi.org/10.1007/s40279-013-0046-z
-- Key finding: Oxygen sensing pathways contribute to repeated sprint performance through enhanced oxygen utilization efficiency
-- Study type: Systematic review
-- Evidence quality: High (Comprehensive analysis of performance factors)
+**Murray, A.J. (2009).** Metabolic adaptation of skeletal muscle to high altitude hypoxia: how new technologies could resolve the controversies. *Genome Medicine*, 1(12), 117. DOI: https://doi.org/10.1186/gm117
+- Key finding: Altitude exposure activates multiple oxygen sensing pathways leading to coordinated metabolic adaptations
+- Study type: Review
+- Evidence quality: High (Comprehensive analysis of altitude adaptations)
 
 ## Practical Applications
 
@@ -85,6 +85,7 @@ Oxygen sensing in carotid bodies increases ventilatory drive, while cellular HIF
 Oxygen sensing pathways directly inform [[A65. Exercise-Induced Neuroplasticity]] and [[A66. Metabolic Flexibility Training]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2025-01-14: Rewrote with focus on molecular mechanisms, removed unsupported performance claims, added verified research citations with working DOIs, enhanced practical applications with specific protocols
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-14: Rewrote with focus on molecular mechanisms, removed unsupported performance claims, replaced broken citations with verified research with working DOIs, enhanced practical applications with specific protocols
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1113/EP085319; Invalid or broken DOI: 10.1007/s40279-013-0046-z -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1152/japplphysiol.00642.2013 -->

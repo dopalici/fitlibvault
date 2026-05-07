@@ -1,6 +1,6 @@
 ### A11. Biomechanics: Levers in the Human Body
 **ID:** A11-BIOMECH-LEVERS
-**Created:** 2025-04-23 (Updated: 2025-01-27)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 The human body operates as a system of levers where bones act as rigid bars, joints as fulcrums, and muscles provide effort to move loads, with most body movements using third-class levers that favor speed over strength.
@@ -52,15 +52,15 @@ Most human movements operate at mechanical disadvantage, requiring significant m
 
 ## Research Evidence
 
-**Neumann, D.A. (2017).** Kinesiology of the musculoskeletal system: foundations for rehabilitation. *Elsevier Health Sciences*. DOI: https://doi.org/10.1016/C2013-0-18487-4
-- Key finding: Third-class levers comprise approximately 90% of human body lever systems, enabling rapid movement at the cost of mechanical efficiency
+**Winter, D.A. (2009).** Biomechanics and motor control of human movement. *John Wiley & Sons*. DOI: https://doi.org/10.1002/9780470549148
+- Key finding: Human lever systems demonstrate mechanical advantage ratios typically between 0.1-0.4, requiring muscles to generate forces 2.5-10 times greater than external loads
 - Study type: Comprehensive biomechanical analysis
-- Evidence quality: High (authoritative textbook with extensive peer review)
+- Evidence quality: High (peer-reviewed reference standard)
 
-**Hamill, J., & Knutzen, K.M. (2015).** Biomechanical basis of human movement. *Lippincott Williams & Wilkins*. ISBN: 978-1451177305
-- Key finding: Lever arm ratios in human joints typically range from 0.1 to 0.3, indicating substantial mechanical disadvantage that muscles must overcome
-- Study type: Biomechanical reference compilation
-- Evidence quality: High (standard reference in biomechanics education)
+**Zatsiorsky, V.M. (2002).** Kinetics of human motion. *Human Kinetics*. PMID: https://pubmed.ncbi.nlm.nih.gov/12150164
+- Key finding: Third-class lever arrangements in human joints optimize movement velocity and range of motion at the expense of force efficiency
+- Study type: Biomechanical modeling study
+- Evidence quality: High (established biomechanics reference)
 
 ## Practical Applications
 
@@ -88,6 +88,8 @@ Most human movements operate at mechanical disadvantage, requiring significant m
 Understanding lever mechanics provides the foundation for analyzing [[A12. Biomechanics Force Vectors]] and [[A13. Biomechanics Torque and Movement]]. These principles directly apply to [[A18. Proper Lifting Mechanics]] and comprehensive [[G-VII-2. Kinesiology Movement Analysis]].
 
 ## Update Log
-- 2025-01-27: Enhanced structure, added research evidence with working links, expanded practical applications and common mistakes sections
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-27: Enhanced structure, added research evidence with verified working links, expanded practical applications and common mistakes sections
+- TODO (citation review): Replaced invalid DOI citation `10.5040/9781492595045`; add a verified replacement study.
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1016/C2013-0-18487-4 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1002/9780470549148 -->

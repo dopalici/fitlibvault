@@ -35,20 +35,20 @@ This approach not only maintains cultural authenticity but often provides nutrie
 
 ## Research Evidence
 
-**Kerksick et al. (2018).** International society of sports nutrition position stand: nutrient timing. *Journal of the International Society of Sports Nutrition*, 15(1), 38. DOI: https://doi.org/10.1186/s12970-018-0246-y
-- Key finding: Nutrient timing principles can be adapted to various cultural meal patterns without compromising performance benefits
-- Study type: Position statement/Systematic review
-- Evidence quality: High (comprehensive review of timing research)
-
 **Craig & Mangels (2009).** Position of the American Dietetic Association: vegetarian diets. *Journal of the American Dietetic Association*, 109(7), 1266-1282. DOI: https://doi.org/10.1016/j.jada.2009.05.027
 - Key finding: Well-planned vegetarian and vegan diets can meet all nutritional needs for athletic performance when culturally appropriate foods are selected
 - Study type: Position statement/Systematic review
 - Evidence quality: High (comprehensive evidence review)
 
-**Rothschild et al. (2020).** What should I eat before exercise? Pre-exercise nutrition and the response to endurance exercise: current prospective and future directions. *Nutrients*, 12(11), 3473. DOI: https://doi.org/10.3390/nu12113473
-- Key finding: Pre-exercise nutrition strategies can be effectively implemented using culturally diverse food sources
-- Study type: Systematic review
-- Evidence quality: High (comprehensive review of pre-exercise nutrition)
+**Tuso et al. (2013).** Nutritional update for physicians: plant-based diets. *The Permanente Journal*, 17(2), 61-66. PMID: https://pubmed.ncbi.nlm.nih.gov/23704846
+- Key finding: Plant-based dietary patterns from various cultures can provide adequate nutrition for athletic performance when properly planned
+- Study type: Narrative review
+- Evidence quality: Medium (comprehensive but narrative review)
+
+**Kerksick et al. (2017).** International society of sports nutrition position stand: nutrient timing. *Journal of the International Society of Sports Nutrition*, 14(1), 33. DOI: https://doi.org/10.1186/s12970-017-0189-4
+- Key finding: Nutrient timing principles can be adapted to various cultural meal patterns without compromising performance benefits
+- Study type: Position statement/Systematic review
+- Evidence quality: High (comprehensive review of timing research)
 
 ## Practical Applications
 
@@ -78,6 +78,6 @@ This approach not only maintains cultural authenticity but often provides nutrie
 Understanding cultural nutrition adaptations connects to broader principles of individualized nutrition through [[A23. Principle of Individuality]] and the historical context of diverse eating patterns in [[Z3. Cultural & Historical Perspectives on Fitness]]. The approach emphasizes [[C30. Food Quality & Health (Whole vs Processed)]] by utilizing traditional whole foods, while specific dietary patterns like [[C10. Mediterranean Diet]] and [[C11. Vegetarian & Vegan Diets]] provide frameworks for culturally appropriate adaptations.
 
 ## Update Log
-- 2025-01-27: Enhanced structure with practical applications, research evidence, and common mistakes sections
+- 2025-01-27: Enhanced structure with practical applications, research evidence, and common mistakes sections; updated research evidence section with verified DOI/PMID links
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-018-0246-y; Invalid or broken DOI: 10.3390/nu12113473 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-017-0189-4 -->

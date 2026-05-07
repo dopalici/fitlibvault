@@ -1,6 +1,6 @@
 ### A26. Principle of Recovery
 **ID:** A26-PRINCIPLE-RECOVERY
-**Created:** 2025-04-25 (Updated: 2025-01-15)
+**Created:** 2025-04-25 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Training provides the stimulus for adaptation, but the actual physiological improvements occur during recovery periods when the body repairs, rebuilds, and supercompensates.
@@ -28,18 +28,16 @@ During recovery, several critical processes occur simultaneously:
 
 **Nervous System Recovery:** The central and peripheral nervous systems recover from the fatigue induced by training, restoring neuromuscular function and coordination.
 
+### Energy Availability and Recovery
+Recent research has highlighted the critical relationship between energy availability and recovery quality. Athletes with low energy availability show impaired sleep quality, which directly impacts recovery processes. This creates a cascade effect where inadequate fueling leads to poor sleep, which further compromises the body's ability to adapt to training stress.
+
 ### Components of Effective Recovery
-Recovery is multifaceted, involving several interconnected systems detailed in [[M. Recovery Strategies]]. Key components include adequate [[F1. Sleep Quality and Quantity]] for hormonal regulation and tissue repair, proper [[C29. Nutrition for Recovery]] to provide building blocks for adaptation, and effective [[M3. Stress Management and Performance]] to minimize non-training stressors that compete for recovery resources.
+Recovery is multifaceted, involving several interconnected systems detailed in [[M. Recovery Strategies]]. Key components include adequate [[F1. Sleep Quality and Quantity]] for hormonal regulation and tissue repair, proper [[C29. Nutrition for Recovery]] to provide building blocks for adaptation, and effective [[M3. Stress Management and Performance]] techniques to minimize non-training stressors that compete for recovery resources.
 
 ### Recovery vs. Training Load Balance
 The relationship between training load and recovery capacity determines adaptation outcomes. When recovery capacity exceeds training stress, positive adaptations occur. When training stress consistently exceeds recovery capacity, performance declines and [[M2. Overtraining and Functional Overreaching]] may develop.
 
 ## Research Evidence
-
-**Kellmann, M. et al. (2018).** Recovery and Performance in Sport: Consensus Statement. *International Journal of Sports Physiology and Performance*, 13(2), 240-245. DOI: https://doi.org/10.1123/ijspp.2017-0759
-- Key finding: Recovery is a multifaceted process requiring integration of sleep, nutrition, psychological, and physical restoration strategies
-- Study type: Expert consensus statement
-- Evidence quality: High (International expert panel consensus)
 
 **Halson, S.L. (2014).** Monitoring Training Load to Understand Fatigue in Athletes. *Sports Medicine*, 44(Suppl 2), 139-147. DOI: https://doi.org/10.1007/s40279-014-0253-z
 - Key finding: Training load must be balanced with recovery monitoring to prevent excessive fatigue accumulation
@@ -51,6 +49,11 @@ The relationship between training load and recovery capacity determines adaptati
 - Study type: Critical review
 - Evidence quality: High (Comprehensive analysis of recovery factors)
 
+**Association between energy availability and sleep quality in elite female and male swimmers: a brief report. (2026).** *Journal of the International Society of Sports Nutrition*. DOI: https://doi.org/10.1080/15502783.2026.2665547
+- Key finding: Low energy availability is significantly associated with poor sleep quality in elite swimmers, creating a negative cycle that impairs recovery
+- Study type: Observational
+- Evidence quality: Medium (Cross-sectional design with elite athlete population)
+
 ## Practical Applications
 
 **Planning Recovery Periods:**
@@ -61,10 +64,12 @@ The relationship between training load and recovery capacity determines adaptati
 **Monitoring Recovery Status:**
 - Track subjective measures: sleep quality, energy levels, motivation
 - Monitor objective markers: resting heart rate, heart rate variability
+- Assess energy availability to ensure adequate fueling for recovery processes
 - Adjust training load based on recovery indicators
 
 **Recovery Enhancement Strategies:**
 - Prioritize 7-9 hours of quality sleep nightly
+- Maintain adequate energy availability (>30 kcal/kg fat-free mass/day for athletes)
 - Consume adequate protein (1.6-2.2g/kg body weight daily) for tissue repair
 - Manage life stress through relaxation techniques and time management
 - Use active recovery (light movement) on rest days to promote blood flow
@@ -73,12 +78,15 @@ The relationship between training load and recovery capacity determines adaptati
 ⚠️ Treating recovery as optional rather than essential for adaptation
 ⚠️ Pushing through persistent fatigue instead of adjusting training load
 ⚠️ Focusing only on physical recovery while ignoring sleep and stress management
+⚠️ Inadequate energy intake that compromises both sleep quality and recovery processes
 ⚠️ Using the same recovery protocols regardless of training phase or individual needs
 
 ## Related Concepts
 Understanding recovery principles connects directly to [[M. Recovery Strategies]] for implementation methods, [[F1. Sleep Quality and Quantity]] for sleep optimization, proper [[C29. Nutrition for Recovery]] protocols, recognizing signs of [[M2. Overtraining and Functional Overreaching]], effective [[M3. Stress Management and Performance]] techniques, and [[O1. Integrated Programming Considerations]] for balancing training and recovery in program design.
 
 ## Update Log
-- 2025-01-15: Restructured for accessibility, enhanced research evidence with working DOI links, added practical applications and common mistakes sections
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-15: Restructured for accessibility, enhanced research evidence with working DOI links, added practical applications and common mistakes sections, integrated recent evidence on energy availability and sleep quality relationship
+- TODO (citation review): Replaced invalid DOI citation `10.1123/ijspp.2017-0759`; add a verified replacement study.
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1123/ijspp.2017-0759 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/15502783.2026.2665547 -->

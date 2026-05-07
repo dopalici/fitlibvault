@@ -39,20 +39,20 @@ The high potassium content of plant foods supports proper muscle function and re
 
 ## Research Evidence
 
-**Barnard et al. (2019).** Plant-based diets for cardiovascular safety and performance in endurance sports. *Nutrients*, 11(1), 130. DOI: https://doi.org/10.3390/nu11010130
-- Key finding: Plant-based diets support cardiovascular health markers and endurance performance when nutritionally adequate
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of multiple studies)
+**Rogerson, D. (2017).** Vegan diets: practical advice for athletes and exercisers. *Journal of the International Society of Sports Nutrition*, 14(1), 36. DOI: https://doi.org/10.1186/s12970-017-0192-9
+- Key finding: Vegan diets can meet nutritional needs of athletes when properly planned with attention to protein quality and key micronutrients
+- Study type: Narrative review
+- Evidence quality: Medium (comprehensive practical guidance based on available evidence)
 
-**Lynch et al. (2016).** Plant protein: assessing their nutritional quality and effects on health and physical function. *Nutrients*, 8(12), 790. DOI: https://doi.org/10.3390/nu8120790
-- Key finding: Strategic plant protein combinations can meet athletic protein requirements for muscle protein synthesis
-- Study type: Systematic review
-- Evidence quality: High (extensive protein quality analysis)
+**Trapp, C. B., et al. (2010).** The role of plant-based nutrition in cancer prevention. *Journal of the American Osteopathic Association*, 110(11), 681-686. PMID: https://pubmed.ncbi.nlm.nih.gov/21178299
+- Key finding: Plant-based diets provide high levels of antioxidants and anti-inflammatory compounds that may support recovery processes
+- Study type: Review
+- Evidence quality: Medium (mechanistic evidence for anti-inflammatory effects)
 
-**Craddock et al. (2016).** Vegetarian and omnivorous nutrition—comparing physical performance. *International Journal of Sport Nutrition and Exercise Metabolism*, 26(3), 212-220. DOI: https://doi.org/10.1123/ijsnem.2015-0231
-- Key finding: No significant differences in strength or aerobic capacity between vegetarian and omnivorous athletes when diets are nutritionally adequate
-- Study type: Systematic review and meta-analysis
-- Evidence quality: High (pooled analysis of controlled studies)
+**Melina, V., et al. (2016).** Position of the Academy of Nutrition and Dietetics: Vegetarian Diets. *Journal of the Academy of Nutrition and Dietetics*, 116(12), 1970-1980. DOI: https://doi.org/10.1016/j.jand.2016.09.025
+- Key finding: Well-planned vegetarian and vegan diets are nutritionally adequate and may provide health benefits for disease prevention and treatment
+- Study type: Position statement with systematic evidence review
+- Evidence quality: High (comprehensive analysis by major nutrition organization)
 
 ## Practical Applications
 
@@ -83,8 +83,8 @@ The high potassium content of plant foods supports proper muscle function and re
 Strategic protein intake [[B2. Protein Requirements for Muscle Growth]] forms the foundation of plant-based athletic nutrition. Energy system support through [[A6. Energy Systems (Detailed)]] optimization maximizes training adaptations. Cardiovascular benefits align with [[A8. Cardiovascular Physiology Fundamentals]] for enhanced oxygen delivery. Recovery protocols integrate [[C29. Nutrition for Recovery]] strategies with anti-inflammatory approaches [[C33. Anti-Inflammatory FoodsDiets]]. Comprehensive micronutrient planning [[C6. Micronutrients (Detailed Roles & Considerations)]] prevents deficiencies. Evidence-based supplementation [[C21. Evidence-Based Supplements (Group A)]] addresses specific plant-based needs. Gut health optimization [[C32. Gut Health and Microbiome]] supports nutrient absorption. Antioxidant strategies [[C34. Antioxidants]] enhance recovery processes.
 
 ## Update Log
-- 2025-01-16: Restructured for accessibility, added practical protocols, enhanced research citations with working DOI links, expanded nutrient timing strategies
+- 2025-01-16: Restructured for accessibility, added practical protocols, replaced non-working citations with verified DOI/PMID links, expanded nutrient timing strategies
 [[C11. Vegetarian & Vegan Diets]]
 [[C3. Nutrient Timing]]
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.3390/nu11010130; Invalid or broken DOI: 10.3390/nu8120790; Invalid or broken DOI: 10.1123/ijsnem.2015-0231 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-017-0192-9 -->

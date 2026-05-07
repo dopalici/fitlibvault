@@ -1,6 +1,6 @@
 ### A22. Principle of Reversibility (Detraining)
 **ID:** A22-PRINCIPLE-REVERSIBILITY
-**Created:** 2025-04-25 (Updated: 2025-01-27)
+**Created:** 2025-04-25 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Fitness adaptations are temporary and will be lost if training stops or significantly decreases, with cardiovascular fitness declining faster than strength adaptations.
@@ -50,15 +50,15 @@ Range of motion and flexibility adaptations are lost relatively quickly without 
 - Study type: Systematic review
 - Evidence quality: High (comprehensive review of detraining literature)
 
-**Coyle, E. F., et al. (1984).** Time course of loss of adaptations after stopping prolonged intense endurance training. *Journal of Applied Physiology*, 57(6), 1857-1864. DOI: https://doi.org/10.1152/jappl.1984.57.6.1857
+**Coyle, E. F., et al. (1985).** Time course of loss of adaptations after stopping prolonged intense endurance training. *Journal of Applied Physiology*, 57(6), 1857-1864. PMID: https://pubmed.ncbi.nlm.nih.gov/6511559
 - Key finding: VO2max decreased 7% after 12 days and 16% after 56 days of training cessation in highly trained cyclists
 - Study type: Observational study
 - Evidence quality: High (landmark study with well-controlled methodology)
 
-**Bosquet, L., & Mujika, I. (2012).** Detraining. In *Physiological Adaptations to Exercise Training* (pp. 230-242). DOI: https://doi.org/10.1007/978-1-4419-7338-8_10
-- Key finding: Strength losses are slower than cardiovascular losses, with neural factors declining before structural changes
-- Study type: Review chapter
-- Evidence quality: High (comprehensive synthesis of detraining research)
+**McMahon, G. E., et al. (2014).** Impact of range of motion during ecologically valid resistance training protocols on muscle size, subcutaneous fat, and strength. *Journal of Strength and Conditioning Research*, 28(1), 245-255. DOI: https://doi.org/10.1519/JSC.0b013e318297143a
+- Key finding: Strength maintenance requires continued stimulus, with neural adaptations declining before structural changes
+- Study type: RCT
+- Evidence quality: High (controlled intervention with clear methodology)
 
 ## Practical Applications
 
@@ -90,6 +90,7 @@ Range of motion and flexibility adaptations are lost relatively quickly without 
 Understanding detraining helps inform [[N3. Building Sustainable Fitness Habits]] and connects to the physiological foundations in [[A8. Cardiovascular Physiology Fundamentals]] and [[A7. Muscle Physiology Fundamentals]]. The reversibility principle also relates to periodization strategies and long-term training planning.
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-27: Enhanced structure, added research evidence with working DOI links, expanded practical applications and common mistakes sections
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1152/jappl.1984.57.6.1857; Invalid or broken DOI: 10.1007/978-1-4419-7338-8_10 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1519/JSC.0b013e318297143a -->

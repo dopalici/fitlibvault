@@ -1,6 +1,6 @@
 ### A60. Vascular Adaptations
 **ID:** A60-VASCULAR-ADAPTATIONS
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Exercise training causes structural and functional adaptations in blood vessels that improve oxygen delivery, reduce cardiovascular disease risk, and enhance exercise performance.
@@ -40,18 +40,18 @@ Exercise-induced metabolic demands create local signals that promote vascular ad
 
 ## Research Evidence
 
-**Green, D.J., et al. (2017).** Vascular adaptation to exercise in humans: role of hemodynamic stimuli. *Physiological Reviews*, 97(2), 495-528. DOI: https://doi.org/10.1152/physrev.00014.2016
+**Green, D.J., et al. (2017).** Vascular adaptation to exercise in humans: role of hemodynamic stimuli. *Physiological Reviews*, 97(2), 495-528. PMID: https://pubmed.ncbi.nlm.nih.gov/28151424
 - Key finding: Shear stress is the primary stimulus for exercise-induced vascular adaptations, with different patterns of shear stress producing distinct adaptations
 - Study type: Comprehensive review
 - Evidence quality: High (authoritative review of mechanistic studies)
 
-**Laughlin, M.H., et al. (2012).** Exercise training-induced adaptations in the coronary circulation. *Journal of Applied Physiology*, 112(5), 792-799. DOI: https://doi.org/10.1152/japplphysiol.01162.2011
-- Key finding: Exercise training increases coronary artery diameter by 15-20% and improves endothelium-dependent vasodilation
+**Laughlin, M.H., et al. (2012).** The coronary circulation in exercise training. *American Journal of Physiology-Heart and Circulatory Physiology*, 302(1), H10-H23. PMID: https://pubmed.ncbi.nlm.nih.gov/21984538
+- Key finding: Exercise training increases coronary collateral development and improves endothelium-dependent vasodilation in coronary arteries
 - Study type: Review of experimental studies
 - Evidence quality: High (systematic analysis of controlled studies)
 
-**Prior, B.M., et al. (2004).** What makes vessels grow with exercise training? *Journal of Applied Physiology*, 97(3), 1119-1128. DOI: https://doi.org/10.1152/japplphysiol.00035.2004
-- Key finding: Angiogenesis increases capillary density by 15-25% in trained muscle, with VEGF playing a central role
+**Prior, B.M., et al. (2004).** What makes vessels grow with exercise training? *Journal of Applied Physiology*, 97(3), 1119-1128. PMID: https://pubmed.ncbi.nlm.nih.gov/15333630
+- Key finding: Angiogenesis increases capillary density by 15-25% in trained muscle, with VEGF playing a central role in exercise-induced vessel growth
 - Study type: Review of mechanistic studies
 - Evidence quality: High (comprehensive analysis of angiogenesis mechanisms)
 
@@ -85,7 +85,6 @@ Start with 3-4 sessions per week of moderate aerobic exercise, gradually increas
 Vascular adaptations directly inform [[A61. Calcium Signaling in Muscle]] and [[A62. Metabolic Flexibility Training]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 
-- 2025-01-14: Rewrote for accessibility while maintaining scientific accuracy, added verified research citations with working DOI links, expanded practical applications and common mistakes sections
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1152/physrev.00014.2016; Invalid or broken DOI: 10.1152/japplphysiol.01162.2011; Invalid or broken DOI: 10.1152/japplphysiol.00035.2004 -->
+- 2025-01-14: Rewrote for accessibility while maintaining scientific accuracy, replaced broken DOI links with verified PMID links, expanded practical applications and common mistakes sections

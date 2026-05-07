@@ -40,22 +40,25 @@ Reduced training loads allow for nutritional recovery focus through [[C29. Nutri
 ### Body Composition Periodization
 Strategic body composition manipulation aligns with training phases using [[H1. Body Composition Assessment]] to monitor progress. [[C26. Nutrition for Fat Loss]] phases typically occur during base periods when training intensity allows for caloric restriction, while [[C25. Nutrition for Muscle Gain (Hypertrophy)]] phases align with strength-focused training blocks.
 
+### Energy Availability Considerations
+Adequate energy availability becomes critical during periodized nutrition approaches, particularly for female athletes. Recent research emphasizes monitoring energy availability to prevent negative impacts on sleep quality and recovery, which can compromise the effectiveness of periodized nutrition strategies.
+
 ## Research Evidence
 
-**Stellingwerff, T., & Cox, G. R. (2014).** Systematic review: Carbohydrate supplementation on exercise performance or capacity of varying durations. *Applied Physiology, Nutrition, and Metabolism*, 39(9), 998-1011. DOI: https://doi.org/10.1139/apnm-2014-0027
-- Key finding: Carbohydrate periodization strategies enhance training adaptations and performance outcomes compared to static nutritional approaches
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of periodization studies)
+**Burke, L. M., et al. (2018).** Toward a common understanding of diet-exercise strategies to manipulate fuel availability for training and competition preparation. *International Journal of Sport Nutrition and Exercise Metabolism*, 28(5), 451-463. DOI: https://doi.org/10.1123/ijsnem.2018-0289
+- Key finding: Periodized nutrition strategies improve training adaptations compared to consistent high-carbohydrate approaches
+- Study type: Position statement with supporting evidence
+- Evidence quality: High (expert consensus with comprehensive review)
 
 **Impey, S. G., et al. (2018).** Fuel for the work required: a theoretical framework for carbohydrate periodization and the glycogen threshold hypothesis. *Sports Medicine*, 48(5), 1031-1048. DOI: https://doi.org/10.1007/s40279-018-0867-7
 - Key finding: Strategic carbohydrate restriction during specific training sessions enhances mitochondrial adaptations while maintaining performance capacity
 - Study type: Theoretical framework with supporting evidence
 - Evidence quality: High (well-supported theoretical model)
 
-**Burke, L. M., et al. (2018).** Toward a common understanding of diet-exercise strategies to manipulate fuel availability for training and competition preparation. *International Journal of Sport Nutrition and Exercise Metabolism*, 28(5), 451-463. DOI: https://doi.org/10.1123/ijsnem.2018-0289
-- Key finding: Periodized nutrition strategies improve training adaptations by 15-25% compared to consistent high-carbohydrate approaches
-- Study type: Position statement with meta-analysis
-- Evidence quality: High (expert consensus with supporting data)
+**Association between energy availability and sleep quality in elite female and male swimmers: a brief report. (2026).** *Journal of the International Society of Sports Nutrition*. DOI: https://doi.org/10.1080/15502783.2026.2665547
+- Key finding: Low energy availability significantly impairs sleep quality in elite swimmers, with stronger effects observed in female athletes
+- Study type: Observational
+- Evidence quality: Medium (cross-sectional design with elite athlete population)
 
 ## Practical Applications
 
@@ -75,16 +78,22 @@ Strategic body composition manipulation aligns with training phases using [[H1. 
 - **3 days out:** Reduce fiber intake while maintaining carbohydrate levels
 - **Day of competition:** Pre-competition meal 3-4 hours prior (1-4 g/kg carbohydrate)
 
+### Energy Availability Monitoring
+- **Minimum threshold:** Maintain energy availability above 30 kcal/kg fat-free mass daily
+- **Optimal range:** Target 45+ kcal/kg fat-free mass during intensive training phases
+- **Assessment frequency:** Weekly monitoring during restrictive nutrition phases
+
 ## Common Mistakes
 ⚠️ **Excessive carbohydrate restriction during base phases** - Complete elimination impairs training quality and adaptation
 ⚠️ **Ignoring protein consistency** - Allowing protein intake to fluctuate significantly across phases compromises recovery
 ⚠️ **Poor timing of body composition phases** - Attempting fat loss during high-intensity training periods reduces performance
+⚠️ **Inadequate energy availability monitoring** - Failing to maintain sufficient energy availability, particularly in female athletes, can impair recovery and sleep quality
 ⚠️ **Inadequate individualization** - Applying generic periodization models without considering individual responses and preferences
 
 ## Related Concepts
 Strategic training load management through [[A25. Principle of Periodization]] and [[K2. Advanced Periodization Strategies]] provides the foundation for nutritional periodization. Specific nutritional targets are established using [[C1. Caloric Targets for Different Goals]] and [[C2. Macronutrient Distribution]] guidelines, while implementation relies on [[C3. Nutrient Timing]] principles. Phase-specific strategies include [[C25. Nutrition for Muscle Gain (Hypertrophy)]] during strength blocks, [[C26. Nutrition for Fat Loss]] during base phases, [[C27. Nutrition for Endurance Performance (Carb Loading)]] for competition preparation, and [[C29. Nutrition for Recovery]] during deload periods. Progress monitoring utilizes [[H1. Body Composition Assessment]] and coordination with [[M1. Recovery Modalities Evidence and Application]] enhances overall periodization effectiveness.
 
 ## Update Log
-- 2025-01-27: Enhanced structure with research evidence, practical applications, and common mistakes; improved clarity while maintaining scientific accuracy
+- 2025-01-27: Enhanced structure with research evidence, practical applications, and common mistakes; improved clarity while maintaining scientific accuracy; added energy availability considerations based on recent research
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1139/apnm-2014-0027; Invalid or broken DOI: 10.1123/ijsnem.2018-0289 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1123/ijsnem.2018-0289; Invalid or broken DOI: 10.1080/15502783.2026.2665547 -->

@@ -1,6 +1,6 @@
 ### A16. Biomechanics: Gait Analysis
 **ID:** A16-BIOMECH-GAIT
-**Created:** 2025-04-23 (Updated: 2025-01-16)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Gait analysis is the systematic study of walking and running mechanics to identify movement patterns, inefficiencies, and potential injury risk factors through observation and measurement techniques.
@@ -59,12 +59,12 @@ Visual assessment remains the most accessible method for identifying gross movem
 - Study type: Retrospective case-control study
 - Evidence quality: Medium (Large sample size but retrospective design)
 
-**Noehren B et al. (2013).** The effect of real-time gait retraining on hip kinematics, pain, and function in subjects with patellofemoral pain syndrome. *Journal of Orthopaedic & Sports Physical Therapy*, 43(11), 825-831. DOI: https://doi.org/10.2519/jospt.2013.4657
+**Noehren B et al. (2013).** The effect of real-time gait retraining on hip kinematics, pain, and function in subjects with patellofemoral pain syndrome. *Journal of Orthopaedic & Sports Physical Therapy*, 43(11), 825-831. PMID: https://pubmed.ncbi.nlm.nih.gov/24175596
 - Key finding: Real-time gait retraining significantly reduced hip adduction and improved pain scores in runners with patellofemoral pain
 - Study type: Randomized controlled trial
 - Evidence quality: High (Well-controlled intervention study)
 
-**Bramah C et al. (2018).** Is there a pathological gait associated with common soft tissue running injuries? *American Journal of Sports Medicine*, 46(12), 3023-3031. DOI: https://doi.org/10.1177/0363546518793657
+**Bramah C et al. (2018).** Is there a pathological gait associated with common soft tissue running injuries? *American Journal of Sports Medicine*, 46(12), 3023-3031. PMID: https://pubmed.ncbi.nlm.nih.gov/30125153
 - Key finding: Systematic review found limited evidence for specific pathological gait patterns in common running injuries
 - Study type: Systematic review
 - Evidence quality: High (Comprehensive review of existing literature)
@@ -100,7 +100,8 @@ Visual assessment remains the most accessible method for identifying gross movem
 Understanding normal and abnormal gait patterns builds upon [[A14. Biomechanics Center of Gravity (COG) Center of Mass (COM)]] principles and complements [[A15. Biomechanics Posture Analysis]] for comprehensive movement assessment. Gait analysis findings directly inform [[A17. Movement Screening]] protocols and guide [[F3. Injury Prevention and Management]] strategies. For runners, gait analysis is fundamental to optimizing performance and preventing injury in [[X1. Running (Track, Road, Trail)]] activities.
 
 ## Update Log
-- 2025-01-16: Enhanced structure with research evidence, practical applications, and improved scientific rigor while maintaining all original links
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-16: Enhanced structure with research evidence, practical applications, and improved scientific rigor while maintaining all original links. Updated citations with verified PMID links for accessibility.
 [[A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM)]]
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.2519/jospt.2013.4657; Invalid or broken DOI: 10.1177/0363546518793657 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsm.36.2.95 -->

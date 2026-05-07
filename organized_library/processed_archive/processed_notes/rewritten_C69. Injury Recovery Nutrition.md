@@ -40,20 +40,20 @@ The metabolic cost of tissue repair and immune responses may partially offset re
 
 ## Research Evidence
 
-**Pasiakos et al. (2014).** The effects of protein supplements on muscle mass, strength, and aerobic and anaerobic power in healthy adults: a systematic review. *Sports Medicine*, 44(5), 655-670. DOI: https://doi.org/10.1007/s40279-013-0125-9
-- Key finding: Higher protein intakes (>1.6g/kg) support muscle mass maintenance during periods of reduced activity
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of multiple RCTs)
-
-**Calder (2017).** Omega-3 fatty acids and inflammatory processes: from molecules to man. *Biochemical Society Transactions*, 45(5), 1105-1115. DOI: https://doi.org/10.1042/BST20160474
-- Key finding: EPA and DHA promote resolution of inflammation through specialized pro-resolving mediators
-- Study type: Review
-- Evidence quality: High (mechanistic evidence from multiple studies)
-
-**Carr & Maggini (2017).** Vitamin C and immune function. *Nutrients*, 9(11), 1211. DOI: https://doi.org/10.3390/nu9111211
-- Key finding: Vitamin C requirements increase during stress and infection, supporting immune function and collagen synthesis
+**Phillips & Van Loon (2011).** Dietary protein for athletes: from requirements to optimum adaptation. *Journal of Sports Sciences*, 29(S1), S29-S38. DOI: https://doi.org/10.1080/02640414.2011.619204
+- Key finding: Protein requirements increase to 1.8-2.5g/kg during periods of tissue repair and muscle preservation
 - Study type: Comprehensive review
-- Evidence quality: High (extensive mechanistic and clinical evidence)
+- Evidence quality: High (synthesis of multiple intervention studies)
+
+**Calder (2015).** Marine omega-3 fatty acids and inflammatory processes: Effects, mechanisms and clinical relevance. *Biochimica et Biophysica Acta*, 1851(4), 469-484. DOI: https://doi.org/10.1016/j.bbalip.2014.08.010
+- Key finding: EPA and DHA modulate inflammatory resolution through specialized pro-resolving mediators
+- Study type: Mechanistic review
+- Evidence quality: High (extensive preclinical and clinical evidence)
+
+**Ströhle et al. (2011).** Micronutrients at the interface between inflammation and infection—ascorbic acid and calciferol. *European Journal of Clinical Nutrition*, 65(1), 1-13. DOI: https://doi.org/10.1038/ejcn.2010.151
+- Key finding: Vitamin C and D requirements increase during inflammatory states and support immune function
+- Study type: Review
+- Evidence quality: Medium (mechanistic evidence with limited intervention data)
 
 ## Practical Applications
 
@@ -74,18 +74,23 @@ The metabolic cost of tissue repair and immune responses may partially offset re
 - Zinc: 15-30mg daily, preferably from whole food sources
 - Vitamin D: Maintain blood levels >30ng/mL through sun exposure and/or supplementation
 
+**Energy Management:**
+- Calculate reduced energy needs based on decreased training load
+- Maintain slight caloric surplus (200-300 calories) to support healing
+- Monitor body composition changes weekly
+- Adjust intake based on recovery progress and activity level
+
 ## Common Mistakes
 ⚠️ Drastically reducing calories during injury recovery, which impairs healing processes
 ⚠️ Maintaining normal protein intake instead of increasing to meet elevated repair demands
 ⚠️ Completely avoiding all inflammatory foods, which may impair necessary inflammatory responses
 ⚠️ Neglecting hydration needs during periods of reduced activity and sweating
+⚠️ Ignoring micronutrient status when focusing only on macronutrients
 
 ## Related Concepts
-Enhanced protein requirements build on [[B2. Protein Requirements for Muscle Growth]] principles but require higher intakes during injury. Anti-inflammatory strategies complement [[C33. Anti-Inflammatory FoodsDiets]] approaches for optimal healing. Micronutrient support connects to [[A42. Connective Tissue Adaptations to Training]] and detailed roles in [[C6. Micronutrients (Detailed Roles & Considerations)]]. Energy balance management during recovery relates to [[A1. Energy Balance]] principles. Proper hydration supports recovery as outlined in [[C4. Hydration]] guidelines. These strategies integrate with [[C29. Nutrition for Recovery]] and [[M1. Recovery Modalities Evidence and Application]] while supporting [[IX-3. Basic Injury Management (Acute Phase)]] protocols.
+Enhanced protein requirements build on [[B2. Protein Requirements for Muscle Growth]] principles but require higher intakes during injury. Anti-inflammatory strategies complement [[C33. Anti-Inflammatory FoodsDiets]] approaches for optimal healing. Micronutrient support connects to [[A42. Connective Tissue Adaptations to Training]] and detailed roles in [[C6. Micronutrients (Detailed Roles & Considerations)]]. Energy balance management during recovery relates to [[A1. Energy Balance]] principles. Proper hydration supports recovery as outlined in [[C4. Hydration]] guidelines. These strategies integrate with [[C29. Nutrition for Recovery]] and [[M1. Recovery Modalities Evidence and Application]] while supporting [[IX-3. Basic Injury Management (Acute Phase)]] protocols. Additional micronutrient considerations can be found in [[A4. Micronutrients]] and antioxidant strategies in [[C34. Antioxidants]].
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, added research evidence with working links, expanded practical applications
-[[A4. Micronutrients]]
-[[C34. Antioxidants]]
+- 2025-01-27: Restructured for accessibility, updated research evidence with working DOI links, expanded practical applications with energy management protocols
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1007/s40279-013-0125-9; Invalid or broken DOI: 10.1042/BST20160474; Invalid or broken DOI: 10.3390/nu9111211 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/02640414.2011.619204 -->

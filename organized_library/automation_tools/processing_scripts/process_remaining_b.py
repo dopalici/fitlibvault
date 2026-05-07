@@ -23,17 +23,23 @@ for i in range(42, 49):
     else:
         print(f"Missing: B{i}")
 
-# Run processing
+# Run processing (set ANTHROPIC_API_KEY in your environment first)
+script = Path(__file__).resolve().parent / "process_fitness_library.py"
+api_key = os.environ.get("ANTHROPIC_API_KEY")
+if not api_key:
+    print("Error: set ANTHROPIC_API_KEY, e.g. export ANTHROPIC_API_KEY='sk-ant-...'", file=sys.stderr)
+    sys.exit(1)
+
 cmd = [
-    "python3", "automation_scripts/process_fitness_library.py",
+    "python3", str(script),
     "--section", "B",
     "--start-num", "42",
-    "--end-num", "48", 
+    "--end-num", "48",
     "--input-dir", ".",
     "--output-dir", "processed_notes",
-    "--api-key", "sk-ant-api03-MyMy97vMN61gh8drHm4MU_3bxnVyQbT27EiUzEovf2a6XkOmCSbLLW4SBVetWxyEV32IuHuNfEWxBMrda6_7Yw-9eKLgAAA"
+    "--api-key", api_key,
 ]
 
-print("Running command:", ' '.join(cmd))
+print("Running command:", "python3", script, "(with --api-key redacted)")
 result = subprocess.run(cmd)
 sys.exit(result.returncode)

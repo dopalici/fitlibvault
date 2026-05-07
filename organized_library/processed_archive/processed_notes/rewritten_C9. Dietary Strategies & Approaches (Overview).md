@@ -18,7 +18,7 @@ Numerous named dietary strategies exist in the fitness and nutrition landscape, 
 
 ### Evaluating Dietary Strategy Effectiveness
 
-While various approaches can be effective for achieving specific goals (weight loss, health improvement, performance enhancement), their success hinges on fundamental principles rather than the specific "brand name" of the diet (Aragon et al., 2017).
+While various approaches can be effective for achieving specific goals (weight loss, health improvement, performance enhancement), their success hinges on fundamental principles rather than the specific "brand name" of the diet. The most important factor is creating a sustainable approach that allows individuals to consistently meet their nutritional needs over time.
 
 ### Six Key Evaluation Factors
 
@@ -32,7 +32,7 @@ Does it provide sufficient protein [[B2. Protein Requirements for Muscle Growth]
 Does it provide adequate vitamins and minerals [[C6. Micronutrients (Detailed Roles & Considerations)]] to prevent deficiencies? Highly restrictive diets often require careful planning or targeted supplementation.
 
 **4. Adherence & Sustainability**
-Is the diet practical, enjoyable, and sustainable long-term considering lifestyle, preferences, culture, and budget? Research consistently shows adherence as the primary predictor of long-term success [[D2. Diet Adherence and Behavior Change]] (Johnston et al., 2014).
+Is the diet practical, enjoyable, and sustainable long-term considering lifestyle, preferences, culture, and budget? Research consistently shows adherence as the primary predictor of long-term success [[D2. Diet Adherence and Behavior Change]].
 
 **5. Food Quality Emphasis**
 Does it prioritize nutrient-dense, whole, or minimally processed foods [[C30. Food Quality & Health (Whole vs Processed)]]? This impacts both micronutrient density and satiety.
@@ -42,19 +42,20 @@ What are the evidence-based short-term and long-term effects on relevant health 
 
 ## Research Evidence
 
-**Key Meta-Analysis Findings:**
-- Johnston, B.C., et al. (2014). Comparison of weight loss among named diet programs in overweight and obese adults: a meta-analysis. *JAMA*, 312(9), 923-933. DOI: 10.1001/jama.2014.10397
-  - Found minimal differences between named diets when adherence was considered
-  - Weight loss averaged 2-4 kg across different approaches at 12 months
+**Johnston, B.C., et al. (2014).** Comparison of weight loss among named diet programs in overweight and obese adults: a meta-analysis. *JAMA*, 312(9), 923-933. DOI: https://doi.org/10.1001/jama.2014.10397
+- Key finding: Found minimal differences between named diets when adherence was considered, with weight loss averaging 2-4 kg across different approaches at 12 months
+- Study type: Meta-analysis
+- Evidence quality: High (comprehensive analysis of multiple diet comparisons)
 
-**Individual Variation Research:**
-- Gardner, C.D., et al. (2018). Effect of Low-Fat vs Low-Carbohydrate Diet on 12-Month Weight Loss in Overweight Adults and the Association With Genotype Pattern or Insulin Secretion: The DIETFITS Randomized Clinical Trial. *JAMA*, 319(7), 667-679. DOI: 10.1001/jama.2018.0245
-  - Demonstrated importance of adherence over specific diet type for weight loss
-  - Individual responses varied significantly within each diet group
+**Gardner, C.D., et al. (2018).** Effect of Low-Fat vs Low-Carbohydrate Diet on 12-Month Weight Loss in Overweight Adults and the Association With Genotype Pattern or Insulin Secretion: The DIETFITS Randomized Clinical Trial. *JAMA*, 319(7), 667-679. DOI: https://doi.org/10.1001/jama.2018.0245
+- Key finding: Demonstrated importance of adherence over specific diet type for weight loss, with individual responses varying significantly within each diet group
+- Study type: RCT
+- Evidence quality: High (large randomized controlled trial)
 
-**Position Statement:**
-- Aragon, A.A., et al. (2017). International society of sports nutrition position stand: diets and body composition. *Journal of the International Society of Sports Nutrition*, 14, 16. DOI: 10.1186/s12970-017-0174-y
-  - Comprehensive review emphasizing fundamental principles over specific diet names
+**Aragon, A.A., et al. (2017).** International society of sports nutrition position stand: diets and body composition. *Journal of the International Society of Sports Nutrition*, 14, 16. DOI: https://doi.org/10.1186/s12970-017-0174-y
+- Key finding: Comprehensive review emphasizing fundamental principles over specific diet names for body composition outcomes
+- Study type: Systematic review/Position statement
+- Evidence quality: High (expert consensus based on extensive literature review)
 
 ## Practical Applications
 
@@ -69,6 +70,12 @@ What are the evidence-based short-term and long-term effects on relevant health 
 - Goal: Fat loss requiring 1,800 calories daily
 - Could be achieved through Mediterranean (emphasizing whole foods), intermittent fasting (time restriction), or flexible dieting (macro tracking)
 - Success depends on consistently hitting the calorie target, not the specific method chosen
+
+**Weekly Planning Strategy:**
+- Choose 3-4 meals you enjoy that fit your macronutrient targets
+- Rotate these meals throughout the week for consistency
+- Allow flexibility for social situations and preferences
+- Track adherence patterns to identify what works best for your lifestyle
 
 ## Common Mistakes
 
@@ -87,4 +94,6 @@ Individual response variation [[A23. Principle of Individuality]] is crucial whe
 Specific dietary examples include the Mediterranean approach [[C10. Mediterranean Diet]] through intuitive eating methods [[C19. Intuitive Eating]]. Long-term success requires attention to behavioral factors [[D2. Diet Adherence and Behavior Change]] and food quality considerations [[C30. Food Quality & Health (Whole vs Processed)]].
 
 ## Update Log
-- 2025-01-07: Restructured for accessibility, added practical applications section, expanded research evidence with DOI links, clarified evaluation framework
+- 2025-01-07: Restructured for accessibility, added practical applications section, expanded research evidence with DOI links, clarified evaluation framework, added weekly planning strategy
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1001/jama.2014.10397; Invalid or broken DOI: 10.1001/jama.2018.0245; Invalid or broken DOI: 10.1186/s12970-017-0174-y -->

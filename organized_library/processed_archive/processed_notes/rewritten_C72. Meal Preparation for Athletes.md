@@ -43,7 +43,7 @@ Align meal preparation schedules with training periodization to support [[C5. Pr
 
 **Pre-Training Meals:** Prepare easily digestible options with appropriate carbohydrate content 2-3 hours before training sessions. Focus on familiar foods that don't cause gastrointestinal distress.
 
-**Post-Training Recovery:** Have protein and carbohydrate combinations readily available for immediate post-exercise consumption to optimize [[C29. Nutrition for Recovery]] protocols.
+**Post-Training Recovery:** Have protein and carbohydrate combinations readily available for immediate post-exercise consumption to optimize recovery protocols through [[C29. Nutrition for Recovery]].
 
 **Competition Preparation:** Practice meal prep routines that will be used during competition periods to ensure familiarity and reduce stress around nutrition during important events.
 
@@ -89,15 +89,19 @@ Prevent meal fatigue while maintaining nutritional consistency through strategic
 - Baked salmon + quinoa + roasted sweet potato (endurance performance)
 - Lean beef + white rice + mixed vegetables (strength/power athletes)
 
+**Energy Availability Considerations:**
+Plan meal prep to ensure adequate energy intake relative to exercise expenditure, particularly important for elite athletes where low energy availability can impact sleep quality and recovery.
+
 ## Common Mistakes
 ⚠️ Preparing too much food at once, leading to spoilage and waste rather than consistent nutrition
 ⚠️ Ignoring food safety protocols, risking foodborne illness that can derail training
 ⚠️ Creating overly rigid systems that don't allow for schedule changes or social eating situations
-⚠️ Focusing only on convenience while neglecting [[C30. Food Quality & Health (Whole vs Processed)]] principles
+⚠️ Focusing only on convenience while neglecting principles of [[C30. Food Quality & Health (Whole vs Processed)]]
 ⚠️ Failing to align prep timing with training schedules, missing optimal nutrition windows
+⚠️ Under-preparing calories relative to training demands, potentially creating low energy availability states
 
 ## Related Concepts
 Strategic meal preparation supports [[C1. Caloric Targets for Different Goals]] by ensuring consistent portion control and [[C2. Macronutrient Distribution]] through planned ratios. Effective prep systems enable optimal [[C3. Nutrient Timing]] and support [[C5. Pre, During, and Post-Exercise Nutrition]] protocols. Specialized applications include [[C25. Nutrition for Muscle Gain (Hypertrophy)]], [[C26. Nutrition for Fat Loss]], [[C27. Nutrition for Endurance Performance (Carb Loading)]], [[C28. Nutrition for Strength Power Athletes]], and [[C29. Nutrition for Recovery]] while maintaining [[C30. Food Quality & Health (Whole vs Processed)]] standards.
 
 ## Update Log
-- 2025-01-27: Enhanced structure with practical applications, research evidence, and common mistakes sections. Added specific protocols for storage, portioning, and training integration.
+- 2025-01-27: Enhanced structure with practical applications, research evidence, and common mistakes sections. Added specific protocols for storage, portioning, and training integration. Incorporated energy availability considerations based on recent research showing connections between energy intake and sleep quality in elite athletes.

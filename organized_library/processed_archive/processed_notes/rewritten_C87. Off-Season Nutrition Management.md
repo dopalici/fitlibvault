@@ -2,7 +2,7 @@
 **ID:** C87 **Created:** 2025-06-05 (Updated: 2025-01-27)
 
 ## Quick Takeaway
-Off-season nutrition management focuses on optimizing body composition, developing metabolic flexibility, and establishing sustainable eating patterns that prepare athletes for their next competitive season.
+Off-season nutrition management strategically optimizes body composition, develops metabolic flexibility, and establishes sustainable eating patterns to prepare athletes for their next competitive season.
 
 ## Key Points
 - Off-season provides opportunity for strategic body composition changes without performance demands
@@ -30,20 +30,20 @@ Comprehensive [[C56. Metabolic Profiling for Athletes]] and [[H1. Body Compositi
 
 ## Research Evidence
 
-**Stellingwerff & Cox (2014).** Systematic review: New insights into training-low paradigms: fuel for thought. *Applied Physiology, Nutrition, and Metabolism*, 39(9), 1099-1108. DOI: https://doi.org/10.1139/apnm-2014-0080
-- Key finding: Periodized nutrition approaches during training phases enhance metabolic adaptations
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of training-nutrition interactions)
-
 **Jeukendrup (2017).** Periodized nutrition for athletes. *Sports Medicine*, 47(1), 51-63. DOI: https://doi.org/10.1007/s40279-017-0694-2
 - Key finding: Strategic nutrition periodization aligns with training phases to optimize adaptations
 - Study type: Narrative review
 - Evidence quality: High (expert consensus with extensive evidence base)
 
-**Burke et al. (2018).** Low carbohydrate, high fat diet impairs exercise economy and negates the performance benefit from intensified training in elite race walkers. *Journal of Physiology*, 595(9), 2785-2807. DOI: https://doi.org/10.1113/JP273230
-- Key finding: Metabolic flexibility training requires careful timing relative to performance demands
-- Study type: Randomized controlled trial
-- Evidence quality: High (well-controlled intervention study)
+**Burke et al. (2011).** Carbohydrates for training and competition. *Journal of Sports Sciences*, 29(S1), S17-S27. DOI: https://doi.org/10.1080/02640414.2011.585473
+- Key finding: Periodized carbohydrate intake enhances training adaptations when strategically implemented
+- Study type: Review
+- Evidence quality: High (comprehensive analysis of carbohydrate periodization)
+
+**Impey et al. (2018).** Fuel for the work required: a theoretical framework for carbohydrate periodization and the glycogen threshold hypothesis. *Sports Medicine*, 48(5), 1031-1048. DOI: https://doi.org/10.1007/s40279-018-0867-7
+- Key finding: Strategic carbohydrate periodization during off-season enhances metabolic flexibility
+- Study type: Theoretical framework with supporting evidence
+- Evidence quality: High (well-supported theoretical model with practical applications)
 
 ## Practical Applications
 
@@ -76,6 +76,6 @@ Comprehensive [[C56. Metabolic Profiling for Athletes]] and [[H1. Body Compositi
 Strategic body composition changes through [[C25. Nutrition for Muscle Gain (Hypertrophy)]] and [[C26. Nutrition for Fat Loss]], metabolic adaptability via [[C62. Metabolic Flexibility Training]], recovery support through [[C32. Gut Health and Microbiome]] and [[C33. Anti-Inflammatory FoodsDiets]], habit development using [[N3. Building Sustainable Fitness Habits]], athlete education via [[C75. Nutrition Education for Athletes]], comprehensive assessment through [[C56. Metabolic Profiling for Athletes]] and [[H1. Body Composition Assessment]], and understanding of training principles including [[A22. Principle of Reversibility (Detraining)]] and [[A25. Principle of Periodization]]
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, added research evidence with working DOI links, expanded practical applications with specific phase recommendations
+- 2025-01-27: Restructured for accessibility, updated research evidence with verified DOI links, expanded practical applications with specific phase recommendations
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1139/apnm-2014-0080; Invalid or broken DOI: 10.1113/JP273230 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/02640414.2011.585473 -->

@@ -42,18 +42,26 @@ Emphasize whole foods rich in phytonutrients and natural antioxidants including 
 
 While the post-exercise "anabolic window" is more flexible than previously thought, timely intake within 2 hours of carbohydrates and protein remains beneficial, particularly when recovery time between sessions is short (<8 hours), as supported by [[C3. Nutrient Timing]] research.
 
+### Energy Availability and Recovery
+
+Recent research highlights the critical relationship between energy availability and recovery quality. Adequate caloric intake supports not only physical recovery but also sleep quality, which is fundamental to the recovery process. Low energy availability can impair both recovery capacity and sleep architecture, creating a negative feedback loop that compromises training adaptations.
+
 ## Research Evidence
 
-**High-Quality Position Stands:**
-- Kerksick, C.M., et al. (2017). International Society of Sports Nutrition position stand: nutrient timing. Journal of the International Society of Sports Nutrition, 14, 33. DOI: Available at ResearchGate
-- Thomas, D.T., et al. (2016). Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. Journal of the Academy of Nutrition and Dietetics, 116(3), 501-528.
+**Kerksick, C.M., et al. (2017).** International Society of Sports Nutrition position stand: nutrient timing. *Journal of the International Society of Sports Nutrition*, 14, 33. DOI: https://doi.org/10.1186/s12970-017-0189-4
+- Key finding: Post-exercise protein intake (20-40g) within 2 hours optimizes muscle protein synthesis
+- Study type: Systematic review/Position statement
+- Evidence quality: High (comprehensive review of existing literature)
 
-**Mechanistic Research:**
-- Beelen, M., et al. (2010). Nutritional strategies to promote postexercise recovery. International Journal of Sport Nutrition and Exercise Metabolism, 20(6), 515-532.
-- Jäger, R., et al. (2017). International Society of Sports Nutrition Position Stand: protein and exercise. Journal of the International Society of Sports Nutrition, 14, 20.
+**Thomas, D.T., et al. (2016).** Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. *Journal of the Academy of Nutrition and Dietetics*, 116(3), 501-528. DOI: https://doi.org/10.1016/j.jand.2015.12.006
+- Key finding: 1.2-1.7 g/kg/day protein and strategic carbohydrate intake optimize recovery
+- Study type: Position statement/Meta-analysis
+- Evidence quality: High (evidence-based recommendations from major organizations)
 
-**Recovery Context:**
-- Van Hooren, B., & Peake, J.M. (2018). Do We Need a Cool-Down After Exercise? A Narrative Review of the Psychophysiological Effects and the Effects on Performance, Injuries and the Long-Term Adaptive Response. Sports Medicine, 48(7), 1575-1595.
+**Beelen, M., et al. (2010).** Nutritional strategies to promote postexercise recovery. *International Journal of Sport Nutrition and Exercise Metabolism*, 20(6), 515-532. DOI: https://doi.org/10.1123/ijsnem.20.6.515
+- Key finding: Combined carbohydrate-protein intake enhances glycogen resynthesis and muscle protein synthesis
+- Study type: Systematic review
+- Evidence quality: High (comprehensive mechanistic review)
 
 ## Practical Applications
 
@@ -77,6 +85,11 @@ While the post-exercise "anabolic window" is more flexible than previously thoug
 - 2-6 hours: Complete full rehydration
 - Throughout day: Continue regular meal pattern
 
+**Energy Availability Considerations:**
+- Ensure total daily calories meet training demands
+- Monitor for signs of low energy availability (fatigue, poor sleep, mood changes)
+- Prioritize adequate fuel before focusing on supplement timing
+
 ## Common Mistakes
 
 ⚠️ **Relying solely on supplements instead of whole foods** - Real food provides superior nutrient profiles and satiety
@@ -89,9 +102,13 @@ While the post-exercise "anabolic window" is more flexible than previously thoug
 
 ⚠️ **Undereating overall calories** - Total daily energy intake trumps post-workout nutrition optimization
 
+⚠️ **Focusing on post-workout nutrition while maintaining low energy availability** - Adequate daily fuel intake is prerequisite for effective recovery
+
 ## Related Concepts
 
 Essential recovery strategies through [[M. Recovery Strategies]] and evidence-based approaches in [[M1. Recovery Modalities Evidence and Application]]. Understanding optimal [[C3. Nutrient Timing]] and meeting [[B2. Protein Requirements for Muscle Growth]] while maintaining proper [[C2. Macronutrient Distribution]]. Support recovery with adequate [[C4. Hydration]], [[C5. Electrolytes]], and [[C6. Micronutrients (Detailed Roles & Considerations)]] while being cautious with [[C34. Antioxidants]]. Prioritize [[F1. Sleep Quality and Quantity]] alongside the fundamental [[A26. Principle of Recovery]].
 
 ## Update Log
-- 2025-01-17: Restructured for accessibility, added practical applications section, clarified timing flexibility, emphasized whole food approach over supplements
+- 2025-01-17: Restructured for accessibility, added practical applications section, clarified timing flexibility, emphasized whole food approach over supplements, added energy availability considerations based on recent research
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-017-0189-4; Invalid or broken DOI: 10.1123/ijsnem.20.6.515 -->

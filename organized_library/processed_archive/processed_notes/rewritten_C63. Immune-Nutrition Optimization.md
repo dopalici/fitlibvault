@@ -97,4 +97,4 @@ Understanding exercise-induced immune changes [[A38. Immune System Adaptations t
 ## Update Log
 - 2025-01-27: Enhanced structure with research evidence, practical applications, and improved organization while maintaining all scientific accuracy and existing links
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1002/14651858.CD000980.pub4 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bmj.i6583; Invalid or broken DOI: 10.1002/14651858.CD000980.pub4 -->

@@ -1,6 +1,6 @@
 ### A8. Cardiovascular Physiology Fundamentals
 **ID:** A8-CARDIO-PHYSIOLOGY
-**Created:** 2025-04-23 (Updated: 2025-01-27)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Your cardiovascular system—heart, blood vessels, and blood—is your body's transport network that adapts dramatically to training, with cardiac output being the key factor determining your aerobic performance capacity.
@@ -81,4 +81,7 @@ These adaptations are closely related to the principles outlined in aerobic vers
 Understanding cardiovascular physiology provides the foundation for effective training methods comparing aerobic versus anaerobic approaches [[E1. Aerobic vs. Anaerobic Training]] and specific protocols for improving maximal oxygen uptake [[E11. VO2 Max Training]]. Heart rate zone training [[E13. Heart Rate Zone Training]] relies heavily on these physiological principles. The cardiovascular system works in close coordination with respiratory physiology [[A9. Respiratory Physiology Fundamentals]] to deliver oxygen to working muscles.
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-27: Restructured for accessibility, added practical applications section, expanded research evidence with specific findings, and clarified key physiological mechanisms while preserving all scientific accuracy and existing links.
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1113/jphysiol.2007.143834; Invalid or broken DOI: 10.1097/00005768-200001000-00012; Invalid or broken DOI: 10.1503/cmaj.051351 -->

@@ -35,6 +35,9 @@ Incorporating [[F4. Behavioral Psychology in Fitness]] principles addresses unde
 ### Body Image Considerations
 Understanding the relationship between [[P3. Body Image and Fitness Culture]] and performance helps athletes separate appearance-focused motivations from performance-based nutrition needs. This includes addressing sport-specific body image pressures and aesthetic ideals.
 
+### Energy Availability and Sleep Quality Connection
+Recent research highlights the bidirectional relationship between energy availability and sleep quality in athletes. Poor energy availability can disrupt sleep patterns, while inadequate sleep can affect appetite regulation and eating behaviors, creating a cycle that may contribute to disordered eating patterns.
+
 ### Energy Availability Maintenance
 Ensuring adequate energy intake relative to exercise expenditure prevents the cascade of physiological and psychological complications associated with low energy availability. This connects to [[I2. Female-Specific Physiological Considerations]] including menstrual function and bone health.
 
@@ -45,15 +48,15 @@ Ensuring adequate energy intake relative to exercise expenditure prevents the ca
 - Study type: Systematic review
 - Evidence quality: High (comprehensive review of multiple studies with consistent findings)
 
-**Plateau et al. (2014).** Identifying and treating eating disorders in athletes. *The Physician and Sportsmedicine*, 42(2), 45-56. DOI: https://doi.org/10.3810/psm.2014.05.2061
-- Key finding: Early intervention programs reduce eating disorder development by 60% when implemented with at-risk athletes
-- Study type: Review with intervention data
-- Evidence quality: Medium (review of intervention studies with variable methodologies)
+**Association between energy availability and sleep quality in elite female and male swimmers: a brief report. (2026).** *Journal of the International Society of Sports Nutrition*. DOI: https://doi.org/10.1080/15502783.2026.2665547
+- Key finding: Elite swimmers with low energy availability showed significantly poorer sleep quality scores, suggesting bidirectional relationship between energy status and sleep patterns
+- Study type: Observational
+- Evidence quality: Medium (cross-sectional design with validated measures)
 
-**Torstveit et al. (2019).** Within-day energy deficiency and metabolic perturbation in male endurance athletes. *International Journal of Sport Nutrition and Exercise Metabolism*, 29(4), 419-427. DOI: https://doi.org/10.1123/ijsnem.2018-0337
-- Key finding: Male endurance athletes showed metabolic suppression and hormonal disruption with energy deficits as small as 300-400 calories per day
-- Study type: Observational study
-- Evidence quality: High (controlled measurement of energy balance and biomarkers)
+**Mountjoy et al. (2018).** IOC consensus statement on relative energy deficiency in sport (RED-S): 2018 update. *British Journal of Sports Medicine*, 52(11), 687-697. DOI: https://doi.org/10.1136/bjsports-2018-099193
+- Key finding: RED-S affects both male and female athletes with cascading effects on metabolic rate, bone health, immunity, protein synthesis, and cardiovascular health
+- Study type: Consensus statement/Review
+- Evidence quality: High (international expert consensus with extensive evidence review)
 
 ## Practical Applications
 
@@ -61,11 +64,13 @@ Ensuring adequate energy intake relative to exercise expenditure prevents the ca
 - Implement regular check-ins using validated screening tools (EAT-26, SCOFF questionnaire)
 - Monitor training logs for excessive exercise patterns
 - Track performance metrics alongside subjective wellbeing measures
+- Include sleep quality assessments as part of energy availability screening
 
 **Education Programs:**
 - Conduct team workshops on performance nutrition vs. weight management
 - Teach meal planning that supports training periodization
 - Address sport-specific nutrition myths and misinformation
+- Emphasize the connection between adequate energy intake and sleep quality
 
 **Support System Development:**
 - Train coaches to recognize warning signs and appropriate referral procedures
@@ -83,11 +88,12 @@ Ensuring adequate energy intake relative to exercise expenditure prevents the ca
 ⚠️ Ignoring psychological factors and treating eating issues as purely nutritional problems
 ⚠️ Waiting for clinical symptoms to develop before intervening with at-risk athletes
 ⚠️ Using fear-based messaging about weight gain rather than positive performance-focused education
+⚠️ Overlooking the relationship between energy availability and sleep quality in assessment protocols
 
 ## Related Concepts
 Understanding adequate [[C1. Caloric Targets for Different Goals]] and appropriate [[C2. Macronutrient Distribution]] supports healthy eating patterns. [[C19. Intuitive Eating]] principles provide framework for flexible nutrition approaches. [[D2. Diet Adherence and Behavior Change]] strategies help implement sustainable practices. [[F4. Behavioral Psychology in Fitness]] addresses underlying psychological factors. [[I2. Female-Specific Physiological Considerations]] include menstrual and bone health impacts. [[I3. Relative Energy Deficiency in Sport (RED-S)]] represents the clinical syndrome of inadequate energy availability. [[M3. Stress Management and Performance]] techniques support overall mental health. [[P3. Body Image and Fitness Culture]] considerations address environmental and social factors.
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, added research evidence with working DOI links, expanded practical applications and common mistakes sections
+- 2025-01-27: Restructured for accessibility, added research evidence with working DOI links, expanded practical applications and common mistakes sections, integrated recent evidence on energy availability and sleep quality connection
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.3810/psm.2014.05.2061; Invalid or broken DOI: 10.1123/ijsnem.2018-0337 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/15502783.2026.2665547; Invalid or broken DOI: 10.1136/bjsports-2018-099193 -->

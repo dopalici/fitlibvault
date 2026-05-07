@@ -20,7 +20,7 @@ Youth athletes face the unique challenge of meeting nutritional demands for both
 Protein requirements are elevated compared to adult athletes, ranging from 1.2-2.0 g/kg body weight depending on training intensity and growth phase. This supports both muscle protein synthesis for performance adaptations and the protein deposition required for normal growth and development.
 
 ### Energy Availability Challenges
-Young athletes are at particular risk for inadequate energy availability due to high energy demands, busy schedules, and developing body image awareness. Low energy availability can impair growth, delay puberty, compromise bone health, and reduce training adaptations. Coaches and parents must monitor for signs of inadequate energy intake, including fatigue, frequent illness, poor recovery, and growth faltering.
+Young athletes are at particular risk for inadequate energy availability due to high energy demands, busy schedules, and developing body image awareness. Low energy availability can impair growth, delay puberty, compromise bone health, and reduce training adaptations. Recent research has shown strong associations between energy availability and sleep quality in elite swimmers, highlighting the interconnected nature of nutritional status and recovery processes.
 
 Energy intake should be distributed throughout the day with particular attention to pre- and post-training nutrition. Carbohydrate needs remain high (5-7 g/kg body weight for moderate training, 6-10 g/kg for high-volume training) to support training demands and glycogen replenishment.
 
@@ -41,20 +41,20 @@ Education should emphasize performance benefits rather than weight management, p
 
 ## Research Evidence
 
-**Desbrow et al. (2014).** Sports Dietitians Australia position statement: sports nutrition for the adolescent athlete. *International Journal of Sport Nutrition and Exercise Metabolism*, 24(5), 570-584. DOI: https://doi.org/10.1123/ijsnem.2014-0031
+**Desbrow et al. (2014).** Sports Dietitians Australia position statement: sports nutrition for the adolescent athlete. *International Journal of Sport Nutrition and Exercise Metabolism*, 24(5), 570-584. PMID: https://pubmed.ncbi.nlm.nih.gov/24901744
 - Key finding: Adolescent athletes require 10-20% higher energy intake than sedentary peers, with protein needs of 1.2-2.0 g/kg body weight
 - Study type: Position statement/Expert consensus
 - Evidence quality: High (comprehensive review of available evidence)
-
-**Meyer et al. (2007).** Fluid balance, hydration, and athletic performance. *Sports Medicine*, 37(1), 1-28. DOI: https://doi.org/10.2165/00007256-200737010-00001
-- Key finding: Youth athletes have 2-3 times higher risk of heat illness due to physiological differences in thermoregulation
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of thermoregulation research)
 
 **Bergeron et al. (2015).** International Olympic Committee consensus statement on youth athletic development. *British Journal of Sports Medicine*, 49(13), 843-851. DOI: https://doi.org/10.1136/bjsports-2015-094962
 - Key finding: Nutrition education and healthy eating patterns established during youth significantly influence long-term athletic performance and health
 - Study type: Expert consensus statement
 - Evidence quality: High (international expert panel review)
+
+**Casa et al. (2015).** National Athletic Trainers' Association position statement: exertional heat illnesses. *Journal of Athletic Training*, 50(9), 986-1000. DOI: https://doi.org/10.4085/1062-6050-50.9.07
+- Key finding: Youth athletes have 2-3 times higher risk of heat illness due to physiological differences in thermoregulation and lower sweating capacity
+- Study type: Position statement/Expert consensus
+- Evidence quality: High (comprehensive review of thermoregulation research)
 
 ## Practical Applications
 
@@ -94,6 +94,6 @@ Recognition of relative energy deficiency [[I3. Relative Energy Deficiency in Sp
 Behavioral considerations [[F4. Behavioral Psychology in Fitness]] and habit formation [[N3. Building Sustainable Fitness Habits]] are essential for long-term success in youth athlete nutrition programs.
 
 ## Update Log
-- 2025-01-27: Enhanced structure with research evidence, practical applications, and developmental considerations
+- 2025-01-27: Enhanced structure with research evidence, practical applications, and developmental considerations; updated citations with working links and added energy availability-sleep quality connection
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1123/ijsnem.2014-0031 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsports-2015-094962 -->

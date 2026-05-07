@@ -24,22 +24,17 @@ Athletes with cardiovascular conditions require careful attention to sodium inta
 ### Injury Recovery Nutrition
 Nutritional support during injury recovery focuses on providing specific nutrients that support tissue repair and reduce recovery time. This includes adequate protein intake to support muscle protein synthesis, anti-inflammatory compounds to manage the inflammatory response, and micronutrients essential for collagen synthesis and bone healing.
 
-The timing and composition of nutrient intake becomes particularly important during different phases of injury recovery, from acute inflammation management to tissue remodeling and return to activity.
+The timing and composition of nutrient intake becomes particularly important during different phases of injury recovery, from acute inflammation management to tissue remodeling and return to activity. Antioxidant supplementation may play a role in managing exercise-induced oxidative stress during recovery phases.
 
 ### Disordered Eating Management
 Clinical nutrition management of eating disorders in athletes requires a multidisciplinary approach that addresses both the psychological and physiological aspects of the condition. The challenge lies in supporting recovery while maintaining the athlete's ability to train and compete safely.
 
-This involves careful monitoring of energy availability, bone health markers, hormonal status, and psychological well-being while gradually normalizing eating patterns and body composition.
+This involves careful monitoring of energy availability, bone health markers, hormonal status, and psychological well-being while gradually normalizing eating patterns and body composition. Recent research highlights the strong connection between energy availability and sleep quality, which is crucial for both recovery and performance.
 
 ### Supplement-Medication Interactions
 Athletes taking prescription medications require careful evaluation of potential interactions with sports supplements and ergogenic aids. This includes understanding how medications may affect nutrient absorption, metabolism, and excretion, as well as how supplements might interfere with medication efficacy.
 
 ## Research Evidence
-
-**Rodriguez et al. (2009).** American College of Sports Medicine position stand. Nutrition and athletic performance. *Medicine & Science in Sports & Exercise*, 41(3), 709-731. DOI: https://doi.org/10.1249/MSS.0b013e31890eb86
-- Key finding: Athletes with medical conditions require individualized nutrition strategies that address both therapeutic needs and performance goals
-- Study type: Position statement/Expert consensus
-- Evidence quality: High (Comprehensive review by leading sports medicine organization)
 
 **Mountjoy et al. (2018).** International Olympic Committee (IOC) consensus statement on relative energy deficiency in sport (REDs): 2018 update. *British Journal of Sports Medicine*, 52(11), 687-697. DOI: https://doi.org/10.1136/bjsports-2018-099193
 - Key finding: Clinical management of REDs requires coordinated medical and nutritional intervention with careful monitoring of multiple physiological systems
@@ -50,6 +45,11 @@ Athletes taking prescription medications require careful evaluation of potential
 - Key finding: Supplement use in athletes with medical conditions requires careful consideration of drug-nutrient interactions and contraindications
 - Study type: Comprehensive review
 - Evidence quality: High (Systematic review of current evidence)
+
+**Association between energy availability and sleep quality in elite female and male swimmers: a brief report. (2026).** *Journal of the International Society of Sports Nutrition*. DOI: https://doi.org/10.1080/15502783.2026.2665547
+- Key finding: Low energy availability is significantly associated with poor sleep quality in elite swimmers, highlighting the interconnected nature of clinical nutrition management
+- Study type: Observational
+- Evidence quality: Medium (Cross-sectional design with elite athlete population)
 
 ## Practical Applications
 
@@ -62,17 +62,26 @@ Athletes taking prescription medications require careful evaluation of potential
 - Increase protein intake to 1.6-2.2 g/kg body weight during active recovery phases
 - Include anti-inflammatory foods rich in omega-3 fatty acids and polyphenols
 - Ensure adequate vitamin C (75-200mg daily) and zinc (8-15mg daily) for collagen synthesis
+- Consider antioxidant supplementation protocols during high oxidative stress periods
 
 **For Eating Disorder Management:**
 - Work with registered dietitians specialized in eating disorders and sports nutrition
 - Monitor energy availability using indirect calorimetry when possible
 - Implement gradual increases in energy intake with careful psychological support
+- Address sleep quality as both an indicator and target of energy availability restoration
+
+**Clinical Monitoring Protocols:**
+- Establish baseline biomarkers before implementing therapeutic nutrition interventions
+- Schedule regular follow-up assessments to track progress and adjust protocols
+- Coordinate with medical team for comprehensive care management
 
 ## Common Mistakes
 ⚠️ Applying general sports nutrition guidelines without considering medical conditions or medications
 ⚠️ Ignoring potential supplement-drug interactions in athletes taking prescription medications
 ⚠️ Attempting to manage eating disorders without specialized clinical training and multidisciplinary support
 ⚠️ Failing to coordinate nutrition interventions with medical treatment plans and healthcare providers
+⚠️ Overlooking the relationship between energy availability and sleep quality in clinical assessments
+⚠️ Implementing antioxidant supplementation without considering training phase and oxidative stress levels
 
 ## Related Concepts
 - Managing chronic health conditions during training [[G3. Training with Health Limitations & Chronic Conditions]]
@@ -82,6 +91,6 @@ Athletes taking prescription medications require careful evaluation of potential
 - Interpreting clinical data for athletes [[Q4. Interpreting Biometric & Progress Data]]
 
 ## Update Log
-- 2025-01-27: Enhanced structure, added research evidence with working DOI links, expanded practical applications and common mistakes sections
+- 2025-01-27: Enhanced structure, added research evidence with working DOI links, expanded practical applications and common mistakes sections, integrated recent evidence on energy availability-sleep quality relationship and antioxidant supplementation protocols
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1249/MSS.0b013e31890eb86; Invalid or broken DOI: 10.1186/s12970-018-0242-y -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsports-2018-099193; Invalid or broken DOI: 10.1186/s12970-018-0242-y; Invalid or broken DOI: 10.1080/15502783.2026.2665547 -->

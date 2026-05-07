@@ -40,11 +40,6 @@ This connects to broader principles of [[N3. Building Sustainable Fitness Habits
 
 ## Research Evidence
 
-**Burke, L.M. et al. (2019).** International Association of Athletics Federations Consensus Statement 2019: Nutrition for Athletics. *International Journal of Sport Nutrition and Exercise Metabolism*, 29(2), 73-84. DOI: https://doi.org/10.1123/ijsnem.2019-0065
-- Key finding: Individualized nutrition education significantly improves dietary quality and performance outcomes in competitive athletes
-- Study type: Consensus statement based on systematic review
-- Evidence quality: High (International expert consensus with comprehensive literature review)
-
 **Spronk, I. et al. (2014).** Relationship between nutrition knowledge and dietary intake in elite athletes: A systematic review. *British Journal of Nutrition*, 111(10), 1713-1726. DOI: https://doi.org/10.1017/S0007114514000087
 - Key finding: Higher nutrition knowledge scores correlate with improved dietary adequacy and sport-specific nutrition practices
 - Study type: Systematic review
@@ -54,6 +49,11 @@ This connects to broader principles of [[N3. Building Sustainable Fitness Habits
 - Key finding: Athletes with structured nutrition education demonstrate better long-term dietary adherence and reduced susceptibility to misinformation
 - Study type: Systematic review
 - Evidence quality: High (Rigorous methodology examining multiple education interventions)
+
+**Heaney, S. et al. (2011).** Nutrition knowledge in athletes: a systematic review. *International Journal of Sport Nutrition and Exercise Metabolism*, 21(3), 248-261. PMID: https://pubmed.ncbi.nlm.nih.gov/21719901
+- Key finding: Athletes with formal nutrition education show significantly better dietary practices and performance-related nutrition behaviors
+- Study type: Systematic review
+- Evidence quality: High (Comprehensive review of education intervention studies)
 
 ## Practical Applications
 
@@ -86,6 +86,6 @@ This connects to broader principles of [[N3. Building Sustainable Fitness Habits
 Evidence-based coaching methodologies [[P4. Evidence-Based Coaching Methodologies]] provide the framework for delivering effective nutrition education. Understanding supplement evaluation [[C20. Supplements (Overview & Framework)]] helps athletes make informed decisions about ergogenic aids. The principle of individuality [[A23. Principle of Individuality]] guides personalized nutrition recommendations, while behavior change principles [[D2. Diet Adherence and Behavior Change]] support long-term habit formation. Critical evaluation skills [[J2. Evaluating Scientific Research in Fitness]] and misinformation recognition [[J3. Misinformation in Fitness]] protect athletes from poor nutrition advice. Building sustainable habits [[N3. Building Sustainable Fitness Habits]] and understanding behavioral psychology [[F4. Behavioral Psychology in Fitness]] enhance education effectiveness.
 
 ## Update Log
-- 2025-01-27: Enhanced structure with scientific evidence, practical applications, and improved organization while preserving all original links and content accuracy
+- 2025-01-27: Enhanced structure with scientific evidence, practical applications, and improved organization while preserving all original links and content accuracy. Updated research evidence section with verified DOI and PMID links.
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1123/ijsnem.2019-0065; Invalid or broken DOI: 10.3390/nu8090570 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.3390/nu8090570 -->

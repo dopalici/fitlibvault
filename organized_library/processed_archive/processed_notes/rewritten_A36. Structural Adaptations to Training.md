@@ -1,6 +1,6 @@
 ### A36. Asymmetry Assessment and Correction
 **ID:** A36-ASYMMETRY-ASSESSMENT-CORRECTION
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Asymmetry assessment identifies and addresses movement, strength, and functional differences between body sides through systematic evaluation and targeted interventions to improve performance and reduce injury risk.
@@ -46,20 +46,20 @@ Specific treatments for identified deficits including mobility work for restrict
 
 ## Research Evidence
 
-**Bishop, C., et al. (2018).** Interlimb asymmetries: the need for an individual approach to data analysis. *Journal of Strength and Conditioning Research*, 35(3), 695-701. DOI: https://doi.org/10.1519/JSC.0000000000002729
-- Key finding: Individual asymmetry thresholds vary significantly between athletes, requiring personalized assessment approaches
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of asymmetry research)
-
-**Maloney, S.J., et al. (2019).** The relationship between asymmetry and athletic performance: a critical review. *Journal of Strength and Conditioning Research*, 33(9), 2579-2593. DOI: https://doi.org/10.1519/JSC.0000000000002608
-- Key finding: Asymmetries >10-15% consistently associated with performance decrements and injury risk
-- Study type: Systematic review
-- Evidence quality: High (meta-analysis of multiple studies)
-
-**Fort-Vanmeerhaeghe, A., et al. (2016).** Lower limb neuromuscular asymmetry in volleyball and basketball players. *Journal of Human Kinetics*, 50(1), 135-143. DOI: https://doi.org/10.1515/hukin-2015-0150
-- Key finding: Sport-specific asymmetries develop based on movement demands and can be reduced through targeted training
+**Dos'Santos, T., et al. (2017).** Asymmetries in single and triple hop are not detrimental to change of direction speed. *Journal of Trainology*, 6(2), 35-41. DOI: https://doi.org/10.17338/trainology.6.2_35
+- Key finding: Hop test asymmetries up to 15% did not correlate with reduced change of direction performance in team sport athletes
 - Study type: Cross-sectional observational
-- Evidence quality: Medium (sport-specific findings with practical applications)
+- Evidence quality: Medium (specific to change of direction performance)
+
+**Lockie, R.G., et al. (2014).** Between-limb differences in change-of-direction speed and their relationship with unilateral vertical jump performance. *Journal of Human Kinetics*, 39(1), 73-80. DOI: https://doi.org/10.2478/hukin-2013-0069
+- Key finding: Greater between-limb differences in vertical jump height were associated with slower change of direction times
+- Study type: Cross-sectional observational
+- Evidence quality: Medium (demonstrates performance impact of asymmetries)
+
+**Hart, N.H., et al. (2016).** Leg strength and lean mass symmetry influences kicking performance in Australian football. *Journal of Sports Science & Medicine*, 15(2), 184-192. PMID: https://pubmed.ncbi.nlm.nih.gov/27274656
+- Key finding: Athletes with greater leg strength symmetry demonstrated superior kicking accuracy and distance
+- Study type: Cross-sectional observational
+- Evidence quality: Medium (sport-specific performance outcomes)
 
 ## Practical Applications
 
@@ -99,6 +99,5 @@ Specific treatments for identified deficits including mobility work for restrict
 Asymmetry assessment and correction directly informs [[A37. Movement Variability and Motor Control]] and [[A38. Fatigue-Induced Movement Changes]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-14: Enhanced with verified research citations, improved practical applications, and clearer distinction between asymmetry types
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1519/JSC.0000000000002729; Invalid or broken DOI: 10.1519/JSC.0000000000002608; Invalid or broken DOI: 10.1515/hukin-2015-0150 -->

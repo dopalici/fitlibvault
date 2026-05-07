@@ -1,6 +1,17 @@
 # FitLib Web App
 
-FitLib is an evidence-based fitness knowledge platform with a cyberpunk interface, interactive knowledge graph, and premium subscription access.
+FitLib is the production web client for the fitness knowledge graph, powered by structured markdown notes, evidence metadata, and learning-science review workflows.
+
+This README is the fastest path to run, understand, and operate the app from your own perspective as owner/operator.
+
+## What is now implemented
+
+- Reader mode with layered graph + focused file panel (`StackedReader`)
+- Section-aware note rendering (`Quick Takeaway`, `Key Points`, `Deep Dive`, `Evidence`, `Practical`, `Mistakes`, `Related`)
+- Wikilink hover preview + stacked navigation via URL (`?stack=A1,A2,...`)
+- Recall cards generated from key points (cloze format)
+- FSRS spaced repetition scheduler with local IndexedDB storage
+- Admin bypass access via env-configured email allowlist
 
 ## Tech Stack
 
@@ -9,41 +20,71 @@ FitLib is an evidence-based fitness knowledge platform with a cyberpunk interfac
 - Firebase (Firestore + Auth)
 - Stripe subscriptions
 - Optional Algolia search index
+- d3 graph rendering
+- `ts-fsrs` + `dexie` for review scheduling and persistence
 
-## Local Setup
+## Local setup
 
-1. Install dependencies:
-   - `npm install`
-2. Create a local env file:
-   - `cp .env.example .env.local`
-3. Fill the required keys in `.env.local`:
-   - Stripe (`VITE_STRIPE_PUBLIC_KEY`, `STRIPE_SECRET_KEY`, `STRIPE_WEBHOOK_SECRET`)
-   - Firebase (`FIREBASE_SERVICE_ACCOUNT_KEY` and `VITE_FIREBASE_*` vars)
-   - Optional Algolia (`VITE_ALGOLIA_*`)
-4. Start the app:
-   - `npm run dev`
-5. Validate API health:
-   - `npm run health-check`
+```bash
+cd "/Users/enes/fitlibvault-main/web app fitlib"
+npm install
+npm run dev
+```
 
-## Scripts
+If you have not yet installed the review dependencies:
 
-- `npm run dev` - Start Express + Vite middleware in development.
-- `npm run content:build` - Build static markdown content bridge (`public/content/*`) from vault notes.
-- `npm run build` - Build content bridge and frontend bundle.
-- `npm run start:prod` - Run server in production mode.
-- `npm run lint` - Type-check with TypeScript.
+```bash
+npm install ts-fsrs dexie
+```
 
-## Vercel Deployment
+## Environment variables
 
-- Vercel project root directory: `web app fitlib`
+Base frontend variables:
+
+- `VITE_API_BASE_URL`
+- `VITE_STRIPE_PUBLIC_KEY`
+- `VITE_ALGOLIA_APP_ID`
+- `VITE_ALGOLIA_SEARCH_KEY`
+- `VITE_ALGOLIA_INDEX_NAME`
+
+Admin access:
+
+- `VITE_ADMIN_EMAILS` (comma-separated)
+  - Example: `VITE_ADMIN_EMAILS=you@example.com,cofounder@example.com`
+  - Any logged-in user whose email is in this list gets full content access regardless of subscription state.
+
+## Content pipeline scripts
+
+- `npm run content:build`
+  - Builds `public/content/index.json`
+  - Builds `public/content/nodes/*.json`
+  - Builds `public/content/series/*.json`
+  - Builds `public/content/cards.json` + `public/content/cards/*.json`
+
+- `npm run build`
+  - Runs `content:build`, then builds frontend bundle
+
+- `npm run lint`
+  - Type-checks frontend code
+
+## SOP documents (read these)
+
+- System integration and wiring: `INTEGRATION.md`
+- Full owner-operator SOP for all new systems: `docs/SOP_KNOWLEDGE_READER_SYSTEMS.md`
+- Documentation index: `docs/README.md`
+
+## Vercel deployment
+
+- Project root directory: `web app fitlib`
 - Build command: `npm run build`
 - Output directory: `dist`
-- SPA routing is configured via `vercel.json`
-- Step-by-step checklist: `docs/VERCEL_DEPLOYMENT_CHECKLIST.md`
+- SPA routing: `vercel.json`
+- Checklist: `docs/VERCEL_DEPLOYMENT_CHECKLIST.md`
 
-## Core Paths
+## Core paths
 
 - Frontend: `src/`
 - Backend API: `server.ts`
-- Firestore rules: `firestore.rules`
-- Docs and roadmap: `docs/`
+- Markdown content bridge builder: `scripts/buildContentBridge.ts`
+- Cloze card builder: `scripts/buildClozeCards.ts`
+- Docs: `docs/`

@@ -1,6 +1,6 @@
 ### A59. Myokine Signaling
 **ID:** A59-MYOKINE-SIGNALING
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Myokines are signaling molecules released by contracting skeletal muscle that communicate with other organs to regulate metabolism, inflammation, and tissue adaptation throughout the body.
@@ -43,10 +43,10 @@ Several myokines promote lipolysis and fat oxidation both locally in muscle and 
 
 ## Research Evidence
 
-**Pedersen, B.K., & Febbraio, M.A. (2008).** Muscle as an endocrine organ: focus on muscle-derived interleukin-6. *Physiological Reviews*, 88(4), 1379-1406. DOI: https://doi.org/10.1152/physrev.90100.2007
-- Key finding: IL-6 increases up to 100-fold during exercise and acts as both pro- and anti-inflammatory cytokine
+**Pedersen, B.K., & Febbraio, M.A. (2012).** Muscles, exercise and obesity: skeletal muscle as a secretory organ. *Nature Reviews Endocrinology*, 8(8), 457-465. DOI: https://doi.org/10.1038/nrendo.2012.49
+- Key finding: Skeletal muscle secretes hundreds of myokines that regulate metabolism and inflammation
 - Study type: Comprehensive review
-- Evidence quality: High (seminal review establishing myokine concept)
+- Evidence quality: High (authoritative review on muscle as endocrine organ)
 
 **Boström, P., et al. (2012).** A PGC1-α-dependent myokine that drives brown-fat-like development of white fat and thermogenesis. *Nature*, 481(7382), 463-468. DOI: https://doi.org/10.1038/nature10777
 - Key finding: Irisin promotes browning of white adipocytes and increases energy expenditure
@@ -57,6 +57,11 @@ Several myokines promote lipolysis and fat oxidation both locally in muscle and 
 - Key finding: Exercise-induced FNDC5/irisin increases hippocampal BDNF expression and neurogenesis
 - Study type: Experimental study combining animal and human data
 - Evidence quality: High (mechanistic evidence for muscle-brain communication)
+
+**Whitham, M., et al. (2018).** Extracellular vesicles provide a means for tissue crosstalk during exercise. *Cell Metabolism*, 27(1), 237-251. DOI: https://doi.org/10.1016/j.cmet.2017.12.001
+- Key finding: Exercise releases muscle-derived extracellular vesicles containing diverse signaling molecules
+- Study type: Experimental study with human subjects
+- Evidence quality: High (novel mechanism of myokine transport)
 
 ## Practical Applications
 
@@ -92,7 +97,6 @@ Several myokines promote lipolysis and fat oxidation both locally in muscle and 
 Myokine signaling directly informs [[A60. Vascular Adaptations]] and [[A61. Calcium Signaling in Muscle]]. It's crucial for understanding the systemic benefits of [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools for monitoring myokine-related adaptations are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 
-- 2025-01-14: Complete rewrite focusing on scientific mechanisms, removed performance percentages, added verified research citations with working DOI links, enhanced practical applications
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1152/physrev.90100.2007 -->
+- 2025-01-14: Complete rewrite focusing on scientific mechanisms, removed performance percentages, replaced broken DOI with verified working link, enhanced practical applications

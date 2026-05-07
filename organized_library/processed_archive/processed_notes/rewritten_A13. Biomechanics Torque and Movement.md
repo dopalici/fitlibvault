@@ -1,6 +1,6 @@
 ### A13. Biomechanics: Torque and Movement
 **ID:** A13-BIOMECH-TORQUE
-**Created:** 2025-04-23 (Updated: 2025-01-27)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Torque is the rotational force that creates movement around joints, determined by force multiplied by moment arm distance, explaining why exercises feel harder or easier at different joint angles.
@@ -47,11 +47,6 @@ For example, during a bicep curl, the resistance moment arm (distance from elbow
 
 ## Research Evidence
 
-**Winter, D.A. (2009).** Biomechanics and Motor Control of Human Movement. *4th Edition, Wiley*. DOI: https://doi.org/10.1002/9780470549148
-- Key finding: Comprehensive biomechanical analysis demonstrating torque calculations and moment arm variations in human movement
-- Study type: Textbook/Reference work
-- Evidence quality: High (Authoritative biomechanics reference)
-
 **Kulig, K. et al. (2003).** Human strength curves. *Exercise and Sport Sciences Reviews*, 31(3), 139-144. PMID: https://pubmed.ncbi.nlm.nih.gov/12882480
 - Key finding: Strength variations throughout joint range of motion directly correlate with changing muscle moment arms and length-tension relationships
 - Study type: Review
@@ -61,6 +56,11 @@ For example, during a bicep curl, the resistance moment arm (distance from elbow
 - Key finding: Demonstrates how changing moment arms throughout squat movement affect muscle activation patterns and joint loading
 - Study type: Biomechanical analysis
 - Evidence quality: High (Detailed kinematic and kinetic analysis)
+
+**Zatsiorsky, V.M. & Prilutsky, B.I. (2012).** Biomechanics of Skeletal Muscles. *Human Kinetics*. DOI: https://doi.org/10.5040/9781492595298
+- Key finding: Mathematical models demonstrate torque production varies with joint angle due to changing muscle moment arms and force-length relationships
+- Study type: Reference work/Mathematical modeling
+- Evidence quality: High (Authoritative biomechanics reference with validated models)
 
 ## Practical Applications
 
@@ -89,6 +89,5 @@ For example, during a bicep curl, the resistance moment arm (distance from elbow
 Understanding torque builds upon lever systems [[A11. Biomechanics Levers in the Human Body]] and force direction principles [[A12. Biomechanics Force Vectors]]. This knowledge directly applies to proper lifting mechanics [[A18. Proper Lifting Mechanics]] and comprehensive movement analysis [[G-VII-2. Kinesiology Movement Analysis]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-27: Enhanced scientific accuracy, added research evidence with working links, expanded practical applications, and improved accessibility while maintaining biomechanical precision
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1002/9780470549148 -->

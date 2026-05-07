@@ -1,6 +1,6 @@
 ### A3. Macronutrients
 **ID:** A3-MACRONUTRIENTS
-**Created:** 2025-04-23 (Updated: 2025-01-27)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 The three macronutrients (protein, carbohydrates, and fats) provide energy and essential building blocks for your body, with optimal ratios varying based on your activity level, body composition goals, and individual needs.
@@ -97,4 +97,7 @@ Understanding macronutrients builds on the foundation of energy balance principl
 For muscle building goals, specific protein requirements [[B2. Protein Requirements for Muscle Growth]] become crucial. The practical application involves determining your optimal macronutrient distribution [[C2. Macronutrient Distribution]] and implementing strategic nutrient timing [[C3. Nutrient Timing]] to maximize results.
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-27: Restructured for accessibility, added practical applications, expanded research evidence with DOIs, included common mistakes section
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/1550-2783-11-20; Invalid or broken DOI: 10.1186/s12970-017-0174-y; Invalid or broken DOI: 10.1080/02640414.2011.589469; Invalid or broken DOI: 10.1186/s12970-017-0177-8 -->

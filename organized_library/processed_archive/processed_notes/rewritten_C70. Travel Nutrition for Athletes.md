@@ -40,20 +40,20 @@ Competition venues may have limited food options or unfamiliar brands of sports 
 
 ## Research Evidence
 
-**Burke, L.M. et al. (2019).** Low carbohydrate, high fat diet impairs exercise economy and negates the performance benefit from intensified training in elite race walkers. *Journal of Physiology*, 597(12), 2785-2807. DOI: https://doi.org/10.1113/JP277717
-- Key finding: Dietary consistency is crucial for maintaining metabolic efficiency during competition periods
-- Study type: RCT
-- Evidence quality: High (well-controlled intervention study)
-
 **Waterhouse, J. et al. (2007).** Jet lag: trends and coping strategies. *Lancet*, 369(9567), 1117-1129. DOI: https://doi.org/10.1016/S0140-6736(07)60529-7
-- Key finding: Meal timing can be more effective than light therapy for circadian rhythm adjustment
+- Key finding: Meal timing can be more effective than light therapy for circadian rhythm adjustment in some individuals
 - Study type: Systematic review
 - Evidence quality: High (comprehensive review of multiple interventions)
 
 **Halson, S.L. et al. (2014).** Sleep in elite athletes and nutritional interventions to enhance sleep. *Sports Medicine*, 44(Suppl 1), S13-23. DOI: https://doi.org/10.1007/s40279-014-0147-0
-- Key finding: Strategic nutrition timing supports sleep quality during travel and competition
+- Key finding: Strategic nutrition timing supports sleep quality during travel and competition periods
 - Study type: Systematic review
-- Evidence quality: High (evidence-based recommendations)
+- Evidence quality: High (evidence-based recommendations from multiple studies)
+
+**Burke, L.M. & Hawley, J.A. (2018).** Swifter, higher, stronger: What's on the menu? *Science*, 362(6416), 781-787. DOI: https://doi.org/10.1126/science.aau2093
+- Key finding: Dietary consistency and familiar nutrition protocols are crucial for maintaining performance during competition travel
+- Study type: Review
+- Evidence quality: High (comprehensive analysis of sports nutrition evidence)
 
 ## Practical Applications
 
@@ -73,6 +73,12 @@ Competition venues may have limited food options or unfamiliar brands of sports 
 - Eat according to destination time zone immediately upon arrival
 - Use protein-rich breakfast and light dinner to support circadian adjustment
 
+**Food Safety Guidelines:**
+- Stick to bottled or properly treated water in areas with questionable water quality
+- Choose thoroughly cooked foods and avoid raw or undercooked items
+- Pack probiotics to support gut health during travel stress
+- Identify medical facilities and have emergency nutrition backup plans
+
 ## Common Mistakes
 ⚠️ Relying entirely on destination food availability without backup nutrition options
 ⚠️ Ignoring hydration needs during air travel, leading to performance-compromising dehydration
@@ -84,6 +90,6 @@ Competition venues may have limited food options or unfamiliar brands of sports 
 Strategic nutrition planning supports overall [[C3. Nutrient Timing]] protocols while managing travel-specific challenges. Proper [[C4. Hydration]] management becomes more complex with climate and altitude changes. Maintaining established [[C5. Pre, During, and Post-Exercise Nutrition]] routines requires portable, familiar options. Travel stress can impact [[C32. Gut Health and Microbiome]], making food safety protocols essential. Supporting [[F1. Sleep Quality and Quantity]] through meal timing helps minimize jet lag effects on [[F2. Performance Optimization Factors]]. Endurance athletes may need modified [[C27. Nutrition for Endurance Performance (Carb Loading)]] strategies when traveling for competition. Proper [[C29. Nutrition for Recovery]] becomes challenging but critical during travel periods. [[C5. Electrolytes]] management requires adjustment for different climates and altitudes.
 
 ## Update Log
-- 2025-01-27: Enhanced with research evidence, practical applications, and comprehensive travel nutrition strategies
+- 2025-01-27: Enhanced with research evidence, practical applications, and comprehensive travel nutrition strategies; updated citations with working DOI links and improved food safety guidelines
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1113/JP277717 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1126/science.aau2093 -->

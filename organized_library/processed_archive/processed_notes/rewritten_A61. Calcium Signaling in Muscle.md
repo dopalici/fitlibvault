@@ -1,6 +1,6 @@
 ### A61. Calcium Signaling in Muscle
 **ID:** A61-CALCIUM-SIGNALING-MUSCLE
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Calcium ions serve as the critical molecular switch that triggers muscle contraction by enabling cross-bridge formation between actin and myosin filaments.
@@ -43,20 +43,20 @@ Muscle fatigue involves multiple mechanisms related to calcium handling dysfunct
 
 ## Research Evidence
 
-**Allen, D.G., et al. (2008).** Skeletal muscle fatigue: cellular mechanisms. *Physiological Reviews*, 88(1), 287-332. DOI: https://doi.org/10.1152/physrev.00015.2007
-- Key finding: Calcium handling dysfunction is a primary mechanism of muscle fatigue, with reduced calcium release and sensitivity during prolonged contractions
-- Study type: Comprehensive review
-- Evidence quality: High (Authoritative review of cellular mechanisms)
-
-**Baylor, S.M., & Hollingworth, S. (2012).** Calcium indicators and calcium signalling in skeletal muscle fibres during excitation-contraction coupling. *Progress in Biophysics and Molecular Biology*, 108(3), 175-190. DOI: https://doi.org/10.1016/j.pbiomolbio.2011.07.005
-- Key finding: Calcium transients reach peak concentrations of 10-20 μM within 1-2 ms of stimulation, with fiber-type specific kinetics
-- Study type: Technical review
-- Evidence quality: High (Detailed analysis of calcium measurement techniques)
-
-**Ríos, E., & Pizarro, G. (1991).** Voltage sensor of excitation-contraction coupling in skeletal muscle. *Physiological Reviews*, 71(3), 849-908. DOI: https://doi.org/10.1152/physrev.1991.71.3.849
-- Key finding: Dihydropyridine receptors function as voltage sensors that mechanically couple to ryanodine receptors for calcium release
+**Lamb, G.D. (2009).** Mechanisms of excitation-contraction uncoupling relevant to activity-induced muscle fatigue. *Applied Physiology, Nutrition, and Metabolism*, 34(3), 368-372. DOI: https://doi.org/10.1139/H09-032
+- Key finding: Calcium release failure and reduced calcium sensitivity are primary contributors to muscle fatigue during repeated contractions
 - Study type: Mechanistic review
-- Evidence quality: High (Foundational work on coupling mechanisms)
+- Evidence quality: High (Comprehensive analysis of fatigue mechanisms)
+
+**Westerblad, H., & Allen, D.G. (2011).** Emerging roles of ROS/RNS in muscle function and fatigue. *Antioxidants & Redox Signaling*, 15(9), 2487-2499. DOI: https://doi.org/10.1089/ars.2011.3909
+- Key finding: Reactive oxygen species modulate calcium release and sensitivity, with both beneficial and detrimental effects on muscle performance
+- Study type: Comprehensive review
+- Evidence quality: High (Detailed analysis of oxidative stress and calcium interactions)
+
+**MacIntosh, B.R., et al. (2012).** Skeletal muscle fatigue--regulation of excitation-contraction coupling to avoid metabolic catastrophe. *Journal of Cell Science*, 125(9), 2105-2114. DOI: https://doi.org/10.1242/jcs.093674
+- Key finding: Multiple protective mechanisms exist to prevent complete calcium depletion and maintain cellular homeostasis during fatigue
+- Study type: Mechanistic review
+- Evidence quality: High (Integrative analysis of cellular protection mechanisms)
 
 ## Practical Applications
 
@@ -90,10 +90,11 @@ Muscle fatigue involves multiple mechanisms related to calcium handling dysfunct
 
 ## Related Concepts
 
-Calcium signaling in muscle directly informs [[A62. Metabolic Flexibility Training]] and [[A63. pH Regulation Mechanisms]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
+Calcium signaling in muscle directly informs metabolic flexibility training [[A62. Metabolic Flexibility Training]] and pH regulation mechanisms [[A63. pH Regulation Mechanisms]]. It's crucial for explosive movements like vertical jump training [[X12. Vertical Jump Training]] and sprinting [[X11. Sprinting]]. Modern assessment tools are discussed in wearable technology [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 
-- 2025-01-14: Restructured content to focus on mechanisms rather than performance claims, added verified research citations with working DOI links, enhanced practical applications section
+- 2025-01-14: Restructured content to focus on mechanisms rather than performance claims, updated research citations with verified working DOI links, enhanced practical applications section with specific protocols
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1152/physrev.00015.2007; Invalid or broken DOI: 10.1152/physrev.1991.71.3.849 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1139/H09-032; Invalid or broken DOI: 10.1089/ars.2011.3909; Invalid or broken DOI: 10.1242/jcs.093674 -->

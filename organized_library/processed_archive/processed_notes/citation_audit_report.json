@@ -1,0 +1,4356 @@
+{
+  "input_dir": "/Users/enes/fitlibvault-main/organized_library/processed_archive/processed_notes",
+  "note_count": 108,
+  "total_links": 334,
+  "ok_links": 162,
+  "blocked_links": 151,
+  "invalid_links": 20,
+  "error_links": 1,
+  "notes_with_warnings": 85,
+  "per_note_summary": {
+    "rewritten_C. Nutrition & Diet.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-018-0242-y",
+        "Invalid or broken DOI: 10.1186/1550-2783-11-20",
+        "Invalid or broken DOI: 10.1186/s12970-017-0174-y"
+      ],
+      "ok_links": 0,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C1. Caloric Targets for Different Goals.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/1550-2783-11-20",
+        "Invalid or broken DOI: 10.1123/ijsnem.21.2.97",
+        "Invalid or broken DOI: 10.1080/02640414.2011.574722"
+      ],
+      "ok_links": 0,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C10. Mediterranean Diet.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1056/NEJMoa1800389",
+        "Invalid or broken DOI: 10.1161/CIRCRESAHA.118.313348",
+        "Invalid or broken DOI: 10.1136/bmj.c4671"
+      ],
+      "ok_links": 0,
+      "blocked_links": 2,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C100. Precision Medicine in Sports Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1093/ije/dyw186",
+        "Invalid or broken DOI: 10.3390/ijms18040787"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C101. Nutrition Policy for Athletic Programs.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099193",
+        "Invalid or broken DOI: 10.1080/02640414.2011.585473"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C102. Cost-Effectiveness in Sports Nutrition.md": {
+      "doi_count": 0,
+      "pmid_count": 3,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C103. Nutrition Risk Management.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099027",
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099193",
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547"
+      ],
+      "ok_links": 0,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C104. Regulatory Affairs in Sports Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099027",
+        "Invalid or broken DOI: 10.1055/s-2004-819955",
+        "Invalid or broken DOI: 10.1123/ijsnem.16.2.142"
+      ],
+      "ok_links": 0,
+      "blocked_links": 2,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C105. Global Sports Nutrition Trends.md": {
+      "doi_count": 0,
+      "pmid_count": 3,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C11. Vegetarian & Vegan Diets.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-017-0192-9"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C12. Paleo Diet (Paleolithic Diet).md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1146/annurev-nutr-082018-124213"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C13. Ketogenic Diet.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1113/JP280221",
+        "Invalid or broken DOI: 10.1186/s12970-017-0174-y"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C14. Intermittent Fasting (IF).md": {
+      "doi_count": 2,
+      "pmid_count": 1,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C15. Low-Carb Diets (General).md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1001/jama.2018.0245"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C16. High-Protein Diets.md": {
+      "doi_count": 3,
+      "pmid_count": 1,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2017-097608",
+        "Invalid or broken DOI: 10.1155/2016/9104792"
+      ],
+      "ok_links": 2,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C17. Carb Cycling.md": {
+      "doi_count": 2,
+      "pmid_count": 1,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/1550-2783-11-20",
+        "Invalid or broken DOI: 10.1186/s12970-017-0174-y"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C18. Flexible Dieting (IIFYM - If It Fits Your Macros).md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-021-00452-2"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C19. Intuitive Eating.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1155/2014/983495"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C2. Macronutrient Distribution.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2017-097608",
+        "Invalid or broken DOI: 10.1080/02640414.2011.585473",
+        "Invalid or broken DOI: 10.1186/1550-2783-11-20"
+      ],
+      "ok_links": 0,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C20. Supplements (Overview & Framework).md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099027",
+        "Invalid or broken DOI: 10.1186/s12970-018-0242-y"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C21. Evidence-Based Supplements (Group A).md": {
+      "doi_count": 5,
+      "pmid_count": 0,
+      "warning_count": 5,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-017-0173-z",
+        "Invalid or broken DOI: 10.1186/s12970-020-00383-4",
+        "Invalid or broken DOI: 10.1186/s12970-015-0090-y",
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099199",
+        "Invalid or broken DOI: 10.1146/annurev-nutr-082018-124043"
+      ],
+      "ok_links": 0,
+      "blocked_links": 4,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C22. Supplements with LimitedMixed Evidence (Group B).md": {
+      "doi_count": 3,
+      "pmid_count": 1,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099027",
+        "Invalid or broken DOI: 10.3390/nu12103126",
+        "Invalid or broken DOI: 10.1519/JSC.0000000000003426"
+      ],
+      "ok_links": 1,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C23. Supplement Safety, Regulation, and Quality Control.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099027",
+        "Invalid or broken DOI: 10.1001/jamanetworkopen.2022.23388",
+        "Invalid or broken DOI: 10.3390/nu9101093"
+      ],
+      "ok_links": 0,
+      "blocked_links": 2,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C24. Ergogenic Aids.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099027",
+        "Invalid or broken DOI: 10.1186/s12970-018-0242-y",
+        "Invalid or broken DOI: 10.1139/apnm-2014-0027"
+      ],
+      "ok_links": 0,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C25. Nutrition for Muscle Gain (Hypertrophy).md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2017-097608",
+        "Invalid or broken DOI: 10.1186/1550-2783-11-20"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C26. Nutrition for Fat Loss.md": {
+      "doi_count": 4,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-017-0174-y",
+        "Invalid or broken DOI: 10.1186/1550-2783-11-7",
+        "Invalid or broken DOI: 10.1186/1550-2783-11-20"
+      ],
+      "ok_links": 1,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C27. Nutrition for Endurance Performance (Carb Loading).md": {
+      "doi_count": 4,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1080/02640414.2011.585473",
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547"
+      ],
+      "ok_links": 2,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C28. Nutrition for Strength Power Athletes.md": {
+      "doi_count": 4,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/1550-2783-11-20",
+        "Invalid or broken DOI: 10.1186/s12970-018-0242-y",
+        "Invalid or broken DOI: 10.1186/s12970-017-0173-z"
+      ],
+      "ok_links": 1,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C29. Nutrition for Recovery.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-017-0189-4",
+        "Invalid or broken DOI: 10.1123/ijsnem.20.6.515"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C3. Nutrient Timing.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/1550-2783-10-5",
+        "Invalid or broken DOI: 10.1186/1550-2783-5-17",
+        "Invalid or broken DOI: 10.3390/nu8120763"
+      ],
+      "ok_links": 0,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C30. Food Quality & Health (Whole vs Processed).md": {
+      "doi_count": 4,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.3390/nu12071955",
+        "Invalid or broken DOI: 10.1161/CIRCRESAHA.118.313348"
+      ],
+      "ok_links": 2,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C31. Reading Nutrition Labels.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C32. Gut Health and Microbiome.md": {
+      "doi_count": 4,
+      "pmid_count": 0,
+      "warning_count": 4,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bmj.k2179",
+        "Invalid or broken DOI: 10.3390/nu11071613",
+        "Invalid or broken DOI: 10.1042/BCJ20160510",
+        "Invalid or broken DOI: 10.1155/2017/3831972"
+      ],
+      "ok_links": 0,
+      "blocked_links": 4,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C33. Anti-Inflammatory FoodsDiets.md": {
+      "doi_count": 2,
+      "pmid_count": 1,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.3945/ajcn.113.076679"
+      ],
+      "ok_links": 2,
+      "blocked_links": 0,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C34. Antioxidants.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1113/jphysiol.2013.267419",
+        "Invalid or broken DOI: 10.1113/JP270654",
+        "Invalid or broken DOI: 10.1152/physrev.00031.2007"
+      ],
+      "ok_links": 0,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C35. Specialized Nutrition for Performance Demands.md": {
+      "doi_count": 5,
+      "pmid_count": 0,
+      "warning_count": 4,
+      "warnings": [
+        "Invalid or broken DOI: 10.1007/s40279-019-01188-8",
+        "Invalid or broken DOI: 10.1080/15502783.2025.2467909",
+        "Invalid or broken DOI: 10.3390/nu11061289",
+        "Invalid or broken DOI: 10.1093/nutritionreviews/article/83/3/e1068/7712679"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 2,
+      "error_links": 0
+    },
+    "rewritten_C36. Nutrient Periodization.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1139/apnm-2014-0027",
+        "Invalid or broken DOI: 10.1249/MSS.0000000000000823"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C37. Sports Nutrition Periodization.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1139/apnm-2014-0027",
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099193"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C38. Micronutrient Timing.md": {
+      "doi_count": 0,
+      "pmid_count": 3,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C39. Supplement Stacking Protocols.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-018-0242-y",
+        "Invalid or broken DOI: 10.1186/s12970-015-0090-y",
+        "Invalid or broken DOI: 10.1186/s12970-017-0173-z"
+      ],
+      "ok_links": 0,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C4. Hydration.md": {
+      "doi_count": 0,
+      "pmid_count": 0,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 0,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C40. Nootropics for Athletes.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.3233/JAD-2010-091315",
+        "Invalid or broken DOI: 10.1179/147683008X301513"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C41. Adaptogens in Sports.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.3390/ph3010188",
+        "Invalid or broken DOI: 10.1186/s12970-015-0104-9"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C42. Precision Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1159/000445350",
+        "Invalid or broken DOI: 10.3390/ijms18040787"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C43. Circadian Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1073/pnas.0808180106"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C44. Competition Day Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1080/02640414.2011.585473",
+        "Invalid or broken DOI: 10.1249/MSS.0000000000000852"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C45. Travel Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1123/ijsnem.2019-0065"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C46. Altitude Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1152/japplphysiol.01393.2006",
+        "Invalid or broken DOI: 10.1152/jappl.1992.72.5.1741",
+        "Invalid or broken DOI: 10.1123/ijsnem.16.1.35"
+      ],
+      "ok_links": 0,
+      "blocked_links": 2,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C47. Heat Stress Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1249/MSS.0b013e3181b9b04b",
+        "Invalid or broken DOI: 10.1152/japplphysiol.00367.2010"
+      ],
+      "ok_links": 1,
+      "blocked_links": 1,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C48. Cold Weather Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1249/01.mss.0000235355.96427.ed",
+        "Invalid or broken DOI: 10.1152/jappl.1986.60.5.1542",
+        "Invalid or broken DOI: 10.1152/jappl.2000.88.6.2069"
+      ],
+      "ok_links": 0,
+      "blocked_links": 1,
+      "invalid_links": 2,
+      "error_links": 0
+    },
+    "rewritten_C49. Multi-Day Event Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1080/02640414.2011.585473",
+        "Invalid or broken DOI: 10.1038/icb.2015.109"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C5. Electrolytes.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1002/cphy.c130017",
+        "Invalid or broken DOI: 10.1080/02640414.2011.614269"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C5. Pre, During, and Post-Exercise Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-017-0189-4",
+        "Invalid or broken DOI: 10.1080/02640414.2011.585473"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C50. Recovery Nutrition Protocols.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/1550-2783-10-5",
+        "Invalid or broken DOI: 10.1123/ijsnem.2017-0232"
+      ],
+      "ok_links": 1,
+      "blocked_links": 1,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C51. Environmental Nutrition Optimization.md": {
+      "doi_count": 0,
+      "pmid_count": 3,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C52. Genetic-Based Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C53. Periodized Nutrition.md": {
+      "doi_count": 4,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547"
+      ],
+      "ok_links": 3,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C54. Precision Nutrition Monitoring.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1113/JP273230",
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C55. Nutrient-Exercise Interaction.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1007/s40279-014-0268-2"
+      ],
+      "ok_links": 2,
+      "blocked_links": 0,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C56. Metabolic Profiling for Athletes.md": {
+      "doi_count": 0,
+      "pmid_count": 3,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C57. Advanced Hydration Strategies.md": {
+      "doi_count": 2,
+      "pmid_count": 1,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1007/s40279-016-0608-2",
+        "Invalid or broken DOI: 10.1136/bjsports-2011-090114"
+      ],
+      "ok_links": 1,
+      "blocked_links": 0,
+      "invalid_links": 2,
+      "error_links": 0
+    },
+    "rewritten_C58. Nutrient Bioavailability Optimization.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C59. Exercise-Induced Oxidative Stress Management.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C6. Micronutrients (Detailed Roles & Considerations).md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099027",
+        "Invalid or broken DOI: 10.1186/s12970-015-0093-8"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C60. Gastrointestinal Training Protocols.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1111/sms.12912",
+        "Invalid or broken DOI: 10.1139/apnm-2014-0027"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C61. Cognitive Nutrition for Athletes.md": {
+      "doi_count": 1,
+      "pmid_count": 2,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 2,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 1
+    },
+    "rewritten_C62. Sleep-Nutrition Interactions.md": {
+      "doi_count": 2,
+      "pmid_count": 1,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C63. Immune-Nutrition Optimization.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bmj.i6583",
+        "Invalid or broken DOI: 10.1002/14651858.CD000980.pub4"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C64. Body Composition Nutrition Strategies.md": {
+      "doi_count": 0,
+      "pmid_count": 4,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 4,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C65. Youth Athlete Nutrition.md": {
+      "doi_count": 2,
+      "pmid_count": 1,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2015-094962"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C66. Masters Athlete Nutrition (45+ years).md": {
+      "doi_count": 1,
+      "pmid_count": 2,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C67. Female Athlete Nutrition Considerations.md": {
+      "doi_count": 3,
+      "pmid_count": 1,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099193",
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547"
+      ],
+      "ok_links": 2,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C68. Plant-Based Athletic Performance.md": {
+      "doi_count": 2,
+      "pmid_count": 1,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-017-0192-9"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C69. Injury Recovery Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1080/02640414.2011.619204"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C7. Energy Balance & Nutritional Aspects of Weight Management.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-017-0174-y"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C70. Travel Nutrition for Athletes.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1126/science.aau2093"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C71. Budget-Conscious Sports Nutrition.md": {
+      "doi_count": 0,
+      "pmid_count": 3,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C72. Meal Preparation for Athletes.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C73. Restaurant Navigation for Athletes.md": {
+      "doi_count": 0,
+      "pmid_count": 3,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C74. Social Eating Strategies for Athletes.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1002/(SICI)1098-108X(199907)26:1"
+      ],
+      "ok_links": 2,
+      "blocked_links": 0,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C75. Nutrition Education for Athletes.md": {
+      "doi_count": 2,
+      "pmid_count": 1,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.3390/nu8090570"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C76. Nutritional Periodization Models.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1123/ijsnem.2018-0289",
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C77. Metabolic Testing Integration.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1055/s-2004-830512",
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C78. Advanced Supplement Timing.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.7717/peerj.2825",
+        "Invalid or broken DOI: 10.1186/s12970-018-0246-y",
+        "Invalid or broken DOI: 10.1113/JP272881"
+      ],
+      "ok_links": 0,
+      "blocked_links": 2,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C79. Nutrient Density Optimization.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C8. Metabolic Adaptation (Adaptive Thermogenesis).md": {
+      "doi_count": 4,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1002/oby.20027",
+        "Invalid or broken DOI: 10.1186/1550-2783-11-7"
+      ],
+      "ok_links": 2,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C80. Appetite Regulation for Athletes.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2014-094259"
+      ],
+      "ok_links": 2,
+      "blocked_links": 0,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C81. Disordered Eating Prevention.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547",
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099193"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C82. Performance Nutrition Psychology.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.3390/nu12030835"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C83. Evidence-Based Nutrition Communication.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.2105/AJPH.2005.083782",
+        "Invalid or broken DOI: 10.1080/17482631.2026.2666722"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C84. Nutrition Myth Debunking.md": {
+      "doi_count": 0,
+      "pmid_count": 3,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C85. Cultural Nutrition Adaptations.md": {
+      "doi_count": 2,
+      "pmid_count": 1,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-017-0189-4"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C86. Competition Nutrition Protocols.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-018-0242-y",
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C87. Off-Season Nutrition Management.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1080/02640414.2011.585473"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C88. Injury Prevention Through Nutrition.md": {
+      "doi_count": 4,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665962"
+      ],
+      "ok_links": 3,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C89. Longevity Nutrition for Athletes.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C9. Dietary Strategies & Approaches (Overview).md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1001/jama.2014.10397",
+        "Invalid or broken DOI: 10.1001/jama.2018.0245",
+        "Invalid or broken DOI: 10.1186/s12970-017-0174-y"
+      ],
+      "ok_links": 0,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C90. Micronutrient Testing and Analysis.md": {
+      "doi_count": 0,
+      "pmid_count": 3,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C91. Functional Food Integration.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-018-0242-y"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C92. Personalized Nutrition Algorithms.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 1,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bmj.k2173"
+      ],
+      "ok_links": 2,
+      "blocked_links": 1,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C93. Nutrition-Training Load Coordination.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 3,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C94. Athletic Nutrition Technology.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1113/JP278928",
+        "Invalid or broken DOI: 10.1139/apnm-2014-0027"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C95. Future of Sports Nutrition.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1186/s12970-020-00353-w",
+        "Invalid or broken DOI: 10.1186/s12970-018-0246-y"
+      ],
+      "ok_links": 1,
+      "blocked_links": 1,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C96. Nutrition Research Methodology.md": {
+      "doi_count": 2,
+      "pmid_count": 1,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547",
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665962"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C97. Clinical Nutrition for Athletes.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 3,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099193",
+        "Invalid or broken DOI: 10.1186/s12970-018-0242-y",
+        "Invalid or broken DOI: 10.1080/15502783.2026.2665547"
+      ],
+      "ok_links": 0,
+      "blocked_links": 3,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_C98. Therapeutic Nutrition Interventions.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1136/bjsports-2018-099027",
+        "Invalid or broken DOI: 10.1186/s12970-018-0239-4"
+      ],
+      "ok_links": 1,
+      "blocked_links": 1,
+      "invalid_links": 1,
+      "error_links": 0
+    },
+    "rewritten_C99. Advanced Biomarker Interpretation.md": {
+      "doi_count": 3,
+      "pmid_count": 0,
+      "warning_count": 2,
+      "warnings": [
+        "Invalid or broken DOI: 10.1080/02640414.2011.585473",
+        "Invalid or broken DOI: 10.1249/MSS.0b013e318279a10a"
+      ],
+      "ok_links": 1,
+      "blocked_links": 2,
+      "invalid_links": 0,
+      "error_links": 0
+    },
+    "rewritten_COMPLETE_REPLACEMENT_REPORT.md": {
+      "doi_count": 0,
+      "pmid_count": 0,
+      "warning_count": 0,
+      "warnings": [],
+      "ok_links": 0,
+      "blocked_links": 0,
+      "invalid_links": 0,
+      "error_links": 0
+    }
+  },
+  "checks": [
+    {
+      "note": "rewritten_C. Nutrition & Diet.md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-11-20",
+      "url": "https://doi.org/10.1186/1550-2783-11-20",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C. Nutrition & Diet.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0174-y",
+      "url": "https://doi.org/10.1186/s12970-017-0174-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C. Nutrition & Diet.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-018-0242-y",
+      "url": "https://doi.org/10.1186/s12970-018-0242-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C1. Caloric Targets for Different Goals.md",
+      "type": "doi",
+      "identifier": "10.1080/02640414.2011.574722",
+      "url": "https://doi.org/10.1080/02640414.2011.574722",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C1. Caloric Targets for Different Goals.md",
+      "type": "doi",
+      "identifier": "10.1123/ijsnem.21.2.97",
+      "url": "https://doi.org/10.1123/ijsnem.21.2.97",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C1. Caloric Targets for Different Goals.md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-11-20",
+      "url": "https://doi.org/10.1186/1550-2783-11-20",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C10. Mediterranean Diet.md",
+      "type": "doi",
+      "identifier": "10.1056/NEJMoa1800389",
+      "url": "https://doi.org/10.1056/NEJMoa1800389",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C10. Mediterranean Diet.md",
+      "type": "doi",
+      "identifier": "10.1136/bmj.c4671",
+      "url": "https://doi.org/10.1136/bmj.c4671",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C10. Mediterranean Diet.md",
+      "type": "doi",
+      "identifier": "10.1161/CIRCRESAHA.118.313348",
+      "url": "https://doi.org/10.1161/CIRCRESAHA.118.313348",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C100. Precision Medicine in Sports Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1093/ije/dyw186",
+      "url": "https://doi.org/10.1093/ije/dyw186",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C100. Precision Medicine in Sports Nutrition.md",
+      "type": "doi",
+      "identifier": "10.3389/fnut.2019.00008",
+      "url": "https://doi.org/10.3389/fnut.2019.00008",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C100. Precision Medicine in Sports Nutrition.md",
+      "type": "doi",
+      "identifier": "10.3390/ijms18040787",
+      "url": "https://doi.org/10.3390/ijms18040787",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C101. Nutrition Policy for Athletic Programs.md",
+      "type": "doi",
+      "identifier": "10.1016/j.jand.2015.12.006",
+      "url": "https://doi.org/10.1016/j.jand.2015.12.006",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C101. Nutrition Policy for Athletic Programs.md",
+      "type": "doi",
+      "identifier": "10.1080/02640414.2011.585473",
+      "url": "https://doi.org/10.1080/02640414.2011.585473",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C101. Nutrition Policy for Athletic Programs.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099193",
+      "url": "https://doi.org/10.1136/bjsports-2018-099193",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C102. Cost-Effectiveness in Sports Nutrition.md",
+      "type": "pmid",
+      "identifier": "29345524",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29345524/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C102. Cost-Effectiveness in Sports Nutrition.md",
+      "type": "pmid",
+      "identifier": "30068354",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30068354/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C102. Cost-Effectiveness in Sports Nutrition.md",
+      "type": "pmid",
+      "identifier": "30632416",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30632416/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C103. Nutrition Risk Management.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C103. Nutrition Risk Management.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099027",
+      "url": "https://doi.org/10.1136/bjsports-2018-099027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C103. Nutrition Risk Management.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099193",
+      "url": "https://doi.org/10.1136/bjsports-2018-099193",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C104. Regulatory Affairs in Sports Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1055/s-2004-819955",
+      "url": "https://doi.org/10.1055/s-2004-819955",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C104. Regulatory Affairs in Sports Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1123/ijsnem.16.2.142",
+      "url": "https://doi.org/10.1123/ijsnem.16.2.142",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C104. Regulatory Affairs in Sports Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099027",
+      "url": "https://doi.org/10.1136/bjsports-2018-099027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C105. Global Sports Nutrition Trends.md",
+      "type": "pmid",
+      "identifier": "29299671",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29299671/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C105. Global Sports Nutrition Trends.md",
+      "type": "pmid",
+      "identifier": "30761299",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30761299/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C105. Global Sports Nutrition Trends.md",
+      "type": "pmid",
+      "identifier": "31614805",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31614805/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C11. Vegetarian & Vegan Diets.md",
+      "type": "doi",
+      "identifier": "10.1016/j.jada.2009.05.027",
+      "url": "https://doi.org/10.1016/j.jada.2009.05.027",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C11. Vegetarian & Vegan Diets.md",
+      "type": "doi",
+      "identifier": "10.1016/j.jand.2016.09.025",
+      "url": "https://doi.org/10.1016/j.jand.2016.09.025",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C11. Vegetarian & Vegan Diets.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0192-9",
+      "url": "https://doi.org/10.1186/s12970-017-0192-9",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C12. Paleo Diet (Paleolithic Diet).md",
+      "type": "doi",
+      "identifier": "10.1093/advances/nmz007",
+      "url": "https://doi.org/10.1093/advances/nmz007",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C12. Paleo Diet (Paleolithic Diet).md",
+      "type": "doi",
+      "identifier": "10.1146/annurev-nutr-082018-124213",
+      "url": "https://doi.org/10.1146/annurev-nutr-082018-124213",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C12. Paleo Diet (Paleolithic Diet).md",
+      "type": "doi",
+      "identifier": "10.3945/ajcn.115.113613",
+      "url": "https://doi.org/10.3945/ajcn.115.113613",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C13. Ketogenic Diet.md",
+      "type": "doi",
+      "identifier": "10.1038/ejcn.2013.116",
+      "url": "https://doi.org/10.1038/ejcn.2013.116",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C13. Ketogenic Diet.md",
+      "type": "doi",
+      "identifier": "10.1113/JP280221",
+      "url": "https://doi.org/10.1113/JP280221",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C13. Ketogenic Diet.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0174-y",
+      "url": "https://doi.org/10.1186/s12970-017-0174-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C14. Intermittent Fasting (IF).md",
+      "type": "doi",
+      "identifier": "10.1186/s12967-016-1044-0",
+      "url": "https://doi.org/10.1186/s12967-016-1044-0",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C14. Intermittent Fasting (IF).md",
+      "type": "doi",
+      "identifier": "10.1186/s12967-018-1748-4",
+      "url": "https://doi.org/10.1186/s12967-018-1748-4",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C14. Intermittent Fasting (IF).md",
+      "type": "pmid",
+      "identifier": "32060194",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32060194/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C15. Low-Carb Diets (General).md",
+      "type": "doi",
+      "identifier": "10.1001/jama.2018.0245",
+      "url": "https://doi.org/10.1001/jama.2018.0245",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C15. Low-Carb Diets (General).md",
+      "type": "doi",
+      "identifier": "10.1017/S0007114515004699",
+      "url": "https://doi.org/10.1017/S0007114515004699",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C15. Low-Carb Diets (General).md",
+      "type": "doi",
+      "identifier": "10.1371/journal.pone.0100652",
+      "url": "https://doi.org/10.1371/journal.pone.0100652",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C16. High-Protein Diets.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2017-097608",
+      "url": "https://doi.org/10.1136/bjsports-2017-097608",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C16. High-Protein Diets.md",
+      "type": "doi",
+      "identifier": "10.1155/2016/9104792",
+      "url": "https://doi.org/10.1155/2016/9104792",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C16. High-Protein Diets.md",
+      "type": "doi",
+      "identifier": "10.3945/ajcn.112.044321",
+      "url": "https://doi.org/10.3945/ajcn.112.044321",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C16. High-Protein Diets.md",
+      "type": "pmid",
+      "identifier": "28642676",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28642676/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C17. Carb Cycling.md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-11-20",
+      "url": "https://doi.org/10.1186/1550-2783-11-20",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C17. Carb Cycling.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0174-y",
+      "url": "https://doi.org/10.1186/s12970-017-0174-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C17. Carb Cycling.md",
+      "type": "pmid",
+      "identifier": "24829732",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24829732/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C18. Flexible Dieting (IIFYM - If It Fits Your Macros).md",
+      "type": "doi",
+      "identifier": "10.1006/appe.2001.0445",
+      "url": "https://doi.org/10.1006/appe.2001.0445",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C18. Flexible Dieting (IIFYM - If It Fits Your Macros).md",
+      "type": "doi",
+      "identifier": "10.1016/j.eatbeh.2012.10.015",
+      "url": "https://doi.org/10.1016/j.eatbeh.2012.10.015",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C18. Flexible Dieting (IIFYM - If It Fits Your Macros).md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-021-00452-2",
+      "url": "https://doi.org/10.1186/s12970-021-00452-2",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C19. Intuitive Eating.md",
+      "type": "doi",
+      "identifier": "10.1007/s40519-020-00852-4",
+      "url": "https://doi.org/10.1007/s40519-020-00852-4",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C19. Intuitive Eating.md",
+      "type": "doi",
+      "identifier": "10.1017/S1368980013002139",
+      "url": "https://doi.org/10.1017/S1368980013002139",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C19. Intuitive Eating.md",
+      "type": "doi",
+      "identifier": "10.1155/2014/983495",
+      "url": "https://doi.org/10.1155/2014/983495",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C2. Macronutrient Distribution.md",
+      "type": "doi",
+      "identifier": "10.1080/02640414.2011.585473",
+      "url": "https://doi.org/10.1080/02640414.2011.585473",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C2. Macronutrient Distribution.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2017-097608",
+      "url": "https://doi.org/10.1136/bjsports-2017-097608",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C2. Macronutrient Distribution.md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-11-20",
+      "url": "https://doi.org/10.1186/1550-2783-11-20",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C20. Supplements (Overview & Framework).md",
+      "type": "doi",
+      "identifier": "10.1016/j.jand.2015.12.006",
+      "url": "https://doi.org/10.1016/j.jand.2015.12.006",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C20. Supplements (Overview & Framework).md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099027",
+      "url": "https://doi.org/10.1136/bjsports-2018-099027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C20. Supplements (Overview & Framework).md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-018-0242-y",
+      "url": "https://doi.org/10.1186/s12970-018-0242-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C21. Evidence-Based Supplements (Group A).md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099199",
+      "url": "https://doi.org/10.1136/bjsports-2018-099199",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C21. Evidence-Based Supplements (Group A).md",
+      "type": "doi",
+      "identifier": "10.1146/annurev-nutr-082018-124043",
+      "url": "https://doi.org/10.1146/annurev-nutr-082018-124043",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C21. Evidence-Based Supplements (Group A).md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-015-0090-y",
+      "url": "https://doi.org/10.1186/s12970-015-0090-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C21. Evidence-Based Supplements (Group A).md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0173-z",
+      "url": "https://doi.org/10.1186/s12970-017-0173-z",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C21. Evidence-Based Supplements (Group A).md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-020-00383-4",
+      "url": "https://doi.org/10.1186/s12970-020-00383-4",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C22. Supplements with LimitedMixed Evidence (Group B).md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099027",
+      "url": "https://doi.org/10.1136/bjsports-2018-099027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C22. Supplements with LimitedMixed Evidence (Group B).md",
+      "type": "doi",
+      "identifier": "10.1519/JSC.0000000000003426",
+      "url": "https://doi.org/10.1519/JSC.0000000000003426",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C22. Supplements with LimitedMixed Evidence (Group B).md",
+      "type": "doi",
+      "identifier": "10.3390/nu12103126",
+      "url": "https://doi.org/10.3390/nu12103126",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C22. Supplements with LimitedMixed Evidence (Group B).md",
+      "type": "pmid",
+      "identifier": "31864427",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31864427/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C23. Supplement Safety, Regulation, and Quality Control.md",
+      "type": "doi",
+      "identifier": "10.1001/jamanetworkopen.2022.23388",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2022.23388",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C23. Supplement Safety, Regulation, and Quality Control.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099027",
+      "url": "https://doi.org/10.1136/bjsports-2018-099027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C23. Supplement Safety, Regulation, and Quality Control.md",
+      "type": "doi",
+      "identifier": "10.3390/nu9101093",
+      "url": "https://doi.org/10.3390/nu9101093",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C24. Ergogenic Aids.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099027",
+      "url": "https://doi.org/10.1136/bjsports-2018-099027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C24. Ergogenic Aids.md",
+      "type": "doi",
+      "identifier": "10.1139/apnm-2014-0027",
+      "url": "https://doi.org/10.1139/apnm-2014-0027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C24. Ergogenic Aids.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-018-0242-y",
+      "url": "https://doi.org/10.1186/s12970-018-0242-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C25. Nutrition for Muscle Gain (Hypertrophy).md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2017-097608",
+      "url": "https://doi.org/10.1136/bjsports-2017-097608",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C25. Nutrition for Muscle Gain (Hypertrophy).md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-11-20",
+      "url": "https://doi.org/10.1186/1550-2783-11-20",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C25. Nutrition for Muscle Gain (Hypertrophy).md",
+      "type": "doi",
+      "identifier": "10.3389/fnut.2019.00131",
+      "url": "https://doi.org/10.3389/fnut.2019.00131",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C26. Nutrition for Fat Loss.md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-11-20",
+      "url": "https://doi.org/10.1186/1550-2783-11-20",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C26. Nutrition for Fat Loss.md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-11-7",
+      "url": "https://doi.org/10.1186/1550-2783-11-7",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C26. Nutrition for Fat Loss.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0174-y",
+      "url": "https://doi.org/10.1186/s12970-017-0174-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C26. Nutrition for Fat Loss.md",
+      "type": "doi",
+      "identifier": "10.3945/ajcn.112.044321",
+      "url": "https://doi.org/10.3945/ajcn.112.044321",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C27. Nutrition for Endurance Performance (Carb Loading).md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-014-0148-z",
+      "url": "https://doi.org/10.1007/s40279-014-0148-z",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C27. Nutrition for Endurance Performance (Carb Loading).md",
+      "type": "doi",
+      "identifier": "10.1016/j.jand.2015.12.006",
+      "url": "https://doi.org/10.1016/j.jand.2015.12.006",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C27. Nutrition for Endurance Performance (Carb Loading).md",
+      "type": "doi",
+      "identifier": "10.1080/02640414.2011.585473",
+      "url": "https://doi.org/10.1080/02640414.2011.585473",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C27. Nutrition for Endurance Performance (Carb Loading).md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C28. Nutrition for Strength Power Athletes.md",
+      "type": "doi",
+      "identifier": "10.1016/j.jand.2015.12.006",
+      "url": "https://doi.org/10.1016/j.jand.2015.12.006",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C28. Nutrition for Strength Power Athletes.md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-11-20",
+      "url": "https://doi.org/10.1186/1550-2783-11-20",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C28. Nutrition for Strength Power Athletes.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0173-z",
+      "url": "https://doi.org/10.1186/s12970-017-0173-z",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C28. Nutrition for Strength Power Athletes.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-018-0242-y",
+      "url": "https://doi.org/10.1186/s12970-018-0242-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C29. Nutrition for Recovery.md",
+      "type": "doi",
+      "identifier": "10.1016/j.jand.2015.12.006",
+      "url": "https://doi.org/10.1016/j.jand.2015.12.006",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C29. Nutrition for Recovery.md",
+      "type": "doi",
+      "identifier": "10.1123/ijsnem.20.6.515",
+      "url": "https://doi.org/10.1123/ijsnem.20.6.515",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C29. Nutrition for Recovery.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0189-4",
+      "url": "https://doi.org/10.1186/s12970-017-0189-4",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C3. Nutrient Timing.md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-10-5",
+      "url": "https://doi.org/10.1186/1550-2783-10-5",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C3. Nutrient Timing.md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-5-17",
+      "url": "https://doi.org/10.1186/1550-2783-5-17",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C3. Nutrient Timing.md",
+      "type": "doi",
+      "identifier": "10.3390/nu8120763",
+      "url": "https://doi.org/10.3390/nu8120763",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C30. Food Quality & Health (Whole vs Processed).md",
+      "type": "doi",
+      "identifier": "10.1016/j.cmet.2019.05.008",
+      "url": "https://doi.org/10.1016/j.cmet.2019.05.008",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C30. Food Quality & Health (Whole vs Processed).md",
+      "type": "doi",
+      "identifier": "10.1017/S1368980017000234",
+      "url": "https://doi.org/10.1017/S1368980017000234",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C30. Food Quality & Health (Whole vs Processed).md",
+      "type": "doi",
+      "identifier": "10.1161/CIRCRESAHA.118.313348",
+      "url": "https://doi.org/10.1161/CIRCRESAHA.118.313348",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C30. Food Quality & Health (Whole vs Processed).md",
+      "type": "doi",
+      "identifier": "10.3390/nu12071955",
+      "url": "https://doi.org/10.3390/nu12071955",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C31. Reading Nutrition Labels.md",
+      "type": "doi",
+      "identifier": "10.1016/j.amepre.2012.04.022",
+      "url": "https://doi.org/10.1016/j.amepre.2012.04.022",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C31. Reading Nutrition Labels.md",
+      "type": "doi",
+      "identifier": "10.1017/S1368980010003290",
+      "url": "https://doi.org/10.1017/S1368980010003290",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C31. Reading Nutrition Labels.md",
+      "type": "doi",
+      "identifier": "10.1371/journal.pmed.1000252",
+      "url": "https://doi.org/10.1371/journal.pmed.1000252",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C32. Gut Health and Microbiome.md",
+      "type": "doi",
+      "identifier": "10.1042/BCJ20160510",
+      "url": "https://doi.org/10.1042/BCJ20160510",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C32. Gut Health and Microbiome.md",
+      "type": "doi",
+      "identifier": "10.1136/bmj.k2179",
+      "url": "https://doi.org/10.1136/bmj.k2179",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C32. Gut Health and Microbiome.md",
+      "type": "doi",
+      "identifier": "10.1155/2017/3831972",
+      "url": "https://doi.org/10.1155/2017/3831972",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C32. Gut Health and Microbiome.md",
+      "type": "doi",
+      "identifier": "10.3390/nu11071613",
+      "url": "https://doi.org/10.3390/nu11071613",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C33. Anti-Inflammatory FoodsDiets.md",
+      "type": "doi",
+      "identifier": "10.1017/S1368980013002115",
+      "url": "https://doi.org/10.1017/S1368980013002115",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C33. Anti-Inflammatory FoodsDiets.md",
+      "type": "doi",
+      "identifier": "10.3945/ajcn.113.076679",
+      "url": "https://doi.org/10.3945/ajcn.113.076679",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C33. Anti-Inflammatory FoodsDiets.md",
+      "type": "pmid",
+      "identifier": "21139128",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21139128/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C34. Antioxidants.md",
+      "type": "doi",
+      "identifier": "10.1113/JP270654",
+      "url": "https://doi.org/10.1113/JP270654",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C34. Antioxidants.md",
+      "type": "doi",
+      "identifier": "10.1113/jphysiol.2013.267419",
+      "url": "https://doi.org/10.1113/jphysiol.2013.267419",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C34. Antioxidants.md",
+      "type": "doi",
+      "identifier": "10.1152/physrev.00031.2007",
+      "url": "https://doi.org/10.1152/physrev.00031.2007",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C35. Specialized Nutrition for Performance Demands.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-019-01188-8",
+      "url": "https://doi.org/10.1007/s40279-019-01188-8",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C35. Specialized Nutrition for Performance Demands.md",
+      "type": "doi",
+      "identifier": "10.1016/j.jand.2015.12.006",
+      "url": "https://doi.org/10.1016/j.jand.2015.12.006",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C35. Specialized Nutrition for Performance Demands.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2025.2467909",
+      "url": "https://doi.org/10.1080/15502783.2025.2467909",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C35. Specialized Nutrition for Performance Demands.md",
+      "type": "doi",
+      "identifier": "10.1093/nutritionreviews/article/83/3/e1068/7712679",
+      "url": "https://doi.org/10.1093/nutritionreviews/article/83/3/e1068/7712679",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C35. Specialized Nutrition for Performance Demands.md",
+      "type": "doi",
+      "identifier": "10.3390/nu11061289",
+      "url": "https://doi.org/10.3390/nu11061289",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C36. Nutrient Periodization.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-018-0867-7",
+      "url": "https://doi.org/10.1007/s40279-018-0867-7",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C36. Nutrient Periodization.md",
+      "type": "doi",
+      "identifier": "10.1139/apnm-2014-0027",
+      "url": "https://doi.org/10.1139/apnm-2014-0027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C36. Nutrient Periodization.md",
+      "type": "doi",
+      "identifier": "10.1249/MSS.0000000000000823",
+      "url": "https://doi.org/10.1249/MSS.0000000000000823",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C37. Sports Nutrition Periodization.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-018-0867-7",
+      "url": "https://doi.org/10.1007/s40279-018-0867-7",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C37. Sports Nutrition Periodization.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099193",
+      "url": "https://doi.org/10.1136/bjsports-2018-099193",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C37. Sports Nutrition Periodization.md",
+      "type": "doi",
+      "identifier": "10.1139/apnm-2014-0027",
+      "url": "https://doi.org/10.1139/apnm-2014-0027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C38. Micronutrient Timing.md",
+      "type": "pmid",
+      "identifier": "20200263",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20200263/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C38. Micronutrient Timing.md",
+      "type": "pmid",
+      "identifier": "24778671",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24778671/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C38. Micronutrient Timing.md",
+      "type": "pmid",
+      "identifier": "30053862",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30053862/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C39. Supplement Stacking Protocols.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-015-0090-y",
+      "url": "https://doi.org/10.1186/s12970-015-0090-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C39. Supplement Stacking Protocols.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0173-z",
+      "url": "https://doi.org/10.1186/s12970-017-0173-z",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C39. Supplement Stacking Protocols.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-018-0242-y",
+      "url": "https://doi.org/10.1186/s12970-018-0242-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C40. Nootropics for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1016/j.nut.2010.08.004",
+      "url": "https://doi.org/10.1016/j.nut.2010.08.004",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C40. Nootropics for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1179/147683008X301513",
+      "url": "https://doi.org/10.1179/147683008X301513",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C40. Nootropics for Athletes.md",
+      "type": "doi",
+      "identifier": "10.3233/JAD-2010-091315",
+      "url": "https://doi.org/10.3233/JAD-2010-091315",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C41. Adaptogens in Sports.md",
+      "type": "doi",
+      "identifier": "10.1186/1472-6882-12-70",
+      "url": "https://doi.org/10.1186/1472-6882-12-70",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C41. Adaptogens in Sports.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-015-0104-9",
+      "url": "https://doi.org/10.1186/s12970-015-0104-9",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C41. Adaptogens in Sports.md",
+      "type": "doi",
+      "identifier": "10.3390/ph3010188",
+      "url": "https://doi.org/10.3390/ph3010188",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C42. Precision Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1016/j.cell.2015.11.001",
+      "url": "https://doi.org/10.1016/j.cell.2015.11.001",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C42. Precision Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1159/000445350",
+      "url": "https://doi.org/10.1159/000445350",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C42. Precision Nutrition.md",
+      "type": "doi",
+      "identifier": "10.3390/ijms18040787",
+      "url": "https://doi.org/10.3390/ijms18040787",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C43. Circadian Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1016/j.mce.2015.09.017",
+      "url": "https://doi.org/10.1016/j.mce.2015.09.017",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C43. Circadian Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1016/j.physbeh.2014.01.001",
+      "url": "https://doi.org/10.1016/j.physbeh.2014.01.001",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C43. Circadian Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1073/pnas.0808180106",
+      "url": "https://doi.org/10.1073/pnas.0808180106",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C44. Competition Day Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-014-0148-z",
+      "url": "https://doi.org/10.1007/s40279-014-0148-z",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C44. Competition Day Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1080/02640414.2011.585473",
+      "url": "https://doi.org/10.1080/02640414.2011.585473",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C44. Competition Day Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1249/MSS.0000000000000852",
+      "url": "https://doi.org/10.1249/MSS.0000000000000852",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C45. Travel Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-014-0147-0",
+      "url": "https://doi.org/10.1007/s40279-014-0147-0",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C45. Travel Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1016/j.csm.2007.04.007",
+      "url": "https://doi.org/10.1016/j.csm.2007.04.007",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C45. Travel Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1123/ijsnem.2019-0065",
+      "url": "https://doi.org/10.1123/ijsnem.2019-0065",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C46. Altitude Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1123/ijsnem.16.1.35",
+      "url": "https://doi.org/10.1123/ijsnem.16.1.35",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C46. Altitude Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1152/jappl.1992.72.5.1741",
+      "url": "https://doi.org/10.1152/jappl.1992.72.5.1741",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C46. Altitude Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1152/japplphysiol.01393.2006",
+      "url": "https://doi.org/10.1152/japplphysiol.01393.2006",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C47. Heat Stress Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-016-0538-5",
+      "url": "https://doi.org/10.1007/s40279-016-0538-5",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C47. Heat Stress Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1152/japplphysiol.00367.2010",
+      "url": "https://doi.org/10.1152/japplphysiol.00367.2010",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C47. Heat Stress Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1249/MSS.0b013e3181b9b04b",
+      "url": "https://doi.org/10.1249/MSS.0b013e3181b9b04b",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C48. Cold Weather Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1152/jappl.1986.60.5.1542",
+      "url": "https://doi.org/10.1152/jappl.1986.60.5.1542",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C48. Cold Weather Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1152/jappl.2000.88.6.2069",
+      "url": "https://doi.org/10.1152/jappl.2000.88.6.2069",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C48. Cold Weather Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1249/01.mss.0000235355.96427.ed",
+      "url": "https://doi.org/10.1249/01.mss.0000235355.96427.ed",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C49. Multi-Day Event Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-017-0694-2",
+      "url": "https://doi.org/10.1007/s40279-017-0694-2",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C49. Multi-Day Event Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1038/icb.2015.109",
+      "url": "https://doi.org/10.1038/icb.2015.109",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C49. Multi-Day Event Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1080/02640414.2011.585473",
+      "url": "https://doi.org/10.1080/02640414.2011.585473",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C5. Electrolytes.md",
+      "type": "doi",
+      "identifier": "10.1002/cphy.c130017",
+      "url": "https://doi.org/10.1002/cphy.c130017",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C5. Electrolytes.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-017-0691-5",
+      "url": "https://doi.org/10.1007/s40279-017-0691-5",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C5. Electrolytes.md",
+      "type": "doi",
+      "identifier": "10.1080/02640414.2011.614269",
+      "url": "https://doi.org/10.1080/02640414.2011.614269",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C5. Pre, During, and Post-Exercise Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-014-0148-z",
+      "url": "https://doi.org/10.1007/s40279-014-0148-z",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C5. Pre, During, and Post-Exercise Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1080/02640414.2011.585473",
+      "url": "https://doi.org/10.1080/02640414.2011.585473",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C5. Pre, During, and Post-Exercise Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0189-4",
+      "url": "https://doi.org/10.1186/s12970-017-0189-4",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C50. Recovery Nutrition Protocols.md",
+      "type": "doi",
+      "identifier": "10.1123/ijsnem.2017-0232",
+      "url": "https://doi.org/10.1123/ijsnem.2017-0232",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C50. Recovery Nutrition Protocols.md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-10-5",
+      "url": "https://doi.org/10.1186/1550-2783-10-5",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C50. Recovery Nutrition Protocols.md",
+      "type": "doi",
+      "identifier": "10.3945/ajcn.2008.26401",
+      "url": "https://doi.org/10.3945/ajcn.2008.26401",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C51. Environmental Nutrition Optimization.md",
+      "type": "pmid",
+      "identifier": "10410844",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10410844/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C51. Environmental Nutrition Optimization.md",
+      "type": "pmid",
+      "identifier": "24692138",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24692138/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C51. Environmental Nutrition Optimization.md",
+      "type": "pmid",
+      "identifier": "25943654",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25943654/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C52. Genetic-Based Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1007/s12263-012-0290-x",
+      "url": "https://doi.org/10.1007/s12263-012-0290-x",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C52. Genetic-Based Nutrition.md",
+      "type": "doi",
+      "identifier": "10.3389/fnut.2019.00008",
+      "url": "https://doi.org/10.3389/fnut.2019.00008",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C52. Genetic-Based Nutrition.md",
+      "type": "doi",
+      "identifier": "10.3945/ajcn.115.129049",
+      "url": "https://doi.org/10.3945/ajcn.115.129049",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C53. Periodized Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-014-0148-z",
+      "url": "https://doi.org/10.1007/s40279-014-0148-z",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C53. Periodized Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-018-0867-7",
+      "url": "https://doi.org/10.1007/s40279-018-0867-7",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C53. Periodized Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C53. Periodized Nutrition.md",
+      "type": "doi",
+      "identifier": "10.3945/jn.112.168757",
+      "url": "https://doi.org/10.3945/jn.112.168757",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C54. Precision Nutrition Monitoring.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-018-0867-7",
+      "url": "https://doi.org/10.1007/s40279-018-0867-7",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C54. Precision Nutrition Monitoring.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C54. Precision Nutrition Monitoring.md",
+      "type": "doi",
+      "identifier": "10.1113/JP273230",
+      "url": "https://doi.org/10.1113/JP273230",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C55. Nutrient-Exercise Interaction.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-014-0268-2",
+      "url": "https://doi.org/10.1007/s40279-014-0268-2",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C55. Nutrient-Exercise Interaction.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-018-0867-7",
+      "url": "https://doi.org/10.1007/s40279-018-0867-7",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C55. Nutrient-Exercise Interaction.md",
+      "type": "doi",
+      "identifier": "10.3945/ajcn.2008.26401",
+      "url": "https://doi.org/10.3945/ajcn.2008.26401",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C56. Metabolic Profiling for Athletes.md",
+      "type": "pmid",
+      "identifier": "11772161",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11772161/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C56. Metabolic Profiling for Athletes.md",
+      "type": "pmid",
+      "identifier": "1997814",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1997814/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C56. Metabolic Profiling for Athletes.md",
+      "type": "pmid",
+      "identifier": "23798298",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23798298/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C57. Advanced Hydration Strategies.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-016-0608-2",
+      "url": "https://doi.org/10.1007/s40279-016-0608-2",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C57. Advanced Hydration Strategies.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2011-090114",
+      "url": "https://doi.org/10.1136/bjsports-2011-090114",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C57. Advanced Hydration Strategies.md",
+      "type": "pmid",
+      "identifier": "24692138",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24692138/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C58. Nutrient Bioavailability Optimization.md",
+      "type": "doi",
+      "identifier": "10.1038/sj.ejcn.1601240",
+      "url": "https://doi.org/10.1038/sj.ejcn.1601240",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C58. Nutrient Bioavailability Optimization.md",
+      "type": "doi",
+      "identifier": "10.1093/ajcn/78.3.633S",
+      "url": "https://doi.org/10.1093/ajcn/78.3.633S",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C58. Nutrient Bioavailability Optimization.md",
+      "type": "doi",
+      "identifier": "10.1093/jn/137.3.838S",
+      "url": "https://doi.org/10.1093/jn/137.3.838S",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C59. Exercise-Induced Oxidative Stress Management.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-014-0151-4",
+      "url": "https://doi.org/10.1007/s40279-014-0151-4",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C59. Exercise-Induced Oxidative Stress Management.md",
+      "type": "doi",
+      "identifier": "10.1016/j.jshs.2020.04.001",
+      "url": "https://doi.org/10.1016/j.jshs.2020.04.001",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C59. Exercise-Induced Oxidative Stress Management.md",
+      "type": "doi",
+      "identifier": "10.1093/advances/nmaa090",
+      "url": "https://doi.org/10.1093/advances/nmaa090",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C6. Micronutrients (Detailed Roles & Considerations).md",
+      "type": "doi",
+      "identifier": "10.1016/j.jand.2015.12.006",
+      "url": "https://doi.org/10.1016/j.jand.2015.12.006",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C6. Micronutrients (Detailed Roles & Considerations).md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099027",
+      "url": "https://doi.org/10.1136/bjsports-2018-099027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C6. Micronutrients (Detailed Roles & Considerations).md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-015-0093-8",
+      "url": "https://doi.org/10.1186/s12970-015-0093-8",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C60. Gastrointestinal Training Protocols.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-017-0690-6",
+      "url": "https://doi.org/10.1007/s40279-017-0690-6",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C60. Gastrointestinal Training Protocols.md",
+      "type": "doi",
+      "identifier": "10.1111/sms.12912",
+      "url": "https://doi.org/10.1111/sms.12912",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C60. Gastrointestinal Training Protocols.md",
+      "type": "doi",
+      "identifier": "10.1139/apnm-2014-0027",
+      "url": "https://doi.org/10.1139/apnm-2014-0027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C61. Cognitive Nutrition for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1038/nrn2421",
+      "url": "https://doi.org/10.1038/nrn2421",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C61. Cognitive Nutrition for Athletes.md",
+      "type": "pmid",
+      "identifier": "18043762",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18043762/",
+      "status_code": null,
+      "result": "error",
+      "error": "HTTPSConnectionPool(host='pubmed.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /18043762/ (Caused by NewConnectionError(\"HTTPSConnection(host='pubmed.ncbi.nlm.nih.gov', port=443): Failed to establish a new connection: [Errno 65] No route to host\"))"
+    },
+    {
+      "note": "rewritten_C61. Cognitive Nutrition for Athletes.md",
+      "type": "pmid",
+      "identifier": "23247672",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23247672/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C62. Sleep-Nutrition Interactions.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C62. Sleep-Nutrition Interactions.md",
+      "type": "doi",
+      "identifier": "10.3945/an.115.008623",
+      "url": "https://doi.org/10.3945/an.115.008623",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C62. Sleep-Nutrition Interactions.md",
+      "type": "pmid",
+      "identifier": "27647451",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27647451/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C63. Immune-Nutrition Optimization.md",
+      "type": "doi",
+      "identifier": "10.1002/14651858.CD000980.pub4",
+      "url": "https://doi.org/10.1002/14651858.CD000980.pub4",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C63. Immune-Nutrition Optimization.md",
+      "type": "doi",
+      "identifier": "10.1038/nri3520",
+      "url": "https://doi.org/10.1038/nri3520",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C63. Immune-Nutrition Optimization.md",
+      "type": "doi",
+      "identifier": "10.1136/bmj.i6583",
+      "url": "https://doi.org/10.1136/bmj.i6583",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C64. Body Composition Nutrition Strategies.md",
+      "type": "pmid",
+      "identifier": "21558571",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21558571/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C64. Body Composition Nutrition Strategies.md",
+      "type": "pmid",
+      "identifier": "24864135",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24864135/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C64. Body Composition Nutrition Strategies.md",
+      "type": "pmid",
+      "identifier": "29497353",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29497353/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C64. Body Composition Nutrition Strategies.md",
+      "type": "pmid",
+      "identifier": "30671901",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30671901/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C65. Youth Athlete Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2015-094962",
+      "url": "https://doi.org/10.1136/bjsports-2015-094962",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C65. Youth Athlete Nutrition.md",
+      "type": "doi",
+      "identifier": "10.4085/1062-6050-50.9.07",
+      "url": "https://doi.org/10.4085/1062-6050-50.9.07",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C65. Youth Athlete Nutrition.md",
+      "type": "pmid",
+      "identifier": "24901744",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24901744/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C66. Masters Athlete Nutrition (45+ years).md",
+      "type": "doi",
+      "identifier": "10.1016/j.nut.2015.12.027",
+      "url": "https://doi.org/10.1016/j.nut.2015.12.027",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C66. Masters Athlete Nutrition (45+ years).md",
+      "type": "pmid",
+      "identifier": "23867520",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23867520/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C66. Masters Athlete Nutrition (45+ years).md",
+      "type": "pmid",
+      "identifier": "24550352",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24550352/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C67. Female Athlete Nutrition Considerations.md",
+      "type": "doi",
+      "identifier": "10.1007/s00421-019-04157-y",
+      "url": "https://doi.org/10.1007/s00421-019-04157-y",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C67. Female Athlete Nutrition Considerations.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C67. Female Athlete Nutrition Considerations.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099193",
+      "url": "https://doi.org/10.1136/bjsports-2018-099193",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C67. Female Athlete Nutrition Considerations.md",
+      "type": "pmid",
+      "identifier": "12519845",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12519845/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C68. Plant-Based Athletic Performance.md",
+      "type": "doi",
+      "identifier": "10.1016/j.jand.2016.09.025",
+      "url": "https://doi.org/10.1016/j.jand.2016.09.025",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C68. Plant-Based Athletic Performance.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0192-9",
+      "url": "https://doi.org/10.1186/s12970-017-0192-9",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C68. Plant-Based Athletic Performance.md",
+      "type": "pmid",
+      "identifier": "21178299",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21178299/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C69. Injury Recovery Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1016/j.bbalip.2014.08.010",
+      "url": "https://doi.org/10.1016/j.bbalip.2014.08.010",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C69. Injury Recovery Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1038/ejcn.2010.151",
+      "url": "https://doi.org/10.1038/ejcn.2010.151",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C69. Injury Recovery Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1080/02640414.2011.619204",
+      "url": "https://doi.org/10.1080/02640414.2011.619204",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C7. Energy Balance & Nutritional Aspects of Weight Management.md",
+      "type": "doi",
+      "identifier": "10.1016/j.jand.2015.12.006",
+      "url": "https://doi.org/10.1016/j.jand.2015.12.006",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C7. Energy Balance & Nutritional Aspects of Weight Management.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0174-y",
+      "url": "https://doi.org/10.1186/s12970-017-0174-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C7. Energy Balance & Nutritional Aspects of Weight Management.md",
+      "type": "doi",
+      "identifier": "10.3945/ajcn.112.036350",
+      "url": "https://doi.org/10.3945/ajcn.112.036350",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C70. Travel Nutrition for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-014-0147-0",
+      "url": "https://doi.org/10.1007/s40279-014-0147-0",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C70. Travel Nutrition for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1016/S0140-6736(07)60529-7",
+      "url": "https://doi.org/10.1016/S0140-6736(07)60529-7",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C70. Travel Nutrition for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1126/science.aau2093",
+      "url": "https://doi.org/10.1126/science.aau2093",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C71. Budget-Conscious Sports Nutrition.md",
+      "type": "pmid",
+      "identifier": "24834017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24834017/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C71. Budget-Conscious Sports Nutrition.md",
+      "type": "pmid",
+      "identifier": "24864135",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24864135/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C71. Budget-Conscious Sports Nutrition.md",
+      "type": "pmid",
+      "identifier": "30053862",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30053862/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C72. Meal Preparation for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1016/j.appet.2019.104409",
+      "url": "https://doi.org/10.1016/j.appet.2019.104409",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C72. Meal Preparation for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1017/S1368980007246658",
+      "url": "https://doi.org/10.1017/S1368980007246658",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C72. Meal Preparation for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1186/s12966-017-0461-7",
+      "url": "https://doi.org/10.1186/s12966-017-0461-7",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C73. Restaurant Navigation for Athletes.md",
+      "type": "pmid",
+      "identifier": "21660838",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21660838/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C73. Restaurant Navigation for Athletes.md",
+      "type": "pmid",
+      "identifier": "22106948",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22106948/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C73. Restaurant Navigation for Athletes.md",
+      "type": "pmid",
+      "identifier": "26879182",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26879182/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C74. Social Eating Strategies for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1002/(SICI)1098-108X(199907)26:1",
+      "url": "https://doi.org/10.1002/(SICI)1098-108X(199907)26:1",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C74. Social Eating Strategies for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1006/appe.2001.0445",
+      "url": "https://doi.org/10.1006/appe.2001.0445",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C74. Social Eating Strategies for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1016/j.appet.2009.09.016",
+      "url": "https://doi.org/10.1016/j.appet.2009.09.016",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C75. Nutrition Education for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1017/S0007114514000087",
+      "url": "https://doi.org/10.1017/S0007114514000087",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C75. Nutrition Education for Athletes.md",
+      "type": "doi",
+      "identifier": "10.3390/nu8090570",
+      "url": "https://doi.org/10.3390/nu8090570",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C75. Nutrition Education for Athletes.md",
+      "type": "pmid",
+      "identifier": "21719901",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21719901/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C76. Nutritional Periodization Models.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-018-0867-7",
+      "url": "https://doi.org/10.1007/s40279-018-0867-7",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C76. Nutritional Periodization Models.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C76. Nutritional Periodization Models.md",
+      "type": "doi",
+      "identifier": "10.1123/ijsnem.2018-0289",
+      "url": "https://doi.org/10.1123/ijsnem.2018-0289",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C77. Metabolic Testing Integration.md",
+      "type": "doi",
+      "identifier": "10.1016/j.cmet.2018.03.008",
+      "url": "https://doi.org/10.1016/j.cmet.2018.03.008",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C77. Metabolic Testing Integration.md",
+      "type": "doi",
+      "identifier": "10.1055/s-2004-830512",
+      "url": "https://doi.org/10.1055/s-2004-830512",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C77. Metabolic Testing Integration.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C78. Advanced Supplement Timing.md",
+      "type": "doi",
+      "identifier": "10.1113/JP272881",
+      "url": "https://doi.org/10.1113/JP272881",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C78. Advanced Supplement Timing.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-018-0246-y",
+      "url": "https://doi.org/10.1186/s12970-018-0246-y",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C78. Advanced Supplement Timing.md",
+      "type": "doi",
+      "identifier": "10.7717/peerj.2825",
+      "url": "https://doi.org/10.7717/peerj.2825",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C79. Nutrient Density Optimization.md",
+      "type": "doi",
+      "identifier": "10.1093/ajcn/82.4.721",
+      "url": "https://doi.org/10.1093/ajcn/82.4.721",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C79. Nutrient Density Optimization.md",
+      "type": "doi",
+      "identifier": "10.3945/jn.108.100842",
+      "url": "https://doi.org/10.3945/jn.108.100842",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C79. Nutrient Density Optimization.md",
+      "type": "doi",
+      "identifier": "10.3945/jn.109.109058",
+      "url": "https://doi.org/10.3945/jn.109.109058",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C8. Metabolic Adaptation (Adaptive Thermogenesis).md",
+      "type": "doi",
+      "identifier": "10.1002/oby.20027",
+      "url": "https://doi.org/10.1002/oby.20027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C8. Metabolic Adaptation (Adaptive Thermogenesis).md",
+      "type": "doi",
+      "identifier": "10.1038/ijo.2010.184",
+      "url": "https://doi.org/10.1038/ijo.2010.184",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C8. Metabolic Adaptation (Adaptive Thermogenesis).md",
+      "type": "doi",
+      "identifier": "10.1038/ijo.2017.206",
+      "url": "https://doi.org/10.1038/ijo.2017.206",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C8. Metabolic Adaptation (Adaptive Thermogenesis).md",
+      "type": "doi",
+      "identifier": "10.1186/1550-2783-11-7",
+      "url": "https://doi.org/10.1186/1550-2783-11-7",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C80. Appetite Regulation for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1016/j.appet.2012.12.010",
+      "url": "https://doi.org/10.1016/j.appet.2012.12.010",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C80. Appetite Regulation for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1016/j.appet.2015.12.016",
+      "url": "https://doi.org/10.1016/j.appet.2015.12.016",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C80. Appetite Regulation for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2014-094259",
+      "url": "https://doi.org/10.1136/bjsports-2014-094259",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C81. Disordered Eating Prevention.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-017-0790-3",
+      "url": "https://doi.org/10.1007/s40279-017-0790-3",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C81. Disordered Eating Prevention.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C81. Disordered Eating Prevention.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099193",
+      "url": "https://doi.org/10.1136/bjsports-2018-099193",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C82. Performance Nutrition Psychology.md",
+      "type": "doi",
+      "identifier": "10.1016/j.appet.2014.07.002",
+      "url": "https://doi.org/10.1016/j.appet.2014.07.002",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C82. Performance Nutrition Psychology.md",
+      "type": "doi",
+      "identifier": "10.2165/11536580-000000000-00000",
+      "url": "https://doi.org/10.2165/11536580-000000000-00000",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C82. Performance Nutrition Psychology.md",
+      "type": "doi",
+      "identifier": "10.3390/nu12030835",
+      "url": "https://doi.org/10.3390/nu12030835",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C83. Evidence-Based Nutrition Communication.md",
+      "type": "doi",
+      "identifier": "10.1016/j.jada.2011.04.010",
+      "url": "https://doi.org/10.1016/j.jada.2011.04.010",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C83. Evidence-Based Nutrition Communication.md",
+      "type": "doi",
+      "identifier": "10.1080/17482631.2026.2666722",
+      "url": "https://doi.org/10.1080/17482631.2026.2666722",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C83. Evidence-Based Nutrition Communication.md",
+      "type": "doi",
+      "identifier": "10.2105/AJPH.2005.083782",
+      "url": "https://doi.org/10.2105/AJPH.2005.083782",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C84. Nutrition Myth Debunking.md",
+      "type": "pmid",
+      "identifier": "24438734",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24438734/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C84. Nutrition Myth Debunking.md",
+      "type": "pmid",
+      "identifier": "24864135",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24864135/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C84. Nutrition Myth Debunking.md",
+      "type": "pmid",
+      "identifier": "30064450",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30064450/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C85. Cultural Nutrition Adaptations.md",
+      "type": "doi",
+      "identifier": "10.1016/j.jada.2009.05.027",
+      "url": "https://doi.org/10.1016/j.jada.2009.05.027",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C85. Cultural Nutrition Adaptations.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0189-4",
+      "url": "https://doi.org/10.1186/s12970-017-0189-4",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C85. Cultural Nutrition Adaptations.md",
+      "type": "pmid",
+      "identifier": "23704846",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23704846/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C86. Competition Nutrition Protocols.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-014-0148-z",
+      "url": "https://doi.org/10.1007/s40279-014-0148-z",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C86. Competition Nutrition Protocols.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C86. Competition Nutrition Protocols.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-018-0242-y",
+      "url": "https://doi.org/10.1186/s12970-018-0242-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C87. Off-Season Nutrition Management.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-017-0694-2",
+      "url": "https://doi.org/10.1007/s40279-017-0694-2",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C87. Off-Season Nutrition Management.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-018-0867-7",
+      "url": "https://doi.org/10.1007/s40279-018-0867-7",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C87. Off-Season Nutrition Management.md",
+      "type": "doi",
+      "identifier": "10.1080/02640414.2011.585473",
+      "url": "https://doi.org/10.1080/02640414.2011.585473",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C88. Injury Prevention Through Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1007/s00198-015-3386-5",
+      "url": "https://doi.org/10.1007/s00198-015-3386-5",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C88. Injury Prevention Through Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-017-0719-x",
+      "url": "https://doi.org/10.1007/s40279-017-0719-x",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C88. Injury Prevention Through Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665962",
+      "url": "https://doi.org/10.1080/15502783.2026.2665962",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C88. Injury Prevention Through Nutrition.md",
+      "type": "doi",
+      "identifier": "10.3945/ajcn.116.138594",
+      "url": "https://doi.org/10.3945/ajcn.116.138594",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C89. Longevity Nutrition for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1016/j.cell.2015.02.020",
+      "url": "https://doi.org/10.1016/j.cell.2015.02.020",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C89. Longevity Nutrition for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1038/nrn2421",
+      "url": "https://doi.org/10.1038/nrn2421",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C89. Longevity Nutrition for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1038/s41574-018-0059-4",
+      "url": "https://doi.org/10.1038/s41574-018-0059-4",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C9. Dietary Strategies & Approaches (Overview).md",
+      "type": "doi",
+      "identifier": "10.1001/jama.2014.10397",
+      "url": "https://doi.org/10.1001/jama.2014.10397",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C9. Dietary Strategies & Approaches (Overview).md",
+      "type": "doi",
+      "identifier": "10.1001/jama.2018.0245",
+      "url": "https://doi.org/10.1001/jama.2018.0245",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C9. Dietary Strategies & Approaches (Overview).md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-017-0174-y",
+      "url": "https://doi.org/10.1186/s12970-017-0174-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C90. Micronutrient Testing and Analysis.md",
+      "type": "pmid",
+      "identifier": "26891166",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26891166/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C90. Micronutrient Testing and Analysis.md",
+      "type": "pmid",
+      "identifier": "28208609",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28208609/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C90. Micronutrient Testing and Analysis.md",
+      "type": "pmid",
+      "identifier": "30068354",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30068354/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C91. Functional Food Integration.md",
+      "type": "doi",
+      "identifier": "10.1016/j.copbio.2016.11.010",
+      "url": "https://doi.org/10.1016/j.copbio.2016.11.010",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C91. Functional Food Integration.md",
+      "type": "doi",
+      "identifier": "10.1093/advances/nmz065",
+      "url": "https://doi.org/10.1093/advances/nmz065",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C91. Functional Food Integration.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-018-0242-y",
+      "url": "https://doi.org/10.1186/s12970-018-0242-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C92. Personalized Nutrition Algorithms.md",
+      "type": "doi",
+      "identifier": "10.1016/j.cell.2015.11.001",
+      "url": "https://doi.org/10.1016/j.cell.2015.11.001",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C92. Personalized Nutrition Algorithms.md",
+      "type": "doi",
+      "identifier": "10.1038/s41591-020-0934-0",
+      "url": "https://doi.org/10.1038/s41591-020-0934-0",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C92. Personalized Nutrition Algorithms.md",
+      "type": "doi",
+      "identifier": "10.1136/bmj.k2173",
+      "url": "https://doi.org/10.1136/bmj.k2173",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C93. Nutrition-Training Load Coordination.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-017-0790-3",
+      "url": "https://doi.org/10.1007/s40279-017-0790-3",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C93. Nutrition-Training Load Coordination.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-018-0867-7",
+      "url": "https://doi.org/10.1007/s40279-018-0867-7",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C93. Nutrition-Training Load Coordination.md",
+      "type": "doi",
+      "identifier": "10.3945/jn.112.168757",
+      "url": "https://doi.org/10.3945/jn.112.168757",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C94. Athletic Nutrition Technology.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-017-0690-6",
+      "url": "https://doi.org/10.1007/s40279-017-0690-6",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C94. Athletic Nutrition Technology.md",
+      "type": "doi",
+      "identifier": "10.1113/JP278928",
+      "url": "https://doi.org/10.1113/JP278928",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C94. Athletic Nutrition Technology.md",
+      "type": "doi",
+      "identifier": "10.1139/apnm-2014-0027",
+      "url": "https://doi.org/10.1139/apnm-2014-0027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C95. Future of Sports Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-018-0246-y",
+      "url": "https://doi.org/10.1186/s12970-018-0246-y",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C95. Future of Sports Nutrition.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-020-00353-w",
+      "url": "https://doi.org/10.1186/s12970-020-00353-w",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C95. Future of Sports Nutrition.md",
+      "type": "doi",
+      "identifier": "10.3389/fnut.2019.00008",
+      "url": "https://doi.org/10.3389/fnut.2019.00008",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C96. Nutrition Research Methodology.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C96. Nutrition Research Methodology.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665962",
+      "url": "https://doi.org/10.1080/15502783.2026.2665962",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C96. Nutrition Research Methodology.md",
+      "type": "pmid",
+      "identifier": "30632415",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30632415/",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C97. Clinical Nutrition for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1080/15502783.2026.2665547",
+      "url": "https://doi.org/10.1080/15502783.2026.2665547",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C97. Clinical Nutrition for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099193",
+      "url": "https://doi.org/10.1136/bjsports-2018-099193",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C97. Clinical Nutrition for Athletes.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-018-0242-y",
+      "url": "https://doi.org/10.1186/s12970-018-0242-y",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C98. Therapeutic Nutrition Interventions.md",
+      "type": "doi",
+      "identifier": "10.1136/bjsports-2018-099027",
+      "url": "https://doi.org/10.1136/bjsports-2018-099027",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C98. Therapeutic Nutrition Interventions.md",
+      "type": "doi",
+      "identifier": "10.1186/s12970-018-0239-4",
+      "url": "https://doi.org/10.1186/s12970-018-0239-4",
+      "status_code": 404,
+      "result": "invalid",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C98. Therapeutic Nutrition Interventions.md",
+      "type": "doi",
+      "identifier": "10.3389/fphys.2017.00319",
+      "url": "https://doi.org/10.3389/fphys.2017.00319",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C99. Advanced Biomarker Interpretation.md",
+      "type": "doi",
+      "identifier": "10.1007/s40279-014-0253-z",
+      "url": "https://doi.org/10.1007/s40279-014-0253-z",
+      "status_code": 200,
+      "result": "ok",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C99. Advanced Biomarker Interpretation.md",
+      "type": "doi",
+      "identifier": "10.1080/02640414.2011.585473",
+      "url": "https://doi.org/10.1080/02640414.2011.585473",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    },
+    {
+      "note": "rewritten_C99. Advanced Biomarker Interpretation.md",
+      "type": "doi",
+      "identifier": "10.1249/MSS.0b013e318279a10a",
+      "url": "https://doi.org/10.1249/MSS.0b013e318279a10a",
+      "status_code": 403,
+      "result": "blocked",
+      "error": ""
+    }
+  ]
+}

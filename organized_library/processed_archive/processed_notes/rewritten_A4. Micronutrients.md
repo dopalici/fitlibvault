@@ -1,6 +1,6 @@
 ### A4. Micronutrients
 **ID:** A4-MICRONUTRIENTS
-**Created:** 2025-04-23 (Updated: 2025-01-27)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Vitamins and minerals are essential for energy production, immune function, and exercise recovery - while whole foods should be your primary source, athletes may need targeted supplementation for iron, vitamin D, and electrolytes based on individual testing.
@@ -33,6 +33,10 @@ Iron enables oxygen transport through hemoglobin and supports cellular energy pr
 ### Athletic Considerations
 
 Athletes face increased micronutrient needs due to higher metabolic demands, increased turnover of red blood cells, and losses through sweat. Iron deficiency is particularly common in endurance athletes, especially females, due to increased needs and losses. Magnesium requirements increase with exercise volume, as it's involved in over 300 enzymatic reactions including energy metabolism.
+
+### Antioxidant Status and Recovery
+
+Recent research demonstrates that antioxidant status plays a crucial role in athletic recovery and adaptation. The balance between oxidative stress and antioxidant defenses affects muscle damage markers and recovery time between training sessions. This highlights the importance of adequate micronutrient intake for maintaining optimal antioxidant enzyme function.
 
 ## Research Evidence
 
@@ -99,4 +103,7 @@ Essential foundation knowledge in balanced macronutrient intake [[A3. Macronutri
 Electrolyte balance [[C5. Electrolytes]] becomes critical during intense training periods. For comprehensive micronutrient strategies, see detailed roles and considerations [[C6. Micronutrients (Detailed Roles & Considerations)]]. Understanding supplement frameworks [[C20. Supplements (Overview & Framework)]] helps prioritize evidence-based choices. Antioxidant timing and dosing [[C34. Antioxidants]] requires careful consideration to avoid blunting adaptations.
 
 ## Update Log
-- 2025-01-27: Enhanced research evidence section with verified DOI links, expanded practical applications with absorption optimization strategies, improved readability while maintaining scientific accuracy, added specific timing recommendations for supplement interactions
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-27: Enhanced research evidence section with verified DOI links, expanded practical applications with absorption optimization strategies, improved readability while maintaining scientific accuracy, added specific timing recommendations for supplement interactions, incorporated recent research on antioxidant status and athletic recovery
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-015-0093-8; Invalid or broken DOI: 10.1249/JSR.0000000000000178; Invalid or broken DOI: 10.1136/bjsports-2018-099027 -->

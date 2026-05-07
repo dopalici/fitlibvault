@@ -1,6 +1,6 @@
 ### A65. Exercise-Induced Neuroplasticity
 **ID:** A65-EXERCISE-INDUCED-NEUROPLASTICITY
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Exercise triggers structural and functional changes in the brain, enhancing cognitive function, memory, and learning capacity through mechanisms like neurogenesis, synaptogenesis, and increased neurotrophic factors.
@@ -46,20 +46,20 @@ Activities requiring coordination, balance, and skill learning (such as dance or
 
 ## Research Evidence
 
-**Erickson, K.I., et al. (2011).** Exercise training increases size of hippocampus and improves memory. *Proceedings of the National Academy of Sciences*, 108(7), 3017-3022. DOI: https://doi.org/10.1073/pnas.1015950108
-- Key finding: One year of aerobic exercise increased hippocampal volume by 2% and improved spatial memory performance
-- Study type: Randomized controlled trial
-- Evidence quality: High (well-controlled RCT with neuroimaging outcomes)
-
 **Cotman, C.W., & Berchtold, N.C. (2002).** Exercise: a behavioral intervention to enhance brain health and plasticity. *Trends in Neurosciences*, 25(6), 295-301. DOI: https://doi.org/10.1016/s0166-2236(02)02143-4
 - Key finding: Exercise upregulates BDNF and other growth factors that support neuroplasticity and cognitive function
 - Study type: Comprehensive review
 - Evidence quality: High (seminal review establishing key mechanisms)
 
-**Voss, M.W., et al. (2013).** The influence of aerobic fitness on cerebral white matter integrity and cognitive function in older adults. *Human Brain Mapping*, 34(11), 2972-2985. DOI: https://doi.org/10.1002/hbm.22119
-- Key finding: Higher aerobic fitness associated with better white matter integrity and executive function performance
-- Study type: Cross-sectional observational study
-- Evidence quality: Medium (cross-sectional design limits causal inference)
+**Hillman, C.H., et al. (2008).** Be smart, exercise your heart: exercise effects on brain and cognition. *Nature Reviews Neuroscience*, 9(1), 58-65. DOI: https://doi.org/10.1038/nrn2298
+- Key finding: Exercise enhances cognitive function across the lifespan through improved brain structure and function
+- Study type: Comprehensive review
+- Evidence quality: High (authoritative review of exercise-cognition mechanisms)
+
+**Mandolesi, L., et al. (2018).** Effects of Physical Exercise on Cognitive Functioning and Wellbeing: Biological and Psychological Benefits. *Frontiers in Psychology*, 9, 509. DOI: https://doi.org/10.3389/fpsyg.2018.00509
+- Key finding: Physical exercise induces structural and functional brain changes that improve cognitive performance and psychological wellbeing
+- Study type: Systematic review
+- Evidence quality: High (comprehensive systematic review of neuroplasticity mechanisms)
 
 ## Practical Applications
 
@@ -94,6 +94,5 @@ Activities requiring coordination, balance, and skill learning (such as dance or
 Exercise-induced neuroplasticity directly informs [[A66. Metabolic Flexibility Training]] and [[A67. Hormetic Stress Principles]]. It's crucial for understanding the cognitive benefits of [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools for monitoring neuroplastic changes are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2025-01-14: Completely restructured content to focus on scientific mechanisms and evidence-based applications, removed unsupported performance claims, added verified research citations with working DOI links
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1073/pnas.1015950108; Invalid or broken DOI: 10.1002/hbm.22119 -->
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-14: Completely restructured content to focus on scientific mechanisms and evidence-based applications, removed unsupported performance claims, replaced broken citation links with verified working DOI links

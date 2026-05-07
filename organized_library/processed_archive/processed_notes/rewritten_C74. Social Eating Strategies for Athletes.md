@@ -43,11 +43,6 @@ The emphasis is on consistency over perfection, viewing social eating as a norma
 
 ## Research Evidence
 
-**Linardon et al. (2018).** The efficacy of app-supported smartphone interventions for weight loss: a systematic review and meta-analysis. *Obesity Reviews*, 19(1), 46-64. DOI: https://doi.org/10.1111/obr.12634
-- Key finding: Flexible dietary approaches showed better long-term adherence compared to rigid restriction methods
-- Study type: Systematic review and meta-analysis
-- Evidence quality: High (comprehensive review of multiple RCTs)
-
 **Smith et al. (2010).** Flexible vs. rigid dieting strategies: relationship with adverse behavioral outcomes. *Appetite*, 54(1), 116-118. DOI: https://doi.org/10.1016/j.appet.2009.09.016
 - Key finding: Rigid dietary restraint was associated with higher BMI, more frequent binge eating, and greater eating disorder symptoms
 - Study type: Cross-sectional observational study
@@ -57,6 +52,11 @@ The emphasis is on consistency over perfection, viewing social eating as a norma
 - Key finding: Flexible dietary restraint was associated with lower BMI and fewer eating disorder symptoms compared to rigid restraint
 - Study type: Cross-sectional observational study
 - Evidence quality: Medium (established measures but cross-sectional design)
+
+**Westenhoefer et al. (1999).** Validation of the flexible and rigid control dimensions of dietary restraint. *International Journal of Eating Disorders*, 26(1), 53-64. DOI: https://doi.org/10.1002/(SICI)1098-108X(199907)26:1<53::AID-EAT7>3.0.CO;2-N
+- Key finding: Flexible control was associated with lower body weight and less frequent disinhibited eating episodes
+- Study type: Cross-sectional validation study
+- Evidence quality: Medium (psychometric validation with behavioral outcomes)
 
 ## Practical Applications
 
@@ -102,4 +102,4 @@ Athletes should understand their [[C1. Caloric Targets for Different Goals]] and
 ## Update Log
 - 2025-01-27: Enhanced structure, added research evidence with working DOI links, expanded practical applications, and improved integration with related concepts while preserving all original links
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1111/obr.12634 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1002/(SICI)1098-108X(199907)26:1 -->

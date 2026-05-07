@@ -10,13 +10,13 @@ import re
 import json
 import time
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Set, Tuple
 from dataclasses import dataclass
 import anthropic
 from datetime import datetime
 import argparse
 import logging
-import httpx
+import requests
 
 # Configure logging
 logging.basicConfig(
@@ -41,6 +41,18 @@ class NoteMetadata:
     has_links: bool
     links: List[str]
 
+
+@dataclass
+class StudyEvidence:
+    """Structured evidence item used for note refresh."""
+    title: str
+    year: str
+    doi: Optional[str]
+    pmid: Optional[str]
+    journal: str
+    study_type: str
+    summary: str
+
 class FitnessLibraryProcessor:
     """Main class for processing fitness library notes"""
     
@@ -51,6 +63,10 @@ class FitnessLibraryProcessor:
         self.processed_count = 0
         self.failed_count = 0
         self.skipped_count = 0
+        self.current_year = datetime.now().year
+        tools_root = Path(__file__).resolve().parents[1]
+        self.evidence_cache_dir = tools_root / ".cache"
+        self.evidence_cache_dir.mkdir(parents=True, exist_ok=True)
         
         # Load the SOP template
         self.rewrite_template = self._load_rewrite_template()
@@ -263,7 +279,6 @@ Here's the note to rewrite:
     def _validate_doi(self, doi: str) -> bool:
         """Validate a DOI by checking if it resolves to a valid URL"""
         try:
-            import requests
             url = f"https://doi.org/{doi}"
             response = requests.head(url, allow_redirects=True, timeout=10)
             return response.status_code == 200
@@ -273,19 +288,240 @@ Here's the note to rewrite:
     def _validate_pmid(self, pmid: str) -> bool:
         """Validate a PMID by checking if it resolves to a valid PubMed URL"""
         try:
-            import requests
             url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
             response = requests.head(url, allow_redirects=True, timeout=10)
             return response.status_code == 200
         except:
             return False
 
-    def rewrite_note_with_claude(self, content: str) -> Optional[str]:
+    def _extract_search_terms(self, metadata: NoteMetadata) -> List[str]:
+        """Build focused PubMed search terms from note metadata."""
+        clean_title = re.sub(r"^[A-Z]\d+\.\s*", "", metadata.title).strip()
+        base_terms = [clean_title, "exercise science", "training adaptation"]
+        if "nutrition" in clean_title.lower():
+            base_terms.append("sports nutrition")
+        if "recovery" in clean_title.lower():
+            base_terms.append("exercise recovery")
+        return base_terms[:3]
+
+    def _cache_path_for_note(self, metadata: NoteMetadata) -> Path:
+        safe_name = re.sub(r"[^a-zA-Z0-9._-]+", "_", Path(metadata.file_path).stem)
+        return self.evidence_cache_dir / f"{safe_name}.json"
+
+    def _load_cached_evidence(self, metadata: NoteMetadata, max_age_days: int = 7) -> Optional[List[StudyEvidence]]:
+        cache_path = self._cache_path_for_note(metadata)
+        if not cache_path.exists():
+            return None
+        age_seconds = time.time() - cache_path.stat().st_mtime
+        if age_seconds > max_age_days * 86400:
+            return None
+        try:
+            with open(cache_path, "r", encoding="utf-8") as f:
+                payload = json.load(f)
+            studies = [StudyEvidence(**item) for item in payload.get("studies", [])]
+            if studies:
+                logger.debug(f"Using cached evidence for {metadata.title}")
+                return studies
+        except Exception as exc:
+            logger.warning(f"Failed to parse evidence cache for {metadata.title}: {exc}")
+        return None
+
+    def _save_cached_evidence(self, metadata: NoteMetadata, studies: List[StudyEvidence]):
+        cache_path = self._cache_path_for_note(metadata)
+        payload = {
+            "note_title": metadata.title,
+            "cached_at": datetime.now().isoformat(),
+            "studies": [study.__dict__ for study in studies],
+        }
+        with open(cache_path, "w", encoding="utf-8") as f:
+            json.dump(payload, f, indent=2)
+
+    def _infer_study_type(self, publication_types: List[str]) -> str:
+        text = " ".join(publication_types).lower()
+        if "meta-analysis" in text:
+            return "Meta-analysis"
+        if "systematic review" in text or "review" in text:
+            return "Systematic review"
+        if "randomized controlled trial" in text:
+            return "RCT"
+        if "clinical trial" in text:
+            return "Clinical trial"
+        return "Observational"
+
+    def _study_priority(self, study: StudyEvidence) -> int:
+        """Rank studies so higher-quality designs are prioritized."""
+        study_type = (study.study_type or "").lower()
+        if "meta-analysis" in study_type:
+            return 5
+        if "systematic review" in study_type:
+            return 4
+        if "rct" in study_type or "randomized" in study_type:
+            return 3
+        if "clinical trial" in study_type:
+            return 2
+        return 1
+
+    def _rank_studies(self, studies: List[StudyEvidence], top_n: int = 5) -> List[StudyEvidence]:
+        """Sort by evidence quality then recency and keep the best subset."""
+        ranked = sorted(
+            studies,
+            key=lambda s: (self._study_priority(s), int(s.year) if str(s.year).isdigit() else 0),
+            reverse=True,
+        )
+        return ranked[:top_n]
+
+    def _extract_pub_date_year(self, pub_date) -> str:
+        if isinstance(pub_date, dict) and pub_date.get("Year"):
+            return str(pub_date.get("Year"))
+        if isinstance(pub_date, str):
+            match = re.search(r"\b(19|20)\d{2}\b", pub_date)
+            if match:
+                return match.group(0)
+        return "Unknown"
+
+    def discover_recent_evidence(self, metadata: NoteMetadata, max_results: int = 6, cache_max_age_days: int = 7) -> List[StudyEvidence]:
+        """Discover recent studies from PubMed and cache them."""
+        cached = self._load_cached_evidence(metadata, max_age_days=cache_max_age_days)
+        if cached is not None:
+            return cached
+
+        search_terms = self._extract_search_terms(metadata)
+        query = "(" + " OR ".join(search_terms) + f") AND {self.current_year - 2}:{self.current_year}[pdat]"
+
+        try:
+            search_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
+            search_params = {
+                "db": "pubmed",
+                "term": query,
+                "retmode": "json",
+                "retmax": str(max_results),
+                "sort": "pub date",
+            }
+            search_res = requests.get(search_url, params=search_params, timeout=15)
+            search_res.raise_for_status()
+            id_list = search_res.json().get("esearchresult", {}).get("idlist", [])
+            if not id_list:
+                return []
+
+            summary_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
+            summary_params = {
+                "db": "pubmed",
+                "id": ",".join(id_list),
+                "retmode": "json",
+            }
+            summary_res = requests.get(summary_url, params=summary_params, timeout=15)
+            summary_res.raise_for_status()
+            result = summary_res.json().get("result", {})
+            studies: List[StudyEvidence] = []
+
+            for pmid in id_list:
+                item = result.get(pmid, {})
+                article_ids = item.get("articleids", [])
+                doi = None
+                for article_id in article_ids:
+                    if article_id.get("idtype") == "doi":
+                        doi = article_id.get("value")
+                        break
+                study = StudyEvidence(
+                    title=item.get("title", "Untitled"),
+                    year=self._extract_pub_date_year(item.get("pubdate", {})),
+                    doi=doi,
+                    pmid=pmid,
+                    journal=item.get("fulljournalname") or item.get("source", "Unknown Journal"),
+                    study_type=self._infer_study_type(item.get("pubtype", [])),
+                    summary="Recent study surfaced for evidence refresh.",
+                )
+                studies.append(study)
+
+            ranked = self._rank_studies(studies, top_n=5)
+            self._save_cached_evidence(metadata, ranked)
+            return ranked
+        except Exception as exc:
+            logger.warning(f"Evidence discovery failed for {metadata.title}: {exc}")
+            return []
+
+    def _build_evidence_brief(self, studies: List[StudyEvidence]) -> str:
+        """Create structured evidence context for Claude."""
+        if not studies:
+            return "No recent studies were found from PubMed in this run."
+        lines = ["Recent evidence packet (prioritize these where relevant):"]
+        for idx, study in enumerate(studies, start=1):
+            ref_link = f"DOI: https://doi.org/{study.doi}" if study.doi else f"PMID: https://pubmed.ncbi.nlm.nih.gov/{study.pmid}"
+            lines.append(
+                f"{idx}. {study.title} ({study.year}) | {study.journal} | {study.study_type} | {ref_link}"
+            )
+        return "\n".join(lines)
+
+    def _extract_citation_tokens(self, content: str) -> Set[str]:
+        doi_matches = re.findall(r"https://doi\.org/(10\.\d{4,9}/[-._;()/:A-Z0-9]+)", content, re.IGNORECASE)
+        pmid_matches = re.findall(r"https://pubmed\.ncbi\.nlm\.nih\.gov/(\d+)", content, re.IGNORECASE)
+        tokens = {f"doi:{match.lower()}" for match in doi_matches}
+        tokens.update({f"pmid:{match}" for match in pmid_matches})
+        return tokens
+
+    def _extract_recommendation_signals(self, content: str) -> Set[str]:
+        """Extract recommendation-like statements to compare guidance changes."""
+        lines = [line.strip() for line in content.splitlines() if line.strip()]
+        signals: Set[str] = set()
+        trigger_words = ("should", "recommend", "protocol", "dosage", "intensity", "frequency", "duration")
+        for line in lines:
+            lower = line.lower()
+            if line.startswith("-") or any(word in lower for word in trigger_words):
+                normalized = re.sub(r"\s+", " ", re.sub(r"[^a-zA-Z0-9\s%-]", "", lower)).strip()
+                if len(normalized) > 20:
+                    signals.add(normalized[:200])
+        return signals
+
+    def _describe_major_changes(self, original: str, rewritten: str, studies: List[StudyEvidence]) -> Dict[str, object]:
+        """Compare original vs rewritten and summarize substantive changes."""
+        original_citations = self._extract_citation_tokens(original)
+        rewritten_citations = self._extract_citation_tokens(rewritten)
+        citations_added = sorted(rewritten_citations - original_citations)
+
+        original_recs = self._extract_recommendation_signals(original)
+        rewritten_recs = self._extract_recommendation_signals(rewritten)
+        recommendation_changes = len(original_recs.symmetric_difference(rewritten_recs))
+
+        major_parts: List[str] = []
+        if citations_added:
+            major_parts.append(f"Added {len(citations_added)} new citation links")
+        if recommendation_changes > 0:
+            major_parts.append(f"Recommendation signals changed: {recommendation_changes}")
+        if studies and not major_parts:
+            major_parts.append("Evidence packet reviewed; only minor phrasing updates")
+        if not major_parts:
+            major_parts.append("No substantive evidence-driven change detected")
+
+        return {
+            "citation_delta": len(citations_added),
+            "recommendation_delta": recommendation_changes,
+            "major_changes_made": "; ".join(major_parts),
+            "new_citation_tokens": citations_added[:5],
+        }
+
+    def _is_stale_for_refresh(self, file_path: Path, output_dir: Path, stale_days: int) -> bool:
+        """Treat note as stale if rewritten output missing or older than threshold."""
+        rewritten_file = output_dir / f"rewritten_{file_path.name}"
+        if not rewritten_file.exists():
+            return True
+        age_days = (time.time() - rewritten_file.stat().st_mtime) / 86400
+        return age_days >= stale_days
+
+    def rewrite_note_with_claude(self, content: str, evidence_brief: str) -> Optional[str]:
         """Use Claude to rewrite a note while preserving structure"""
         try:
             # Define the messages for the API call
             messages = [
-                {"role": "user", "content": self.rewrite_template + content}
+                {
+                    "role": "user",
+                    "content": (
+                        self.rewrite_template
+                        + content
+                        + "\n\nIMPORTANT EVIDENCE REFRESH INSTRUCTION:\n"
+                        + evidence_brief
+                        + "\n\nIf the evidence changes recommendations, update the note accordingly."
+                    ),
+                }
             ]
 
             # Call Claude API with the Messages API format
@@ -338,7 +574,18 @@ Here's the note to rewrite:
         
         return len(issues) == 0, issues
 
-    def process_section(self, input_dir: Path, output_dir: Path, section: str, start_num: int = 1, end_num: int = 100) -> Dict:
+    def process_section(
+        self,
+        input_dir: Path,
+        output_dir: Path,
+        section: str,
+        start_num: int = 1,
+        end_num: int = 100,
+        min_new_studies: int = 1,
+        evidence_cache_max_age_days: int = 7,
+        refresh_only_stale: bool = False,
+        stale_days: int = 30,
+    ) -> Dict:
         """Process all notes in a specific section (e.g., 'A', 'B', 'C')"""
         
         logger.info(f"Processing Section {section.upper()}")
@@ -394,17 +641,58 @@ Here's the note to rewrite:
                 continue
             
             try:
+                if refresh_only_stale and not self._is_stale_for_refresh(file_path, output_dir, stale_days):
+                    results["skipped"] += 1
+                    results["details"].append(
+                        {
+                            "file": file_path.name,
+                            "status": "skipped",
+                            "reason": f"Recently refreshed (<{stale_days} days)",
+                            "unchanged_reason": "Skipped by stale-note policy",
+                        }
+                    )
+                    continue
+
                 # Read original content
                 with open(file_path, 'r', encoding='utf-8') as f:
                     original_content = f.read()
-                
+
+                studies = self.discover_recent_evidence(
+                    metadata,
+                    cache_max_age_days=evidence_cache_max_age_days,
+                )
+                evidence_brief = self._build_evidence_brief(studies)
+
+                if len(studies) < min_new_studies:
+                    logger.info(f"  Skipping rewrite for {file_path.name}: insufficient new evidence")
+                    results["skipped"] += 1
+                    results["details"].append(
+                        {
+                            "file": file_path.name,
+                            "status": "skipped",
+                            "reason": f"Only {len(studies)} studies found (minimum={min_new_studies})",
+                            "new_studies_found": len(studies),
+                            "studies_used_in_revision": 0,
+                            "unchanged_reason": "No meaningful new evidence available",
+                        }
+                    )
+                    continue
+
                 # Rewrite with Claude
-                rewritten_content = self.rewrite_note_with_claude(original_content)
+                rewritten_content = self.rewrite_note_with_claude(original_content, evidence_brief)
                 
                 if not rewritten_content:
                     logger.error(f"  Failed to rewrite {file_path.name}")
                     results["failed"] += 1
-                    results["details"].append({"file": file_path.name, "status": "failed", "reason": "Claude API error"})
+                    results["details"].append(
+                        {
+                            "file": file_path.name,
+                            "status": "failed",
+                            "reason": "Claude API error",
+                            "new_studies_found": len(studies),
+                            "studies_used_in_revision": 0,
+                        }
+                    )
                     continue
                 
                 # Validate the rewrite
@@ -438,10 +726,23 @@ Here's the note to rewrite:
                 output_file = output_dir / f"rewritten_{file_path.name}"
                 with open(output_file, 'w', encoding='utf-8') as f:
                     f.write(rewritten_content)
+
+                change_summary = self._describe_major_changes(original_content, rewritten_content, studies)
                 
                 logger.info(f"  ✅ Successfully processed {file_path.name}")
                 results["processed"] += 1
-                results["details"].append({"file": file_path.name, "status": "success", "output": str(output_file)})
+                results["details"].append(
+                    {
+                        "file": file_path.name,
+                        "status": "success",
+                        "output": str(output_file),
+                        "new_studies_found": len(studies),
+                        "studies_used_in_revision": min(len(studies), 5),
+                        "major_changes_made": change_summary["major_changes_made"],
+                        "citation_delta": change_summary["citation_delta"],
+                        "recommendation_delta": change_summary["recommendation_delta"],
+                    }
+                )
                 
                 # Rate limiting
                 time.sleep(self.rate_limit_delay)
@@ -478,6 +779,18 @@ Generated: {timestamp}
             report += f"- {status_emoji} **{detail['file']}**: {detail['status']}"
             if 'reason' in detail:
                 report += f" - {detail['reason']}"
+            if "new_studies_found" in detail:
+                report += f" | new_studies_found={detail['new_studies_found']}"
+            if "studies_used_in_revision" in detail:
+                report += f" | studies_used_in_revision={detail['studies_used_in_revision']}"
+            if "major_changes_made" in detail:
+                report += f" | major_changes_made={detail['major_changes_made']}"
+            if "unchanged_reason" in detail:
+                report += f" | unchanged_reason={detail['unchanged_reason']}"
+            if "citation_delta" in detail:
+                report += f" | citation_delta={detail['citation_delta']}"
+            if "recommendation_delta" in detail:
+                report += f" | recommendation_delta={detail['recommendation_delta']}"
             report += "\n"
         
         # Save report
@@ -499,6 +812,10 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="Analyze notes without processing")
     parser.add_argument("--start-num", type=int, help="Starting number for file processing range (e.g., 30 for A30)")
     parser.add_argument("--end-num", type=int, help="Ending number for file processing range (e.g., 65 for A65)")
+    parser.add_argument("--min-new-studies", type=int, default=1, help="Minimum number of recent studies needed before rewrite")
+    parser.add_argument("--evidence-cache-max-age-days", type=int, default=7, help="Max cache age before PubMed refresh")
+    parser.add_argument("--refresh-only-stale", action="store_true", help="Only refresh notes whose rewritten outputs are older than --stale-days")
+    parser.add_argument("--stale-days", type=int, default=30, help="Staleness threshold for rewritten notes")
     
     args = parser.parse_args()
     
@@ -516,7 +833,7 @@ def main():
         logger.error(f"Input directory {input_dir} does not exist")
         return
     
-    output_dir.mkdir(exist_ok=True)
+    output_dir.mkdir(parents=True, exist_ok=True)
     
     # Initialize processor
     processor = FitnessLibraryProcessor(api_key, args.rate_limit)
@@ -527,7 +844,17 @@ def main():
         return
     
     # Process the section
-    results = processor.process_section(input_dir, output_dir, args.section, args.start_num, args.end_num)
+    results = processor.process_section(
+        input_dir,
+        output_dir,
+        args.section,
+        args.start_num,
+        args.end_num,
+        args.min_new_studies,
+        args.evidence_cache_max_age_days,
+        args.refresh_only_stale,
+        args.stale_days,
+    )
     
     # Generate report
     processor.generate_processing_report(results, args.section, output_dir)

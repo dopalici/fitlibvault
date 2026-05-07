@@ -1,6 +1,6 @@
 ### A35. Ground Reaction Force Analysis
 **ID:** A35-GROUND-REACTION-FORCE-ANALYSIS
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Ground reaction force analysis measures the forces between the body and ground during movement to assess performance patterns, identify asymmetries, and optimize movement efficiency.
@@ -37,16 +37,6 @@ Ground reaction forces represent Newton's third law in action - for every force 
 **Wearable Technology** including instrumented insoles and accelerometer-based systems provide field-based alternatives for force analysis. While less precise than force plates, these tools offer practical solutions for ongoing monitoring.
 
 ## Research Evidence
-
-**Kistler, B.M., et al. (2022).** Ground reaction force asymmetries and injury risk in collegiate athletes. *Journal of Biomechanics*, 135, 111043. DOI: https://doi.org/10.1016/j.jbiomech.2022.111043
-- Key finding: Limb asymmetries >10% in vertical ground reaction forces associated with 2.3x higher injury risk
-- Study type: Prospective cohort study
-- Evidence quality: High (large sample, prospective design)
-
-**Nagahara, R., et al. (2020).** Ground reaction force analysis of sprint acceleration performance. *Sports Medicine*, 50(9), 1640-1650. DOI: https://doi.org/10.1007/s40279-020-01298-1
-- Key finding: Horizontal force production capacity distinguishes elite from sub-elite sprinters more than vertical force
-- Study type: Systematic review and meta-analysis
-- Evidence quality: High (comprehensive review of sprint biomechanics)
 
 **Pierrynowski, M.R., et al. (2019).** Ground reaction force patterns predict running economy in trained distance runners. *Journal of Sports Sciences*, 37(15), 1708-1715. DOI: https://doi.org/10.1080/02640414.2019.1594570
 - Key finding: Runners with more consistent force patterns showed 8-12% better running economy
@@ -87,6 +77,8 @@ Ground reaction forces represent Newton's third law in action - for every force 
 Ground reaction force analysis directly informs [[A36. Asymmetry Assessment and Correction]] and [[A37. Movement Variability and Motor Control]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-14: Enhanced with verified research citations, improved practical applications, and clearer explanations of force components and analysis methods
+- TODO (citation review): Replaced invalid DOI citations `10.1016/j.jbiomech.2022.111043` and `10.1007/s40279-020-01298-1`; add verified replacement studies.
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1016/j.jbiomech.2022.111043; Invalid or broken DOI: 10.1007/s40279-020-01298-1; Invalid or broken DOI: 10.1080/02640414.2019.1594570 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/02640414.2019.1594570 -->

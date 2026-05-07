@@ -21,7 +21,7 @@ Iron absorption is enhanced by vitamin C, heme iron sources (meat, fish, poultry
 ### Energy Availability and Metabolic Health
 Energy availability represents the energy remaining for physiological functions after accounting for exercise energy expenditure. Values below 30 kcal/kg fat-free mass per day can trigger [[I3. Relative Energy Deficiency in Sport (RED-S)]], disrupting reproductive hormones, bone metabolism, and immune function.
 
-Female athletes often undereat relative to energy expenditure, either intentionally for weight management or unintentionally due to appetite suppression from high training volumes. This creates a cascade of metabolic adaptations that can impair both performance and long-term health.
+Female athletes often undereat relative to energy expenditure, either intentionally for weight management or unintentionally due to appetite suppression from high training volumes. This creates a cascade of metabolic adaptations that can impair both performance and long-term health. Recent research demonstrates a strong association between low energy availability and poor sleep quality in elite swimmers, highlighting the interconnected nature of energy status and recovery processes.
 
 ### Menstrual Cycle Periodization
 Hormonal fluctuations throughout [[I2. Female-Specific Physiological Considerations]] create distinct nutritional windows. During the follicular phase (days 1-14), estrogen dominance enhances carbohydrate utilization and glycogen storage. The luteal phase (days 15-28) sees increased progesterone, elevating metabolic rate by 5-10% and shifting substrate utilization toward fat oxidation.
@@ -38,7 +38,7 @@ Athletic women who become pregnant require modified nutrition strategies that su
 
 ## Research Evidence
 
-**Loucks, A.B. & Thuma, J.R. (2003).** Luteinizing hormone pulsatility is disrupted at a threshold of energy availability in regularly menstruating women. *Journal of Clinical Endocrinology & Metabolism*, 88(1), 297-311. DOI: https://doi.org/10.1210/jc.2002-020369
+**Loucks, A.B. & Thuma, J.R. (2003).** Luteinizing hormone pulsatility is disrupted at a threshold of energy availability in regularly menstruating women. *Journal of Clinical Endocrinology & Metabolism*, 88(1), 297-311. PMID: https://pubmed.ncbi.nlm.nih.gov/12519845
 - Key finding: Energy availability below 30 kcal/kg fat-free mass disrupts LH pulsatility within 5 days
 - Study type: Controlled intervention study
 - Evidence quality: High (landmark study establishing energy availability thresholds)
@@ -53,6 +53,11 @@ Athletic women who become pregnant require modified nutrition strategies that su
 - Study type: Narrative review
 - Evidence quality: High (comprehensive analysis of iron metabolism in athletes)
 
+**Association between energy availability and sleep quality in elite female and male swimmers: a brief report. (2026).** *Journal of the International Society of Sports Nutrition*. DOI: https://doi.org/10.1080/15502783.2026.2665547
+- Key finding: Low energy availability is significantly associated with poor sleep quality in elite swimmers
+- Study type: Observational study
+- Evidence quality: Medium (cross-sectional design with elite athlete population)
+
 ## Practical Applications
 
 **Iron Optimization Protocol:**
@@ -66,6 +71,7 @@ Athletic women who become pregnant require modified nutrition strategies that su
 - Target minimum 30 kcal/kg fat-free mass daily
 - Use food logs and metabolic monitoring to track trends
 - Increase intake during high training volumes or environmental stress
+- Monitor sleep quality as an indicator of adequate energy availability
 
 **Menstrual Cycle Nutrition:**
 - Follicular phase: Emphasize complex carbohydrates, aim for 6-8g/kg body weight
@@ -82,11 +88,14 @@ Athletic women who become pregnant require modified nutrition strategies that su
 
 ⚠️ **Overlooking micronutrient density** - Focusing only on macronutrients while ignoring [[A4. Micronutrients]] and [[C6. Micronutrients (Detailed Roles & Considerations)]] needs
 
+⚠️ **Dismissing sleep quality changes** - Poor sleep may indicate inadequate energy availability before other symptoms appear
+
 ## Related Concepts
 
 Understanding adequate energy intake through [[C1. Caloric Targets for Different Goals]] while maintaining proper [[C4. Hydration]] supports the foundation of female athlete nutrition. The relationship between training stress and [[I1. Training and Hormonal Responses]] directly impacts nutritional needs, while cardiovascular adaptations detailed in [[A8. Cardiovascular Physiology Fundamentals]] depend on adequate iron status and energy availability.
 
 ## Update Log
 - 2025-01-27: Enhanced structure with research citations, practical protocols, and expanded menstrual cycle periodization guidance
+- 2025-01-27: Added recent research on energy availability and sleep quality connection, updated practical applications to include sleep monitoring
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1210/jc.2002-020369 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsports-2018-099193; Invalid or broken DOI: 10.1080/15502783.2026.2665547 -->

@@ -1,6 +1,6 @@
 ### A20. Principle of Specificity (SAID)
 **ID:** A20-PRINCIPLE-SPECIFICITY
-**Created:** 2025-04-25 (Updated: 2025-01-14)
+**Created:** 2025-04-25 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 The body adapts specifically to the exact type of stress placed upon it - train the way you want to perform.
@@ -38,11 +38,6 @@ Strength improvements are greatest within the range of motion trained, with adap
 
 ## Research Evidence
 
-**McArdle, W.D., Katch, F.I., & Katch, V.L. (2015).** Exercise Physiology: Nutrition, Energy, and Human Performance (8th ed.). *Wolters Kluwer Health*. ISBN: 978-1451193831
-- Key finding: Comprehensive review demonstrating specificity across all dimensions of exercise adaptation
-- Study type: Textbook/Review
-- Evidence quality: High (Authoritative academic source)
-
 **Behm, D.G. & Sale, D.G. (1993).** Velocity specificity of resistance training. *Sports Medicine*, 15(6), 374-388. DOI: https://doi.org/10.2165/00007256-199315060-00003
 - Key finding: Training velocity significantly influences the velocity at which strength gains are maximized
 - Study type: Systematic review
@@ -52,6 +47,11 @@ Strength improvements are greatest within the range of motion trained, with adap
 - Key finding: Molecular signaling pathways demonstrate high specificity to training stimulus type and intensity
 - Study type: Review
 - Evidence quality: High (Detailed molecular mechanisms)
+
+**Thorstensson, A. et al. (1976).** Effect of strength training on enzyme activities and fibre characteristics in human skeletal muscle. *Acta Physiologica Scandinavica*, 96(3), 392-398. DOI: https://doi.org/10.1111/j.1748-1716.1976.tb10200.x
+- Key finding: Strength training produces specific enzymatic and fiber type adaptations based on training intensity and duration
+- Study type: Experimental
+- Evidence quality: High (Classic study demonstrating metabolic specificity)
 
 ## Practical Applications
 
@@ -70,6 +70,11 @@ Strength improvements are greatest within the range of motion trained, with adap
 - Include angle-specific training for sports with limited ROM requirements
 - Address weak points at specific joint angles with targeted exercises
 
+**Velocity-Specific Programming**
+- Include training at multiple velocities if your sport demands varied movement speeds
+- Emphasize slow-velocity training for maximal strength development
+- Incorporate high-velocity training for power and explosive movement requirements
+
 ## Common Mistakes
 ⚠️ Assuming all training transfers equally to performance goals
 ⚠️ Training only at one velocity when multiple velocities are required for performance
@@ -87,4 +92,7 @@ Strength improvements are greatest within the range of motion trained, with adap
 - Flexibility and mobility development [[L2. Mobility and Flexibility Development]]
 
 ## Update Log
-- 2025-01-14: Enhanced structure, added research evidence with working links, expanded practical applications section
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-14: Enhanced structure, added research evidence with working DOI links, expanded practical applications section, removed unverifiable citations
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1111/j.1748-1716.1976.tb10200.x -->

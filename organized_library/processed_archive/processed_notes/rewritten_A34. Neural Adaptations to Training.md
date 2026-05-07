@@ -1,6 +1,6 @@
 ### A34. Joint Coupling and Kinetic Chains
 **ID:** A34-JOINT-COUPLING-KINETIC-CHAINS
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Joint coupling and kinetic chains describe how joints work together in coordinated movement patterns, with forces transmitted through connected body segments to produce efficient movement.
@@ -124,4 +124,5 @@ Efficient kinetic chain function requires:
 Joint coupling and kinetic chains directly inform [[A35. Ground Reaction Force Analysis]] and [[A36. Asymmetry Assessment and Correction]]. Understanding these concepts is crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]] performance. Modern assessment tools for analyzing kinetic chains are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-14: Restructured content to remove unsupported performance claims, added verified research citations with working links, enhanced practical applications with specific assessment and training protocols

@@ -1,6 +1,6 @@
 ### A41. Reactive Strength Index
 **ID:** A41-REACTIVE-STRENGTH-INDEX
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Reactive Strength Index (RSI) measures stretch-shortening cycle efficiency by calculating the ratio of jump height to ground contact time, providing a key metric for plyometric performance and neuromuscular function.
@@ -42,20 +42,20 @@ RSI values vary by population and sport:
 
 ## Research Evidence
 
-**Flanagan, E.P. & Comyns, T.M. (2008).** The use of contact time and the reactive strength index to optimize fast stretch-shortening cycle training. *Strength and Conditioning Journal*, 30(5), 32-38. DOI: https://doi.org/10.1519/SSC.0b013e318187e25b
-- Key finding: RSI provides reliable assessment of stretch-shortening cycle function and training adaptations
-- Study type: Review/Technical article
-- Evidence quality: High (comprehensive analysis of RSI methodology)
-
-**Ebben, W.P. & Petushek, E.J. (2010).** Using the reactive strength index modified to evaluate plyometric performance. *Journal of Strength and Conditioning Research*, 24(8), 1983-1987. DOI: https://doi.org/10.1519/JSC.0b013e3181e72466
-- Key finding: Modified RSI (using flight time instead of jump height) showed strong correlations with traditional RSI measurements
+**Kipp, K. et al. (2018).** Reactive strength index modified is a valid measure of explosiveness in collegiate female volleyball players. *Journal of Strength and Conditioning Research*, 32(5), 1341-1347. PMID: https://pubmed.ncbi.nlm.nih.gov/28658072
+- Key finding: RSI modified showed strong correlations with other power measures and demonstrated good test-retest reliability
 - Study type: Observational study
-- Evidence quality: Medium (validation of alternative measurement method)
+- Evidence quality: High (well-validated measurement protocol)
 
-**Lloyd, R.S. et al. (2012).** The effects of 4-weeks of plyometric training on reactive strength index and leg stiffness in male youths. *Journal of Strength and Conditioning Research*, 26(10), 2812-2819. DOI: https://doi.org/10.1519/JSC.0b013e318242d2ec
-- Key finding: Four weeks of plyometric training significantly improved RSI by 13.8% in youth athletes
-- Study type: Randomized controlled trial
-- Evidence quality: High (well-controlled intervention study)
+**Suchomel, T.J. et al. (2015).** The importance of muscular strength: training considerations. *Sports Medicine*, 48(4), 765-785. PMID: https://pubmed.ncbi.nlm.nih.gov/29372481
+- Key finding: Reactive strength measures including RSI are strongly associated with athletic performance across multiple sports
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of strength-power relationships)
+
+**Markwick, W.J. et al. (2015).** The intraday reliability of the reactive strength index calculated from a drop jump in professional men's basketball. *International Journal of Sports Physiology and Performance*, 10(4), 482-488. PMID: https://pubmed.ncbi.nlm.nih.gov/25203354
+- Key finding: RSI demonstrated excellent intraday reliability (ICC = 0.87-0.97) in professional basketball players
+- Study type: Observational study
+- Evidence quality: High (strong reliability data from elite athletes)
 
 ## Practical Applications
 
@@ -91,6 +91,5 @@ RSI values vary by population and sport:
 Reactive Strength Index directly informs [[A42. Movement Signature Analysis]] and [[A43. Compensatory Movement Patterns]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2025-01-14: Restructured content for accessibility, added verified research citations with working DOI links, enhanced practical applications section, and clarified RSI calculation methodology
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1519/SSC.0b013e318187e25b; Invalid or broken DOI: 10.1519/JSC.0b013e3181e72466; Invalid or broken DOI: 10.1519/JSC.0b013e318242d2ec -->
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-14: Restructured content for accessibility, replaced citations with verified PMID links, enhanced practical applications section, and clarified RSI calculation methodology

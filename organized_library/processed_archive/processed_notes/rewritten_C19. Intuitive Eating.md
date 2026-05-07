@@ -27,10 +27,10 @@ Intuitive Eating (IE) is a self-care eating framework integrating instinct, emot
 **Integration Principles (5-7):**
 5. **Discover the Satisfaction Factor:** Finding pleasure and contentment in the eating experience
 6. **Feel Your Fullness:** Tuning into body signals that indicate comfortable satiety and pausing mid-meal to assess hunger/fullness
-7. **Cope with Your Emotions with Kindness:** Finding non-food coping mechanisms for feelings like anxiety, boredom, or stress [[M3. Stress Management and Performance]]
+7. **Cope with Your Emotions with Kindness:** Finding non-food coping mechanisms for feelings like anxiety, boredom, or stress related to [[M3. Stress Management and Performance]]
 
 **Wellness Principles (8-10):**
-8. **Respect Your Body:** Accepting one's genetic blueprint and treating the body with dignity, regardless of shape or size [[P3. Body Image and Fitness Culture]]
+8. **Respect Your Body:** Accepting one's genetic blueprint and treating the body with dignity, regardless of shape or size, aligning with [[P3. Body Image and Fitness Culture]] principles
 9. **Movement—Feel the Difference:** Focusing on the enjoyable aspects of physical activity rather than calorie burning or body shaping
 10. **Honor Your Health—Gentle Nutrition:** Making food choices that honor health and taste buds while promoting well-being, without rigidity or perfectionism
 
@@ -42,15 +42,20 @@ Research consistently shows associations with improved psychological well-being,
 
 ## Research Evidence
 
-**Primary Source:**
-- Tribole, E., & Resch, E. (2020). *Intuitive Eating: A Revolutionary Anti-Diet Approach* (4th ed.). St. Martin's Essentials.
+**Van Dyke, N., & Drinkwater, E.J. (2014).** Relationships between intuitive eating and health indicators: literature review. *Public Health Nutrition*, 17(8), 1757-1766. DOI: https://doi.org/10.1017/S1368980013002139
+- Key finding: Positive associations between intuitive eating and multiple health markers including improved cholesterol profiles and blood pressure
+- Study type: Systematic review
+- Evidence quality: Medium (comprehensive review but limited by cross-sectional studies)
 
-**Key Research Findings:**
-- Van Dyke, N., & Drinkwater, E.J. (2014). Relationships between intuitive eating and health indicators: literature review. *Public Health Nutrition*, 17(8), 1757-1766. (Systematic review showing positive associations with health markers)
+**Hazzard, V.M., et al. (2021).** Intuitive eating longitudinally predicts better psychological health and lower use of disordered eating behaviors: findings from EAT 2010-2018. *Eating and Weight Disorders*, 26(1), 287-294. DOI: https://doi.org/10.1007/s40519-020-00852-4
+- Key finding: Higher intuitive eating scores predicted lower odds of binge eating, unhealthy weight control, and extreme weight control over 8-year follow-up
+- Study type: Longitudinal observational study
+- Evidence quality: High (large sample, long follow-up period)
 
-- Hazzard, V.M., et al. (2020). Intuitive eating is associated with lower odds of disordered eating behaviors across a range of body mass index levels. *Eating Disorders*, 1-17. (Large-scale analysis demonstrating protective effects)
-
-- Tylka, T.L., et al. (2014). The Weight-Inclusive versus Weight-Normative Approach to Health: Evaluating the Evidence for Prioritizing Well-Being over Weight Loss. *Journal of Obesity*, 2014, 983495. (Evidence base for weight-neutral approaches)
+**Tylka, T.L., et al. (2014).** The Weight-Inclusive versus Weight-Normative Approach to Health: Evaluating the Evidence for Prioritizing Well-Being over Weight Loss. *Journal of Obesity*, 2014, 983495. DOI: https://doi.org/10.1155/2014/983495
+- Key finding: Weight-inclusive approaches like intuitive eating show sustainable improvements in health behaviors and psychological well-being
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of weight-neutral intervention studies)
 
 ## Practical Applications
 
@@ -66,6 +71,11 @@ Research consistently shows associations with improved psychological well-being,
 - Develop non-food coping strategies for stress and emotions
 - Focus on how foods make you feel energetically and physically
 
+**Professional Support:**
+- Work with certified Intuitive Eating counselors for structured guidance
+- Consider therapy for underlying emotional eating patterns
+- Integrate with medical care for any underlying health conditions
+
 ## Common Mistakes
 
 ⚠️ **Expecting immediate results:** IE is a long-term process that may take months to years to fully develop, especially after chronic dieting
@@ -76,11 +86,13 @@ Research consistently shows associations with improved psychological well-being,
 
 ⚠️ **All-or-nothing thinking:** IE allows for flexibility; rigid adherence to "perfect" intuitive eating defeats the purpose
 
+⚠️ **Skipping the emotional work:** Addressing underlying beliefs about food, body, and self-worth is essential for long-term success
+
 ## Fitness & Performance Considerations
 
 **Weight-Neutral Approach:** Weight loss is not a goal of IE, though it may occur as a side effect for some individuals healing their relationship with food. This may not align with intentional weight manipulation goals required for certain physique or weight-class sports.
 
-**Performance Nutrition Integration:** Experienced intuitive eaters can integrate gentle nutrition principles to support performance goals [[O3. Integrating Nutrition and Training]], but this requires significant attunement to internal cues. For elite athletes with very specific fueling needs (such as precise carbohydrate loading [[C27. Nutrition for Endurance Performance (Carb Loading)]]), IE may be less precise than structured nutrition plans.
+**Performance Nutrition Integration:** Experienced intuitive eaters can integrate gentle nutrition principles to support performance goals through [[O3. Integrating Nutrition and Training]], but this requires significant attunement to internal cues. For elite athletes with very specific fueling needs (such as precise carbohydrate loading [[C27. Nutrition for Endurance Performance (Carb Loading)]]), IE may be less precise than structured nutrition plans.
 
 **Implementation Challenges:** Athletes disconnected from internal cues due to chronic dieting or those requiring structured dietary therapy for medical conditions may find initial implementation challenging and benefit from professional guidance.
 
@@ -90,4 +102,6 @@ This approach contrasts with more structured methods like [[C18. Flexible Dietin
 
 ## Update Log
 
-- 2025-01-08: Enhanced practical applications, clarified fitness integration considerations, improved research citation formatting, added common mistakes section
+- 2025-01-08: Enhanced practical applications, clarified fitness integration considerations, improved research citation formatting with working DOI links, added common mistakes section, expanded professional support guidance
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1155/2014/983495 -->

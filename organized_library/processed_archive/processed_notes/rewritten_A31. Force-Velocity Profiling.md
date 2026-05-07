@@ -1,6 +1,6 @@
 ### A31. Force-Velocity Profiling
 **ID:** A31-FORCE-VELOCITY-PROFILING
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Force-velocity profiling maps the inverse relationship between force and velocity in muscle contractions to identify individual strengths and weaknesses for targeted training optimization.
@@ -36,22 +36,26 @@ The force-velocity relationship describes the fundamental inverse correlation be
 
 Modern force-velocity profiling typically uses jump testing protocols, sprint assessments, or specialized equipment like force plates and linear position transducers. These assessments create individual profiles showing whether athletes are force-dominant, velocity-dominant, or balanced across the spectrum.
 
+### Individual Optimization Strategies
+
+Force-velocity profiling enables coaches to identify optimal training loads for each athlete. Athletes with force deficiencies benefit from heavy resistance training, while velocity-deficient athletes respond better to unloaded, high-speed movements. This individualized approach maximizes training efficiency by addressing specific weaknesses while maintaining existing strengths.
+
 ## Research Evidence
 
-**Samozino, P., Rejc, E., Di Prampero, P.E., Belli, A., & Morin, J.B. (2012).** Optimal force–velocity profile in ballistic movements—altius: citius or fortius? *Medicine & Science in Sports & Exercise*, 44(2), 313–322. DOI: https://doi.org/10.1249/MSS.0b013e31822d757a
-- Key finding: Optimal force-velocity profiles exist for maximizing ballistic performance, with deviations reducing power output
-- Study type: Theoretical and experimental analysis
-- Evidence quality: High (established foundational framework for profiling)
+**Jiménez-Reyes, P., Samozino, P., Brughelli, M., & Morin, J.B. (2017).** Effectiveness of an individualized training based on force-velocity profiling during jumping. *Frontiers in Physiology*, 7, 677. DOI: https://doi.org/10.3389/fphys.2016.00677
+- Key finding: Individualized training based on force-velocity profiles improved jump performance more than traditional training methods
+- Study type: Randomized controlled trial
+- Evidence quality: High (well-controlled intervention study)
 
 **Lindberg, K., Solberg, P., Bjørnsen, T., Helland, C., Rønnestad, B., Frank, M.T., Haugen, T., Østerås, S., Kristoffersen, M., Midttun, M., Sæland, F., & Paulsen, G. (2021).** Force-velocity profiling in athletes: Reliability and agreement across methods. *PLoS ONE*, 16(2), e0245791. DOI: https://doi.org/10.1371/journal.pone.0245791
 - Key finding: Force-velocity profiling shows good reliability when proper protocols are followed, though method selection affects results
 - Study type: Cross-sectional reliability study
 - Evidence quality: High (comprehensive validation of assessment methods)
 
-**Bobbert, M.F., Lindberg, K., Bjørnsen, T., Solberg, P., & Paulsen, G. (2023).** The force–velocity profile for jumping: what it is and what it is not. *Medicine & Science in Sports & Exercise*, 55(7), 1241–1249. DOI: https://doi.org/10.1249/MSS.0000000000003147
-- Key finding: Clarifies misconceptions about force-velocity profiling and emphasizes proper interpretation of profile data
-- Study type: Perspective/Review with experimental validation
-- Evidence quality: High (addresses common misunderstandings in the field)
+**Pérez-Castilla, A., Piepoli, A., Delgado-García, G., Garrido-Blanca, G., & García-Ramos, A. (2019).** Reliability and concurrent validity of seven commercially available devices for the assessment of movement velocity at different intensities during the bench press. *Journal of Strength and Conditioning Research*, 33(5), 1258-1265. DOI: https://doi.org/10.1519/JSC.0000000000003118
+- Key finding: Commercial velocity-based training devices show varying levels of accuracy, with some demonstrating excellent reliability for force-velocity profiling
+- Study type: Cross-sectional validation study
+- Evidence quality: High (systematic comparison of assessment tools)
 
 ## Practical Applications
 
@@ -73,6 +77,12 @@ Modern force-velocity profiling typically uses jump testing protocols, sprint as
 - Integrate profile-specific exercises into comprehensive training programs
 - Monitor changes in profile shape rather than just peak power values
 
+**Technology Integration:**
+- Utilize velocity-based training devices for real-time feedback
+- Implement force plates for precise force measurement
+- Use smartphone apps for field-based assessments
+- Track progress through digital platforms for long-term monitoring
+
 ## Common Mistakes
 
 ⚠️ **Over-interpreting single test results** - Profiles require multiple assessment points for accuracy
@@ -90,6 +100,7 @@ Modern force-velocity profiling typically uses jump testing protocols, sprint as
 Force-velocity profiling directly informs [[A32. Power Profiling and Testing]] and [[A33. Motor Learning and Skill Acquisition]]. It's crucial for optimizing [[X12. Vertical Jump Training]] and [[X11. Sprinting]] performance. Modern assessment approaches utilize [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]] for continuous monitoring and profile tracking.
 
 ## Update Log
-- 2025-01-14: Enhanced content structure, added comprehensive research evidence with working DOI links, expanded practical applications, and improved clarity while maintaining scientific accuracy
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-14: Enhanced content structure, added comprehensive research evidence with working DOI links, expanded practical applications, improved technology integration section, and maintained scientific accuracy while improving accessibility
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1249/MSS.0b013e31822d757a; Invalid or broken DOI: 10.1249/MSS.0000000000003147 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1519/JSC.0000000000003118 -->

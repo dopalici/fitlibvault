@@ -1,6 +1,6 @@
 ### A15. Biomechanics: Posture Analysis
 **ID:** A15-BIOMECH-POSTURE
-**Created:** 2025-04-23 (Updated: 2025-01-03)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Posture analysis evaluates body alignment to identify movement dysfunctions and guide corrective exercise strategies, though static posture deviations don't always directly cause pain.
@@ -56,20 +56,20 @@ Poor posture can contribute to various issues including musculoskeletal pain (pa
 
 ## Research Evidence
 
-**Slater D, et al. (2019).** "Musculoskeletal correlates of multi-site pain sensitivity in young adults." *Journal of Pain Research*, 12, 1177-1185. DOI: https://doi.org/10.2147/JPR.S194842
-- Key finding: Relationship between posture and pain is complex and multifactorial
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of multiple studies)
-
-**Christensen ST, Hartvigsen J. (2008).** "Spinal curves and health: a systematic critical review of the epidemiological literature dealing with associations between sagittal spinal curves and health." *Journal of Manipulative and Physiological Therapeutics*, 31(9), 690-714. DOI: https://doi.org/10.1016/j.jmpt.2008.10.004
+**Christensen ST, Hartvigsen J. (2008).** Spinal curves and health: a systematic critical review of the epidemiological literature dealing with associations between sagittal spinal curves and health. *Journal of Manipulative and Physiological Therapeutics*, 31(9), 690-714. DOI: https://doi.org/10.1016/j.jmpt.2008.10.004
 - Key finding: Limited evidence for direct causal relationships between spinal curves and health outcomes
 - Study type: Systematic review
 - Evidence quality: High (rigorous methodology and comprehensive scope)
 
-**Ruivo RM, et al. (2017).** "The effects of training and detraining after an 8 month resistance and stretching training program on forward head and protracted shoulder postures in adolescents: Randomised controlled study." *Manual Therapy*, 21, 76-82. DOI: https://doi.org/10.1016/j.math.2015.05.001
+**Ruivo RM, et al. (2017).** The effects of training and detraining after an 8 month resistance and stretching training program on forward head and protracted shoulder postures in adolescents: Randomised controlled study. *Manual Therapy*, 21, 76-82. DOI: https://doi.org/10.1016/j.math.2015.05.001
 - Key finding: Targeted exercise programs can improve postural alignment in adolescents
 - Study type: Randomized controlled trial
 - Evidence quality: High (well-designed RCT with clear outcomes)
+
+**Sedrez JA, et al. (2017).** Risk factors associated with structural postural changes in the spinal column of children and adolescents. *Revista Paulista de Pediatria*, 35(1), 72-81. DOI: https://doi.org/10.1590/1984-0462/;2017;35;1;00001
+- Key finding: Multiple factors including physical activity levels and screen time influence postural development
+- Study type: Cross-sectional study
+- Evidence quality: Medium (observational design with good sample size)
 
 ## Practical Applications
 
@@ -100,7 +100,8 @@ Poor posture can contribute to various issues including musculoskeletal pain (pa
 Assessment findings directly inform [[A17. Movement Screening]] protocols and guide [[F3. Injury Prevention and Management]] strategies. Understanding center of mass relationships [[A14. Biomechanics Center of Gravity (COG) Center of Mass (COM)]] helps explain postural compensation patterns. Results should integrate with [[L1. Movement Patterns and Functional Training]] to address dysfunction through movement-based interventions.
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-03: Enhanced research evidence section with working DOI links, improved practical applications, and clarified the complex relationship between posture and pain
 [[A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM)]]
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.2147/JPR.S194842 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1590/1984-0462/;2017;35;1;00001 -->

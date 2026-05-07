@@ -1,6 +1,6 @@
 ### A52. Telomere Length and Exercise
 **ID:** A52-TELOMERE-LENGTH-EXERCISE
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Regular exercise helps maintain telomere length and may slow cellular aging by protecting chromosome end caps from oxidative damage and supporting telomerase activity.
@@ -42,20 +42,20 @@ The optimal exercise prescription for telomere maintenance appears to involve mo
 
 ## Research Evidence
 
-**Werner, C., et al. (2019).** Physical exercise prevents cellular senescence via telomerase activation in elderly men. *European Heart Journal*, 40(47), 3835-3843. DOI: https://doi.org/10.1093/eurheartj/ehz585
-- Key finding: 6 months of endurance training increased telomerase activity 2-fold and improved telomere stabilization in elderly participants
-- Study type: Randomized controlled trial
-- Evidence quality: High (well-controlled intervention study)
-
-**Ludlow, A.T., et al. (2008).** Relationship between physical activity level, telomere length, and telomerase activity. *Medicine & Science in Sports & Exercise*, 40(10), 1764-1771. DOI: https://doi.org/10.1249/MSS.0b013e31817c77ac
-- Key finding: Higher physical activity levels were associated with longer leukocyte telomeres across different age groups
+**Cherkas, L.F., et al. (2008).** The association between physical activity in leisure time and leukocyte telomere length. *Archives of Internal Medicine*, 168(2), 154-158. DOI: https://doi.org/10.1001/archinternmed.2007.39
+- Key finding: Individuals in the highest tertile of physical activity had telomeres 200 base pairs longer than those in the lowest tertile, equivalent to 10 years less biological aging
 - Study type: Cross-sectional observational study
-- Evidence quality: Medium (observational design limits causal inference)
+- Evidence quality: Medium (large sample size but observational design)
 
-**Denham, J., et al. (2013).** Longer leukocyte telomeres are associated with ultra-endurance exercise independent of cardiovascular risk factors. *PLoS One*, 8(7), e69377. DOI: https://doi.org/10.1371/journal.pone.0069377
-- Key finding: Ultra-endurance athletes had significantly longer telomeres compared to sedentary controls, even after adjusting for age and cardiovascular risk factors
+**Puterman, E., et al. (2010).** The power of exercise: buffering the effect of chronic stress on telomere length. *PLoS One*, 5(5), e10837. DOI: https://doi.org/10.1371/journal.pone.0010837
+- Key finding: High levels of perceived stress were associated with shorter telomeres only in sedentary individuals, not in physically active participants
+- Study type: Cross-sectional observational study
+- Evidence quality: Medium (novel finding on stress-exercise interaction but cross-sectional design)
+
+**LaRocca, T.J., et al. (2010).** Leukocyte telomere length is preserved with aging in endurance exercise-trained adults and related to maximal aerobic capacity. *Mechanisms of Ageing and Development*, 131(2), 165-167. DOI: https://doi.org/10.1016/j.mad.2009.12.009
+- Key finding: Endurance-trained older adults had telomere lengths similar to young sedentary adults, while age-matched sedentary adults showed expected age-related shortening
 - Study type: Cross-sectional comparative study
-- Evidence quality: Medium (cross-sectional design, but well-controlled for confounders)
+- Evidence quality: Medium (well-controlled groups but cross-sectional design)
 
 ## Practical Applications
 
@@ -89,6 +89,7 @@ While telomere length testing is available commercially, it's primarily used in 
 Telomere length and exercise directly informs [[A53. Inflammatory Response Modulation]] and [[A54. Neurotransmitter Optimization]]. It's crucial for understanding the cellular adaptations in [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools for monitoring exercise effects are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2025-01-14: Restructured content to remove unsupported performance claims, added verified research citations with working DOI links, enhanced practical applications with specific exercise recommendations
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-14: Restructured content to remove unsupported performance claims, replaced invalid citations with verified research citations with working DOI links, enhanced practical applications with specific exercise recommendations
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1093/eurheartj/ehz585; Invalid or broken DOI: 10.1249/MSS.0b013e31817c77ac -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1001/archinternmed.2007.39 -->

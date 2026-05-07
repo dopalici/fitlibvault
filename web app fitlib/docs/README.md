@@ -45,9 +45,16 @@ This documentation suite contains everything you need to grow FitLib from 0 to $
    - Wikilink creation rules (minimum 3 per topic)
    - **Target:** 2 new topics/week (8 hours/week content creation)
 
+6. **[SOP_KNOWLEDGE_READER_SYSTEMS.md](./SOP_KNOWLEDGE_READER_SYSTEMS.md)** - Reader + Learning Systems Operations
+   - Reader mode, stacked panels, and ambient graph behavior
+   - Admin bypass setup and verification (`VITE_ADMIN_EMAILS`)
+   - FSRS recall workflow and IndexedDB checks
+   - Content build outputs including cloze cards
+   - Weekly owner checklist for reliability
+
 ### Metrics & Management Documents (Review Weekly/Monthly)
 
-6. **[KPIs.md](./KPIs.md)** - Your Success Metrics
+7. **[KPIs.md](./KPIs.md)** - Your Success Metrics
    - User acquisition (target: 500 signups Month 1 → 5,000 by Year-end)
    - Revenue (MRR target: $400 Month 1 → $2,000 Month 12)
    - Content (target: 2 new topics/week, 8+ citations per topic)
@@ -55,7 +62,7 @@ This documentation suite contains everything you need to grow FitLib from 0 to $
    - Technical (99.9% uptime, <100ms search latency)
    - **Every Friday:** Track against targets, identify gaps
 
-7. **[ROADMAP.md](./ROADMAP.md)** - Year 1 Quarterly Plan
+8. **[ROADMAP.md](./ROADMAP.md)** - Year 1 Quarterly Plan
    - Q1 2026 (Foundation): Launch with 105 nodes, 500 signups
    - Q2 2026 (Scale): Grow to 2,000 users, launch B2B API
    - Q3 2026 (Fit): Reach 5,000 users, 10+ API customers
@@ -63,7 +70,7 @@ This documentation suite contains everything you need to grow FitLib from 0 to $
    - Risk mitigation strategies for each quarter
    - **Every quarter:** Review what happened, adjust next quarter
 
-8. **[WEEKLY_STANDUP_TEMPLATE.md](./WEEKLY_STANDUP_TEMPLATE.md)** - Friday Check-ins
+9. **[WEEKLY_STANDUP_TEMPLATE.md](./WEEKLY_STANDUP_TEMPLATE.md)** - Friday Check-ins
    - What you completed (features, content, marketing)
    - Metrics snapshot (signups, premium conversions, MRR, content)
    - Next week's 3 priorities (realistic, not wishful)
@@ -74,7 +81,7 @@ This documentation suite contains everything you need to grow FitLib from 0 to $
 
 ### AI-Assisted Management (Your Secret Weapon)
 
-9. **[AI_ASSISTED_MANAGEMENT.md](./AI_ASSISTED_MANAGEMENT.md)** - How Cline Helps You Grow
+10. **[AI_ASSISTED_MANAGEMENT.md](./AI_ASSISTED_MANAGEMENT.md)** - How Cline Helps You Grow
    - Every Friday, you fill the standup (10 minutes)
    - I analyze metrics, identify patterns, suggest adjustments
    - Monthly strategic reviews (trend analysis + goal progress)

@@ -1,6 +1,6 @@
 ### A44. 3D Movement Analysis
 **ID:** A44-3D-MOVEMENT-ANALYSIS
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 3D movement analysis uses advanced technology to capture and analyze human movement in three-dimensional space, providing detailed insights into joint mechanics, movement patterns, and performance optimization for athletic and clinical applications.
@@ -53,12 +53,12 @@ Elite athletes use 3D analysis to refine technique, with applications in sports 
 - Study type: Methodological review
 - Evidence quality: High (foundational methodology paper)
 
-**Hewett, T.E., et al. (2005).** Biomechanical measures of neuromuscular control and valgus loading of the knee predict anterior cruciate ligament injury risk in female athletes. *American Journal of Sports Medicine*, 33(4), 492-501. DOI: https://doi.org/10.1177/0363546504269591
+**Hewett, T.E., et al. (2005).** Biomechanical measures of neuromuscular control and valgus loading of the knee predict anterior cruciate ligament injury risk in female athletes. *American Journal of Sports Medicine*, 33(4), 492-501. PMID: https://pubmed.ncbi.nlm.nih.gov/15722287
 - Key finding: 3D analysis identified knee valgus angles >15° as predictive of ACL injury risk with 78% sensitivity
 - Study type: Prospective cohort study
 - Evidence quality: High (large sample, prospective design)
 
-**Needham, R., et al. (2015).** The accuracy of several pose estimation methods for 3D joint centre localisation. *Scientific Reports*, 4, 7329. DOI: https://doi.org/10.1038/srep07329
+**Needham, R., et al. (2014).** The accuracy of several pose estimation methods for 3D joint centre localisation. *Scientific Reports*, 4, 7329. DOI: https://doi.org/10.1038/srep07329
 - Key finding: Modern 3D systems achieve joint center estimation accuracy within 5-10mm for major joints
 - Study type: Validation study
 - Evidence quality: Medium (technical validation with limited clinical application)
@@ -99,6 +99,5 @@ Elite athletes use 3D analysis to refine technique, with applications in sports 
 3D movement analysis directly informs [[A45. Biomechanics of Aging]] and [[A46. Autonomic Nervous System Training]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-14: Restructured content for clarity, added verified research citations with working DOI links, enhanced practical applications section, removed unsubstantiated performance claims
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1177/0363546504269591 -->

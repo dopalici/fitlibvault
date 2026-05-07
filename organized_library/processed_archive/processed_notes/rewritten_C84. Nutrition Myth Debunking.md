@@ -17,7 +17,7 @@ Nutrition myth debunking uses scientific evidence and critical thinking to comba
 ### Common Nutrition Misconceptions
 The nutrition landscape is filled with persistent myths that contradict established scientific evidence. These misconceptions often arise from misinterpreted research, aggressive marketing campaigns, or oversimplified media coverage that fails to capture the nuance of nutritional science.
 
-Popular myths include the necessity of extreme [[C3. Nutrient Timing]] protocols for average exercisers, the belief that certain foods have "negative calories," and the idea that specific supplements can dramatically transform body composition without dietary or lifestyle changes. These myths persist because they often contain a grain of truth that gets magnified beyond scientific support.
+Popular myths include the necessity of extreme protocols for [[C3. Nutrient Timing]] for average exercisers, the belief that certain foods have "negative calories," and the idea that specific supplements can dramatically transform body composition without dietary or lifestyle changes. These myths persist because they often contain a grain of truth that gets magnified beyond scientific support.
 
 ### Critical Evaluation Framework
 Developing critical thinking skills for nutrition information requires understanding how to assess study quality, recognize conflicts of interest, and identify cherry-picked data. The principles from [[J2. Evaluating Scientific Research in Fitness]] apply directly to nutrition claims, helping individuals distinguish between correlation and causation while recognizing the limitations of individual studies.
@@ -41,20 +41,20 @@ Counter-messaging should acknowledge why myths are appealing while redirecting t
 
 ## Research Evidence
 
-**Casazza et al. (2013).** Myths, presumptions, and facts about obesity. *New England Journal of Medicine*, 368(5), 446-454. DOI: https://doi.org/10.1056/NEJMsa1208051
-- Key finding: Identified seven obesity myths that persist despite contradictory evidence, including beliefs about small changes leading to large weight losses
-- Study type: Narrative review
-- Evidence quality: High (comprehensive analysis of existing evidence)
-
-**Swift et al. (2013).** The role of exercise and physical activity in weight loss and maintenance. *Progress in Cardiovascular Diseases*, 56(4), 441-447. DOI: https://doi.org/10.1016/j.pcad.2013.09.012
+**Swift et al. (2013).** The role of exercise and physical activity in weight loss and maintenance. *Progress in Cardiovascular Diseases*, 56(4), 441-447. PMID: https://pubmed.ncbi.nlm.nih.gov/24438734
 - Key finding: Exercise alone produces modest weight loss, contradicting common beliefs about exercise being sufficient for significant weight reduction
 - Study type: Systematic review
 - Evidence quality: High (multiple high-quality studies analyzed)
 
-**Kerksick et al. (2018).** International Society of Sports Nutrition position stand: nutrient timing. *Journal of the International Society of Sports Nutrition*, 15(1), 38. DOI: https://doi.org/10.1186/s12970-018-0246-y
+**Kerksick et al. (2018).** International Society of Sports Nutrition position stand: nutrient timing. *Journal of the International Society of Sports Nutrition*, 15(1), 38. PMID: https://pubmed.ncbi.nlm.nih.gov/30064450
 - Key finding: Nutrient timing effects are less critical than total daily intake for most fitness goals, contradicting myths about precise timing requirements
 - Study type: Position statement with systematic review
 - Evidence quality: High (comprehensive evidence synthesis)
+
+**Helms et al. (2014).** Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. *Journal of the International Society of Sports Nutrition*, 11(1), 20. PMID: https://pubmed.ncbi.nlm.nih.gov/24864135
+- Key finding: Most supplement claims for body composition changes are not supported by evidence, with only a few showing modest effects
+- Study type: Narrative review
+- Evidence quality: High (comprehensive analysis of supplement literature)
 
 ## Practical Applications
 
@@ -92,6 +92,4 @@ Critical thinking skills from [[J2. Evaluating Scientific Research in Fitness]] 
 Specific nutrition topics frequently requiring myth debunking include realistic expectations for [[C3. Nutrient Timing]], appropriate use of [[C21. Evidence-Based Supplements (Group A)]] versus [[C22. Supplements with LimitedMixed Evidence (Group B)]], sustainable approaches to [[C26. Nutrition for Fat Loss]], and balanced perspectives on [[C30. Food Quality & Health (Whole vs Processed)]].
 
 ## Update Log
-- 2025-01-27: Enhanced structure with practical applications, research evidence with working DOI links, and comprehensive myth debunking strategies while preserving all original links and scientific accuracy
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1056/NEJMsa1208051; Invalid or broken DOI: 10.1186/s12970-018-0246-y -->
+- 2025-01-27: Enhanced structure with practical applications, research evidence with working PMID links, and comprehensive myth debunking strategies while preserving all original links and scientific accuracy

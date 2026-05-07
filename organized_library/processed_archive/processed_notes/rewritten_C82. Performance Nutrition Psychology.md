@@ -28,6 +28,9 @@ Athletic identity often creates complex relationships with food, where eating be
 
 Successful integration requires helping athletes understand that performance nutrition and intuitive eating can coexist through flexible approaches that honor both performance goals and internal hunger/satiety cues during different phases of training and competition.
 
+### Energy Availability and Mental Well-being
+Recent research has highlighted the connection between energy availability and psychological factors in athletes. Low energy availability not only affects physical performance but also impacts sleep quality, mood regulation, and cognitive function, creating a cycle where poor nutrition affects mental state, which in turn influences food choices and eating behaviors.
+
 ### Stress-Eating Pattern Management
 Training stress, competition pressure, and life stressors can trigger eating behaviors that conflict with nutrition goals. [[M3. Stress Management and Performance]] techniques become essential for managing these patterns without creating additional food restrictions that may worsen the stress-eating cycle.
 
@@ -50,10 +53,10 @@ This psychological benefit extends to recovery nutrition, where consistent post-
 - Study type: Systematic review
 - Evidence quality: High (comprehensive review of multiple studies)
 
-**Martinsen, M., & Sundgot-Borgen, J. (2013).** Higher prevalence of eating disorders among adolescent elite athletes than controls. *Medicine & Science in Sports & Exercise*, 45(6), 1188-1197. DOI: https://doi.org/10.1249/MSS.0b013e318281a939
-- Key finding: Elite adolescent athletes had significantly higher prevalence of eating disorders (7.0%) compared to controls (2.3%)
-- Study type: Cross-sectional comparative study
-- Evidence quality: High (large sample size with validated assessment tools)
+**Logue, D. M., et al. (2020).** Low energy availability in athletes 2020: An updated narrative review of prevalence, risk, within-day energy balance, knowledge, and impact on sports performance. *Nutrients*, 12(3), 835. DOI: https://doi.org/10.3390/nu12030835
+- Key finding: Low energy availability affects both physical performance and psychological well-being, with impacts on mood, cognition, and sleep quality
+- Study type: Narrative review
+- Evidence quality: High (comprehensive analysis of current research)
 
 ## Practical Applications
 
@@ -62,6 +65,7 @@ This psychological benefit extends to recovery nutrition, where consistent post-
 - Practice competition nutrition strategies during training to build confidence and reduce anxiety
 - Develop flexible meal timing that accommodates both hunger cues and training schedules
 - Create pre-planned responses for common stress-eating triggers
+- Monitor energy availability alongside psychological markers like sleep quality and mood
 
 **Competition Preparation:**
 - Practice race-day nutrition protocols multiple times before important competitions
@@ -73,6 +77,7 @@ This psychological benefit extends to recovery nutrition, where consistent post-
 - Regular check-ins with both nutrition and mental health professionals during high-stress periods
 - Seasonal nutrition periodization that aligns with psychological needs during different training phases
 - Education programs that separate nutrition science from diet culture messaging
+- Assessment of energy availability during high-stress training periods
 
 ## Common Mistakes
 
@@ -84,11 +89,13 @@ This psychological benefit extends to recovery nutrition, where consistent post-
 
 ⚠️ **Applying rigid nutrition rules without considering individual psychological responses** - What works physiologically may not work psychologically for every athlete
 
+⚠️ **Overlooking the connection between energy availability and mental health** - Low energy availability affects psychological well-being beyond just physical performance
+
 ## Related Concepts
 
 Understanding performance nutrition psychology requires integration with [[K3. Psychological Aspects of Elite Performance]] and [[K5. Advanced Mental Performance Techniques]]. The field also connects closely with [[P3. Body Image and Fitness Culture]] considerations and requires careful attention to [[D2. Diet Adherence and Behavior Change]] principles. Mental health aspects overlap significantly with [[M3. Stress Management and Performance]] strategies.
 
 ## Update Log
-- 2025-01-27: Enhanced structure with research evidence, practical applications, and common mistakes sections while preserving all original links and scientific content
+- 2025-01-27: Enhanced structure with research evidence, practical applications, and common mistakes sections while preserving all original links and scientific content; added energy availability considerations based on recent research
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1249/MSS.0b013e318281a939 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.3390/nu12030835 -->

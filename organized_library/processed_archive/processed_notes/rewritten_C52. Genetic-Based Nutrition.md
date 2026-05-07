@@ -96,8 +96,7 @@ Proper macronutrient distribution [[C2. Macronutrient Distribution]] should cons
 
 Supplement strategies [[C20. Supplements (Overview & Framework)]] and evidence-based supplementation [[C21. Evidence-Based Supplements (Group A)]] can be optimized through genetic responsiveness testing. Recovery nutrition [[C29. Nutrition for Recovery]] may be enhanced by understanding genetic factors affecting recovery capacity.
 
-Food quality considerations [[C30. Food Quality & Health (Whole vs Processed)]] and gut health optimization [[C32. Gut Health and Microbiome]] can be personalized based on genetic predispositions to food sensitivities and digestive characteristics.
+Food quality considerations [[C30. Food Quality & Health (Whole vs Processed)]] and gut health optimization [[C32. Gut Health and Microbiome]] can be personalized based on genetic predispositions to food sensitivities and digestive characteristics. Training adaptations [[A35. Metabolic Adaptations to Training]] can be better understood when considering individual genetic variation in response to different nutritional strategies.
 
 ## Update Log
 - 2025-01-27: Restructured content for accessibility, added practical applications section, enhanced research evidence with working DOI links, and improved integration with related concepts while preserving all original links
-[[A35. Metabolic Adaptations to Training]]

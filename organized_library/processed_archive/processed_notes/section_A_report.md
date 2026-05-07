@@ -1,15 +1,77 @@
 # Section A Processing Report
-Generated: 2025-06-05 13:23:22
+Generated: 2026-05-06 15:05:10
 
 ## Summary
-- **Files Processed:** 5
+- **Files Processed:** 66
 - **Files Failed:** 0  
-- **Files Skipped:** 0
+- **Files Skipped:** 1
 - **Success Rate:** 100.0% (of attempted)
 
 ## Detailed Results
-- ✅ **A22. Principle of Reversibility (Detraining).md**: success
-- ✅ **A23. Principle of Individuality.md**: success
-- ✅ **A24. Principle of Diminishing Returns.md**: success
-- ✅ **A25. Principle of Periodization.md**: success
-- ✅ **A26. Principle of Recovery.md**: success
+- ✅ **A. Foundational Concepts.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Recommendation signals changed: 15 | citation_delta=0 | recommendation_delta=15
+- ✅ **A1. Energy Balance.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 6 | citation_delta=1 | recommendation_delta=6
+- ✅ **A10. Hormonal Responses to Exercise.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A11. Biomechanics Levers in the Human Body.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 15 | citation_delta=3 | recommendation_delta=15
+- ✅ **A12. Biomechanics Force Vectors.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 23 | citation_delta=3 | recommendation_delta=23
+- ✅ **A13. Biomechanics Torque and Movement.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 6 | citation_delta=1 | recommendation_delta=6
+- ✅ **A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM).md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A15. Biomechanics Posture Analysis.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 5 | citation_delta=1 | recommendation_delta=5
+- ✅ **A16. Biomechanics Gait Analysis.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 2 | citation_delta=2 | recommendation_delta=2
+- ✅ **A17. Movement Screening.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 15 | citation_delta=3 | recommendation_delta=15
+- ✅ **A18. Proper Lifting Mechanics.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 31 | citation_delta=3 | recommendation_delta=31
+- ✅ **A19. Principle of Overload.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A2. Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE).md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A20. Principle of Specificity (SAID).md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 11 | citation_delta=1 | recommendation_delta=11
+- ✅ **A21. Principle of Progression.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A22. Principle of Reversibility (Detraining).md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 6 | citation_delta=2 | recommendation_delta=6
+- ✅ **A23. Principle of Individuality.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 19 | citation_delta=1 | recommendation_delta=19
+- ✅ **A24. Principle of Diminishing Returns.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 18 | citation_delta=3 | recommendation_delta=18
+- ✅ **A25. Principle of Periodization.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 9 | citation_delta=3 | recommendation_delta=9
+- ✅ **A26. Principle of Recovery.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 7 | citation_delta=1 | recommendation_delta=7
+- ✅ **A27. Thermoregulation During Exercise.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 17 | citation_delta=3 | recommendation_delta=17
+- ✅ **A28. Advanced Movement Assessment Methodologies.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 2 | citation_delta=1 | recommendation_delta=2
+- ✅ **A29. Tissue Adaptation to Exercise (Molecular & Cellular).md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 12 | citation_delta=2 | recommendation_delta=12
+- ✅ **A3. Macronutrients.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A30. Biomechanics - Stability vs. Mobility.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 16 | citation_delta=3 | recommendation_delta=16
+- ✅ **A31. Force-Velocity Profiling.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 18 | citation_delta=2 | recommendation_delta=18
+- ✅ **A32. Power Profiling and Testing.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 21 | citation_delta=1 | recommendation_delta=21
+- ✅ **A33. Motor Learning and Skill Acquisition.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 32 | citation_delta=3 | recommendation_delta=32
+- ✅ **A34. Neural Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A35. Metabolic Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 49 | citation_delta=3 | recommendation_delta=49
+- ✅ **A36. Structural Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 13 | citation_delta=3 | recommendation_delta=13
+- ✅ **A37. Hormonal Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A38. Immune System Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 4 | citation_delta=3 | recommendation_delta=4
+- ✅ **A39. Cardiovascular Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 14 | citation_delta=2 | recommendation_delta=14
+- ✅ **A4. Micronutrients.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A40. Respiratory Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 20 | citation_delta=3 | recommendation_delta=20
+- ✅ **A41. Skeletal Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 17 | citation_delta=3 | recommendation_delta=17
+- ✅ **A42. Connective Tissue Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 55 | citation_delta=2 | recommendation_delta=55
+- ✅ **A43. Muscular Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 5 | citation_delta=1 | recommendation_delta=5
+- ✅ **A44. Neuromuscular Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links | citation_delta=1 | recommendation_delta=0
+- ✅ **A45. Metabolic Adaptations to Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 12 | citation_delta=2 | recommendation_delta=12
+- ✅ **A46. Adaptation Monitoring and Assessment.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A47. Training Periodization and Planning.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 73 | citation_delta=2 | recommendation_delta=73
+- ✅ **A48. Training Load Monitoring.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 14 | citation_delta=2 | recommendation_delta=14
+- ✅ **A49. Recovery Monitoring and Assessment.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 19 | citation_delta=2 | recommendation_delta=19
+- ✅ **A5. FITT Principle.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A50. Performance Testing and Evaluation.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 8 | citation_delta=2 | recommendation_delta=8
+- ✅ **A51. Training Adaptation Assessment.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links | citation_delta=1 | recommendation_delta=0
+- ✅ **A52. Training Specificity and Transfer.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 15 | citation_delta=3 | recommendation_delta=15
+- ✅ **A53. Training Load Management.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Recommendation signals changed: 7 | citation_delta=0 | recommendation_delta=7
+- ✅ **A54. Training Periodization.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 2 | citation_delta=2 | recommendation_delta=2
+- ✅ **A55. Training Recovery.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 27 | citation_delta=1 | recommendation_delta=27
+- ✅ **A56. Training Specificity.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 12 | citation_delta=2 | recommendation_delta=12
+- ✅ **A57. Training Adaptation.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 12 | citation_delta=2 | recommendation_delta=12
+- ✅ **A58. Training Monitoring.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 6 | citation_delta=1 | recommendation_delta=6
+- ✅ **A59. Myokine Signaling.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 9 | citation_delta=2 | recommendation_delta=9
+- ✅ **A6. Energy Systems (Detailed).md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A60. Vascular Adaptations.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 6 | citation_delta=3 | recommendation_delta=6
+- ✅ **A61. Calcium Signaling in Muscle.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 15 | citation_delta=3 | recommendation_delta=15
+- ✅ **A62. Metabolic Flexibility Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 68 | citation_delta=2 | recommendation_delta=68
+- ✅ **A63. pH Regulation Mechanisms.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 19 | citation_delta=3 | recommendation_delta=19
+- ✅ **A64. Oxygen Sensing Pathways.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 12 | citation_delta=2 | recommendation_delta=12
+- ✅ **A65. Exercise-Induced Neuroplasticity.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 13 | citation_delta=2 | recommendation_delta=13
+- ✅ **A7. Muscle Physiology Fundamentals.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A8. Cardiovascular Physiology Fundamentals.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Evidence packet reviewed; only minor phrasing updates | citation_delta=0 | recommendation_delta=0
+- ✅ **A9. Respiratory Physiology Fundamentals.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 12 | citation_delta=1 | recommendation_delta=12
+- ⏭️ **Appendix References and Meta-information.md**: skipped - Too short (20 words)

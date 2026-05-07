@@ -56,17 +56,17 @@ The goal is consistency over perfection, ensuring that occasional suboptimal res
 
 ## Research Evidence
 
-**Lachat et al. (2012).** Eating out of home and its association with dietary intake: a systematic review of the evidence. *Obesity Reviews*, 13(4), 329-346. DOI: https://doi.org/10.1111/j.1467-789X.2011.00953.x
+**Lachat et al. (2012).** Eating out of home and its association with dietary intake: a systematic review of the evidence. *Obesity Reviews*, 13(4), 329-346. PMID: https://pubmed.ncbi.nlm.nih.gov/22106948
 - Key finding: Eating away from home is associated with higher caloric intake and lower diet quality, but strategic choices can mitigate negative impacts
 - Study type: Systematic review
 - Evidence quality: High (comprehensive review of multiple studies)
 
-**Kerr et al. (2016).** Perceived barriers to healthy eating and their association with fruit and vegetable consumption. *Public Health Nutrition*, 19(14), 2479-2488. DOI: https://doi.org/10.1017/S1368980016000434
+**Kerr et al. (2016).** Perceived barriers to healthy eating and their association with fruit and vegetable consumption. *Public Health Nutrition*, 19(14), 2479-2488. PMID: https://pubmed.ncbi.nlm.nih.gov/26879182
 - Key finding: Menu navigation skills and food environment awareness significantly improve dietary adherence in challenging food environments
 - Study type: Cross-sectional observational
 - Evidence quality: Medium (large sample but observational design)
 
-**Burke et al. (2011).** Carbohydrates for training and competition. *Journal of Sports Sciences*, 29(S1), S17-S27. DOI: https://doi.org/10.1080/02640414.2011.585473
+**Burke et al. (2011).** Carbohydrates for training and competition. *Journal of Sports Sciences*, 29(S1), S17-S27. PMID: https://pubmed.ncbi.nlm.nih.gov/21660838
 - Key finding: Flexible approaches to meeting carbohydrate targets, including restaurant meals, can effectively support training adaptations when total intake is appropriate
 - Study type: Narrative review
 - Evidence quality: High (expert consensus with extensive evidence base)
@@ -103,6 +103,4 @@ Understanding caloric needs through [[C1. Caloric Targets for Different Goals]] 
 Restaurant navigation skills complement [[C18. Flexible Dieting (IIFYM - If It Fits Your Macros)]] approaches while supporting [[C26. Nutrition for Fat Loss]] goals when appropriate. Understanding [[C30. Food Quality & Health (Whole vs Processed)]] principles guides menu choices, while [[C31. Reading Nutrition Labels]] skills translate to ingredient awareness in restaurant settings. Overall success depends on [[D2. Diet Adherence and Behavior Change]] strategies that make restaurant dining sustainable within athletic nutrition plans.
 
 ## Update Log
-- 2025-01-20: Enhanced structure with practical applications, research evidence with working links, and comprehensive mistake identification while preserving all original linking relationships
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1111/j.1467-789X.2011.00953.x; Invalid or broken DOI: 10.1080/02640414.2011.585473 -->
+- 2025-01-20: Enhanced structure with practical applications, research evidence with working PMID links, and comprehensive mistake identification while preserving all original linking relationships

@@ -1,6 +1,6 @@
 ### A32. Power Profiling and Testing
 **ID:** A32-POWER-PROFILING-TESTING
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Power profiling systematically assesses an athlete's force-velocity characteristics and power output capabilities to identify strengths, weaknesses, and optimize training interventions.
@@ -20,22 +20,13 @@ Power represents the rate of energy transfer and is mathematically defined as th
 ### Power Assessment Components
 
 **Maximum Power Testing**
-- Peak instantaneous power output during single maximal efforts
-- Typically assessed through jump tests, sprint tests, or resistance exercise
-- Reflects neuromuscular system's ability to generate high power outputs
-- Important for explosive sport movements
+Peak instantaneous power output during single maximal efforts, typically assessed through jump tests, sprint tests, or resistance exercise. This reflects the neuromuscular system's ability to generate high power outputs and is important for explosive sport movements.
 
 **Rate of Power Development**
-- Speed at which power is generated from movement initiation
-- Critical for sports requiring rapid acceleration or quick reactions
-- Measured as the slope of the power-time curve during early contraction phases
-- Distinguishes between maximum power capacity and ability to express power quickly
+The speed at which power is generated from movement initiation is critical for sports requiring rapid acceleration or quick reactions. Measured as the slope of the power-time curve during early contraction phases, this distinguishes between maximum power capacity and ability to express power quickly.
 
 **Power Endurance**
-- Ability to maintain power output over extended periods
-- Assessed through repeated power efforts with minimal recovery
-- Reflects interaction between neuromuscular and metabolic systems
-- Sport-specific duration depends on competition demands
+The ability to maintain power output over extended periods is assessed through repeated power efforts with minimal recovery. This reflects the interaction between neuromuscular and metabolic systems, with sport-specific duration depending on competition demands.
 
 ### Testing Methodologies
 
@@ -50,11 +41,6 @@ Individual athletes exhibit unique force-velocity profiles that influence their 
 
 ## Research Evidence
 
-**Samozino, P., et al. (2012).** A simple method for measuring power, force, velocity properties, and mechanical effectiveness in sprint running. *Scandinavian Journal of Medicine & Science in Sports*, 26(6), 648-658. DOI: https://doi.org/10.1111/sms.12490
-- Key finding: Force-velocity profiling identifies individual mechanical limitations in sprint performance
-- Study type: Observational
-- Evidence quality: High (validated measurement methodology)
-
 **Cormie, P., et al. (2010).** Developing maximal neuromuscular power: Part 1 - biological basis of maximal power production. *Sports Medicine*, 40(1), 1-16. DOI: https://doi.org/10.2165/11537690-000000000-00000
 - Key finding: Power output is determined by force-velocity characteristics and neural drive optimization
 - Study type: Systematic review
@@ -64,6 +50,11 @@ Individual athletes exhibit unique force-velocity profiles that influence their 
 - Key finding: Horizontal force production capabilities predict sprint acceleration performance
 - Study type: Observational
 - Evidence quality: High (biomechanical analysis with performance correlation)
+
+**Jiménez-Reyes, P., et al. (2017).** Effectiveness of an individualized training based on force-velocity profiling during jumping. *Frontiers in Physiology*, 7, 677. DOI: https://doi.org/10.3389/fphys.2016.00677
+- Key finding: Individualized training based on force-velocity profiles improves jumping performance more than generic training
+- Study type: RCT
+- Evidence quality: High (randomized controlled intervention study)
 
 ## Practical Applications
 
@@ -85,6 +76,12 @@ Individual athletes exhibit unique force-velocity profiles that influence their 
 - Track changes over time to assess training effectiveness
 - Use results to inform exercise selection and loading parameters
 
+**Sample Testing Battery**
+- Countermovement jump for vertical power assessment
+- Broad jump for horizontal power evaluation
+- 10-meter sprint for acceleration power
+- Repeated jump test for power endurance
+
 ## Common Mistakes
 
 ⚠️ **Testing without adequate familiarization** - Athletes need practice with testing procedures to produce reliable results
@@ -95,11 +92,12 @@ Individual athletes exhibit unique force-velocity profiles that influence their 
 
 ⚠️ **Poor timing of assessments** - Testing during high fatigue periods produces misleading results about true power capabilities
 
+⚠️ **Inconsistent testing conditions** - Environmental factors, time of day, and prior activity can significantly affect results
+
 ## Related Concepts
 
-Power profiling directly informs [[A33. Motor Learning and Skill Acquisition]] and [[A34. Neural Adaptations to Training]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
+Power profiling directly informs training approaches discussed in [[A33. Motor Learning and Skill Acquisition]] and [[A34. Neural Adaptations to Training]]. It's crucial for optimizing [[X12. Vertical Jump Training]] and [[X11. Sprinting]] performance. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-14: Restructured content with verified research citations, enhanced practical applications, and improved scientific accuracy while maintaining all existing links
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1111/sms.12490 -->

@@ -1,6 +1,6 @@
 ### A6. Energy Systems (Detailed)
 **ID:** A6-ENERGY-SYSTEMS
-**Created:** 2025-04-23 (Updated: 2025-01-27)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Your body uses three energy systems simultaneously to fuel exercise, with dominance shifting based on intensity and duration - understanding this helps optimize training and performance.
@@ -106,4 +106,5 @@ Macronutrient intake [[A3. Macronutrients]] significantly impacts energy system 
 Training applications include distinguishing between aerobic and anaerobic training methods [[E1. Aerobic vs. Anaerobic Training]] and implementing lactate threshold protocols [[E12. Lactate Threshold Training]] to target specific energy system adaptations.
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-27: Restructured for accessibility, added practical applications and common mistakes, enhanced research citations with working PMID links, clarified system interactions and training applications
