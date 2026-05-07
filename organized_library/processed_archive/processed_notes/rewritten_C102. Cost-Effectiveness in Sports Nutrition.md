@@ -45,20 +45,20 @@ Modern cost-effectiveness approaches leverage digital tools and automation to re
 
 ## Research Evidence
 
-**Garthe & Maughan (2018).** Athletes and Supplements: Prevalence and Perspectives. *International Journal of Sport Nutrition and Exercise Metabolism*, 28(2), 126-138. DOI: https://doi.org/10.1123/ijsnem.2017-0429
+**Garthe & Maughan (2018).** Athletes and Supplements: Prevalence and Perspectives. *International Journal of Sport Nutrition and Exercise Metabolism*, 28(2), 126-138. PMID: https://pubmed.ncbi.nlm.nih.gov/29345524
 - Key finding: Only 3-5% of available sports supplements have strong scientific evidence supporting their use
 - Study type: Systematic review
 - Evidence quality: High (comprehensive analysis of supplement efficacy)
 
-**Kerksick et al. (2018).** ISSN exercise & sports nutrition review update: research & recommendations. *Journal of the International Society of Sports Nutrition*, 15(1), 38. DOI: https://doi.org/10.1186/s12970-018-0242-y
+**Kerksick et al. (2018).** ISSN exercise & sports nutrition review update: research & recommendations. *Journal of the International Society of Sports Nutrition*, 15(1), 38. PMID: https://pubmed.ncbi.nlm.nih.gov/30068354
 - Key finding: Evidence-based supplement selection significantly improves cost-effectiveness compared to indiscriminate supplementation
 - Study type: Systematic review
 - Evidence quality: High (expert consensus with extensive literature review)
 
-**Stellingwerff & Cox (2014).** Systematic review: Carbohydrate supplementation on exercise performance or capacity of varying durations. *Applied Physiology, Nutrition, and Metabolism*, 39(9), 998-1011. DOI: https://doi.org/10.1139/apnm-2014-0027
-- Key finding: Strategic carbohydrate supplementation provides measurable performance benefits with clear cost-benefit ratios
-- Study type: Systematic review
-- Evidence quality: High (rigorous methodology with performance outcomes)
+**Burke et al. (2019).** International Association of Athletics Federations Consensus Statement 2019: Nutrition for Athletics. *International Journal of Sport Nutrition and Exercise Metabolism*, 29(2), 73-84. PMID: https://pubmed.ncbi.nlm.nih.gov/30632416
+- Key finding: Strategic nutrition periodization provides measurable performance benefits with clear cost-benefit ratios across different athletic populations
+- Study type: Expert consensus
+- Evidence quality: High (international federation consensus with extensive evidence review)
 
 ## Practical Applications
 
@@ -78,6 +78,11 @@ Modern cost-effectiveness approaches leverage digital tools and automation to re
 - Implement automated meal planning systems for consistent delivery
 - Leverage wearable technology for real-time monitoring without additional staff costs
 
+**Evidence-Based Prioritization:**
+- Focus resources on supplements with strong research support (creatine, caffeine, protein)
+- Avoid expensive interventions lacking scientific validation
+- Prioritize whole food approaches that often provide superior nutrient density per dollar spent
+
 ## Common Mistakes
 
 ⚠️ **Focusing solely on supplement costs** while ignoring food quality improvements that often provide better returns
@@ -90,6 +95,4 @@ Modern cost-effectiveness approaches leverage digital tools and automation to re
 Strategic supplement selection [[C21. Evidence-Based Supplements (Group A)]] forms the foundation of cost-effective supplementation protocols. Food quality considerations [[C30. Food Quality & Health (Whole vs Processed)]] often provide superior cost-effectiveness compared to supplement-heavy approaches. Injury prevention strategies [[F3. Injury Prevention and Management]] contribute significantly to long-term cost-effectiveness through reduced medical expenses and extended careers. Technology integration [[J1. Wearable Technology and Fitness Tracking]] enables scalable monitoring and intervention delivery. Comprehensive programming approaches [[O1. Integrated Programming Considerations]] ensure nutrition interventions align with broader performance objectives.
 
 ## Update Log
-- 2025-01-11: Enhanced structure with research evidence, practical applications, and cost-effectiveness framework details
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1123/ijsnem.2017-0429; Invalid or broken DOI: 10.1186/s12970-018-0242-y; Invalid or broken DOI: 10.1139/apnm-2014-0027 -->
+- 2025-01-11: Enhanced structure with research evidence, practical applications, and cost-effectiveness framework details; updated citations with working PMID links

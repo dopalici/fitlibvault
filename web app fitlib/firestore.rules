@@ -1,0 +1,101 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // 0. Default Deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // --- Helpers ---
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && (
+        exists(/databases/$(database)/documents/admins/$(request.auth.uid)) ||
+        request.auth.token.email == 'ozkanenesibrahim@gmail.com'
+      );
+    }
+
+    // 1. Nodes (Public Library)
+    match /nodes/{nodeId} {
+      allow get: if isValidId(nodeId);
+      allow list: if true; 
+      
+      allow write: if isAdmin();
+
+      match /citations/{citationId} {
+        allow get: if isValidId(nodeId) && isValidId(citationId);
+        allow list: if isValidId(nodeId);
+        allow write: if isAdmin();
+      }
+    }
+
+    // 2. User Profiles
+    match /users/{userId} {
+      allow get: if isOwner(userId);
+      allow list: if false;
+      allow create: if isOwner(userId) && isValidUser(incoming());
+      allow update: if isOwner(userId) && isValidUser(incoming()) && incoming().diff(existing()).affectedKeys().hasOnly([
+        'email',
+        'streak',
+        'totalReadingTime',
+        'favorites',
+        'seriesProgress',
+        'lastActive',
+        'subscriptionStatus',
+        'subscriptionId',
+        'subscriptionExpiresAt',
+        'premium',
+        'updatedAt'
+      ]);
+    }
+
+    function isValidUser(data) {
+      return (
+        (!data.keys().hasAny(['email']) || (data.email is string && data.email.size() <= 256)) &&
+        (!data.keys().hasAny(['streak']) || data.streak is number) &&
+        (!data.keys().hasAny(['totalReadingTime']) || data.totalReadingTime is number) &&
+        (!data.keys().hasAny(['favorites']) || (data.favorites is list && data.favorites.size() <= 100)) &&
+        (!data.keys().hasAny(['seriesProgress']) || data.seriesProgress is map) &&
+        (!data.keys().hasAny(['subscriptionStatus']) || data.subscriptionStatus is string) &&
+        (!data.keys().hasAny(['subscriptionId']) || data.subscriptionId is string) &&
+        (!data.keys().hasAny(['premium']) || data.premium is bool)
+      );
+    }
+
+    // 3. User progress
+    match /userProgress/{userId} {
+      allow get: if isOwner(userId);
+      allow list: if false;
+      allow create, update: if isOwner(userId) && isValidUserProgress(incoming());
+    }
+
+    function isValidUserProgress(data) {
+      return (
+        (!data.keys().hasAny(['completedNodes']) || data.completedNodes is list) &&
+        (!data.keys().hasAny(['favorites']) || data.favorites is list) &&
+        (!data.keys().hasAny(['studyStreak']) || data.studyStreak is number) &&
+        (!data.keys().hasAny(['totalReadingTime']) || data.totalReadingTime is number) &&
+        (!data.keys().hasAny(['lastActivity']) || data.lastActivity is timestamp)
+      );
+    }
+  }
+}

@@ -1,6 +1,6 @@
 ### A21. Principle of Progression
 **ID:** A21-PRINCIPLE-PROGRESSION
-**Created:** 2025-04-25 (Updated: 2025-01-27)
+**Created:** 2025-04-25 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Training stimulus must be gradually and systematically increased over time to continue driving adaptations as the body adapts to current demands.
@@ -89,4 +89,5 @@ Too rapid progression can lead to [[M2. Overtraining and Functional Overreaching
 - Program design: [[O1. Integrated Programming Considerations]]
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-27: Restructured for accessibility, added practical applications and common mistakes, enhanced research citations with working links

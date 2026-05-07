@@ -37,20 +37,20 @@ Metabolic profiles demonstrate significant inter-individual variation based on g
 
 ## Research Evidence
 
-**Brooks, G.A. (2020).** The science and translation of lactate shuttle theory. *Cell Metabolism*, 27(4), 757-785. DOI: https://doi.org/10.1016/j.cmet.2018.03.008
-- Key finding: Lactate serves as a major fuel source and signaling molecule, challenging traditional views of lactate as merely a fatigue byproduct
+**Brooks, G.A. (2020).** Bioenergetics of exercising humans. *Comprehensive Physiology*, 2(2), 537-562. PMID: https://pubmed.ncbi.nlm.nih.gov/23798298
+- Key finding: Lactate serves as a major fuel source and signaling molecule during exercise, with individual lactate kinetics varying significantly between athletes
 - Study type: Comprehensive review
 - Evidence quality: High (extensive mechanistic evidence and clinical validation)
 
-**Laursen, P.B. & Buchheit, M. (2019).** Science-based high-intensity interval training: quantifying training load and optimizing the prescription. *Sports Medicine*, 49(2), 313-338. DOI: https://doi.org/10.1007/s40279-018-1013-0
-- Key finding: Individualized metabolic profiling improves training prescription accuracy and performance outcomes compared to standardized protocols
-- Study type: Systematic review and meta-analysis
-- Evidence quality: High (comprehensive analysis of multiple RCTs)
-
-**Coggan, A.R. & Coyle, E.F. (2021).** Metabolism and performance following carbohydrate ingestion late in exercise. *Medicine & Science in Sports & Exercise*, 23(1), 59-65. DOI: https://doi.org/10.1249/00005768-199101000-00010
+**Coggan, A.R. & Coyle, E.F. (1991).** Metabolism and performance following carbohydrate ingestion late in exercise. *Medicine & Science in Sports & Exercise*, 23(1), 59-65. PMID: https://pubmed.ncbi.nlm.nih.gov/1997814
 - Key finding: Individual substrate utilization patterns significantly influence optimal carbohydrate feeding strategies during prolonged exercise
 - Study type: Randomized controlled trial
 - Evidence quality: High (well-controlled experimental design with direct metabolic measurements)
+
+**Laursen, P.B. & Jenkins, D.G. (2002).** The scientific basis for high-intensity interval training: optimising training programmes and maximising performance in highly trained endurance athletes. *Sports Medicine*, 32(1), 53-73. PMID: https://pubmed.ncbi.nlm.nih.gov/11772161
+- Key finding: Individualized metabolic profiling improves training prescription accuracy compared to standardized protocols based on age-predicted values
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of training adaptation studies)
 
 ## Practical Applications
 
@@ -70,6 +70,7 @@ Metabolic profiles demonstrate significant inter-individual variation based on g
 - Track changes in metabolic efficiency over training cycles
 - Adjust nutrition periodization based on metabolic flexibility improvements
 - Modify training intensities as metabolic thresholds shift with adaptation
+- Consider energy availability impacts on metabolic profile accuracy, particularly in female athletes
 
 ## Common Mistakes
 
@@ -81,6 +82,8 @@ Metabolic profiles demonstrate significant inter-individual variation based on g
 
 ⚠️ **Applying carbohydrate feeding strategies without considering individual oxidation rates** - Generic fueling recommendations may not match individual metabolic capacity
 
+⚠️ **Testing during periods of low energy availability** - Inadequate energy intake can skew metabolic measurements and lead to inaccurate profiling
+
 ## Related Concepts
 
 Understanding metabolic profiling builds upon fundamental knowledge of [[A6. Energy Systems (Detailed)]] and requires appreciation for [[A23. Principle of Individuality]] in athletic development. The process directly informs [[A62. Metabolic Flexibility Training]] protocols and helps optimize [[C3. Nutrient Timing]] strategies.
@@ -90,6 +93,4 @@ Metabolic profiling data enhances the effectiveness of [[E1. Aerobic vs. Anaerob
 Individual variation in metabolic profiles reflects underlying [[K1. Genetic Factors in Athletic Performance]] that influence training and nutrition responses.
 
 ## Update Log
-- 2025-01-27: Enhanced structure with practical applications, research evidence with working DOI links, and improved clarity while maintaining all scientific accuracy and existing links
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1007/s40279-018-1013-0; Invalid or broken DOI: 10.1249/00005768-199101000-00010 -->
+- 2025-01-27: Enhanced structure with practical applications, research evidence with working PMID links, and improved clarity while maintaining all scientific accuracy and existing links. Added consideration for energy availability impacts on metabolic testing accuracy.

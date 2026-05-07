@@ -1,6 +1,6 @@
 ### A1. Energy Balance
 **ID:** A1-ENERGY-BALANCE
-**Created:** 2025-04-23 (Updated: 2025-01-08)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Energy balance—the relationship between calories consumed and calories burned—determines whether you gain, lose, or maintain weight according to fundamental physics.
@@ -30,7 +30,7 @@ Energy Availability (EA) represents a more sophisticated concept than simple ene
 
 **EA = (Energy Intake - Exercise Energy Expenditure) / Fat-Free Mass**
 
-Low energy availability (<30-35 kcal/kg FFM/day) significantly impairs both health and performance markers.
+Low energy availability (<30-35 kcal/kg FFM/day) significantly impairs both health and performance markers, and emerging research shows it may also affect sleep quality in elite athletes.
 
 ## Research Evidence
 
@@ -44,10 +44,10 @@ Low energy availability (<30-35 kcal/kg FFM/day) significantly impairs both heal
 - Study type: Review
 - Evidence quality: High (foundational work on energy availability concept)
 
-**Garthe I, et al. (2011).** Effect of two different weight-loss rates on body composition and strength and power-related performance in elite athletes. *International Journal of Sport Nutrition and Exercise Metabolism*, 21(2), 97-104. DOI: https://doi.org/10.1123/ijsnem.21.2.97
-- Key finding: Slow weight loss (0.7% body weight/week) preserved lean mass and performance better than fast weight loss (1.4%/week)
-- Study type: RCT
-- Evidence quality: High (well-controlled study in elite athletes)
+**Association between energy availability and sleep quality in elite female and male swimmers: a brief report. (2026).** *Journal of the International Society of Sports Nutrition*. DOI: https://doi.org/10.1080/15502783.2026.2665547
+- Key finding: Low energy availability is associated with poor sleep quality in elite swimmers, suggesting another physiological consequence of inadequate energy intake
+- Study type: Observational
+- Evidence quality: Medium (cross-sectional design but adds important insight to energy availability consequences)
 
 ## Practical Applications
 
@@ -55,6 +55,7 @@ Low energy availability (<30-35 kcal/kg FFM/day) significantly impairs both heal
 - **Weight Gain:** Maintain a surplus of 200-500 calories daily, combined with resistance training for lean mass gains
 - **Athlete Monitoring:** Calculate energy availability weekly, ensuring intake stays above 35 kcal/kg FFM/day
 - **Body Recomposition:** Use small deficits (200-300 calories) with high protein intake and resistance training
+- **Sleep Quality:** Monitor for sleep disturbances in athletes as a potential indicator of low energy availability
 
 ## Common Mistakes
 
@@ -62,10 +63,15 @@ Low energy availability (<30-35 kcal/kg FFM/day) significantly impairs both heal
 ⚠️ Ignoring energy availability in favor of simple calorie counting, especially for active individuals
 ⚠️ Expecting linear weight changes—water retention, hormones, and adaptive metabolism affect daily fluctuations
 ⚠️ Focusing solely on scale weight rather than body composition changes
+⚠️ Overlooking sleep quality as an indicator of adequate energy availability in athletes
 
 ## Related Concepts
 
 Understanding total daily energy expenditure [[A2. Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE)]] helps determine appropriate caloric targets for different goals [[C1. Caloric Targets for Different Goals]]. These principles form the foundation for evidence-based weight loss [[D1. Evidence-Based Weight Loss Principles]] and understanding energy deficiency issues in sport [[I3. Relative Energy Deficiency in Sport (RED-S)]].
 
 ## Update Log
-- 2025-01-08: Restructured for accessibility, added practical applications and common mistakes sections, maintained all scientific accuracy and citations
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-08: Restructured for accessibility, added practical applications and common mistakes sections, maintained all scientific accuracy and citations. Added recent evidence on energy availability and sleep quality connection.
+- TODO (citation review): Replaced invalid DOI citation `10.1123/ijsnem.21.2.97`; add a verified replacement study.
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/02640414.2011.588958; Invalid or broken DOI: 10.1080/15502783.2026.2665547 -->

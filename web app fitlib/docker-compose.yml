@@ -1,0 +1,66 @@
+version: '3.8'
+
+services:
+  fitlib-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      # Firebase Admin SDK
+      - FIREBASE_SERVICE_ACCOUNT_KEY=${FIREBASE_SERVICE_ACCOUNT_KEY}
+      # Stripe
+      - STRIPE_SECRET_KEY=${STRIPE_SECRET_KEY}
+      - STRIPE_WEBHOOK_SECRET=${STRIPE_WEBHOOK_SECRET}
+      # Algolia
+      - VITE_ALGOLIA_APP_ID=${VITE_ALGOLIA_APP_ID}
+      - VITE_ALGOLIA_SEARCH_KEY=${VITE_ALGOLIA_SEARCH_KEY}
+    volumes:
+      - ./logs:/app/logs
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - fitlib-network
+
+  # Optional: Add Redis for caching (future enhancement)
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+    networks:
+      - fitlib-network
+    profiles:
+      - with-redis
+
+  # Optional: Add monitoring (future enhancement)
+  prometheus:
+    image: prom/prometheus:latest
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus_data:/prometheus
+    restart: unless-stopped
+    networks:
+      - fitlib-network
+    profiles:
+      - monitoring
+
+volumes:
+  redis_data:
+  prometheus_data:
+
+networks:
+  fitlib-network:
+    driver: bridge

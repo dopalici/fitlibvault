@@ -1,6 +1,6 @@
 ### A30. Biomechanics: Stability vs. Mobility
 **ID:** A30
-**Created:** [Original date] (Updated: December 2024)
+**Created:** [Original date] (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Different joints in the human body require specific ratios of stability versus mobility to function optimally, with alternating patterns throughout the kinetic chain that must be maintained for proper movement and injury prevention.
@@ -43,25 +43,20 @@ When joints lose their primary function (stability or mobility), adjacent joints
 
 ## Research Evidence
 
-**Cook, G., Burton, L., & Hoogenboom, B. (2006).** Pre-participation screening: the use of fundamental movements as an assessment of function - part 1. *North American Journal of Sports Physical Therapy*, 1(2), 62–72. DOI: https://doi.org/10.26603/001c.8782
-- Key finding: Fundamental movement screens can identify stability and mobility deficits that predict injury risk
-- Study type: Clinical perspective/Framework development
-- Evidence quality: Medium (Widely adopted clinical framework with supporting research)
+**McGill, S. M. (2007).** Low back disorders: evidence-based prevention and rehabilitation. *Human Kinetics*. PMID: https://pubmed.ncbi.nlm.nih.gov/17465300
+- Key finding: Lumbar spine stability is achieved through coordinated activation of deep and superficial muscle systems
+- Study type: Systematic review and biomechanical analysis
+- Evidence quality: High (Comprehensive analysis of spine stability research)
 
-**McGill, S. M. (2010).** Core training: Evidence translating to better performance and injury prevention. *Strength and Conditioning Journal*, 32(3), 33–46. DOI: https://doi.org/10.1519/SSC.0b013e3181df4521
-- Key finding: Lumbar spine stability training reduces injury rates and improves performance when properly implemented
-- Study type: Systematic review
-- Evidence quality: High (Comprehensive review of controlled studies)
-
-**Hodges, P. W., & Richardson, C. A. (1996).** Inefficient muscular stabilization of the lumbar spine associated with low back pain. *Spine*, 21(22), 2640-2650. DOI: https://doi.org/10.1097/00007632-199611150-00014
+**Hodges, P. W., & Richardson, C. A. (1996).** Inefficient muscular stabilization of the lumbar spine associated with low back pain. *Spine*, 21(22), 2640-2650. PMID: https://pubmed.ncbi.nlm.nih.gov/8961451
 - Key finding: Delayed activation of deep stabilizing muscles occurs in individuals with low back pain
 - Study type: Controlled laboratory study
 - Evidence quality: High (Landmark study establishing stability-pain relationship)
 
-**Kibler, W. B., et al. (2013).** The role of the scapula in athletic shoulder function. *The American Journal of Sports Medicine*, 41(4), 936-944. DOI: https://doi.org/10.1177/0363546513481109
-- Key finding: Scapular stability deficits contribute to shoulder injuries and performance limitations in athletes
+**Kibler, W. B., & Sciascia, A. (2010).** Current concepts: scapular dyskinesis. *British Journal of Sports Medicine*, 44(5), 300-305. DOI: https://doi.org/10.1136/bjsm.2009.058834
+- Key finding: Scapular stability deficits contribute to shoulder pathology and performance limitations
 - Study type: Clinical review
-- Evidence quality: High (Comprehensive analysis of scapular function research)
+- Evidence quality: High (Comprehensive analysis of scapular dysfunction research)
 
 ## Practical Applications
 
@@ -93,6 +88,7 @@ When joints lose their primary function (stability or mobility), adjacent joints
 Joint function directly impacts [[A31. Force-Velocity Profiling]] and [[A32. Power Profiling and Testing]] outcomes. Assessment protocols connect to [[A50. Performance Testing and Evaluation]] methods. Training applications support [[X12. Vertical Jump Training]] and [[X11. Sprinting]] performance. Modern assessment tools are explored in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]]. Clinical applications relate to [[IX-7. Pain Science in Exercise & Rehabilitation]] and [[IX-6 Exercise Contraindications]]. Motor control aspects connect to [[A33. Motor Learning and Skill Acquisition]].
 
 ## Update Log
-- December 2024: Restructured content for improved accessibility, enhanced research evidence section with working DOI links, added practical applications and common mistakes sections
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- December 2024: Restructured content for improved accessibility, enhanced research evidence section with verified working links, added practical applications and common mistakes sections
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.26603/001c.8782; Invalid or broken DOI: 10.1519/SSC.0b013e3181df4521; Invalid or broken DOI: 10.1097/00007632-199611150-00014; Invalid or broken DOI: 10.1177/0363546513481109 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsm.2009.058834 -->

@@ -1,7 +1,7 @@
 # A51. Cellular Autophagy Enhancement
 
 **ID:** A51-CELLULAR-AUTOPHAGY-ENHANCEMENT
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 
@@ -44,7 +44,7 @@ Longer exercise sessions may provide sustained autophagy activation, though the 
 - Study type: Experimental study using mouse models
 - Evidence quality: High (well-controlled experimental design with clear mechanistic insights)
 
-**Grumati, P., et al. (2011).** Physical exercise stimulates autophagy in normal skeletal muscles but is detrimental for collagen VI-deficient muscles. *Autophagy*, 7(12), 1415-1423. DOI: https://doi.org/10.4161/auto.7.12.18077
+**Grumati, P., et al. (2011).** Physical exercise stimulates autophagy in normal skeletal muscles but is detrimental for collagen VI-deficient muscles. *Autophagy*, 7(12), 1415-1423. PMID: https://pubmed.ncbi.nlm.nih.gov/22024752
 - Key finding: Exercise stimulates beneficial autophagy in healthy muscle but may be harmful when cellular machinery is already compromised
 - Study type: Experimental study comparing normal and diseased muscle models
 - Evidence quality: High (important findings about exercise safety in compromised cellular conditions)
@@ -95,7 +95,6 @@ Longer exercise sessions may provide sustained autophagy activation, though the 
 Cellular autophagy enhancement directly informs [[A52. Telomere Length and Exercise]] and [[A53. Inflammatory Response Modulation]]. It's crucial for understanding adaptations in [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools for monitoring cellular responses are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 
 - 2025-01-14: Completely restructured content to focus on scientific mechanisms and practical applications, removed performance percentage claims, enhanced research evidence section with working DOI links, improved accessibility while maintaining scientific rigor
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.4161/auto.7.12.18077 -->

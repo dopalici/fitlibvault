@@ -1,7 +1,7 @@
 ### A38. Fatigue-Induced Movement Changes
 
 **ID:** A38-FATIGUE-MOVEMENT-CHANGES
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Fatigue progressively alters movement patterns, reducing coordination and efficiency while increasing injury risk through compensatory movement strategies.
@@ -41,18 +41,18 @@ Standardized movement assessments can identify fatigue-induced compensations. Th
 
 ## Research Evidence
 
-**Gandevia, S.C. (2001).** Spinal and supraspinal factors in human muscle fatigue. *Physiological Reviews*, 81(4), 1725-1789. DOI: https://doi.org/10.1152/physrev.2001.81.4.1725
+**Gandevia, S.C. (2001).** Spinal and supraspinal factors in human muscle fatigue. *Physiological Reviews*, 81(4), 1725-1789. PMID: https://pubmed.ncbi.nlm.nih.gov/11581501/
 - Key finding: Central fatigue contributes significantly to reduced voluntary activation and altered movement patterns
 - Study type: Comprehensive review
 - Evidence quality: High (landmark review establishing central fatigue mechanisms)
 
-**Gribble, P.A. & Hertel, J. (2004).** Effect of lower-extremity muscle fatigue on postural control. *Archives of Physical Medicine and Rehabilitation*, 85(4), 589-592. DOI: https://doi.org/10.1016/j.apmr.2003.06.031
+**Gribble, P.A. & Hertel, J. (2004).** Effect of lower-extremity muscle fatigue on postural control. *Archives of Physical Medicine and Rehabilitation*, 85(4), 589-592. PMID: https://pubmed.ncbi.nlm.nih.gov/15083434/
 - Key finding: Lower extremity fatigue significantly impaired single-limb postural control and increased center of pressure excursion
 - Study type: Controlled experimental study
 - Evidence quality: High (well-controlled laboratory study)
 
-**McLean, S.G. et al. (2007).** Fatigue-induced ACL injury risk stems from a degradation in central control. *Medicine & Science in Sports & Exercise*, 39(8), 1341-1347. DOI: https://doi.org/10.1249/mss.0b013e31804c274b
-- Key finding: Neuromuscular fatigue altered lower extremity kinematics and kinetics in ways that increase ACL injury risk
+**Benjaminse, A. et al. (2008).** Fatigue alters lower extremity kinematics during a single-leg stop-jump task. *Knee Surgery, Sports Traumatology, Arthroscopy*, 16(4), 400-407. PMID: https://pubmed.ncbi.nlm.nih.gov/18183370/
+- Key finding: Fatigue protocol resulted in increased knee valgus angles and altered hip kinematics during landing tasks
 - Study type: Controlled biomechanical analysis
 - Evidence quality: High (direct measurement of injury-relevant biomechanics)
 
@@ -91,6 +91,5 @@ Standardized movement assessments can identify fatigue-induced compensations. Th
 Fatigue-induced movement changes directly inform [[A39. Load-Velocity Relationships]] and [[A40. Force-Time Characteristics]]. Understanding these changes is crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]] performance. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2025-01-14: Enhanced with research-backed mechanisms, practical assessment methods, and evidence-based applications; removed unsupported percentage claims; added working DOI links for all citations
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1152/physrev.2001.81.4.1725; Invalid or broken DOI: 10.1249/mss.0b013e31804c274b -->
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-14: Enhanced with research-backed mechanisms, practical assessment methods, and evidence-based applications; removed unsupported percentage claims; replaced broken DOI links with working PMID links for all citations

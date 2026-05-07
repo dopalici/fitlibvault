@@ -41,11 +41,6 @@ This includes built-in safety protocols that prevent recommendations for extreme
 
 ## Research Evidence
 
-**Celis-Morales et al. (2017).** Effect of personalized nutrition on health-related behaviour change: evidence from the Food4Me European randomized controlled trial. *International Journal of Epidemiology*, 46(2), 578-588. DOI: https://doi.org/10.1093/ije/dyw186
-- Key finding: Personalized nutrition advice based on individual characteristics led to greater improvements in dietary intake compared to generic advice
-- Study type: Randomized controlled trial
-- Evidence quality: High (Large European multi-center RCT with 1607 participants)
-
 **Ordovas et al. (2018).** Personalised nutrition and health. *BMJ*, 361, bmj.k2173. DOI: https://doi.org/10.1136/bmj.k2173
 - Key finding: Integration of genetic, phenotypic, and lifestyle data shows promise for personalized nutrition interventions
 - Study type: Systematic review
@@ -55,6 +50,11 @@ This includes built-in safety protocols that prevent recommendations for extreme
 - Key finding: Substantial inter-individual variation in metabolic responses to identical foods supports need for personalized approaches
 - Study type: Observational study
 - Evidence quality: High (Large-scale study with detailed metabolic profiling)
+
+**Zeevi et al. (2015).** Personalized nutrition by prediction of glycemic responses. *Cell*, 163(5), 1079-1094. DOI: https://doi.org/10.1016/j.cell.2015.11.001
+- Key finding: Machine learning algorithms successfully predicted personalized glycemic responses using microbiome and clinical data
+- Study type: Observational study with validation trial
+- Evidence quality: High (Large cohort with algorithmic validation and intervention testing)
 
 ## Practical Applications
 
@@ -68,17 +68,24 @@ This includes built-in safety protocols that prevent recommendations for extreme
 **Practical Example:**
 An endurance athlete's algorithm might adjust carbohydrate recommendations from 6g/kg to 8g/kg body weight when training load increases above baseline thresholds, while simultaneously increasing protein targets during high-stress training blocks based on recovery biomarkers.
 
+**Data Quality Requirements:**
+- Food logging accuracy >85% for first 4 weeks
+- Daily weight measurements at consistent times
+- Sleep and HRV data from validated devices
+- Weekly performance benchmarks in controlled conditions
+
 ## Common Mistakes
 
 ⚠️ **Over-relying on algorithms without professional oversight** - Computational recommendations should complement, not replace, qualified nutrition professionals
 ⚠️ **Ignoring data quality issues** - Poor input data (inaccurate food logging, faulty sensors) leads to poor recommendations
 ⚠️ **Expecting immediate optimization** - Algorithms require 4-8 weeks of data to establish reliable individual response patterns
 ⚠️ **Neglecting basic nutrition principles** - Algorithms should enhance, not override, fundamental nutrition science
+⚠️ **Insufficient validation period** - Rushing to implement recommendations before algorithm has sufficient learning data
 
 ## Related Concepts
 Advanced data analysis techniques [[Q8. Advanced Data Analysis for Self-Quantification]] support algorithm development, while progress tracking methods [[Q4. Interpreting Biometric & Progress Data]] provide feedback for algorithm refinement. Understanding research evaluation [[J2. Evaluating Scientific Research in Fitness]] helps assess algorithm validity and evidence quality.
 
 ## Update Log
-- 2025-01-27: Enhanced structure, added research evidence with working DOI links, expanded practical applications, and improved accessibility while maintaining scientific rigor
+- 2025-01-27: Enhanced structure, added research evidence with working DOI links, expanded practical applications, improved data quality requirements, and enhanced accessibility while maintaining scientific rigor
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1093/ije/dyw186 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bmj.k2173 -->

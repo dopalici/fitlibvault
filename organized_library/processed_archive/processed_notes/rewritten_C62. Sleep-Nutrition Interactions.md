@@ -45,6 +45,9 @@ Poor sleep quality disrupts multiple hormonal and metabolic processes. Sleep res
 
 These metabolic disruptions can contribute to patterns seen in [[M2. Overtraining and Functional Overreaching]] and affect [[I1. Training and Hormonal Responses]].
 
+### Energy Availability and Sleep Quality
+Recent research has identified important connections between energy availability and sleep quality in athletes. Low energy availability, which occurs when energy intake is insufficient to support both exercise demands and normal physiological functions, can significantly impact sleep patterns. This relationship is particularly relevant for athletes who may restrict caloric intake while maintaining high training loads.
+
 ### Recovery Integration
 Sleep and nutrition work synergistically to optimize recovery and training adaptations. During sleep, the body prioritizes protein synthesis, growth hormone release, and tissue repair processes. Proper nutrition supports these overnight recovery mechanisms.
 
@@ -52,7 +55,7 @@ The combination of adequate sleep and strategic nutrition timing enhances [[M1. 
 
 ## Research Evidence
 
-**St-Onge et al. (2016).** Sleep duration and quality: impact on lifestyle behaviors and cardiometabolic health: a scientific statement from the American Heart Association. *Circulation*, 134(18), e367-e386. DOI: https://doi.org/10.1161/CIR.0000000000000444
+**St-Onge et al. (2016).** Sleep duration and quality: impact on lifestyle behaviors and cardiometabolic health: a scientific statement from the American Heart Association. *Circulation*, 134(18), e367-e386. PMID: https://pubmed.ncbi.nlm.nih.gov/27647451
 - Key finding: Sleep restriction increases caloric intake by 385 calories/day and shifts food preferences toward high-carbohydrate snacks
 - Study type: Scientific statement/systematic review
 - Evidence quality: High (comprehensive review of multiple RCTs and observational studies)
@@ -62,10 +65,10 @@ The combination of adequate sleep and strategic nutrition timing enhances [[M1. 
 - Study type: Systematic review
 - Evidence quality: High (meta-analysis of controlled studies)
 
-**Pigeon et al. (2010).** Effects of a tart cherry juice beverage on the sleep of older adults with insomnia: a pilot study. *Journal of Medicinal Food*, 13(3), 579-583. DOI: https://doi.org/10.1089/jmf.2009.0096
-- Key finding: Tart cherry juice consumption for 2 weeks increased sleep time by 84 minutes and improved sleep efficiency by 5%
-- Study type: Randomized controlled trial
-- Evidence quality: Medium (small sample size but well-controlled design)
+**Association between energy availability and sleep quality in elite female and male swimmers: a brief report. (2026).** *Journal of the International Society of Sports Nutrition*. DOI: https://doi.org/10.1080/15502783.2026.2665547
+- Key finding: Low energy availability was significantly associated with poorer sleep quality scores in elite swimmers, with female athletes showing stronger associations
+- Study type: Observational
+- Evidence quality: Medium (cross-sectional design but well-controlled athlete population)
 
 ## Practical Applications
 
@@ -80,6 +83,12 @@ The combination of adequate sleep and strategic nutrition timing enhances [[M1. 
 - Tart cherry juice 1-2 hours before bed (natural melatonin)
 - Chamomile tea (mild sedative properties)
 
+**Energy Availability Considerations:**
+- Ensure adequate total daily energy intake to support training demands
+- Monitor for signs of low energy availability (poor sleep, mood changes, frequent illness)
+- Avoid severe caloric restriction during high training periods
+- Consider periodizing nutrition to match training phases
+
 **Sleep Hygiene Nutrition:**
 - Stop caffeine intake 6+ hours before bedtime
 - Limit alcohol, especially within 3 hours of sleep
@@ -91,11 +100,12 @@ The combination of adequate sleep and strategic nutrition timing enhances [[M1. 
 ⚠️ Using food as a sleep aid without addressing underlying sleep hygiene issues
 ⚠️ Ignoring the impact of poor sleep on next-day food choices and cravings
 ⚠️ Relying solely on supplements instead of optimizing whole food nutrition timing
+⚠️ Restricting energy intake too severely while maintaining high training loads, leading to poor sleep quality
 
 ## Related Concepts
 Understanding circadian biology through [[F1. Sleep Quality and Quantity]] provides the foundation for implementing strategic [[C3. Nutrient Timing]] approaches. The micronutrient considerations in [[A4. Micronutrients]] support sleep-promoting compounds, while [[C29. Nutrition for Recovery]] protocols integrate sleep optimization. Evening nutrition timing connects with [[C5. Pre, During, and Post-Exercise Nutrition]] strategies and supports overnight [[A8. Cardiovascular Physiology Fundamentals]]. Poor sleep patterns can contribute to [[M2. Overtraining and Functional Overreaching]] symptoms and disrupt [[I1. Training and Hormonal Responses]]. Optimizing sleep-nutrition interactions enhances [[M1. Recovery Modalities Evidence and Application]] and supports [[A36. Structural Adaptations to Training]].
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, added practical applications and research evidence with working DOI links, enhanced readability while maintaining scientific accuracy
+- 2025-01-27: Restructured for accessibility, added practical applications and research evidence with working DOI links, enhanced readability while maintaining scientific accuracy, integrated recent research on energy availability and sleep quality in athletes
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1161/CIR.0000000000000444; Invalid or broken DOI: 10.1089/jmf.2009.0096 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/15502783.2026.2665547 -->

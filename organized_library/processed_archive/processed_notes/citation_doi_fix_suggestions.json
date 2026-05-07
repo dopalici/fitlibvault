@@ -1,0 +1,176 @@
+{
+  "rewritten_C10. Mediterranean Diet.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1136/bmj.c4671",
+      "candidate": "10.1136/bmj.c4671",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C104. Regulatory Affairs in Sports Nutrition.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1123/ijsnem.16.2.142",
+      "candidate": "10.1123/ijsnem.16.2.142",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C21. Evidence-Based Supplements (Group A).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1146/annurev-nutr-082018-124043",
+      "candidate": "10.1146/annurev-nutr-082018-124043",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C23. Supplement Safety, Regulation, and Quality Control.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1001/jamanetworkopen.2022.23388",
+      "candidate": "10.1001/jamanetworkopen.2022.23388",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C33. Anti-Inflammatory FoodsDiets.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.3945/ajcn.113.076679",
+      "candidate": "10.3945/ajcn.113.076679",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C35. Specialized Nutrition for Performance Demands.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-019-01188-8",
+      "candidate": "10.1007/s40279-019-01188-8",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1093/nutritionreviews/article/83/3/e1068/7712679",
+      "candidate": "10.1093/nutritionreviews/article/83/3/e1068/7712679",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C46. Altitude Nutrition.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1123/ijsnem.16.1.35",
+      "candidate": "10.1123/ijsnem.16.1.35",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C47. Heat Stress Nutrition.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1249/MSS.0b013e3181b9b04b",
+      "candidate": "10.1249/MSS.0b013e3181b9b04b",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C48. Cold Weather Nutrition.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1152/jappl.2000.88.6.2069",
+      "candidate": "10.1152/jappl.2000.88.6.2069",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1249/01.mss.0000235355.96427.ed",
+      "candidate": "10.1249/01.mss.0000235355.96427.ed",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C50. Recovery Nutrition Protocols.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1123/ijsnem.2017-0232",
+      "candidate": "10.1123/ijsnem.2017-0232",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C55. Nutrient-Exercise Interaction.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-014-0268-2",
+      "candidate": "10.1007/s40279-014-0268-2",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C57. Advanced Hydration Strategies.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-016-0608-2",
+      "candidate": "10.1007/s40279-016-0608-2",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1136/bjsports-2011-090114",
+      "candidate": "10.1136/bjsports-2011-090114",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C74. Social Eating Strategies for Athletes.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1002/(SICI)1098-108X(199907)26:1",
+      "candidate": "10.1002/(SICI)1098-108X(199907)26:1",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C78. Advanced Supplement Timing.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1186/s12970-018-0246-y",
+      "candidate": "10.1186/s12970-018-0246-y",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C80. Appetite Regulation for Athletes.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1136/bjsports-2014-094259",
+      "candidate": "10.1136/bjsports-2014-094259",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C95. Future of Sports Nutrition.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1186/s12970-018-0246-y",
+      "candidate": "10.1186/s12970-018-0246-y",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C98. Therapeutic Nutrition Interventions.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1186/s12970-018-0239-4",
+      "candidate": "10.1186/s12970-018-0239-4",
+      "status": "404",
+      "final_url": ""
+    }
+  ]
+}

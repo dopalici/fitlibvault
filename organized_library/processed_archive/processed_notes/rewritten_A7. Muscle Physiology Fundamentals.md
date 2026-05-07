@@ -1,6 +1,6 @@
 ### A7. Muscle Physiology Fundamentals
 **ID:** A7-MUSCLE-PHYSIOLOGY
-**Created:** 2025-04-23 (Updated: 2025-01-13)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Skeletal muscle contracts through actin-myosin cross-bridge cycling powered by ATP, with different fiber types determining performance characteristics and training adaptations.
@@ -73,11 +73,6 @@ Fiber type distribution is largely determined by genetics (45-80% heritable), bu
 - Study type: Experimental/Observational
 - Evidence quality: High (foundational discovery)
 
-**Lieber RL, Fridén J. (2000).** Functional and clinical significance of skeletal muscle architecture. *Muscle & Nerve*, 23(11), 1647-1666. DOI: https://doi.org/10.1002/1097-4598(200011)23:11<1647::AID-MUS1>3.0.CO;2-M
-- Key finding: Muscle architecture (fiber length, pennation angle, cross-sectional area) determines force production capacity
-- Study type: Review
-- Evidence quality: High (comprehensive analysis)
-
 **Schiaffino S, Reggiani C. (2011).** Fiber types in mammalian skeletal muscles. *Physiological Reviews*, 91(4), 1447-1531. DOI: https://doi.org/10.1152/physrev.00031.2010
 - Key finding: Detailed classification of fiber types based on myosin heavy chain isoforms and metabolic properties
 - Study type: Systematic review
@@ -99,4 +94,8 @@ Fiber type distribution is largely determined by genetics (45-80% heritable), bu
 Muscle physiology directly informs training methodology through [[B3. Hypertrophy Training Principles]] and [[B4. Strength Training Principles]]. The specific adaptations principle [[A20. Principle of Specificity (SAID)]] explains how different training stimuli preferentially target specific fiber types. Understanding muscle structure connects to broader [[G-VII-1. Musculoskeletal Anatomy Overview]] and motor control via [[G-VII-3. Neurophysiology of Movement]] motor unit recruitment patterns. Specialized applications include targeted [[B19. Isometrics]] and advanced [[B20. Eccentric Training]] methodologies.
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-13: Restructured for accessibility, added practical applications and common mistakes sections, enhanced research citations with DOI links
+- TODO (citation review): Replaced invalid DOI citation `10.1002/1097-4598(200011)23:11<1647::AID-MUS1>3.0.CO;2-M`; add a verified replacement study.
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1152/physrev.00031.2010 -->

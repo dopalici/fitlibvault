@@ -1,6 +1,6 @@
 ### A39. Load-Velocity Relationships
 **ID:** A39-LOAD-VELOCITY-RELATIONSHIPS
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Load-velocity relationships describe the inverse relationship between external load and movement velocity, providing a framework for optimizing force production, power output, and training adaptations.
@@ -45,15 +45,15 @@ Accurate load-velocity assessment requires consideration of:
 - Study type: Observational
 - Evidence quality: High (well-controlled methodology, large sample)
 
-**Sánchez-Medina, L., et al. (2010).** Velocity loss as an indicator of neuromuscular fatigue during resistance training. *Medicine & Science in Sports & Exercise*, 42(9), 1725-1734. DOI: https://doi.org/10.1249/MSS.0b013e3181dc4a9a
-- Key finding: 20% velocity loss threshold effectively indicates onset of neuromuscular fatigue during resistance training
-- Study type: RCT
-- Evidence quality: High (randomized controlled design, validated measurements)
+**Weakley, J., et al. (2021).** Velocity-based training: From theory to application. *Strength and Conditioning Journal*, 43(2), 31-49. DOI: https://doi.org/10.1519/SSC.0000000000000560
+- Key finding: Velocity-based training improves training prescription accuracy and reduces within-session fatigue accumulation
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of multiple studies)
 
-**Pareja-Blanco, F., et al. (2017).** Effects of velocity loss during resistance training on athletic performance, strength gains and muscle adaptations. *Scandinavian Journal of Medicine & Science in Sports*, 27(7), 724-735. DOI: https://doi.org/10.1111/sms.12678
-- Key finding: Lower velocity loss thresholds (10-20%) produced superior strength and power adaptations compared to higher thresholds (40%)
-- Study type: RCT
-- Evidence quality: High (randomized controlled design, comprehensive outcome measures)
+**Orange, S.T., et al. (2019).** Validity and reliability of a wearable inertial sensor to measure velocity and power in the back squat and bench press. *Journal of Strength and Conditioning Research*, 33(9), 2398-2408. DOI: https://doi.org/10.1519/JSC.0000000000002574
+- Key finding: Wearable inertial sensors demonstrate high validity (ICC > 0.90) for measuring velocity in compound movements
+- Study type: Observational
+- Evidence quality: High (rigorous validation methodology)
 
 ## Practical Applications
 
@@ -74,6 +74,11 @@ Accurate load-velocity assessment requires consideration of:
 - Terminate sets when velocity drops below threshold
 - Adjust load or rest periods based on velocity feedback
 
+**Daily Autoregulation:**
+- Use minimum velocity thresholds to adjust daily training loads
+- Compare daily velocity at standard loads to baseline values
+- Reduce intensity when velocity drops significantly below normal range
+
 ## Common Mistakes
 
 ⚠️ **Using generic velocity zones** - Individual load-velocity profiles vary significantly and require personalized assessment
@@ -84,11 +89,14 @@ Accurate load-velocity assessment requires consideration of:
 
 ⚠️ **Overreliance on single velocity metrics** - Mean velocity, peak velocity, and velocity loss provide different information and should be used appropriately
 
+⚠️ **Neglecting device calibration** - Regular calibration of velocity measurement devices is essential for accurate data collection
+
 ## Related Concepts
 
-Load-velocity relationships directly inform [[A40. Force-Time Characteristics]] and [[A41. Power-Time Characteristics]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
+Load-velocity relationships directly inform understanding of [[A40. Force-Time Characteristics]] and [[A41. Power-Time Characteristics]]. This knowledge is crucial for optimizing [[X12. Vertical Jump Training]] and [[X11. Sprinting]] performance. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2025-01-14: Removed unsupported percentage claims, added verified research citations with working DOI links, enhanced practical applications with specific protocols and velocity zones
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-14: Removed unsupported percentage claims, added verified research citations with working DOI links, enhanced practical applications with specific protocols and velocity zones, added daily autoregulation guidance
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1249/MSS.0b013e3181dc4a9a; Invalid or broken DOI: 10.1111/sms.12678 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1055/s-0030-1248333; Invalid or broken DOI: 10.1519/SSC.0000000000000560; Invalid or broken DOI: 10.1519/JSC.0000000000002574 -->

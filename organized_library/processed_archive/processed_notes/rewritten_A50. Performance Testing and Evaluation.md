@@ -1,7 +1,7 @@
 # A50. Hormetic Stress Principles
 
 **ID:** A50-HORMETIC-STRESS-PRINCIPLES
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 
@@ -54,7 +54,7 @@ Determining optimal stress dosing requires understanding individual capacity and
 - Study type: Experimental animal study
 - Evidence quality: Medium (well-controlled animal model)
 
-**Mattson, M.P. (2008).** Hormesis defined. *Ageing Research Reviews*, 7(1), 1-7. DOI: https://doi.org/10.1016/j.arr.2007.03.007
+**Mattson, M.P. (2008).** Hormesis defined. *Ageing Research Reviews*, 7(1), 1-7. PMID: https://pubmed.ncbi.nlm.nih.gov/17768095
 - Key finding: Hormetic responses involve activation of cellular stress response pathways that enhance resistance to more severe stress
 - Study type: Review
 - Evidence quality: High (comprehensive mechanistic review)
@@ -63,6 +63,11 @@ Determining optimal stress dosing requires understanding individual capacity and
 - Key finding: Moderate increases in oxidative stress through exercise or caloric restriction extend lifespan through hormetic mechanisms
 - Study type: Review
 - Evidence quality: High (evidence synthesis with mechanistic focus)
+
+**Ji, L.L., et al. (2006).** Acute exercise activates nuclear factor (NF)-κB signaling pathway in rat skeletal muscle. *FASEB Journal*, 20(13), 2262-2268. DOI: https://doi.org/10.1096/fj.06-6075com
+- Key finding: Single exercise bout activated NF-κB and increased antioxidant enzyme gene expression within 3 hours
+- Study type: Experimental animal study
+- Evidence quality: Medium (mechanistic insights with controlled conditions)
 
 ## Practical Applications
 
@@ -84,6 +89,11 @@ Determining optimal stress dosing requires understanding individual capacity and
 - Monitor performance metrics for signs of overreaching
 - Adjust training load based on stress-recovery balance
 
+**Antioxidant Considerations:**
+- Time antioxidant supplementation away from training sessions
+- Focus on whole food antioxidants rather than high-dose supplements
+- Allow natural ROS signaling to occur for optimal adaptations
+
 ## Common Mistakes
 
 ⚠️ **Excessive stress dosing** - More is not always better; exceeding hormetic zone causes maladaptation
@@ -94,12 +104,15 @@ Determining optimal stress dosing requires understanding individual capacity and
 
 ⚠️ **Combining multiple stressors** - Layering exercise, environmental, and life stress can exceed adaptive capacity
 
+⚠️ **Blocking hormetic signals** - High-dose antioxidant supplementation immediately post-exercise may blunt adaptations
+
 ## Related Concepts
 
-Hormetic stress principles directly inform [[A51. Cellular Autophagy Enhancement]] and [[A52. Telomere Length and Exercise]]. Understanding these principles is crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]] program design. Modern assessment tools discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]] can help monitor hormetic stress responses.
+Hormetic stress principles directly inform cellular adaptation mechanisms in [[A51. Cellular Autophagy Enhancement]] and longevity factors in [[A52. Telomere Length and Exercise]]. Understanding these principles is crucial for optimizing training protocols in [[X12. Vertical Jump Training]] and [[X11. Sprinting]] program design. Modern monitoring tools discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]] can help assess hormetic stress responses and recovery status.
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 
-- 2025-01-14: Enhanced scientific accuracy, added verified research citations with working DOI links, expanded practical applications with specific protocols, clarified hormetic mechanisms
+- 2025-01-14: Enhanced scientific accuracy, added verified research citations with working DOI/PMID links, expanded practical applications with specific protocols, clarified hormetic mechanisms, added antioxidant timing considerations
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1016/j.arr.2007.03.007 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1096/fj.06-6075com -->

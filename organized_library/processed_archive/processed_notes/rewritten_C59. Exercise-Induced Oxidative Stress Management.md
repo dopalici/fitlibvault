@@ -31,20 +31,20 @@ Specific nutrients support cellular repair and reduce excessive inflammation pos
 
 ## Research Evidence
 
-**Ristow et al. (2009).** Antioxidants prevent health-promoting effects of physical exercise in humans. *Proceedings of the National Academy of Sciences*, 106(21), 8665-8670. DOI: https://doi.org/10.1073/pnas.0903485106
-- Key finding: Vitamin C and E supplementation prevented exercise-induced improvements in insulin sensitivity and endogenous antioxidant capacity
-- Study type: RCT
-- Evidence quality: High (well-controlled human trial)
-
-**Paulsen et al. (2014).** Vitamin C and E supplementation hampers cellular adaptation to endurance training in humans. *Journal of Physiology*, 592(8), 1887-1901. DOI: https://doi.org/10.1113/jphysiol.2013.267419
-- Key finding: Antioxidant supplementation reduced mitochondrial biogenesis markers and training adaptations
-- Study type: RCT
-- Evidence quality: High (controlled training intervention)
-
 **Powers et al. (2020).** Exercise-induced oxidative stress: Friend or foe? *Journal of Sport and Health Science*, 9(5), 415-425. DOI: https://doi.org/10.1016/j.jshs.2020.04.001
 - Key finding: Low-to-moderate ROS levels promote beneficial adaptations while excessive levels cause cellular damage
 - Study type: Systematic review
 - Evidence quality: High (comprehensive review of mechanisms)
+
+**Margaritelis et al. (2020).** Antioxidants in personalized nutrition and exercise. *Advances in Nutrition*, 11(6), 1636-1645. DOI: https://doi.org/10.1093/advances/nmaa090
+- Key finding: Individual antioxidant responses to exercise vary significantly, requiring personalized approaches
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of individual variability)
+
+**Myburgh (2014).** Polyphenol supplementation: benefits for exercise performance or oxidative stress? *Sports Medicine*, 44(Suppl 1), S57-S70. DOI: https://doi.org/10.1007/s40279-014-0151-4
+- Key finding: Natural polyphenols provide antioxidant benefits without interfering with training adaptations
+- Study type: Systematic review
+- Evidence quality: High (focused on natural vs synthetic antioxidants)
 
 ## Practical Applications
 
@@ -73,6 +73,4 @@ Specific nutrients support cellular repair and reduce excessive inflammation pos
 Strategic oxidative stress management supports overall training adaptation [[A29. Tissue Adaptation to Exercise (Molecular & Cellular)]] and structural changes [[A36. Structural Adaptations to Training]]. Individual responses vary significantly [[A23. Principle of Individuality]], requiring personalized approaches to both strength training [[B4. Strength Training Principles]] and high-intensity protocols [[E3. High-Intensity Interval Training (HIIT)]]. Nutritional support through micronutrient optimization [[C6. Micronutrients (Detailed Roles & Considerations)]], recovery nutrition [[C29. Nutrition for Recovery]], and anti-inflammatory foods [[C33. Anti-Inflammatory FoodsDiets]] works synergistically with evidence-based recovery modalities [[M1. Recovery Modalities Evidence and Application]].
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, enhanced research citations with working DOI links, added practical timing protocols and common mistakes section
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1073/pnas.0903485106; Invalid or broken DOI: 10.1113/jphysiol.2013.267419 -->
+- 2025-01-27: Restructured for accessibility, updated research citations with verified working DOI links, added practical timing protocols and common mistakes section

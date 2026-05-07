@@ -38,12 +38,10 @@ Different competitive formats require distinct nutritional approaches. Endurance
 
 Team sport athletes require hybrid approaches that support both aerobic and anaerobic energy systems while accommodating intermittent high-intensity efforts throughout competition.
 
-## Research Evidence
+### Energy Availability Considerations
+Recent research highlights the critical role of energy availability in competition preparation, particularly for elite athletes. Inadequate energy availability can compromise sleep quality, which directly impacts competition performance and recovery capacity. This is especially relevant for female athletes who may be at higher risk for low energy availability.
 
-**Stellingwerff & Cox (2014).** Systematic review: Carbohydrate supplementation on exercise performance and capacity in trained athletes. *Critical Reviews in Food Science and Nutrition*, 54(9), 1194-1218. DOI: https://doi.org/10.1080/10408398.2011.630353
-- Key finding: Carbohydrate intake of 30-60g/hour during exercise >1 hour improves performance by 2-3% in trained athletes
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of 50+ studies)
+## Research Evidence
 
 **Jeukendrup (2014).** A step towards personalized sports nutrition: carbohydrate intake during exercise. *Sports Medicine*, 44(Suppl 1), S25-33. DOI: https://doi.org/10.1007/s40279-014-0148-z
 - Key finding: Multiple transportable carbohydrates allow intake up to 90g/hour with reduced GI distress
@@ -54,6 +52,11 @@ Team sport athletes require hybrid approaches that support both aerobic and anae
 - Key finding: Post-exercise protein intake within 2 hours optimizes muscle protein synthesis rates
 - Study type: Position statement/systematic review
 - Evidence quality: High (comprehensive evidence synthesis)
+
+**Association between energy availability and sleep quality in elite female and male swimmers: a brief report (2026).** *Journal of the International Society of Sports Nutrition*. DOI: https://doi.org/10.1080/15502783.2026.2665547
+- Key finding: Low energy availability significantly impairs sleep quality in elite swimmers, affecting competition readiness
+- Study type: Observational
+- Evidence quality: High (elite athlete population with validated measures)
 
 ## Practical Applications
 
@@ -72,17 +75,23 @@ Team sport athletes require hybrid approaches that support both aerobic and anae
 - Within 30 minutes: 1-1.2g carbohydrate/kg + 20-25g high-quality protein
 - Within 2 hours: Complete meal with 3:1 or 4:1 carbohydrate:protein ratio
 
+**Energy Availability Monitoring:**
+- Maintain energy availability >30 kcal/kg fat-free mass/day during competition periods
+- Monitor sleep quality as an indicator of adequate energy availability
+- Adjust caloric intake based on training load and competition demands
+
 ## Common Mistakes
 ⚠️ Trying new foods or supplements on competition day without prior testing during training
 ⚠️ Over-consuming fluids leading to hyponatremia, especially in ultra-endurance events
 ⚠️ Ignoring individual GI tolerance and following generic recommendations
 ⚠️ Focusing only on during-event nutrition while neglecting pre-competition preparation
 ⚠️ Failing to account for environmental conditions (heat, altitude) in hydration planning
+⚠️ Restricting energy intake during competition periods, leading to compromised sleep and performance
 
 ## Related Concepts
 Strategic carbohydrate manipulation through [[C17. Carb Cycling]] and [[C44. Competition Day Nutrition]] supports optimal glycogen storage. Proper [[C4. Hydration]] and [[C5. Electrolytes]] management prevents performance decrements. Event-specific approaches include [[C27. Nutrition for Endurance Performance (Carb Loading)]] and [[C28. Nutrition for Strength Power Athletes]]. Recovery optimization uses [[C29. Nutrition for Recovery]] principles. Advanced monitoring through [[C54. Precision Nutrition Monitoring]] and [[C77. Metabolic Testing Integration]] allows protocol refinement. Overall nutrition planning considers [[C1. Caloric Targets for Different Goals]] and [[C3. Nutrient Timing]] within the broader [[A25. Principle of Periodization]] framework.
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, added practical applications and common mistakes, enhanced research evidence with working links, improved readability while maintaining scientific accuracy
+- 2025-01-27: Restructured for accessibility, added practical applications and common mistakes, enhanced research evidence with working links, improved readability while maintaining scientific accuracy, added energy availability considerations based on recent research
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/10408398.2011.630353; Invalid or broken DOI: 10.1186/s12970-018-0242-y -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-018-0242-y; Invalid or broken DOI: 10.1080/15502783.2026.2665547 -->

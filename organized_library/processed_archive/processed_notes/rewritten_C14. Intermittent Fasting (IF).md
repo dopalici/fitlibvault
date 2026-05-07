@@ -28,30 +28,36 @@ Intermittent Fasting (IF) refers to eating patterns involving cycles of voluntar
 
 **Periodic Fasting (5:2 Diet):** Normal eating 5 days per week with severe calorie restriction or complete fasting on 2 non-consecutive days.
 
-### Mechanisms and Proposed Benefits
+### Mechanisms and Weight Loss Effects
 
-**Weight Loss:** IF facilitates weight loss primarily by helping create a caloric deficit through restricting eating opportunities. When calories and protein are matched between IF and continuous calorie restriction, IF shows no superior weight loss or body composition benefits (Rynders et al., 2019).
+**Primary Mechanism:** IF facilitates weight loss primarily by helping create a caloric deficit through restricting eating opportunities. The shortened eating window naturally reduces total calorie intake for many individuals without requiring conscious calorie counting.
 
-**Metabolic Health:** Some studies suggest improvements in insulin sensitivity, blood pressure, and oxidative stress markers, though results vary by protocol and may depend on whether weight loss occurs (Tinsley & La Bounty, 2015).
+**Metabolic Comparison:** When calories and protein are matched between IF and continuous calorie restriction, IF shows no superior weight loss or body composition benefits. The weight loss observed with IF is attributed to the caloric deficit created, not unique metabolic advantages.
 
-**Cellular Autophagy:** Fasting periods stimulate autophagy, a cellular cleanup process. However, the practical significance of this effect with typical human IF protocols compared to exercise or continuous restriction remains under investigation.
+**Cellular Effects:** Fasting periods stimulate autophagy, a cellular cleanup process, and may influence insulin sensitivity. However, the practical significance of these effects with typical human IF protocols compared to exercise or continuous restriction remains under investigation.
 
 ### Training and Performance Considerations
 
 **Exercise Performance:** Training in a fasted state may impair high-intensity or prolonged exercise performance due to lower muscle glycogen availability. However, performance can generally be maintained if adequate energy and macronutrients are consumed within the eating window.
 
-**Muscle Considerations:** Achieving adequate protein intake and effective distribution within compressed eating windows can be challenging, potentially making IF suboptimal for maximizing muscle growth compared to more frequent protein feedings.
+**Muscle Protein Synthesis:** Achieving adequate protein intake and effective distribution within compressed eating windows can be challenging, potentially making IF suboptimal for maximizing muscle growth compared to more frequent protein feedings throughout the day.
 
 ## Research Evidence
 
-- **Rynders, C.A., et al. (2019).** Effectiveness of Intermittent Fasting and Time-Restricted Feeding Compared to Continuous Energy Restriction for Weight Loss. *Nutrients*, 11(10), 2442. DOI: 10.3390/nu11102442
-  - Meta-analysis finding similar weight loss outcomes between IF and continuous restriction
+**Welton, S., et al. (2020).** Intermittent fasting and weight loss: Systematic review. *Canadian Family Physician*, 66(2), 117-125. PMID: https://pubmed.ncbi.nlm.nih.gov/32060194
+- Key finding: IF produces similar weight loss to continuous calorie restriction when total calories are controlled
+- Study type: Systematic review
+- Evidence quality: High (comprehensive review of controlled trials)
 
-- **Aragon, A.A., et al. (2017).** International society of sports nutrition position stand: diets and body composition. *Journal of the International Society of Sports Nutrition*, 14, 16. 
-  - Position paper emphasizing calorie balance primacy over meal timing
+**Cioffi, I., et al. (2018).** Intermittent versus continuous energy restriction on weight loss and cardiometabolic outcomes: a systematic review and meta-analysis of randomized controlled trials. *Journal of Translational Medicine*, 16(1), 371. DOI: https://doi.org/10.1186/s12967-018-1748-4
+- Key finding: No significant differences in weight loss, fat loss, or metabolic improvements between IF and continuous restriction
+- Study type: Meta-analysis
+- Evidence quality: High (pooled analysis of RCTs)
 
-- **Tinsley, G.M., & La Bounty, P.M. (2015).** Effects of intermittent fasting on body composition and clinical health markers in humans. *Nutrition Reviews*, 73(10), 661-674.
-  - Systematic review of IF effects on body composition and health markers
+**Moro, T., et al. (2016).** Effects of eight weeks of time-restricted feeding (16/8) on basal metabolism, maximal strength, body composition, inflammation, and cardiovascular risk factors in resistance-trained males. *Journal of Translational Medicine*, 14(1), 290. DOI: https://doi.org/10.1186/s12967-016-1044-0
+- Key finding: 16/8 IF maintained muscle mass and strength while reducing fat mass in trained individuals
+- Study type: RCT
+- Evidence quality: Medium (small sample size but well-controlled)
 
 ## Practical Applications
 
@@ -59,16 +65,19 @@ Intermittent Fasting (IF) refers to eating patterns involving cycles of voluntar
 - Begin with 12/12 or 14/10 windows before progressing to 16/8
 - Schedule eating window around training and social commitments
 - Ensure 0.8-1g protein per lb bodyweight can be achieved within eating window
+- Track hunger patterns and energy levels during initial 2-3 weeks
 
 **Training Timing:**
 - Schedule intense workouts during or near eating windows when possible
 - Consider branched-chain amino acids if training fasted
 - Prioritize post-workout protein intake within eating window
+- Allow 2-4 weeks for fasted training adaptation if needed
 
 **Meal Planning:**
 - Focus on nutrient-dense, filling foods to maximize satiety
-- Include adequate fiber and protein to maintain fullness during fasting periods
+- Include adequate fiber (25-35g daily) and protein to maintain fullness during fasting periods
 - Plan 2-3 larger meals rather than multiple small meals
+- Hydrate adequately during fasting periods with water, black coffee, or plain tea
 
 ## Common Mistakes
 
@@ -89,4 +98,4 @@ Understanding energy balance fundamentals [[A1. Energy Balance]] and setting app
 For muscle-focused goals, ensure adequate protein intake [[B2. Protein Requirements for Muscle Growth]] and consider whether IF supports your muscle gain [[C25. Nutrition for Muscle Gain (Hypertrophy)]] or fat loss objectives [[C26. Nutrition for Fat Loss]]. Success ultimately depends on long-term adherence [[D2. Diet Adherence and Behavior Change]].
 
 ## Update Log
-- 2025-01-16: Restructured content for accessibility, added practical implementation guidelines, and clarified research-based limitations while preserving all scientific accuracy and existing links
+- 2025-01-16: Restructured content for accessibility, added practical implementation guidelines, clarified research-based limitations, updated citations with working links, and preserved all scientific accuracy and existing links

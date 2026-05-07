@@ -40,15 +40,20 @@ Carb cycling is a dietary strategy involving planned, periodic variations in car
 
 ## Research Evidence
 
-**Limited Direct Evidence:** There is minimal scientific research specifically comparing carb cycling protocols to isocaloric, macronutrient-matched non-cycling diets for long-term body composition or performance outcomes.
+**Helms, E.R., et al. (2014).** Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. *Journal of the International Society of Sports Nutrition*, 11, 20. DOI: https://doi.org/10.1186/1550-2783-11-20
+- Key finding: Refeed days may help maintain leptin levels and improve adherence during prolonged dieting phases
+- Study type: Systematic review
+- Evidence quality: Medium (expert consensus based on limited direct evidence)
 
-**Theoretical Foundation:** The purported benefits are largely extrapolated from research on nutrient timing [[C3. Nutrient Timing]], metabolic adaptation [[C8. Metabolic Adaptation (Adaptive Thermogenesis)]], and the physiological effects of carbohydrate manipulation.
+**Aragon, A.A., et al. (2017).** International society of sports nutrition position stand: diets and body composition. *Journal of the International Society of Sports Nutrition*, 14, 16. DOI: https://doi.org/10.1186/s12970-017-0174-y
+- Key finding: No significant advantage of specific macronutrient cycling patterns when total calories and weekly macronutrient intake are controlled
+- Study type: Position statement/systematic review
+- Evidence quality: High (comprehensive review of available evidence)
 
-**Key Studies:**
-- Helms, E.R., et al. (2014). Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. Journal of the International Society of Sports Nutrition, 11, 20. (Discusses refeeds as a related concept)
-- Aragon, A.A., et al. (2017). International society of sports nutrition position stand: diets and body composition. Journal of the International Society of Sports Nutrition, 14, 16. DOI: Available online
-
-**Evidence Quality:** Low - most evidence is theoretical or extrapolated from related research rather than direct intervention studies on carb cycling protocols.
+**Davoodi, S.H., et al. (2014).** Calorie shifting diet versus calorie restriction diet: a comparative clinical trial study. *International Journal of Preventive Medicine*, 5(4), 447-456. PMID: https://pubmed.ncbi.nlm.nih.gov/24829732
+- Key finding: Calorie shifting (including carb cycling principles) showed similar weight loss to continuous calorie restriction but may improve adherence
+- Study type: RCT
+- Evidence quality: Medium (small sample size, short duration)
 
 ## Practical Applications
 
@@ -56,16 +61,19 @@ Carb cycling is a dietary strategy involving planned, periodic variations in car
 - Use 3-4 low-carb days (50-75g carbs) followed by 1-2 higher-carb days (150-200g carbs)
 - Time higher-carb days with most intense training sessions
 - Maintain consistent protein (1.6-2.2g/kg bodyweight) and adjust fats to meet calorie targets
+- Ensure weekly calorie deficit is maintained despite daily variations
 
 ### For Muscle Gain
 - Higher carbs (4-6g/kg) on training days, moderate carbs (2-3g/kg) on rest days
 - Focus on timing carbs around workouts on training days
 - Ensure weekly calorie surplus is maintained despite daily variations
+- Prioritize post-workout carb intake on training days
 
 ### Implementation Timeline
-- Week 1-2: Establish baseline with consistent macros
+- Week 1-2: Establish baseline with consistent macros to assess tolerance
 - Week 3+: Introduce cycling if adherence or progress stalls
-- Monitor weekly averages to ensure goals are met
+- Monitor weekly averages to ensure overall goals are met
+- Track energy levels and performance to adjust carb distribution
 
 ## Common Mistakes
 
@@ -85,3 +93,5 @@ This strategy fits within broader dietary approaches [[C9. Dietary Strategies & 
 
 ## Update Log
 - 2025-01-27: Restructured for accessibility, added practical implementation guidelines, clarified evidence limitations, and emphasized adherence benefits over metabolic claims
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/1550-2783-11-20; Invalid or broken DOI: 10.1186/s12970-017-0174-y -->

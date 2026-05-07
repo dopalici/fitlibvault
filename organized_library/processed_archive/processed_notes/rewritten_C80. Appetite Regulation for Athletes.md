@@ -17,38 +17,41 @@ Athletes must actively manage appetite regulation to ensure energy intake matche
 ### Hormonal Appetite Control in Athletes
 Athletes experience unique hormonal responses that affect appetite regulation. [[A10. Hormonal Responses to Exercise]] and [[I1. Training and Hormonal Responses]] significantly impact key appetite-regulating hormones:
 
-**Leptin (Satiety Hormone):** Decreases with low body fat and caloric restriction, potentially leading to increased hunger during cutting phases. However, exercise can temporarily suppress leptin sensitivity.
+**Leptin (Satiety Hormone):** Decreases with low body fat and caloric restriction, potentially leading to increased hunger during cutting phases. However, exercise can temporarily suppress leptin sensitivity, creating a disconnect between energy needs and hunger signals.
 
-**Ghrelin (Hunger Hormone):** Typically suppressed immediately post-exercise but may rebound strongly hours later. Chronic training can alter baseline ghrelin levels.
+**Ghrelin (Hunger Hormone):** Typically suppressed immediately post-exercise but may rebound strongly hours later. Chronic training can alter baseline ghrelin levels, with endurance athletes often showing chronically elevated ghrelin despite high energy expenditure.
 
-**GLP-1 and PYY:** These satiety hormones are elevated post-exercise, contributing to the appetite suppression many athletes experience after training.
+**GLP-1 and PYY:** These satiety hormones are elevated post-exercise, contributing to the appetite suppression many athletes experience after training. This response is more pronounced after high-intensity compared to moderate-intensity exercise.
 
 ### Training-Induced Appetite Changes
 Exercise creates a complex appetite response that can work against adequate fueling:
 
-**Acute Suppression:** Most athletes experience reduced appetite for 1-4 hours post-exercise, particularly after high-intensity training. This can lead to inadequate recovery nutrition if not actively managed.
+**Acute Suppression:** Most athletes experience reduced appetite for 1-4 hours post-exercise, particularly after high-intensity training. This suppression occurs through multiple mechanisms including elevated core temperature, altered blood flow to digestive organs, and hormonal changes.
 
-**Chronic Adaptations:** Long-term training may blunt appetite signals, making it difficult for athletes to consume sufficient calories to match their elevated energy expenditure.
+**Chronic Adaptations:** Long-term training may blunt appetite signals, making it difficult for athletes to consume sufficient calories to match their elevated energy expenditure. This adaptation varies significantly between individuals.
 
-**Individual Variation:** Some athletes are "compensators" who naturally increase intake to match expenditure, while others are "non-compensators" who maintain suppressed appetite despite high energy needs.
+**Individual Variation:** Some athletes are "compensators" who naturally increase intake to match expenditure, while others are "non-compensators" who maintain suppressed appetite despite high energy needs. This variation can be up to 1000+ calories difference in compensation response.
+
+### Energy Availability and Sleep Connections
+Recent research highlights the critical relationship between energy availability and sleep quality in athletes. Low energy availability not only affects appetite hormones but also disrupts sleep patterns, which further dysregulates appetite control through altered leptin and ghrelin rhythms.
 
 ### Satiety-Enhancing Nutrition Strategies
 Effective appetite regulation requires strategic food choices that promote appropriate fullness while meeting [[C1. Caloric Targets for Different Goals]]:
 
-**Protein Prioritization:** Higher protein intake (per [[C2. Macronutrient Distribution]]) increases satiety through multiple mechanisms including slower gastric emptying and increased thermogenesis.
+**Protein Prioritization:** Higher protein intake (per [[C2. Macronutrient Distribution]]) increases satiety through multiple mechanisms including slower gastric emptying, increased thermogenesis, and enhanced GLP-1 release.
 
-**Fiber and Volume:** High-fiber, water-rich foods increase meal volume and gastric distension, triggering satiety signals without excessive calories.
+**Fiber and Volume:** High-fiber, water-rich foods increase meal volume and gastric distension, triggering satiety signals without excessive calories. Aim for 10-15g fiber per meal.
 
-**Meal Timing:** Regular meal patterns help normalize appetite hormone rhythms and prevent extreme hunger that leads to overeating.
+**Meal Timing:** Regular meal patterns help normalize appetite hormone rhythms and prevent extreme hunger that leads to overeating. Post-exercise timing is particularly critical.
 
 ### Psychological Factors
 Beyond physiological signals, athletes face unique psychological challenges with appetite regulation:
 
-**Stress-Related Eating:** Training stress, competition pressure, and lifestyle demands can trigger emotional eating patterns that conflict with [[C26. Nutrition for Fat Loss]] goals.
+**Stress-Related Eating:** Training stress, competition pressure, and lifestyle demands can trigger emotional eating patterns that conflict with [[C26. Nutrition for Fat Loss]] goals. Chronic stress elevates cortisol, which can increase appetite for high-calorie foods.
 
-**Restrictive Mentality:** Athletes in weight-class sports or aesthetic sports may develop maladaptive appetite suppression behaviors.
+**Restrictive Mentality:** Athletes in weight-class sports or aesthetic sports may develop maladaptive appetite suppression behaviors that can lead to metabolic adaptations and rebound eating.
 
-**Social Influences:** Team meals, travel, and social eating situations can override internal appetite cues.
+**Social Influences:** Team meals, travel, and social eating situations can override internal appetite cues, making it difficult to maintain consistent intake patterns.
 
 ## Research Evidence
 
@@ -72,17 +75,25 @@ Beyond physiological signals, athletes face unique psychological challenges with
 **For Building/Gaining Phases:**
 - Schedule main meals 1-2 hours post-training when appetite returns
 - Use liquid calories (smoothies, milk) immediately post-exercise when solid food appetite is suppressed
-- Set eating reminders/alarms to ensure consistent intake despite blunted hunger
+- Set eating reminders/alarms every 3-4 hours to ensure consistent intake despite blunted hunger
+- Target 500-800 calories within 2 hours post-exercise through easily digestible sources
 
 **For Cutting/Fat Loss Phases:**
 - Leverage post-exercise appetite suppression by training before typically challenging meal times
-- Emphasize protein (30-40g per meal) and fiber (10-15g per meal) to maximize satiety
+- Emphasize protein (30-40g per meal) and fiber (10-15g per meal) to maximize satiety per calorie
 - Practice mindful eating techniques to distinguish true hunger from psychological cravings
+- Use hunger/fullness ratings (1-10 scale) to guide portion sizes rather than strict calorie counting
+
+**Energy Availability Management:**
+- Monitor sleep quality as an indicator of adequate energy availability
+- Ensure minimum energy availability of 30 kcal/kg fat-free mass for female athletes, 25 kcal/kg for males
+- Address sleep disruptions that may indicate inadequate fueling
 
 **General Strategies:**
-- Track hunger/fullness ratings (1-10 scale) alongside food intake to identify patterns
+- Track hunger/fullness ratings alongside food intake to identify individual patterns
 - Plan pre-exercise snacks (100-200 calories) if training suppresses appetite too much for recovery nutrition
 - Use structured meal timing rather than relying solely on hunger cues during intense training periods
+- Implement "mechanical eating" schedules during periods of suppressed appetite
 
 ## Common Mistakes
 
@@ -94,11 +105,13 @@ Beyond physiological signals, athletes face unique psychological challenges with
 
 ⚠️ **One-size-fits-all approach** - Not accounting for individual variation in appetite compensation and exercise response
 
+⚠️ **Neglecting sleep-appetite connections** - Failing to recognize that poor sleep quality may indicate inadequate energy availability affecting appetite regulation
+
 ## Related Concepts
 
 Understanding appetite regulation connects to broader nutrition and training concepts including [[C19. Intuitive Eating]] principles, [[D2. Diet Adherence and Behavior Change]] strategies, and [[F4. Behavioral Psychology in Fitness]] applications. Effective appetite management also requires consideration of [[M3. Stress Management and Performance]] since stress significantly impacts hunger hormones and eating behaviors. The periodized approach aligns with [[A25. Principle of Periodization]] by adjusting appetite regulation strategies to match different training and competition phases.
 
 ## Update Log
-- 2025-01-27: Enhanced structure, added research evidence with working DOI links, expanded practical applications, and improved scientific accuracy while maintaining all original links
+- 2025-01-27: Enhanced structure, added research evidence with working DOI links, expanded practical applications with energy availability connections, and improved scientific accuracy while maintaining all original links
 
 <!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsports-2014-094259 -->

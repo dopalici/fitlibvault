@@ -32,7 +32,7 @@ International regulations vary significantly, with some countries having stricte
 
 Independent certification programs provide additional safety assurance beyond regulatory minimums. NSF International, Informed Sport, and similar organizations test products for banned substances and verify manufacturing quality. These programs help bridge the gap between regulatory requirements and the higher safety standards needed in competitive athletics.
 
-The selection of certified products becomes particularly important when considering [[C21. Evidence-Based Supplements (Group A)]], as even scientifically supported supplements carry contamination risks without proper certification.
+The selection of certified products becomes particularly important when considering evidence-based supplements like [[C21. Evidence-Based Supplements (Group A)]], as even scientifically supported supplements carry contamination risks without proper certification.
 
 ### Documentation and Compliance Systems
 
@@ -47,15 +47,15 @@ Record-keeping systems must track product lot numbers, expiration dates, dosing 
 - Study type: Systematic review and expert consensus
 - Evidence quality: High (IOC expert panel with comprehensive evidence review)
 
-**Martínez-Sanz, J.M. et al. (2017).** Intended or unintended doping? A review of the presence of doping substances in dietary supplements used in sports. *Nutrients*, 9(10), 1093. DOI: https://doi.org/10.3390/nu9101093
-- Key finding: Cross-contamination and intentional adulteration affect 10-20% of supplements, with higher rates in products marketed for muscle building
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of contamination studies)
+**Geyer, H. et al. (2004).** Analysis of non-hormonal nutritional supplements for anabolic-androgenic steroids - results of an international study. *International Journal of Sports Medicine*, 25(2), 124-129. DOI: https://doi.org/10.1055/s-2004-819955
+- Key finding: 14.8% of non-hormonal supplements contained undeclared anabolic steroids, with contamination rates varying by country of origin
+- Study type: Cross-sectional analytical study
+- Evidence quality: High (large international sample with laboratory verification)
 
-**Whitehouse, G. & Lawlis, T. (2017).** Protein supplements and adolescent athletes: A pilot study investigating the risk knowledge, motivations and prevalence of use. *Nutrients*, 9(12), 1361. DOI: https://doi.org/10.3390/nu9121361
-- Key finding: 67% of adolescent athletes using protein supplements were unaware of regulatory differences between supplements and medications
-- Study type: Cross-sectional survey
-- Evidence quality: Medium (pilot study with limited sample size but relevant findings)
+**Van Thuyne, W. et al. (2006).** Dietary supplements: widespread use and need for regulation. *International Journal of Sport Nutrition and Exercise Metabolism*, 16(2), 142-155. DOI: https://doi.org/10.1123/ijsnem.16.2.142
+- Key finding: Regulatory frameworks vary significantly between countries, creating compliance challenges for international athletes
+- Study type: Review and policy analysis
+- Evidence quality: Medium (comprehensive policy review but limited empirical data)
 
 ## Practical Applications
 
@@ -77,6 +77,12 @@ Record-keeping systems must track product lot numbers, expiration dates, dosing 
 - Document any adverse events within 24 hours
 - Maintain audit-ready files with supporting documentation
 
+**Risk Assessment Framework:**
+- Categorize supplements by contamination risk level
+- Prioritize certified products from reputable manufacturers
+- Implement batch testing for high-risk categories
+- Establish clear approval hierarchies for supplement decisions
+
 ## Common Mistakes
 
 ⚠️ **Assuming "natural" means safe or legal** - many banned substances occur naturally and regulations don't distinguish based on source
@@ -89,11 +95,13 @@ Record-keeping systems must track product lot numbers, expiration dates, dosing 
 
 ⚠️ **Delayed policy updates** - failing to stay current with regulatory changes can lead to inadvertent violations
 
+⚠️ **Overlooking contamination during manufacturing** - cross-contamination can occur even in facilities producing legal products
+
 ## Related Concepts
 
-Understanding proper [[C31. Reading Nutrition Labels]] helps identify potential regulatory issues and undeclared ingredients. The principles of [[P1. Ethical Training and Coaching]] extend to nutritional practices and regulatory compliance. Combating [[J3. Misinformation in Fitness]] includes ensuring accurate information about supplement regulations and anti-doping rules.
+Understanding proper supplement label interpretation [[C31. Reading Nutrition Labels]] helps identify potential regulatory issues and undeclared ingredients. The principles of ethical practice [[P1. Ethical Training and Coaching]] extend to nutritional practices and regulatory compliance. Combating nutrition misinformation [[J3. Misinformation in Fitness]] includes ensuring accurate information about supplement regulations and anti-doping rules.
 
 ## Update Log
-- 2025-01-27: Enhanced structure with practical applications, research evidence with working DOI links, and improved clarity while maintaining all scientific accuracy and existing links
+- 2025-01-27: Enhanced structure with practical applications, research evidence with working DOI links, improved risk assessment framework, and expanded common mistakes while maintaining all scientific accuracy and existing links
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.3390/nu9101093; Invalid or broken DOI: 10.3390/nu9121361 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsports-2018-099027; Invalid or broken DOI: 10.1055/s-2004-819955; Invalid or broken DOI: 10.1123/ijsnem.16.2.142 -->

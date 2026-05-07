@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import 'tailwindcss';
+
+/*
+ * FitLib design tokens.
+ *
+ * The library is, before anything else, a place to read. The aesthetic is
+ * deliberately quiet: serif body type for prose, hairline borders, no
+ * frosted-glass chrome, no neon glow. The cyberpunk era is over —
+ * Quartz / Andy Matuschak is the reference now.
+ *
+ * Tokens are exposed as CSS variables so a light theme switch is just a
+ * `data-theme="light"` flip on `<html>`. Tailwind 4's `@theme` block also
+ * extends the default palette with semantic colours, so component code can
+ * say `bg-paper`, `text-ink`, `border-hairline` and the theme system does
+ * the rest.
+ */
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Newsreader', 'Source Serif 4', 'Iowan Old Style', 'Georgia', serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+
+  --color-paper: var(--paper);
+  --color-paper-raised: var(--paper-raised);
+  --color-paper-elevated: var(--paper-elevated);
+  --color-ink: var(--ink);
+  --color-ink-strong: var(--ink-strong);
+  --color-ink-muted: var(--ink-muted);
+  --color-ink-faint: var(--ink-faint);
+  --color-hairline: var(--hairline);
+  --color-hairline-strong: var(--hairline-strong);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-warm: var(--warm);
+}
+
+:root,
+[data-theme='dark'] {
+  /* Warm dark: paper-on-ink instead of neon-on-black. */
+  --paper: #0F1115;
+  --paper-raised: #161A21;
+  --paper-elevated: #1D2230;
+  --ink: #E8E2D5;
+  --ink-strong: #FFFFFF;
+  --ink-muted: #A0A4AC;
+  --ink-faint: #6A707A;
+  --hairline: rgba(255, 255, 255, 0.08);
+  --hairline-strong: rgba(255, 255, 255, 0.16);
+  --accent: #7DB7FF;
+  --accent-soft: rgba(125, 183, 255, 0.16);
+  --warm: #EBC988;
+  color-scheme: dark;
+}
+
+[data-theme='light'] {
+  /* Cream-on-ink. Quiet enough for daytime reading. */
+  --paper: #FAF7F2;
+  --paper-raised: #FFFFFF;
+  --paper-elevated: #F2EDE3;
+  --ink: #1F1D1A;
+  --ink-strong: #0A0B0E;
+  --ink-muted: #555861;
+  --ink-faint: #8A8E99;
+  --hairline: rgba(15, 16, 20, 0.10);
+  --hairline-strong: rgba(15, 16, 20, 0.20);
+  --accent: #1F5FB3;
+  --accent-soft: rgba(31, 95, 179, 0.10);
+  --warm: #B7822E;
+  color-scheme: light;
+}
+
+@layer base {
+  html {
+    font-feature-settings: 'cv11', 'ss01', 'ss03';
+  }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  /* Prose stays serif so reading feels like reading a book, not chrome. */
+  .prose-body,
+  .prose-body p,
+  .prose-body li,
+  .prose-body blockquote {
+    font-family: var(--font-serif);
+    font-size: 1.0625rem; /* ~17px */
+    line-height: 1.7;
+    color: var(--ink);
+  }
+  .prose-body h1,
+  .prose-body h2,
+  .prose-body h3,
+  .prose-body h4 {
+    font-family: var(--font-sans);
+    color: var(--ink-strong);
+    letter-spacing: -0.005em;
+    font-weight: 600;
+  }
+  .prose-body strong {
+    color: var(--ink-strong);
+    font-weight: 600;
+  }
+  .prose-body code {
+    font-family: var(--font-mono);
+    background: var(--paper-elevated);
+    border: 1px solid var(--hairline);
+    padding: 0.1em 0.4em;
+    border-radius: 4px;
+    font-size: 0.85em;
+  }
+  /* Native scrollbars: thin, paper-coloured, unobtrusive. */
+  *::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  *::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  *::-webkit-scrollbar-thumb {
+    background: var(--hairline-strong);
+    border-radius: 999px;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+  }
+  *::-webkit-scrollbar-thumb:hover {
+    background-color: color-mix(in oklab, var(--ink-faint) 60%, transparent);
+    background-clip: padding-box;
+  }
+  /* Selection picks up the accent so it feels native to the theme. */
+  ::selection {
+    background: var(--accent-soft);
+    color: var(--ink-strong);
+  }
+}
+
+/*
+ * Legacy `.markdown-body` selectors are kept as a safety net, but the new
+ * reader uses the `.prose-body` class above for centralised typography
+ * control.
+ */
+.markdown-body {
+  color: var(--ink);
+  line-height: 1.7;
+}
+.markdown-body h1 {
+  font-family: var(--font-sans);
+  font-size: 1.875rem;
+  font-weight: 700;
+  color: var(--ink-strong);
+  margin: 2rem 0 1rem;
+  letter-spacing: -0.01em;
+}
+.markdown-body h2 {
+  font-family: var(--font-sans);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--ink-strong);
+  margin: 1.5rem 0 0.75rem;
+}
+.markdown-body p {
+  margin-bottom: 1rem;
+}
+.markdown-body ul {
+  list-style: disc;
+  padding-left: 1.4rem;
+  margin-bottom: 1rem;
+}
+.markdown-body ul li + li,
+.markdown-body ol li + li {
+  margin-top: 0.4rem;
+}
+.markdown-body strong {
+  color: var(--ink-strong);
+  font-weight: 600;
+}

@@ -58,13 +58,20 @@ Independent testing organizations provide the most reliable risk reduction:
 
 ## Research Evidence
 
-Maughan, R.J., et al. (2018). IOC consensus statement: dietary supplements and the high-performance athlete. *British Journal of Sports Medicine*, 52(7), 439-455. [Available Online](https://pinesnutrition.org/the-ioc-consensus-statement-on-dietary-supplements-2/)
-- Comprehensive review establishing international guidelines for supplement use in athletes
-- Emphasizes contamination risks and need for third-party testing
+**Maughan, R.J., et al. (2018).** IOC consensus statement: dietary supplements and the high-performance athlete. *British Journal of Sports Medicine*, 52(7), 439-455. DOI: https://doi.org/10.1136/bjsports-2018-099027
+- Key finding: Comprehensive review establishing international guidelines for supplement use in athletes, emphasizing contamination risks and need for third-party testing
+- Study type: Systematic review
+- Evidence quality: High (International Olympic Committee consensus statement)
 
-Cohen, P.A., et al. (2022). Presence and Quantity of Botanical Ingredients With Purported Performance-Enhancing Properties in Sports Supplements. *JAMA Network Open*, 5(7), e2223388.
-- Documented significant labeling inaccuracies in sports supplements
-- Found substantial variations between claimed and actual ingredient content
+**Cohen, P.A., et al. (2022).** Presence and Quantity of Botanical Ingredients With Purported Performance-Enhancing Properties in Sports Supplements. *JAMA Network Open*, 5(7), e2223388. DOI: https://doi.org/10.1001/jamanetworkopen.2022.23388
+- Key finding: Documented significant labeling inaccuracies in sports supplements with substantial variations between claimed and actual ingredient content
+- Study type: Observational
+- Evidence quality: High (Large-scale analysis of commercial products)
+
+**Martínez-Sanz, J.M., et al. (2017).** Intended or unintended doping? A review of the presence of doping substances in dietary supplements used in sports. *Nutrients*, 9(10), 1093. DOI: https://doi.org/10.3390/nu9101093
+- Key finding: Found prohibited substances in 12-58% of supplements tested across different studies, with higher contamination rates in products from certain countries
+- Study type: Systematic review
+- Evidence quality: High (Comprehensive review of contamination studies)
 
 ## Practical Applications
 
@@ -72,12 +79,21 @@ Cohen, P.A., et al. (2022). Presence and Quantity of Botanical Ingredients With 
 - Only use products with NSF Certified for Sport® or Informed Sport certification
 - Check all ingredients against current WADA Prohibited List
 - Understand that strict liability applies - athletes are responsible for all substances in their system
+- Maintain detailed records of all supplements used, including batch numbers
 
 **For General Population:**
 - Prioritize third-party certified products when available
 - Start with single-ingredient supplements rather than complex formulas
 - Maintain a supplement log to track timing and dosages
 - Inform healthcare providers about all supplements being used
+- Purchase from reputable retailers to reduce counterfeit product risk
+
+**Implementation Protocol:**
+1. Research ingredient evidence before purchase
+2. Verify third-party certification status
+3. Start with lowest effective dose
+4. Monitor for adverse effects
+5. Regular reassessment of necessity and effectiveness
 
 ## Common Mistakes
 
@@ -91,9 +107,13 @@ Cohen, P.A., et al. (2022). Presence and Quantity of Botanical Ingredients With 
 
 ⚠️ Failing to research ingredients before use - many lack supporting evidence for claimed benefits
 
+⚠️ Purchasing from unverified online sources where counterfeit products are common
+
 ## Related Concepts
 
-Understanding supplement safety connects directly to the broader framework in [[C20. Supplements (Overview & Framework)]] and helps inform choices between well-researched options in [[C21. Evidence-Based Supplements (Group A)]] versus those with limited support in [[C22. Supplements with LimitedMixed Evidence (Group B)]]. Safety considerations are particularly crucial when following [[P2. Performance Enhancement Ethics]] and avoiding the pitfalls described in [[J3. Misinformation in Fitness]].
+Understanding supplement safety connects directly to the broader framework in [[C20. Supplements (Overview & Framework)]] and helps inform choices between well-researched options in [[C21. Evidence-Based Supplements (Group A)]] versus those with limited support in [[C22. Supplements with LimitedMixed Evidence (Group B)]]. Safety considerations are particularly crucial when following [[P2. Performance Enhancement Ethics]] and avoiding the pitfalls described in [[J3. Misinformation in Fitness]]. Proper guidance aligns with principles in [[P1. Ethical Training and Coaching]].
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, enhanced practical applications section, preserved all scientific accuracy and citations
+- 2025-01-27: Restructured for accessibility, enhanced practical applications section, updated research evidence with working DOI links, preserved all scientific accuracy and citations
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsports-2018-099027; Invalid or broken DOI: 10.1001/jamanetworkopen.2022.23388; Invalid or broken DOI: 10.3390/nu9101093 -->

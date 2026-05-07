@@ -1,0 +1,73 @@
+{
+  "entities": {
+    "node": {
+      "title": "Fitness Topic Node",
+      "description": "A research-based fitness topic with content and metadata.",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "series": { "type": "string", "enum": ["A", "B", "C", "E", "Other"] },
+        "content": { "type": "string" },
+        "credibilityScore": { "type": "number" },
+        "citationCount": { "type": "number" },
+        "links": { "type": "array", "items": { "type": "string" } },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["title", "series", "content", "credibilityScore"]
+    },
+    "citation": {
+      "title": "Research Citation",
+      "description": "Academic study details with quality metrics.",
+      "type": "object",
+      "properties": {
+        "nodeId": { "type": "string" },
+        "type": { "type": "string", "enum": ["Meta-Analysis", "RCT", "Review", "Systematic Review"] },
+        "credibilityScore": { "type": "number" },
+        "author": { "type": "string" },
+        "year": { "type": "number" },
+        "title": { "type": "string" },
+        "journal": { "type": "string" },
+        "doi": { "type": "string" },
+        "qualityBreakdown": {
+          "type": "object",
+          "properties": {
+            "studyDesign": { "type": "number" },
+            "evidenceQuality": { "type": "number" },
+            "biasRisk": { "type": "string", "enum": ["Low", "Medium", "High"] },
+            "automationValidated": { "type": "boolean" }
+          }
+        }
+      },
+      "required": ["nodeId", "type", "title", "author", "year"]
+    },
+    "userProfile": {
+      "title": "User Profile",
+      "description": "User reading stats and favorites.",
+      "type": "object",
+      "properties": {
+        "displayName": { "type": "string" },
+        "email": { "type": "string" },
+        "streak": { "type": "number" },
+        "totalReadingTime": { "type": "number" },
+        "favorites": { "type": "array", "items": { "type": "string" } },
+        "seriesProgress": { "type": "object" },
+        "lastActive": { "type": "string", "format": "date-time" }
+      }
+    }
+  },
+  "firestore": {
+    "/nodes/{nodeId}": {
+      "schema": "node",
+      "description": "Collection of fitness topics."
+    },
+    "/nodes/{nodeId}/citations/{citationId}": {
+      "schema": "citation",
+      "description": "Citations associated with a specific node."
+    },
+    "/users/{userId}": {
+      "schema": "userProfile",
+      "description": "User data and progress."
+    }
+  }
+}

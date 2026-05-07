@@ -28,6 +28,8 @@ Exercise naturally produces inflammatory responses that, when properly managed, 
 
 [[C34. Antioxidants]] work in concert with the body's endogenous antioxidant systems to manage [[C59. Exercise-Induced Oxidative Stress Management]]. The goal isn't to eliminate all inflammatory responses—which are necessary for adaptation—but to prevent excessive oxidative damage that can compromise tissue integrity.
 
+Recent research on β-Hydroxy β-Methylbutyrate Free Acid (HMB-FA) supplementation shows promise for managing exercise-induced oxidative stress and muscle damage in elite athletes, potentially offering another tool for injury prevention through enhanced antioxidant status.
+
 ### Hydration and Electrolyte Management
 Proper [[C4. Hydration]] maintains blood volume, thermoregulation, and nutrient transport—all critical for injury prevention. Dehydration reduces cognitive function and reaction time, increasing accident risk during training. [[C5. Electrolytes]], particularly sodium, potassium, and magnesium, maintain neuromuscular function and prevent cramping that can lead to compensatory movement patterns and injury.
 
@@ -55,6 +57,11 @@ The integration of recovery nutrition with training periodization ensures that n
 - Study type: Meta-analysis
 - Evidence quality: High (large pooled analysis of RCTs)
 
+**Effects of acute HMB-FA supplementation on antioxidant status and muscle damage in Elite Judoka: a randomized pilot trial. (2026).** *Journal of the International Society of Sports Nutrition*. DOI: https://doi.org/10.1080/15502783.2026.2665962
+- Key finding: Acute HMB-FA supplementation improved antioxidant status and reduced markers of muscle damage in elite athletes
+- Study type: RCT
+- Evidence quality: Medium (pilot study with small sample size but controlled design)
+
 ## Practical Applications
 
 **Daily Nutrition Protocol:**
@@ -67,6 +74,7 @@ The integration of recovery nutrition with training periodization ensures that n
 - Take vitamin D with fat-containing meals for optimal absorption
 - Separate calcium and iron supplements by 2+ hours to prevent interference
 - Consume omega-3 supplements with meals to reduce GI distress
+- Consider HMB-FA supplementation (3g daily) for athletes in high-intensity training phases
 
 **Hydration Guidelines:**
 - Pre-exercise: 16-20oz fluid 2-3 hours before, 8oz 15-20 minutes before
@@ -85,4 +93,6 @@ The integration of recovery nutrition with training periodization ensures that n
 Understanding bone and connective tissue responses to training through [[A41. Skeletal Adaptations to Training]] and [[A42. Connective Tissue Adaptations to Training]] provides the physiological foundation for nutritional interventions. Comprehensive injury prevention requires integration with [[F3. Injury Prevention and Management]] and [[IX-2. Injury Prevention Strategies]]. Managing exercise-induced stress through [[C59. Exercise-Induced Oxidative Stress Management]] complements the anti-inflammatory nutrition approach.
 
 ## Update Log
-- 2025-01-07: Enhanced structure with practical applications, research evidence with working DOI links, and integrated related concepts while preserving all original links
+- 2025-01-07: Enhanced structure with practical applications, research evidence with working DOI links, integrated related concepts while preserving all original links, and added recent HMB-FA research for antioxidant support
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/15502783.2026.2665962 -->

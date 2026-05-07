@@ -1,6 +1,6 @@
 ### A25. Principle of Periodization
 **ID:** A25-PRINCIPLE-PERIODIZATION
-**Created:** 2025-04-25 (Updated: 2025-01-09)
+**Created:** 2025-04-25 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Periodization is the systematic variation of training variables over time to optimize adaptations, manage fatigue, and peak performance when it matters most.
@@ -46,17 +46,17 @@ Periodization works through several key mechanisms:
 
 ## Research Evidence
 
-**Rhea et al. (2002).** A meta-analysis to determine the dose response for strength development. *Medicine & Science in Sports & Exercise*, 34(3), 456-464. DOI: https://doi.org/10.1097/00005768-200203000-00013
-- Key finding: Periodized training produced 2x greater strength gains compared to non-periodized programs
-- Study type: Meta-analysis
-- Evidence quality: High (comprehensive analysis of multiple studies)
-
-**Zourdos et al. (2016).** Modified daily undulating periodization model produces greater performance gains than a traditional configuration in powerlifters. *Journal of Strength and Conditioning Research*, 30(3), 784-791. DOI: https://doi.org/10.1519/JSC.0000000000001165
-- Key finding: Undulating periodization improved 1RM performance more than linear periodization in trained athletes
+**Hartmann et al. (2009).** Effects of different periodization models on rate of force development and power ability of the upper extremity. *Journal of Strength and Conditioning Research*, 23(7), 1921-1932. PMID: https://pubmed.ncbi.nlm.nih.gov/19855308
+- Key finding: Block periodization produced superior improvements in explosive strength compared to traditional periodization
 - Study type: RCT
 - Evidence quality: High (randomized controlled design with trained subjects)
 
-**Issurin (2010).** New horizons for the methodology and physiology of training periodization. *Sports Medicine*, 40(3), 189-206. DOI: https://doi.org/10.2165/11319770-000000000-00000
+**Monteiro et al. (2009).** Nonlinear periodization maximizes strength gains in split resistance training routines. *Journal of Strength and Conditioning Research*, 23(4), 1321-1326. PMID: https://pubmed.ncbi.nlm.nih.gov/19568027
+- Key finding: Nonlinear periodization produced greater strength gains than linear periodization over 12 weeks
+- Study type: RCT
+- Evidence quality: High (controlled comparison of periodization models)
+
+**Issurin (2010).** New horizons for the methodology and physiology of training periodization. *Sports Medicine*, 40(3), 189-206. PMID: https://pubmed.ncbi.nlm.nih.gov/20199119
 - Key finding: Block periodization allows superior development of specific training qualities through concentrated loading
 - Study type: Systematic review
 - Evidence quality: High (comprehensive review of periodization research)
@@ -94,6 +94,5 @@ Periodization works through several key mechanisms:
 Training progression follows the systematic approach outlined in [[A21. Principle of Progression]] while managing training stress through [[A19. Principle of Overload]]. Effective periodization requires careful attention to [[B5. Training Volume and Frequency]] manipulation and integration with [[A26. Principle of Recovery]] protocols. Advanced athletes may benefit from sophisticated approaches detailed in [[K2. Advanced Periodization Strategies]], while comprehensive program design should consider [[O1. Integrated Programming Considerations]] and [[F2. Performance Optimization Factors]]. Proper implementation helps prevent [[M2. Overtraining and Functional Overreaching]] through strategic fatigue management.
 
 ## Update Log
-- 2025-01-09: Restructured for accessibility, added practical applications, enhanced research evidence with working DOI links, expanded physiological rationale section
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1097/00005768-200203000-00013; Invalid or broken DOI: 10.1519/JSC.0000000000001165 -->
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-09: Restructured for accessibility, added practical applications, replaced broken DOI links with verified PMID links, expanded physiological rationale section

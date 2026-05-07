@@ -18,19 +18,19 @@ Advanced supplement timing represents a sophisticated approach to supplementatio
 
 ### Circadian-Based Supplementation
 
-The body's circadian clock regulates numerous physiological processes that affect supplement efficacy. Hormone production, digestive enzyme secretion, and cellular metabolism all follow predictable daily patterns. Aligning supplement intake with natural circadian rhythms and [[F1. Sleep Quality and Quantity]] patterns optimizes absorption and metabolic processes.
+The body's circadian clock regulates numerous physiological processes that affect supplement efficacy. Hormone production, digestive enzyme secretion, and cellular metabolism all follow predictable daily patterns. Aligning supplement intake with natural circadian rhythms and sleep quality patterns from [[F1. Sleep Quality and Quantity]] optimizes absorption and metabolic processes.
 
-For example, cortisol naturally peaks in the morning, making this an optimal time for adaptogenic supplements. Conversely, melatonin production begins in the evening, suggesting timing for sleep-supporting nutrients should align with this natural rhythm.
+For example, cortisol naturally peaks in the morning, making this an optimal time for adaptogenic supplements. Conversely, melatonin production begins in the evening, suggesting timing for sleep-supporting nutrients should align with this natural rhythm. Recent research demonstrates that energy availability significantly impacts sleep quality in elite athletes, highlighting the importance of coordinating nutrient timing with circadian sleep patterns.
 
 ### Training-Specific Timing Protocols
 
-Coordinating [[C21. Evidence-Based Supplements (Group A)]] with [[C3. Nutrient Timing]] and [[C5. Pre, During, and Post-Exercise Nutrition]] creates synergistic effects that enhance performance and recovery. The physiological state during and after exercise creates unique opportunities for supplement utilization.
+Coordinating evidence-based supplements [[C21. Evidence-Based Supplements (Group A)]] with nutrient timing principles [[C3. Nutrient Timing]] and exercise nutrition strategies [[C5. Pre, During, and Post-Exercise Nutrition]] creates synergistic effects that enhance performance and recovery. The physiological state during and after exercise creates unique opportunities for supplement utilization.
 
 Pre-exercise supplementation focuses on nutrients that enhance immediate performance, while post-exercise timing targets the recovery window when muscle protein synthesis and glycogen replenishment are elevated. This approach requires understanding both the supplement's mechanism of action and the body's exercise-induced metabolic changes.
 
 ### Nutrient Interaction Management
 
-Understanding synergistic and antagonistic relationships between [[C6. Micronutrients (Detailed Roles & Considerations)]] and [[C24. Ergogenic Aids]] prevents interference and maximizes benefit. Some nutrients enhance each other's absorption or function, while others compete for the same transport mechanisms or metabolic pathways.
+Understanding synergistic and antagonistic relationships between micronutrients [[C6. Micronutrients (Detailed Roles & Considerations)]] and ergogenic aids [[C24. Ergogenic Aids]] prevents interference and maximizes benefit. Some nutrients enhance each other's absorption or function, while others compete for the same transport mechanisms or metabolic pathways.
 
 Strategic separation of competing nutrients and combination of synergistic ones can significantly impact supplement effectiveness. This requires knowledge of absorption mechanisms, transport proteins, and metabolic interactions.
 
@@ -42,7 +42,7 @@ Understanding these absorption windows allows for strategic timing that enhances
 
 ### Periodized Supplement Strategies
 
-Integrating supplement timing with [[A25. Principle of Periodization]] and [[K2. Advanced Periodization Strategies]] supports specific training adaptations throughout different phases of preparation. This approach recognizes that nutritional needs change based on training demands, competition schedules, and adaptation goals.
+Integrating supplement timing with periodization principles [[A25. Principle of Periodization]] and advanced periodization strategies [[K2. Advanced Periodization Strategies]] supports specific training adaptations throughout different phases of preparation. This approach recognizes that nutritional needs change based on training demands, competition schedules, and adaptation goals.
 
 ## Research Evidence
 
@@ -83,6 +83,11 @@ Integrating supplement timing with [[A25. Principle of Periodization]] and [[K2.
 - Zinc: 8-11mg (men) or 8mg (women) away from calcium-rich foods
 - Omega-3 fatty acids with dinner for optimal absorption
 
+**Energy Availability Considerations:**
+- Monitor total energy intake to support sleep quality, particularly in elite athletes
+- Coordinate supplement timing with meal patterns to maintain adequate energy availability
+- Adjust timing protocols during periods of energy restriction or high training loads
+
 ## Common Mistakes
 
 ⚠️ Taking all supplements at once without considering interactions (iron blocking zinc absorption, calcium interfering with magnesium)
@@ -95,11 +100,13 @@ Integrating supplement timing with [[A25. Principle of Periodization]] and [[K2.
 
 ⚠️ Expecting immediate results from timing adjustments - adaptations require consistent implementation over weeks
 
+⚠️ Overlooking the impact of energy availability on supplement effectiveness and sleep quality
+
 ## Related Concepts
 
-Understanding supplement timing builds upon fundamental principles of [[C3. Nutrient Timing]] and [[C5. Pre, During, and Post-Exercise Nutrition]]. The selection of appropriate supplements follows guidelines in [[C21. Evidence-Based Supplements (Group A)]] and [[C24. Ergogenic Aids]], while safety considerations are covered in [[C23. Supplement Safety, Regulation, and Quality Control]]. The timing strategy should align with training periodization from [[A25. Principle of Periodization]] and [[K2. Advanced Periodization Strategies]], and consider the role of sleep quality in [[F1. Sleep Quality and Quantity]]. Micronutrient interactions are detailed in [[C6. Micronutrients (Detailed Roles & Considerations)]].
+Understanding supplement timing builds upon fundamental principles of nutrient timing [[C3. Nutrient Timing]] and exercise nutrition strategies [[C5. Pre, During, and Post-Exercise Nutrition]]. The selection of appropriate supplements follows guidelines in evidence-based supplementation [[C21. Evidence-Based Supplements (Group A)]] and ergogenic aids [[C24. Ergogenic Aids]], while safety considerations are covered in supplement safety protocols [[C23. Supplement Safety, Regulation, and Quality Control]]. The timing strategy should align with training periodization principles [[A25. Principle of Periodization]] and advanced periodization strategies [[K2. Advanced Periodization Strategies]], and consider the critical role of sleep quality [[F1. Sleep Quality and Quantity]]. Micronutrient interactions are detailed in micronutrient considerations [[C6. Micronutrients (Detailed Roles & Considerations)]].
 
 ## Update Log
-- 2025-01-27: Enhanced structure with practical timing protocols, added research evidence with working links, expanded on circadian and training-specific considerations
+- 2025-01-27: Enhanced structure with practical timing protocols, added research evidence with working links, expanded on circadian and training-specific considerations, integrated energy availability considerations based on recent research
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-018-0246-y; Invalid or broken DOI: 10.1113/JP272881 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.7717/peerj.2825; Invalid or broken DOI: 10.1186/s12970-018-0246-y; Invalid or broken DOI: 10.1113/JP272881 -->

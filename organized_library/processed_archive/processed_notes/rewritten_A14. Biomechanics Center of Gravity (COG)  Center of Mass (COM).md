@@ -1,6 +1,6 @@
 ### A14. Biomechanics: Center of Gravity (COG) / Center of Mass (COM)
 **ID:** A14-BIOMECH-COG
-**Created:** 2025-04-23 (Updated: 2025-01-15)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 The center of gravity (COG) is the point where your body's weight is concentrated, and keeping it positioned over your base of support is essential for balance, stability, and safe movement.
@@ -90,4 +90,5 @@ All voluntary movement begins with COG displacement outside the BOS. This create
 Understanding COG mechanics supports effective [[L3. Balance and Coordination Training]] and proper [[A18. Proper Lifting Mechanics]]. These principles integrate with [[L1. Movement Patterns and Functional Training]] to create comprehensive movement competency.
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-15: Enhanced scientific explanations, added practical applications, improved research citation format, and expanded movement mechanics section

@@ -1,6 +1,6 @@
 ### A58. Cellular Autophagy Enhancement
 **ID:** A58-CELLULAR-AUTOPHAGY-ENHANCEMENT
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Exercise stimulates cellular autophagy - the body's natural process of removing damaged cellular components and recycling them for energy and repair.
@@ -40,15 +40,15 @@ Autophagy continues during recovery periods, helping clear exercise-induced cell
 - Study type: Experimental study using mouse models
 - Evidence quality: High (well-controlled mechanistic study in Nature)
 
-**Grumati, P., et al. (2011).** Physical exercise stimulates autophagy in normal skeletal muscles but is detrimental for collagen VI-deficient muscles. *Autophagy*, 7(12), 1415-1423. DOI: https://doi.org/10.4161/auto.7.12.18077
-- Key finding: Exercise increases autophagic markers in healthy muscle tissue, demonstrating the adaptive response to physical stress
-- Study type: Experimental study
-- Evidence quality: Medium (specific to collagen VI deficiency but shows general autophagy response)
-
 **Jamart, C., et al. (2012).** Autophagy-related and autophagy-regulatory genes are induced in human muscle after ultraendurance exercise. *European Journal of Applied Physiology*, 112(8), 3173-3177. DOI: https://doi.org/10.1007/s00421-012-2375-z
 - Key finding: Ultraendurance exercise significantly upregulates autophagy-related genes in human skeletal muscle
 - Study type: Human experimental study
 - Evidence quality: High (direct human evidence of exercise-autophagy relationship)
+
+**Lira, V.A., et al. (2013).** Autophagy is required for exercise training-induced skeletal muscle adaptation and improvement of physical performance. *Autophagy*, 9(9), 1313-1326. DOI: https://doi.org/10.4161/auto.25132
+- Key finding: Autophagy is necessary for exercise-induced mitochondrial adaptations and performance improvements in skeletal muscle
+- Study type: Experimental study using genetic knockout models
+- Evidence quality: High (mechanistic evidence showing requirement for adaptation)
 
 ## Practical Applications
 
@@ -82,6 +82,7 @@ Autophagy continues during recovery periods, helping clear exercise-induced cell
 Cellular autophagy enhancement directly informs [[A59. Telomere Length and Exercise]] and [[A60. Epigenetic Responses to Exercise]]. It's crucial for understanding the cellular adaptations in [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools for monitoring cellular responses are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2025-01-14: Rewrote for accessibility while maintaining scientific accuracy, removed unsupported percentage claims, enhanced research evidence section with working DOI links, added practical applications based on current research
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-14: Rewrote for accessibility while maintaining scientific accuracy, removed unsupported percentage claims, enhanced research evidence section with working DOI links, added practical applications based on current research, replaced broken DOI with verified alternative citation
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.4161/auto.7.12.18077 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.4161/auto.25132 -->

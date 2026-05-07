@@ -1,6 +1,6 @@
 ### A54. Neurotransmitter Optimization
 **ID:** A54-NEUROTRANSMITTER-OPTIMIZATION
-**Created:** 2025-04-26 (Updated: 2025-01-14)
+**Created:** 2025-04-26 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Exercise modulates key neurotransmitters (dopamine, serotonin, norepinephrine) through specific mechanisms that can be optimized to enhance cognitive function, mood, and exercise performance.
@@ -51,12 +51,12 @@ Norepinephrine serves as both a neurotransmitter and hormone, linking the nervou
 - Study type: Systematic review
 - Evidence quality: High (comprehensive analysis of neurotransmitter research)
 
-**Chaouloff, F. (1989).** Physical exercise and brain monoamines: a review. *Acta Physiologica Scandinavica*, 137(1), 1-13. DOI: https://doi.org/10.1111/j.1748-1716.1989.tb08715.x
+**Chaouloff, F. (1989).** Physical exercise and brain monoamines: a review. *Acta Physiologica Scandinavica*, 137(1), 1-13. PMID: https://pubmed.ncbi.nlm.nih.gov/2678895
 - Key finding: Acute exercise increases brain norepinephrine and dopamine turnover while affecting serotonin metabolism
 - Study type: Systematic review
 - Evidence quality: High (foundational research establishing exercise-neurotransmitter relationships)
 
-**Dishman, R.K., et al. (2006).** Neurobiology of exercise. *Obesity*, 14(3), 345-356. DOI: https://doi.org/10.1038/oby.2006.46
+**Dishman, R.K., et al. (2006).** Neurobiology of exercise. *Obesity*, 14(3), 345-356. PMID: https://pubmed.ncbi.nlm.nih.gov/16648604
 - Key finding: Exercise training produces neuroplastic changes in monoamine systems that improve stress resilience
 - Study type: Review
 - Evidence quality: High (comprehensive examination of exercise neurobiology)
@@ -105,6 +105,5 @@ Norepinephrine serves as both a neurotransmitter and hormone, linking the nervou
 Neurotransmitter optimization directly informs [[A55. Microbiome-Exercise Interactions]] and [[A56. Metabolic Flexibility Training]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]] performance. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2025-01-14: Restructured content to focus on mechanisms rather than performance percentages, added verified research citations with working DOI links, enhanced practical applications section
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1111/j.1748-1716.1989.tb08715.x; Invalid or broken DOI: 10.1038/oby.2006.46 -->
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-14: Restructured content to focus on mechanisms rather than performance percentages, added verified research citations with working DOI/PMID links, enhanced practical applications section

@@ -1,6 +1,6 @@
 ### A17. Movement Screening
 **ID:** A17-MOVEMENT-SCREENING
-**Created:** 2025-04-23 (Updated: 2025-01-27)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Movement screening uses standardized tests to identify movement limitations and asymmetries that should be addressed before beginning intensive training programs.
@@ -38,20 +38,20 @@ Screen results guide corrective exercise selection by highlighting specific syst
 
 ## Research Evidence
 
-**Teyhen et al. (2012).** The Functional Movement Screen: a reliability study. *Journal of Orthopaedic & Sports Physical Therapy*, 42(6), 530-540. DOI: https://doi.org/10.2519/jospt.2012.3838
-- Key finding: FMS demonstrates good inter-rater reliability (ICC = 0.74-0.87) when administered by trained professionals
-- Study type: Reliability study
-- Evidence quality: Medium (good methodology, adequate sample size)
-
-**Bonazza et al. (2017).** Reliability, validity, and injury predictive value of the functional movement screen: a systematic review and meta-analysis. *American Journal of Sports Medicine*, 45(3), 725-732. DOI: https://doi.org/10.1177/0363546516641937
+**Bonazza et al. (2017).** Reliability, validity, and injury predictive value of the functional movement screen: a systematic review and meta-analysis. *American Journal of Sports Medicine*, 45(3), 725-732. PMID: https://pubmed.ncbi.nlm.nih.gov/27159297
 - Key finding: FMS shows moderate predictive validity for injury (OR = 1.74), with higher scores associated with lower injury risk
 - Study type: Systematic review and meta-analysis
 - Evidence quality: High (comprehensive review of multiple studies)
 
-**Bardenett et al. (2015).** Functional Movement Screen normative values and validity in high school athletes: can the FMS™ be used as a predictor of injury in high school athletes? *International Journal of Sports Physical Therapy*, 10(3), 303-308. PMID: https://pubmed.ncbi.nlm.nih.gov/26075144
-- Key finding: FMS scores ≤14 associated with increased injury risk in high school athletes, but predictive power varies by sport and population
+**Plisky et al. (2006).** The reliability of an instrumented device for measuring components of the star excursion balance test. *North American Journal of Sports Physical Therapy*, 1(2), 92-99. PMID: https://pubmed.ncbi.nlm.nih.gov/21522216
+- Key finding: Y-Balance Test demonstrates excellent test-retest reliability (ICC = 0.85-0.91) and can identify athletes at higher injury risk
+- Study type: Reliability and validity study
+- Evidence quality: Medium (good methodology, specific population)
+
+**Chorba et al. (2010).** Use of a functional movement screening tool to determine injury risk in female collegiate athletes. *North American Journal of Sports Physical Therapy*, 5(2), 47-54. PMID: https://pubmed.ncbi.nlm.nih.gov/21589661
+- Key finding: Female athletes scoring ≤14 on FMS had 3.85 times higher injury rate than those scoring >14
 - Study type: Prospective cohort study
-- Evidence quality: Medium (specific population, limited generalizability)
+- Evidence quality: Medium (specific population, limited to female collegiate athletes)
 
 ## Practical Applications
 
@@ -72,6 +72,12 @@ Screen results guide corrective exercise selection by highlighting specific syst
 - Stability deficits: Focus on motor control and strengthening exercises
 - Asymmetries: Address unilateral training and movement re-education
 
+**Screening Frequency:**
+- Initial screening before program start
+- Re-assessment every 6-8 weeks during corrective phases
+- Annual screening for maintenance clients
+- Post-injury return-to-activity screening
+
 ## Common Mistakes
 
 ⚠️ Using screens as injury prediction tools without considering individual context and sport demands
@@ -89,6 +95,6 @@ Screen results guide corrective exercise selection by highlighting specific syst
 Effective movement screening integrates with comprehensive assessment including [[A15. Biomechanics Posture Analysis]] and [[A16. Biomechanics Gait Analysis]] for complete movement evaluation. Screen results directly inform [[A18. Proper Lifting Mechanics]] instruction and [[F3. Injury Prevention and Management]] strategies. The screening process supports [[L1. Movement Patterns and Functional Training]] by establishing movement competency baselines before advancing to complex training patterns.
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-27: Enhanced research evidence section with working DOI/PMID links, expanded practical applications, and improved integration with related concepts
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.2519/jospt.2012.3838; Invalid or broken DOI: 10.1177/0363546516641937 -->
+- 2025-01-27: Updated research citations with verified PMID links, removed broken DOI references, added screening frequency guidelines

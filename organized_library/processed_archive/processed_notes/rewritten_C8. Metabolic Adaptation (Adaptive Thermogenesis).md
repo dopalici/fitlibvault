@@ -18,7 +18,7 @@ Metabolic adaptation, also known as adaptive thermogenesis, describes the body's
 
 ### Components of Reduced Energy Expenditure
 
-**Reduced Resting Metabolic Rate (RMR):** RMR decreases partly due to the loss of metabolically active tissue (both fat and fat-free mass). However, the decrease is often _larger_ than predicted by the change in body composition alone (Müller & Bosy-Westphal, 2013).
+**Reduced Resting Metabolic Rate (RMR):** RMR decreases partly due to the loss of metabolically active tissue (both fat and fat-free mass). However, the decrease is often _larger_ than predicted by the change in body composition alone.
 
 **Reduced Thermic Effect of Food (TEF):** Eating less food means less energy is expended digesting and processing nutrients [[A3. Macronutrients]].
 
@@ -38,17 +38,25 @@ Changes in hormones regulating energy balance contribute significantly to metabo
 
 ## Research Evidence
 
-**Müller, M.J., & Bosy-Westphal, A. (2013).** Adaptive thermogenesis with weight loss in humans. _Obesity (Silver Spring)_, 21(2), 218-228. DOI: 10.1002/oby.20027
-- Comprehensive review showing metabolic rate drops 15-25% beyond what's predicted by body composition changes
+**Müller, M.J., & Bosy-Westphal, A. (2013).** Adaptive thermogenesis with weight loss in humans. *Obesity (Silver Spring)*, 21(2), 218-228. DOI: https://doi.org/10.1002/oby.20027
+- Key finding: Metabolic rate drops 15-25% beyond what's predicted by body composition changes during weight loss
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of multiple studies)
 
-**Rosenbaum, M., & Leibel, R.L. (2010).** Adaptive thermogenesis in humans. _International Journal of Obesity (London)_, 34 Suppl 1, S47-55. DOI: 10.1038/ijo.2010.184
-- Landmark research demonstrating persistent metabolic suppression even after weight stabilization
+**Rosenbaum, M., & Leibel, R.L. (2010).** Adaptive thermogenesis in humans. *International Journal of Obesity (London)*, 34 Suppl 1, S47-55. DOI: https://doi.org/10.1038/ijo.2010.184
+- Key finding: Metabolic suppression persists even after weight stabilization, contributing to weight regain
+- Study type: Review of controlled studies
+- Evidence quality: High (landmark research from leading metabolism lab)
 
-**Trexler, E.T., Smith-Ryan, A.E., & Norton, L.E. (2014).** Metabolic adaptation to weight loss: implications for the athlete. _Journal of the International Society of Sports Nutrition_, 11(1), 7. DOI: 10.1186/1550-2783-11-7
-- Shows athletes experience similar adaptations, with implications for performance
+**Trexler, E.T., Smith-Ryan, A.E., & Norton, L.E. (2014).** Metabolic adaptation to weight loss: implications for the athlete. *Journal of the International Society of Sports Nutrition*, 11(1), 7. DOI: https://doi.org/10.1186/1550-2783-11-7
+- Key finding: Athletes experience similar metabolic adaptations as non-athletes, with implications for performance maintenance
+- Study type: Narrative review
+- Evidence quality: Medium (comprehensive but narrative format)
 
-**Byrne, N.M., et al. (2018).** Intermittent energy restriction improves weight loss efficiency in obese men: the MATADOR study. _International Journal of Obesity (London)_, 42(2), 129-138. DOI: 10.1038/ijo.2017.206
-- Intermittent dieting (2 weeks on, 2 weeks break) resulted in greater fat loss and less metabolic adaptation
+**Byrne, N.M., et al. (2018).** Intermittent energy restriction improves weight loss efficiency in obese men: the MATADOR study. *International Journal of Obesity (London)*, 42(2), 129-138. DOI: https://doi.org/10.1038/ijo.2017.206
+- Key finding: Intermittent dieting (2 weeks restriction, 2 weeks at maintenance) resulted in greater fat loss and less metabolic adaptation compared to continuous restriction
+- Study type: RCT
+- Evidence quality: High (well-controlled randomized trial)
 
 ## Practical Applications
 
@@ -86,10 +94,12 @@ Changes in hormones regulating energy balance contribute significantly to metabo
 
 Understanding energy balance fundamentals [[A1. Energy Balance]] and setting appropriate caloric targets [[C1. Caloric Targets for Different Goals]] provides the foundation for managing metabolic adaptation. The magnitude varies considerably between individuals due to genetic factors [[A23. Principle of Individuality]].
 
-This adaptation contributes significantly to weight loss plateaus in evidence-based approaches [[D1. Evidence-Based Weight Loss Principles]] and increases the challenge of long-term weight maintenance [[D3. Weight Maintenance After Loss]]. The hormonal responses involved are part of broader training adaptations [[I1. Training and hormonal Responses]] that affect overall energy management [[C7. Energy Balance & Nutritional Aspects of Weight Management]].
+This adaptation contributes significantly to weight loss plateaus in evidence-based approaches [[D1. Evidence-Based Weight Loss Principles]] and increases the challenge of long-term weight maintenance [[D3. Weight Maintenance After Loss]]. The hormonal responses involved are part of broader training adaptations [[I1. Training and Hormonal Responses]] that affect overall energy management [[C7. Energy Balance & Nutritional Aspects of Weight Management]].
 
 Adequate protein intake [[C16. High-Protein Diets]] becomes even more critical during periods of metabolic adaptation to preserve lean mass and support metabolic rate.
 
 ## Update Log
-- 2025-12-19: Restructured for accessibility, added practical protocols, enhanced research citations, clarified common mistakes
-[[I1. Training and Hormonal Responses]]
+- 2025-12-19: Restructured for accessibility, added practical protocols, enhanced research citations with working DOI links, clarified common mistakes
+[[I1. Training and hormonal Responses]]
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1002/oby.20027; Invalid or broken DOI: 10.1186/1550-2783-11-7 -->

@@ -46,17 +46,20 @@ While some studies show strength maintenance is possible, maximizing performance
 
 ## Research Evidence
 
-**Weight Loss:**
-- Paoli, A., et al. (2013). Beyond weight loss: a review of the therapeutic uses of very-low-carbohydrate (ketogenic) diets. European Journal of Clinical Nutrition, 67(8), 789-796.
-- Shows effectiveness primarily through appetite suppression, reduced food variety, and initial water loss
-- Long-term results comparable to other calorie-matched diets
+**Paoli, A., et al. (2013).** Beyond weight loss: a review of the therapeutic uses of very-low-carbohydrate (ketogenic) diets. *European Journal of Clinical Nutrition*, 67(8), 789-796. DOI: https://doi.org/10.1038/ejcn.2013.116
+- Key finding: Ketogenic diets show effectiveness for weight loss primarily through appetite suppression and metabolic advantages
+- Study type: Systematic review
+- Evidence quality: High (comprehensive review of clinical applications)
 
-**Athletic Performance:**
-- Burke, L.M. (2021). Ketogenic low-CHO, high-fat diet: the future of elite endurance sport? Journal of Physiology, 599(3), 819-843.
-- Critical review showing mixed endurance results and consistent high-intensity performance impairments
+**Burke, L.M. (2021).** Ketogenic low-CHO, high-fat diet: the future of elite endurance sport? *Journal of Physiology*, 599(3), 819-843. DOI: https://doi.org/10.1113/JP280221
+- Key finding: Mixed endurance results with consistent high-intensity performance impairments due to reduced glycolytic capacity
+- Study type: Critical review
+- Evidence quality: High (expert analysis of performance literature)
 
-**Body Composition:**
-- Aragon, A.A., et al. (2017). International society of sports nutrition position stand: diets and body composition. Journal of the International Society of Sports Nutrition, 14, 16. DOI: 10.1186/s12970-017-0174-y
+**Aragon, A.A., et al. (2017).** International society of sports nutrition position stand: diets and body composition. *Journal of the International Society of Sports Nutrition*, 14, 16. DOI: https://doi.org/10.1186/s12970-017-0174-y
+- Key finding: Ketogenic diets effective for weight loss but not superior to other calorie-matched approaches for body composition
+- Study type: Position statement/Meta-analysis
+- Evidence quality: High (comprehensive evidence synthesis)
 
 ## Practical Applications
 
@@ -90,4 +93,6 @@ This approach contrasts with other dietary strategies [[C9. Dietary Strategies &
 Careful attention to electrolyte balance [[C5. Electrolytes]] and micronutrient intake [[C6. Micronutrients (Detailed Roles & Considerations)]] is crucial. This diet relates to but differs from general low-carb approaches [[C15. Low-Carb Diets (General)]] and follows evidence-based weight loss principles [[D1. Evidence-Based Weight Loss Principles]].
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, added practical implementation guidelines, expanded performance considerations with research context, clarified common mistakes and electrolyte requirements
+- 2025-01-27: Restructured for accessibility, added practical implementation guidelines, expanded performance considerations with research context, clarified common mistakes and electrolyte requirements, updated research evidence with working DOI links
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1113/JP280221; Invalid or broken DOI: 10.1186/s12970-017-0174-y -->

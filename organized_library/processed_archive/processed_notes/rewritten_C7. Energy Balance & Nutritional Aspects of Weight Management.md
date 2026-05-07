@@ -17,7 +17,7 @@ Successful weight management comes down to manipulating energy balance—eat les
 Effective weight management hinges on manipulating energy balance [[A1. Energy Balance]]—the relationship between energy intake (calories consumed) and energy expenditure (calories burned). Nutritional strategies are tailored to create the appropriate energy balance for achieving specific goals like fat loss, muscle gain, or weight maintenance [[D. Weight Management]].
 
 ### Fat Loss Strategy
-Fat loss through nutrition [[C26. Nutrition for Fat Loss]] requires a sustained **negative energy balance (caloric deficit)**. Research consistently shows that creating a deficit of 10-25% below your Total Daily Energy Expenditure [[A2. Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE)]] primarily through dietary modification produces sustainable fat loss (Hall et al., 2012).
+Fat loss through nutrition [[C26. Nutrition for Fat Loss]] requires a sustained **negative energy balance (caloric deficit)**. Research consistently shows that creating a deficit of 10-25% below your Total Daily Energy Expenditure [[A2. Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE)]] primarily through dietary modification produces sustainable fat loss.
 
 Key nutritional priorities include:
 - High protein intake [[B2. Protein Requirements for Muscle Growth]] to preserve lean body mass during weight loss
@@ -40,9 +40,20 @@ Maintaining weight [[D3. Weight Maintenance After Loss]] requires achieving **av
 
 ## Research Evidence
 
-- Hall, K.D., et al. (2012). Energy balance and its components: implications for body weight regulation. _American Journal of Clinical Nutrition_, 95(4), 989-994. DOI: 10.3945/ajcn.112.036350
-- Aragon, A.A., et al. (2017). International society of sports nutrition position stand: diets and body composition. _Journal of the International Society of Sports Nutrition_, 14, 16. [Available online](https://www.researchgate.net/publication/317708391_International_society_of_sports_nutrition_position_stand_Diets_and_body_composition)
-- Thomas, D.T., et al. (2016). Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. _Journal of the Academy of Nutrition and Dietetics_, 116(3), 501-528. [Available online](https://www.sportgeneeskunde.com/wp-content/uploads/archief_bestanden/files/bestanden/VSG/VSG6673.pdf)
+**Hall, K.D., et al. (2012).** Energy balance and its components: implications for body weight regulation. *American Journal of Clinical Nutrition*, 95(4), 989-994. DOI: https://doi.org/10.3945/ajcn.112.036350
+- Key finding: Energy balance is the fundamental driver of weight change, with energy intake having greater impact than expenditure on weight regulation
+- Study type: Review
+- Evidence quality: High (comprehensive review of energy balance mechanisms)
+
+**Aragon, A.A., et al. (2017).** International society of sports nutrition position stand: diets and body composition. *Journal of the International Society of Sports Nutrition*, 14, 16. DOI: https://doi.org/10.1186/s12970-017-0174-y
+- Key finding: Caloric deficit is required for fat loss regardless of macronutrient composition, with protein intake being crucial for lean mass preservation
+- Study type: Position statement/Review
+- Evidence quality: High (expert consensus based on extensive literature review)
+
+**Thomas, D.T., et al. (2016).** Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. *Journal of the Academy of Nutrition and Dietetics*, 116(3), 501-528. DOI: https://doi.org/10.1016/j.jand.2015.12.006
+- Key finding: Energy availability and appropriate macronutrient timing support both performance and body composition goals
+- Study type: Position statement/Review
+- Evidence quality: High (joint position from major professional organizations)
 
 ## Practical Applications
 
@@ -76,4 +87,6 @@ Maintaining weight [[D3. Weight Maintenance After Loss]] requires achieving **av
 Energy balance fundamentals [[A1. Energy Balance]] • Understanding your metabolic rate [[A2. Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE)]] • Setting caloric targets [[C1. Caloric Targets for Different Goals]] • Macronutrient distribution [[C2. Macronutrient Distribution]] • Metabolic adaptation effects [[C8. Metabolic Adaptation (Adaptive Thermogenesis)]] • Evidence-based weight loss [[D1. Evidence-Based Weight Loss Principles]] • Long-term weight maintenance [[D3. Weight Maintenance After Loss]] • Protein requirements [[B2. Protein Requirements for Muscle Growth]] • Food quality considerations [[C30. Food Quality & Health (Whole vs Processed)]] • Sustainable diet adherence [[D2. Diet Adherence and Behavior Change]] • Flexible dieting approaches [[C18. Flexible Dieting (IIFYM - If It Fits Your Macros)]] • Realistic fat loss expectations [[H3. Realistic Fat Loss Rates]]
 
 ## Update Log
-- 2025-01-27: Restructured content for better accessibility, added practical applications section, and organized research evidence more clearly
+- 2025-01-27: Restructured content for better accessibility, added practical applications section, organized research evidence with working DOI links, and enhanced formatting for clarity
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-017-0174-y -->

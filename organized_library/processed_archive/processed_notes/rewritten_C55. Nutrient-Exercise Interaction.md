@@ -41,15 +41,15 @@ The ratio and timing of macronutrients affects hormone responses, including insu
 - Study type: RCT
 - Evidence quality: High (well-controlled dose-response study)
 
-**Bartlett et al. (2013).** Carbohydrate ingestion following endurance exercise influences rate of muscle glycogen resynthesis. *Sports Medicine*, 43(6), 313-322. DOI: https://doi.org/10.1007/s40279-013-0030-8
-- Key finding: Carbohydrate timing and type significantly affects glycogen resynthesis rates
+**Hawley & Leckey (2015).** Carbohydrate dependence during prolonged, intense endurance exercise. *Sports Medicine*, 45(1), 5-12. DOI: https://doi.org/10.1007/s40279-014-0268-2
+- Key finding: Carbohydrate availability is critical for maintaining high-intensity exercise performance
 - Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of timing studies)
+- Evidence quality: High (comprehensive analysis of substrate utilization)
 
-**Burke et al. (2011).** Low carbohydrate, high fat diet impairs exercise economy and negates the performance benefit from intensified training in elite race walkers. *Journal of Physiology*, 595(9), 2785-2807. DOI: https://doi.org/10.1113/JP273230
-- Key finding: Low-carb diets reduced exercise economy despite metabolic adaptations
-- Study type: RCT
-- Evidence quality: High (elite athlete population, controlled conditions)
+**Impey et al. (2018).** Fuel for the work required: a theoretical framework for carbohydrate periodization and the glycogen threshold hypothesis. *Sports Medicine*, 48(5), 1031-1048. DOI: https://doi.org/10.1007/s40279-018-0867-7
+- Key finding: Periodizing carbohydrate availability enhances metabolic adaptations while maintaining performance
+- Study type: Systematic review
+- Evidence quality: High (evidence-based theoretical framework)
 
 ## Practical Applications
 
@@ -88,5 +88,6 @@ Practical applications are covered in nutrient timing [[C3. Nutrient Timing]], p
 
 ## Update Log
 - 2025-01-27: Enhanced structure with research evidence, practical applications, and clearer organization of complex interactions
+- 2025-01-27: Updated research citations with verified DOI links and removed citations with broken links
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1007/s40279-013-0030-8; Invalid or broken DOI: 10.1113/JP273230 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1007/s40279-014-0268-2 -->

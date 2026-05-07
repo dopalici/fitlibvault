@@ -1,6 +1,6 @@
 ### A5. FITT Principle
 **ID:** A5-FITT-PRINCIPLE
-**Created:** 2025-04-23 (Updated: 2025-01-15)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 The FITT principle (Frequency, Intensity, Time, Type) provides a systematic framework for designing and progressing exercise programs by manipulating four key variables to match individual goals and fitness levels.
@@ -100,4 +100,7 @@ Type refers to the specific mode of exercise chosen, which should align with tra
 The FITT principle works synergistically with fundamental training principles. It provides the practical framework for applying the [[A19. Principle of Overload]] by offering specific variables to manipulate for progressive stress. The [[A20. Principle of Specificity (SAID)]] guides exercise type selection within the FITT framework, while the [[A21. Principle of Progression]] determines how FITT variables should advance systematically over time. Individual responses require consideration of the [[A23. Principle of Individuality]] when determining optimal FITT parameters for each person. Advanced programming integrates all these concepts as outlined in [[O1. Integrated Programming Considerations]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-15: Enhanced practical applications, added research citations with DOIs, expanded common mistakes section, improved clarity of variable interactions
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1249/MSS.0b013e318213fefb; Invalid or broken DOI: 10.1186/1550-2783-11-20 -->

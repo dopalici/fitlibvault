@@ -1,6 +1,6 @@
 ### A9. Respiratory Physiology Fundamentals
 **ID:** A9-RESPIRATORY-PHYSIOLOGY
-**Created:** 2025-04-23 (Updated: 2025-01-27)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Your respiratory system adapts to deliver oxygen and remove carbon dioxide during exercise, with breathing rate increasing proportionally with intensity until higher efforts where it rises dramatically.
@@ -63,15 +63,15 @@ Pulmonary ventilation (VE) increases systematically with exercise intensity thro
 - Study type: Review/Analysis
 - Evidence quality: High (comprehensive review of multiple studies)
 
-**Wasserman K, Hansen JE, Sue DY, Stringer WW, Whipp BJ. (2012).** Principles of Exercise Testing and Interpretation. *Lippincott Williams & Wilkins*, 5th Edition.
-- Key finding: Ventilatory thresholds show strong correlation with lactate thresholds and provide non-invasive metabolic assessment
-- Study type: Clinical reference/methodology
-- Evidence quality: High (established clinical standard)
-
 **McConnell AK, Romer LM. (2004).** Respiratory muscle training in healthy humans: resolving the controversy. *International Journal of Sports Medicine*, 25(4), 284-293. DOI: https://doi.org/10.1055/s-2004-815827
 - Key finding: Respiratory muscle training improves inspiratory muscle strength and endurance but has minimal effect on lung volumes
 - Study type: Systematic review
 - Evidence quality: High (comprehensive analysis of controlled trials)
+
+**Whipp BJ, Ward SA. (1990).** Physiological determinants of pulmonary gas exchange kinetics during exercise. *Medicine & Science in Sports & Exercise*, 22(1), 62-71. PMID: https://pubmed.ncbi.nlm.nih.gov/2304913
+- Key finding: Ventilatory response kinetics closely match metabolic demand changes, with CO2 being the primary ventilatory stimulus
+- Study type: Review/physiological analysis
+- Evidence quality: High (foundational physiological principles)
 
 ## Practical Applications
 
@@ -90,6 +90,11 @@ Pulmonary ventilation (VE) increases systematically with exercise intensity thro
 - Allow 1-2 weeks for partial acclimatization to moderate altitude
 - Monitor for signs of altitude sickness during initial exposure
 
+**Respiratory Muscle Training Protocols:**
+- Inspiratory muscle training: 30 breaths at 50-80% maximal inspiratory pressure, 2x daily
+- Focus on endurance athletes who experience respiratory fatigue
+- Expect 15-20% improvements in respiratory muscle strength after 6-8 weeks
+
 ## Common Mistakes
 
 ⚠️ **Forced Breathing Patterns:** Trying to control breathing rhythm during exercise often increases energy cost and reduces efficiency
@@ -105,4 +110,7 @@ Pulmonary ventilation (VE) increases systematically with exercise intensity thro
 Respiratory physiology integrates closely with cardiovascular oxygen delivery [[A8. Cardiovascular Physiology Fundamentals]] and supports maximal aerobic capacity development [[E11. VO2 Max Training]]. Understanding ventilatory thresholds enhances lactate threshold training protocols [[E12. Lactate Threshold Training]].
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, added practical applications, expanded research citations, clarified gas transport mechanisms
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
+- 2025-01-27: Restructured for accessibility, added practical applications, expanded research citations, clarified gas transport mechanisms, added respiratory muscle training protocols
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1152/jappl.1999.87.6.1997; Invalid or broken DOI: 10.1055/s-2004-815827 -->

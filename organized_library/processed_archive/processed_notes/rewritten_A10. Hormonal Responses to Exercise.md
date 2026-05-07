@@ -1,6 +1,6 @@
 ### A10. Hormonal Responses to Exercise
 **ID:** A10-HORMONAL-RESPONSES
-**Created:** 2025-04-23 (Updated: 2025-01-24)
+**Created:** 2025-04-23 (Updated: 2026-05-06)
 
 ## Quick Takeaway
 Exercise triggers immediate hormonal changes that mobilize fuel and promote growth, while consistent training improves insulin sensitivity and metabolic efficiency over time.
@@ -90,4 +90,7 @@ Trained individuals show blunted catecholamine and cortisol responses to the sam
 Understanding comprehensive training stress management [[I1. Training and Hormonal Responses]] and implementing effective recovery protocols [[M. Recovery Strategies]] are essential for optimizing hormonal adaptations. Psychological stress significantly impacts exercise hormones [[M3. Stress Management and Performance]], while inadequate energy availability can lead to hormonal dysfunction [[I3. Relative Energy Deficiency in Sport (RED-S)]]. These hormonal changes also influence metabolic rate adaptations [[C8. Metabolic Adaptation (Adaptive Thermogenesis)]].
 
 ## Update Log
+- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-24: Restructured for accessibility, added practical applications and common mistakes, enhanced research citations with verified DOI links while preserving all scientific accuracy
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1586/17446651.1.6.783; Invalid or broken DOI: 10.1146/annurev.med.49.1.235 -->

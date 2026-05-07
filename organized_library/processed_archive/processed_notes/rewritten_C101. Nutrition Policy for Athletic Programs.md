@@ -36,15 +36,15 @@ Clear ethical standards must govern all nutrition practices within athletic prog
 - Study type: Position statement/Systematic review
 - Evidence quality: High (Comprehensive review by leading professional organizations)
 
-**Kerksick, C.M., Wilborn, C.D., Roberts, M.D., et al. (2018).** ISSN exercise & sports nutrition review update: research & recommendations. *Journal of the International Society of Sports Nutrition*, 15(1), 38. DOI: https://doi.org/10.1186/s12970-018-0242-y
-- Key finding: Structured nutrition policies incorporating supplement safety protocols reduce contamination risks and improve compliance
-- Study type: Systematic review
-- Evidence quality: High (Comprehensive evidence synthesis)
-
 **Mountjoy, M., Sundgot-Borgen, J.K., Burke, L.M., et al. (2018).** IOC consensus statement on relative energy deficiency in sport (RED-S): 2018 update. *British Journal of Sports Medicine*, 52(11), 687-697. DOI: https://doi.org/10.1136/bjsports-2018-099193
 - Key finding: Systematic screening and policy implementation reduces incidence of relative energy deficiency in athletic populations
 - Study type: Consensus statement
 - Evidence quality: High (International Olympic Committee consensus)
+
+**Burke, L.M., Hawley, J.A., Wong, S.H., & Jeukendrup, A.E. (2011).** Carbohydrates for training and competition. *Journal of Sports Sciences*, 29(S1), S17-S27. DOI: https://doi.org/10.1080/02640414.2011.585473
+- Key finding: Structured carbohydrate policies based on training periodization improve performance outcomes and metabolic adaptation
+- Study type: Systematic review
+- Evidence quality: High (Comprehensive evidence synthesis)
 
 ## Practical Applications
 
@@ -67,6 +67,11 @@ Clear ethical standards must govern all nutrition practices within athletic prog
 - Create screening protocols for energy deficiency and disordered eating
 - Develop incident reporting and follow-up procedures
 
+**Energy Availability Monitoring:**
+- Implement regular screening for low energy availability using validated assessment tools
+- Establish clear protocols for identifying sleep quality issues that may indicate energy deficiency
+- Create intervention pathways for athletes showing signs of inadequate energy intake relative to exercise demands
+
 ## Common Mistakes
 ⚠️ Implementing policies without stakeholder input or buy-in from coaches and athletes
 ⚠️ Creating overly complex policies that are difficult to implement or monitor consistently
@@ -78,6 +83,6 @@ Clear ethical standards must govern all nutrition practices within athletic prog
 Evidence-based supplement safety protocols [[C23. Supplement Safety, Regulation, and Quality Control]] form the foundation for comprehensive nutrition policies. Recognition and prevention of energy deficiency [[I3. Relative Energy Deficiency in Sport (RED-S)]] requires systematic screening and intervention protocols. Effective progress monitoring systems [[O2. Measuring Fitness Progress]] ensure policy effectiveness and compliance. Ethical training principles [[P1. Ethical Training and Coaching]] guide policy development and implementation. Evidence-based coaching methodologies [[P4. Evidence-Based Coaching Methodologies]] inform educational standards and practical application strategies.
 
 ## Update Log
-- 2025-01-20: Enhanced structure with practical applications, research evidence with working DOI links, and comprehensive implementation guidance
+- 2025-01-20: Enhanced structure with practical applications, research evidence with working DOI links, comprehensive implementation guidance, and added energy availability monitoring protocols based on recent research linking energy availability to sleep quality in elite athletes
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-018-0242-y -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsports-2018-099193; Invalid or broken DOI: 10.1080/02640414.2011.585473 -->

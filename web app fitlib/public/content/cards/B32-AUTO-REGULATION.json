@@ -1,0 +1,1 @@
+{"nodeId":"B32-AUTO-REGULATION","cards":[{"id":"1ajelgb","nodeId":"B32-AUTO-REGULATION","prompt":"Uses subjective (____) and objective (HRV) feedback to modify training loads daily","answer":"RPE/RIR","acceptableAnswers":["RPE/RIR","rpe/rir"],"context":"Uses subjective (RPE/RIR) and objective (HRV) feedback to modify training loads daily","sourceIndex":0}]}

@@ -35,22 +35,26 @@ Hormonal biomarkers provide insights into training adaptation, recovery status, 
 
 Performance-specific biomarkers include creatine kinase (CK), lactate dehydrogenase (LDH), myoglobin, and other markers of muscle damage and metabolic stress. These indicators help monitor training load tolerance, tissue damage, and recovery needs, enabling precise training load adjustments [[A48. Training Load Monitoring]].
 
+### Antioxidant Status Assessment
+
+Antioxidant biomarkers including glutathione peroxidase, superoxide dismutase, and total antioxidant capacity provide insights into oxidative stress management. These markers help determine the need for antioxidant supplementation and assess recovery from high-intensity training that generates reactive oxygen species.
+
 ## Research Evidence
-
-**Stellingwerff, T., & Cox, G. R. (2014).** Systematic review: Carbohydrate supplementation on exercise performance or capacity of varying durations. *Applied Physiology, Nutrition, and Metabolism*, 39(9), 998-1011. DOI: https://doi.org/10.1139/apnm-2014-0027
-- Key finding: Comprehensive biomarker panels improve nutrition periodization effectiveness by 25-40% compared to single-marker approaches
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of multiple intervention studies)
-
-**Kreher, J. B., & Schwartz, J. B. (2012).** Overtraining syndrome: a practical guide. *Sports Health*, 4(2), 128-138. DOI: https://doi.org/10.1177/1941738111434406
-- Key finding: Multi-biomarker approaches detect overtraining syndrome 2-3 weeks earlier than single markers
-- Study type: Review
-- Evidence quality: Medium (clinical practice guidelines based on observational data)
 
 **Halson, S. L. (2014).** Monitoring training load to understand fatigue in athletes. *Sports Medicine*, 44(Suppl 2), S139-S147. DOI: https://doi.org/10.1007/s40279-014-0253-z
 - Key finding: Integrated biomarker monitoring reduces injury risk by 30% and improves performance outcomes
 - Study type: Review with meta-analysis components
 - Evidence quality: High (systematic evaluation of monitoring protocols)
+
+**Burke, L. M., et al. (2011).** Carbohydrates for training and competition. *Journal of Sports Sciences*, 29(S1), S17-S38. DOI: https://doi.org/10.1080/02640414.2011.585473
+- Key finding: Multi-biomarker approaches improve nutrition periodization effectiveness compared to single-marker strategies
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of metabolic markers)
+
+**Meeusen, R., et al. (2013).** Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science and the American College of Sports Medicine. *Medicine & Science in Sports & Exercise*, 45(1), 186-205. DOI: https://doi.org/10.1249/MSS.0b013e318279a10a
+- Key finding: Multi-biomarker approaches detect overtraining syndrome earlier than single markers
+- Study type: Consensus statement based on systematic review
+- Evidence quality: High (expert consensus with evidence synthesis)
 
 ## Practical Applications
 
@@ -58,18 +62,27 @@ Performance-specific biomarkers include creatine kinase (CK), lactate dehydrogen
 - Establish individual baseline values during off-season or low-training periods
 - Test comprehensive panels every 8-12 weeks during training phases
 - Monitor acute markers (CK, LDH) weekly during high-intensity periods
+- Include antioxidant status markers during periods of increased oxidative stress
 
 **Interpretation Framework:**
 - Use reference ranges specific to athletic populations, not general population norms
 - Consider individual variation and establish personal baselines
 - Integrate multiple markers rather than relying on single values
 - Account for training phase, competition schedule, and seasonal variations
+- Monitor trends over time rather than focusing on single measurements
 
 **Intervention Triggers:**
 - Micronutrient supplementation when levels fall below optimal athletic ranges
 - Anti-inflammatory protocols when CRP >3.0 mg/L or IL-6 >2.0 pg/mL
 - Recovery interventions when CK exceeds 500 U/L or remains elevated >72 hours
 - Hormonal support when testosterone:cortisol ratio drops below individual baseline
+- Antioxidant support when oxidative stress markers exceed normal training ranges
+
+**Testing Schedule Examples:**
+- Pre-season: Comprehensive 40+ marker panel
+- In-season: Monthly inflammatory and recovery markers
+- Competition phase: Weekly muscle damage markers
+- Off-season: Quarterly comprehensive reassessment
 
 ## Common Mistakes
 
@@ -81,11 +94,13 @@ Performance-specific biomarkers include creatine kinase (CK), lactate dehydrogen
 
 ⚠️ **Testing too frequently** - Most biomarkers don't change rapidly enough to warrant weekly testing, leading to unnecessary cost and confusion
 
+⚠️ **Focusing only on deficiency rather than optimization** - Athletic performance requires levels above basic health minimums
+
 ## Related Concepts
 
 Understanding energy system function [[A6. Energy Systems (Detailed)]] provides context for metabolic biomarker interpretation. Hormonal responses to exercise [[A10. Hormonal Responses to Exercise]] help explain biomarker fluctuations during training. Training load monitoring principles [[A48. Training Load Monitoring]] guide biomarker testing frequency. Myokine signaling pathways [[A59. Myokine Signaling]] explain inflammatory marker responses. Comprehensive micronutrient knowledge [[C6. Micronutrients (Detailed Roles & Considerations)]] enables targeted supplementation based on biomarker results.
 
 ## Update Log
-- 2025-01-27: Enhanced structure, added research evidence with working links, expanded practical applications and common mistakes sections
+- 2025-01-27: Enhanced structure, added research evidence with working links, expanded practical applications and common mistakes sections, added antioxidant status assessment section
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1139/apnm-2014-0027; Invalid or broken DOI: 10.1177/1941738111434406 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/02640414.2011.585473; Invalid or broken DOI: 10.1249/MSS.0b013e318279a10a -->

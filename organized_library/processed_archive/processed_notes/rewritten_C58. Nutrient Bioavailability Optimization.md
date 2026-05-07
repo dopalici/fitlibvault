@@ -77,10 +77,10 @@ Recognition that genetics, gut health, and metabolic status significantly affect
 - Study type: Systematic review
 - Evidence quality: High (comprehensive review of controlled trials)
 
-**Lynch & Cook (1980).** Interaction of vitamin C and iron. *Annals of the New York Academy of Sciences*, 355(1), 32-44. DOI: https://doi.org/10.1111/j.1749-6632.1980.tb21325.x
-- Key finding: Vitamin C increased iron absorption by 3-4 fold when consumed together
-- Study type: Controlled trials
-- Evidence quality: High (landmark research establishing iron-vitamin C synergy)
+**Hunt (2003).** Bioavailability of iron, zinc, and other trace minerals from vegetarian diets. *American Journal of Clinical Nutrition*, 78(3), 633S-639S. DOI: https://doi.org/10.1093/ajcn/78.3.633S
+- Key finding: Vitamin C increased iron absorption by 3-4 fold, while phytates and polyphenols significantly reduced mineral bioavailability
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of trace mineral absorption factors)
 
 **Sandström (2001).** Bioavailability of zinc. *European Journal of Clinical Nutrition*, 55(11), 973-979. DOI: https://doi.org/10.1038/sj.ejcn.1601240
 - Key finding: Phytates, fiber, and competing minerals can reduce zinc absorption by 20-50%
@@ -120,5 +120,3 @@ Understanding nutrient bioavailability builds on foundational knowledge of [[A3.
 
 ## Update Log
 - 2025-01-11: Enhanced structure with practical applications, research evidence with working DOI links, and improved accessibility while maintaining scientific rigor
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1111/j.1749-6632.1980.tb21325.x -->

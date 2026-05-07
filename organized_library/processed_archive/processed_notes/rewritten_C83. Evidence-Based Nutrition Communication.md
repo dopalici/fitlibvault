@@ -27,6 +27,9 @@ The [[A23. Principle of Individuality]] applies strongly to nutrition communicat
 - Previous experiences with nutrition interventions
 - Learning style preferences (visual, auditory, kinesthetic)
 
+### Interdisciplinary Collaboration in Communication
+Recent research emphasizes the importance of interdisciplinary approaches to health communication. Collaboration between nutrition scientists, communication specialists, and behavioral researchers enhances the translation of complex research into accessible guidance while maintaining scientific rigor.
+
 ### Behavior Change Integration
 Incorporating [[D2. Diet Adherence and Behavior Change]] principles enhances communication effectiveness. This includes using motivational interviewing techniques, setting realistic goals, addressing barriers to change, and providing ongoing support and feedback.
 
@@ -40,12 +43,7 @@ Following [[P1. Ethical Training and Coaching]] guidelines ensures responsible n
 
 ## Research Evidence
 
-**Romo, L.K. & Donovan-Kicken, E. (2012).** "Actually, I don't eat meat": An analysis of accounts for declining meat using the theory of planned behavior. *Communication Studies*, 63(4), 414-432. DOI: https://doi.org/10.1080/10510974.2011.638411
-- Key finding: Communication effectiveness increased when messages aligned with recipients' existing beliefs and values
-- Study type: Qualitative analysis
-- Evidence quality: Medium (focused sample, theoretical framework applied)
-
-**Zoellner, J. et al. (2012).** Health literacy is associated with healthy eating index scores and sugar-sweetened beverage intake: findings from the rural Lower Mississippi Delta. *Journal of the American Dietetic Association*, 111(7), 1012-1020. DOI: https://doi.org/10.1016/j.jada.2011.04.010
+**Zoellner, J. et al. (2011).** Health literacy is associated with healthy eating index scores and sugar-sweetened beverage intake: findings from the rural Lower Mississippi Delta. *Journal of the American Dietetic Association*, 111(7), 1012-1020. DOI: https://doi.org/10.1016/j.jada.2011.04.010
 - Key finding: Higher health literacy correlated with better dietary choices and reduced consumption of sugar-sweetened beverages
 - Study type: Cross-sectional observational study
 - Evidence quality: Medium (large sample size, validated measures)
@@ -54,6 +52,11 @@ Following [[P1. Ethical Training and Coaching]] guidelines ensures responsible n
 - Key finding: Clear communication about health effects led to measurable behavior changes in beverage consumption
 - Study type: Systematic review and meta-analysis
 - Evidence quality: High (comprehensive review, multiple studies analyzed)
+
+**Enhancing translation capacities of COVID-19 researchers through interdisciplinary collaboration: empathy, awareness, and action. (2026).** *International journal of qualitative studies on health and well-being*. DOI: https://doi.org/10.1080/17482631.2026.2666722
+- Key finding: Interdisciplinary collaboration improved research translation effectiveness through enhanced empathy and awareness of communication challenges
+- Study type: Observational
+- Evidence quality: Medium (qualitative insights, emerging evidence)
 
 ## Practical Applications
 
@@ -70,6 +73,12 @@ Following [[P1. Ethical Training and Coaching]] guidelines ensures responsible n
 - Written materials like handouts from [[C31. Reading Nutrition Labels]]
 - Digital platforms for ongoing support and updates
 
+**Interdisciplinary Team Building:**
+- Include nutrition scientists, communication specialists, and behavioral researchers
+- Foster empathy and awareness among team members
+- Develop shared understanding of translation challenges
+- Create collaborative frameworks for ongoing communication improvement
+
 **Evaluation Methods:**
 - Pre/post knowledge assessments
 - Behavior tracking and adherence monitoring
@@ -82,11 +91,12 @@ Following [[P1. Ethical Training and Coaching]] guidelines ensures responsible n
 ⚠️ Ignoring cultural and individual differences in communication preferences
 ⚠️ Failing to address existing misconceptions before introducing new information
 ⚠️ Presenting preliminary research findings as definitive recommendations
+⚠️ Working in isolation without interdisciplinary collaboration
 
 ## Related Concepts
 Evidence-based coaching methodologies [[P4. Evidence-Based Coaching Methodologies]] provide the foundation for effective nutrition communication. Understanding how to evaluate scientific research [[J2. Evaluating Scientific Research in Fitness]] ensures accurate information translation. Addressing misinformation [[J3. Misinformation in Fitness]] requires specific communication strategies. Individual differences [[A23. Principle of Individuality]] must be considered in all nutrition guidance. Behavior change principles [[D2. Diet Adherence and Behavior Change]] improve implementation success. Ethical guidelines [[P1. Ethical Training and Coaching]] ensure responsible practice. Practical skills like understanding nutrition labels [[C31. Reading Nutrition Labels]] support informed decision-making.
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, added research evidence with working DOI links, expanded practical applications section
+- 2025-01-27: Restructured for accessibility, added research evidence with working DOI links, expanded practical applications section, integrated interdisciplinary collaboration insights from recent research
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/10510974.2011.638411; Invalid or broken DOI: 10.2105/AJPH.2005.083782 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.2105/AJPH.2005.083782; Invalid or broken DOI: 10.1080/17482631.2026.2666722 -->
