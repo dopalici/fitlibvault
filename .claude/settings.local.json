@@ -18,7 +18,9 @@
       "Bash(rg:*)",
       "Bash(grep:*)",
       "Bash(xargs -I {} basename {})",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)"
     ],
     "deny": []
   }
