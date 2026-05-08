@@ -1,569 +1,294 @@
-# SOP: Content Curation & Publishing Workflow
+# SOP — Content Authoring & Publishing
 
-**Purpose:** Document the process for researching, writing, reviewing, and publishing new fitness content to the knowledge base.
+Last reviewed: 2026-05-08
 
-**Owner:** You (researcher/writer)  
-**Frequency:** 1-3 new topics per week  
-**Time Required:** 2-4 hours per topic (research + writing + linking)  
-**Success Criteria:** 95%+ citation accuracy, >8 citations per topic, proper wikilinks
+This is the canonical workflow for adding or improving a single note in the FitLib vault and getting it onto the live site. It describes what is actually wired today, end-to-end.
 
 ---
 
-## 📋 Content Creation Pipeline
+## What this SOP produces
 
-```
-Topic Selection
-    ↓
-Research & Literature Review
-    ↓
-Outline Structure
-    ↓
-Write Markdown
-    ↓
-Add Citations (with validation)
-    ↓
-Create Wikilinks
-    ↓
-Peer Review (optional)
-    ↓
-Publish to Obsidian Vault
-    ↓
-Trigger Extraction + Deployment
-```
+A new or updated `*.md` file at the vault root that:
+
+1. Conforms to the seven-section schema enforced by `web app fitlib/src/lib/noteSchema.ts`.
+2. Has citations attached, validated against DOI / PubMed.
+3. Has at least three outbound `[[wikilinks]]` that resolve.
+4. Has been promoted through `staged_promotion.py` (date-stamped, atomically written, archived).
+5. Is in the next `npm run content:build` snapshot, and therefore visible in the SPA after redeploy.
 
 ---
 
-## 🎯 Step-by-Step Process
-
-### Step 1: Topic Selection
-**Time: 15 minutes**
-
-**How to Choose Topics:**
-
-```
-Priority Tiers:
-
-TIER 1: Foundational (Series A)
-├─ A1-A50: Core physiology, biomechanics, training principles
-├─ Rationale: Users need these to understand everything else
-├─ Frequency: Cover 80% of concepts
-
-TIER 2: Training Applications (Series B)
-├─ B1-B80: Specific training methods, periodization, techniques
-├─ Rationale: Coaches use these for programming
-├─ Frequency: 15% of new content
-
-TIER 3: Nutrition & Recovery (Series C)
-├─ C1-C105: Nutrition, supplements, recovery strategies
-├─ Rationale: Completes the knowledge base
-├─ Frequency: 5% of new content
-```
-
-**Selection Criteria:**
-```
-✅ Fills a gap in existing knowledge base
-✅ Backed by strong research (>5 high-quality studies)
-✅ Practical application (not just theoretical)
-✅ Connects to 3+ existing topics (for wikilinks)
-✅ High-value content (impacts 1,000+ users)
-
-❌ Avoid if:
-├─ Already covered in existing nodes
-├─ Weak research (only 1-2 low-quality studies)
-├─ Niche topic (only 100 people care)
-├─ Controversial (too subjective for evidence-based approach)
-```
-
-**Example Topic Selection:**
-```
-GOOD: "Protein Timing Myth" 
-├─ Gap: Coaches still believe in anabolic window
-├─ Research: 15+ RCTs showing 30-min window is myth
-├─ Application: Coaches can confidently tell clients when to eat
-├─ Connections: A1 (Energy Balance), B3 (Hypertrophy), C1 (Calories)
-└─ Value: 10,000+ coaches × $50 better programming = $500K value
-
-WEAK: "Exotic Supplement XYZ"
-├─ Gap: Maybe, but very niche
-├─ Research: Only 2 studies, both low quality
-├─ Application: Few coaches care
-├─ Value: 100 users max
-```
-
----
-
-### Step 2: Research & Literature Review
-**Time: 60-120 minutes**
-
-**Research Workflow:**
-
-```
-Step A: Identify Key Questions
-├─ What is this topic?
-├─ Why does it matter for fitness?
-├─ What are the key mechanisms?
-├─ What are practical applications?
-├─ What are common misconceptions?
-
-Step B: Search Literature (30 minutes)
-├─ PubMed (pubmed.ncbi.nlm.nih.gov)
-│  ├─ Search query: "protein synthesis aging"
-│  ├─ Filter: Last 5 years, humans, English
-│  ├─ Export: 20-50 abstracts
-│
-├─ Google Scholar (scholar.google.com)
-│  ├─ Cross-check results
-│  ├─ Find related citations
-│  ├─ Identify meta-analyses (high value)
-│
-└─ Semantic Scholar (semanticscholar.org)
-   ├─ Find highly-cited papers
-   ├─ Identify research clusters
-   └─ Find best review articles
-
-Step C: Screen & Select (30 minutes)
-├─ Read abstracts: 20-50
-├─ Select high-quality: 15-20
-│  ├─ Meta-analyses (highest priority)
-│  ├─ Systematic reviews (high priority)
-│  ├─ RCTs (good)
-│  ├─ Reviews (supplement with RCTs)
-│  └─ Exclude: editorials, opinion pieces
-│
-└─ Create list of sources
-
-Step D: Deep Read (30-60 minutes)
-├─ Read full text of 8-12 best papers
-├─ Extract:
-│  ├─ Key findings
-│  ├─ Sample sizes
-│  ├─ Study quality
-│  ├─ Limitations
-│  └─ DOI/PubmedID
-│
-└─ Note: Synthesize findings into narrative
-```
-
-**Research Quality Checklist:**
-```
-✅ Minimum 8 citations per topic
-✅ At least 1 meta-analysis
-✅ Recent studies (>70% from last 5 years)
-✅ Mix of study types (RCTs, reviews, observational)
-✅ No low-quality evidence as primary support
-✅ Contradictions noted & contextualized
-```
-
----
-
-### Step 3: Outline Structure
-**Time: 15 minutes**
-
-**Standard Template (required format):**
+## The schema (this is the only valid template)
 
 ```markdown
 ### [ID]. [Title]
 **ID:** [UNIQUE-ID]
 **Created:** YYYY-MM-DD
+**Updated:** YYYY-MM-DD
 
 ## Quick Takeaway
-[1-2 sentence summary, plain English, actionable]
+1–2 sentence plain-English actionable summary.
 
 ## Key Points
-- Point 1 (most important)
-- Point 2
-- Point 3
+- Bottom-line claim 1
+- Bottom-line claim 2
 - ...
 
 ## Deep Dive
-[2-3 paragraphs explaining the concept in detail]
+2–3 paragraphs of mechanistic exposition.
 
-### [Subtopic 1]
-[Explanation with research reference]
+### Subtopic 1
+Explanation with research reference.
 
-### [Subtopic 2]
-[Explanation with research reference]
+### Subtopic 2
+Explanation with research reference.
 
 ## Research Evidence
 
-**[Author] et al. ([Year]).**
-- Title: [Full title]
-- Journal: [Journal Name]
-- Type: [Meta-Analysis|RCT|Review|Systematic Review]
-- DOI: [https://doi.org/...]
-- Key finding: [Brief summary]
-- Evidence quality: [High|Medium|Low]
+**Author et al. (Year).**
+- Title: ...
+- Journal: ...
+- Type: Meta-Analysis | RCT | Systematic Review | Review
+- DOI: https://doi.org/...
+- Key finding: ...
+- Sample size: N = ...
+- Quality rating: High | Medium | Low
+
+(Repeat per citation.)
 
 ## Practical Applications
 - Application 1 (with example)
 - Application 2 (with example)
-- Application 3 (with example)
 
 ## Common Mistakes
-⚠️ Mistake 1 (with explanation)
-⚠️ Mistake 2 (with explanation)
+⚠️ Mistake 1 — explanation
+⚠️ Mistake 2 — explanation
 
 ## Related Concepts
-Understanding [[A2. Related Topic]] helps with [[B3. Another Topic]].
+Understanding [[A2. Related Topic]] supports [[B3. Another Topic]].
 
 ## Update Log
 - YYYY-MM-DD: What changed
 ```
 
----
-
-### Step 4: Write Markdown
-**Time: 60-90 minutes**
-
-**Writing Style Guide:**
-
-```
-TONE: Expert + Accessible
-├─ Write like explaining to a smart friend
-├─ Avoid jargon (or define it immediately)
-├─ Use analogies for complex concepts
-├─ Balance detail with readability
-
-STRUCTURE:
-├─ Short paragraphs (2-3 sentences)
-├─ Clear topic sentences
-├─ Numbers/data when possible
-├─ Avoid marketing speak
-
-LANGUAGE:
-✅ Use active voice
-✅ Use present tense
-✅ Use specific numbers ("0.8g/kg" not "about a gram")
-✅ Use precise terms
-✅ Use bold for key concepts
-
-❌ Avoid:
-├─ Emotional language ("this will CHANGE your LIFE")
-├─ Absolute statements ("never do this")
-├─ Outdated references ("as everyone knows...")
-├─ Unclear pronouns ("it" without antecedent)
-
-EXAMPLE (Bad):
-"Protein is really important and you should eat lots of it."
-
-EXAMPLE (Good):
-"Protein intake of 0.8-1.0 g/kg body weight daily supports 
-muscle protein synthesis when combined with resistance training."
-```
-
-**Word Count Targets:**
-```
-Quick Takeaway: 30-50 words
-Key Points: 5-8 bullets
-Deep Dive: 500-1,000 words
-Practical Applications: 200-300 words
-Common Mistakes: 150-250 words
-───────────────────────────
-Total: 1,200-2,000 words per topic
-```
+The parser at `src/lib/noteSchema.ts` is case-insensitive on heading text but strict on heading level. Any section not in the schema is rendered raw at the bottom of the note.
 
 ---
 
-### Step 5: Add Citations (With Validation)
-**Time: 45 minutes**
+## Recommended path: let the automation pipeline rewrite
 
-**Citation Format (Required):**
-
-```markdown
-**[Author Initials] [Last Name] et al. ([Year]).**
-- Title: "[Exact title from paper]"
-- Journal: "[Journal name]"
-- Type: [Meta-Analysis|RCT|Systematic Review|Review]
-- DOI: https://doi.org/[xxxx]
-- Key finding: "[1-2 sentence summary of main result]"
-- Study design: [Brief design note]
-- Sample size: [N = X participants]
-- Quality rating: [High|Medium|Low]
-- Evidence for automation: [automationValidated: true|false]
-
-Example:
-**Schoenfeld BJ, et al. (2021).**
-- Title: "Evidence-based guidelines for protein intake in older adults"
-- Journal: Nutrients
-- Type: Meta-Analysis
-- DOI: https://doi.org/10.3390/nu13062021
-- Key finding: "Higher protein intake (>1.0 g/kg) necessary to maintain 
-  muscle mass in aging population"
-- Sample size: N = 35 RCTs reviewed
-- Quality rating: High
-- Evidence for automation: automationValidated: true
-```
-
-**Citation Validation Process:**
-
-```
-For each citation:
-1. Verify DOI exists and is active
-   ├─ Search: https://doi.org/[DOI]
-   ├─ Should resolve to PubMed/journal
-   └─ If broken: note as "unverified"
-
-2. Verify study type
-   ├─ Meta-Analysis: Claims to review 10+ studies
-   ├─ Systematic Review: Structured search methodology
-   ├─ RCT: Random assignment to conditions
-   ├─ Review: Narrative summary of literature
-   └─ Other: Note exact type
-
-3. Verify author names
-   ├─ Match first author exactly
-   ├─ Check year matches publication year
-   └─ Verify journal name
-
-4. Rate evidence quality
-   ├─ Meta-Analysis of RCTs: High (0.95)
-   ├─ Multiple RCTs: High (0.90)
-   ├─ Single RCT: Medium-High (0.85)
-   ├─ Systematic review: High (0.92)
-   ├─ Observational studies: Medium (0.70)
-   ├─ Single study: Low-Medium (0.60)
-   └─ Case reports: Low (0.40)
-
-5. Check for automation flag
-   ├─ automationValidated: true
-   │  └─ (future: automated extraction from CrossRef API)
-   └─ automationValidated: false
-      └─ (manually verified citations)
-```
-
-**Target: 8-12 citations per topic minimum**
-
----
-
-### Step 6: Create Wikilinks
-**Time: 15 minutes**
-
-**Wikilink Rules:**
-
-```
-FORMAT:
-[[A2. Basal Metabolic Rate (BMR)]]
-    ↑ Matches exact node title
-    
-USAGE:
-- Link to topics that build on this one
-- Link to related mechanisms
-- Link to practical applications
-- Link from "Deep Dive" sections
-- Link from "Related Concepts" section
-
-RULES:
-✅ Use exact node title (case-sensitive)
-✅ Include series prefix (A1, B3, C25)
-✅ At least 3 outbound links per topic
-✅ Bidirectional links (if A1 links to A2, A2 should link back)
-
-EXAMPLES:
-"Understanding [[A2. Basal Metabolic Rate (BMR)]] helps..."
-"This relates to [[B3. Hypertrophy Training Principles]]"
-"See also [[C1. Caloric Targets]] for application"
-
-VALIDATION:
-1. Check target node exists in vault
-2. Match exact spelling/spacing
-3. Extract link in "Related Concepts" section
-4. Validate during extraction (broken links flagged)
-```
-
----
-
-### Step 7: Peer Review (Optional but Recommended)
-**Time: 30 minutes**
-
-**Review Checklist:**
-
-```
-By: External expert (exercise scientist, researcher, coach)
-
-CONTENT ACCURACY:
-☐ Claims supported by cited research
-☐ No misrepresentation of studies
-☐ Correct terminology
-☐ Proper interpretation of findings
-
-WRITING QUALITY:
-☐ Clear and accessible language
-☐ Logical flow
-☐ Proper grammar/spelling
-☐ Formatting consistent
-
-COMPLETENESS:
-☐ All major subtopics covered
-☐ Sufficient citations (8+)
-☐ Practical applications included
-☐ Common mistakes addressed
-
-FEEDBACK TEMPLATE:
-"Content accuracy: ✅ High
-Clarity: ✅ Good
-Completeness: ✅ All major points covered
-Suggestions: [Any edits needed]
-Approved: YES / NEEDS REVISION"
-```
-
----
-
-### Step 8: Publish to Obsidian Vault
-**Time: 10 minutes**
-
-**Process:**
+For most updates the cheapest route is *not* writing the note from scratch — it is creating or editing a stub at the vault root and letting `process_fitness_library.py` rewrite it with PubMed-backed evidence.
 
 ```bash
-1. Create new file: /Users/enes/fitlibvault-main/[ID]. [Title].md
-2. Paste formatted markdown
-3. Add frontmatter:
-   ID: [A1, B3, C25, etc.]
-   Created: YYYY-MM-DD
-   Updated: YYYY-MM-DD
-4. Save file
-5. Commit to Git: git add . && git commit -m "Add [ID]. [Title]"
-6. Push to GitHub: git push origin main
+# 1. Create the stub
+cat > "/Users/enes/fitlibvault-main/X3. New Topic Title.md" <<'EOF'
+### X3. New Topic Title
+**ID:** X3-NEW-TOPIC
+**Created:** 2026-05-08
 
-Optional: Sync to Obsidian mobile
-├─ If using Obsidian Sync: Auto-syncs
-├─ If using iCloud: Manual sync (Ctrl+S)
-└─ If using Git: Pull on other devices
+## Quick Takeaway
+Working hypothesis or one-sentence summary.
+
+## Key Points
+- (leave a few bullets the rewrite should expand on)
+
+## Related Concepts
+[[X1. Existing Topic]]
+EOF
+
+# 2. Run the pipeline for just this note
+cd /Users/enes/fitlibvault-main
+python3 organized_library/automation_tools/automation_scripts/seamless_update_pipeline.py \
+  --section X --start-num 3 --end-num 3 \
+  --validate-interlinks --interlink-fail-on broken \
+  --apply --staged-apply \
+  --build-content
 ```
+
+The pipeline performs all seven phases described in `organized_library/automation_tools/HOW_IT_WORKS.md`:
+
+1. Rewrite via `process_fitness_library.py` (PubMed search + Claude composition).
+2. HTTP-validate every DOI / PMID via `citation_validation_audit.py`.
+3. Suggest fixes for broken citations via `citation_doi_fixer.py`.
+4. Validate every `[[wikilink]]` via `interlink_validator.py`.
+5. Dry-run promotion via `promote_rewritten_to_og.py`.
+6. Stage the actual promotion via `staged_promotion.py` (per-file y/s/d/q with date stamping).
+7. Rebuild the static content bridge via `npm run content:build`.
+
+The note appears in the SPA after the next `vite build` + redeploy.
 
 ---
 
-### Step 9: Trigger Extraction + Deployment
-**Time: 5 minutes**
+## Manual path: hand-author a note
+
+When the topic is sensitive, controversial, or you want full editorial control, write the note by hand at the vault root and skip the rewrite phase:
 
 ```bash
-# Automated (if using GitHub Actions)
-# Just push and GitHub Actions runs:
-# - Extract vault
-# - Deploy to Firestore
-# - Update Algolia
-# - Deploy web app
-
-# Manual (if no CI/CD)
-npm run extract:vault
-npm run deploy:firestore
-npm run deploy:algolia
+python3 organized_library/automation_tools/automation_scripts/seamless_update_pipeline.py \
+  --section X --start-num 3 --end-num 3 \
+  --skip-rewrite \
+  --validate-interlinks --interlink-fail-on broken \
+  --build-content
 ```
 
-**Verification:**
-```
-Check these within 5 minutes:
-✅ New topic appears in web app search
-✅ Citation display works
-✅ Wikilinks resolve to other topics
-✅ Knowledge graph updated with new connections
-✅ Mobile app refreshed
-```
+This still runs the citation audit, DOI fix suggestions, and interlink validation against your hand-written file. It just does not call the rewrite engine.
 
 ---
 
-## 📊 Content Quality Metrics
+## Topic selection guide
 
-**Track for each new topic:**
+The active gaps as of 2026-05-08 (compared against shipped sections):
 
-| Metric | Target | How to Measure |
-|--------|--------|--------|
-| Wikilinks | 3+ | Count [[links]] in markdown |
-| Citations | 8+ | Count [Study] blocks |
-| Citation avg quality | >0.85 | Sum quality scores / count |
-| Word count | 1,200-2,000 | Word count in markdown |
-| Readability | Grade 10-12 | Flesch-Kincaid grade level |
-| Peer review | 1+ expert | Get feedback before publishing |
-| Update log | Complete | Document changes made |
+| Section | Current | Notes |
+|---|---|---|
+| A — Foundational Concepts | 65 | Mature; only fill confirmed gaps |
+| B — Resistance Training | 70 | Strong; add only at request |
+| C — Nutrition & Diet | 106 | Strongest; only revisit / refresh |
+| D — Weight Management | 3 | **Heavy gap** — high-value target |
+| E — Cardio / Endurance | 15 | Mid; expand E15+ for endurance methods |
+| F — Optimal Performance | 34 | Mid; expand to F45 with sleep / autonomic / mental |
+| G — Special Populations | 16 | Mid; add G17+ for clinical conditions |
+| H — Body Composition | 3 | **Heavy gap** — visceral / lean-mass / metabolic syndrome |
+| I — Hormones & Fitness | 3 | **Heavy gap** — endocrine cascades |
+| J — Technology | 10 | Mid; expand wearables / DEXA / VO2 hardware |
+| K — Elite Performance | 12 | Sufficient |
+| L — Cross-Training | 4 | Light; expand to L8+ |
+| M — Recovery | 10 | Mid; expand to M15+ |
+| N — Long-Term Development | 10 | Sufficient |
+| O — Integrated Approaches | 8 | Light |
+| P — Ethics | 10 | Sufficient |
+| Q — Key Overviews | 8 | Sufficient |
+| X — Sports-Specific | 30 | Strong |
 
----
+Selection criteria, in priority order:
 
-## 🎯 Weekly Content Goals
+1. Fills an evidence-rich gap (≥5 high-quality studies in PubMed).
+2. Connects to ≥3 existing notes for wikilink density.
+3. Practical applicability — coaches / lifters can act on it.
+4. Closes a paywall objection — covers something users specifically want unlocked.
 
-```
-FREQUENCY TARGET:
-
-Conservative: 1 new topic/week
-├─ Time: 4 hours/week
-├─ Add 52 topics/year
-└─ Reach 150+ total by Year 1
-
-Ambitious: 3 new topics/week
-├─ Time: 12 hours/week (may not fit 7-8 hr schedule)
-├─ Add 156 topics/year
-└─ Reach 250+ total by Year 1
-
-RECOMMENDED: 2 topics/week
-├─ Time: 8 hours/week
-├─ Add 104 topics/year
-├─ Reach 200+ total by Year 1
-└─ Sustainable with university schedule
-```
+Skip if: covered already, only 1–2 weak studies, niche audience (<100 lifters care), or fundamentally subjective.
 
 ---
 
-## ✅ Pre-Publish Checklist
+## Citations — quality bar
 
-Before hitting "Publish":
+Per note, target:
+
+- **Minimum 8 citations** (the rewrite engine targets `--top-studies 5` evidence picks but you can manually keep more).
+- At least **1 meta-analysis or systematic review**.
+- **>70 % published in the last 5 years** (configurable via `--lookback-years`).
+- **No low-quality study used as the primary support** for a claim.
+- All citations **DOI- or PMID-resolvable**. The audit will fail otherwise.
+
+Quality rubric used by `process_fitness_library.py`:
+
+- Meta-analysis of RCTs → 0.95
+- Systematic review → 0.92
+- Multiple RCTs → 0.90
+- Single RCT → 0.85
+- Observational → 0.70
+- Single small study → 0.60
+- Case report → 0.40
+
+---
+
+## Wikilinks — rules that will not break
+
+- Use the **exact node title** including series prefix: `[[A2. Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE)]]`.
+- Match is case-insensitive but punctuation-sensitive.
+- **Minimum 3 outbound** wikilinks per note. Place them in `Related Concepts` and inside `Deep Dive` where the analogue is mentioned.
+- Bidirectional: if A1 links to A2, A2 should link back. The interlink validator will not auto-fail this, but it will surface candidates in `interlink_audit.md`.
+- The static bridge will report broken links in `stats.json::brokenWikilinks`. The current count is 542; reducing it is an explicit operational goal.
+
+---
+
+## Style
+
+- Active voice, present tense.
+- Specific numbers (`0.8 g/kg`), not vague qualifiers (`about a gram`).
+- No marketing language, no absolutes (`never`, `always`).
+- Word count target: **1,200 – 2,000** per note.
+- Quick Takeaway: **30 – 50 words**.
+- Key Points: **5 – 8 bullets** — the cloze generator pulls from this section, so dense quantitative bullets produce more cards.
+
+---
+
+## Pre-publish checklist
+
+Run through this before invoking `--apply`:
 
 ```
+Schema:
+[ ] All 7 sections present in this order: Quick Takeaway, Key Points, Deep Dive, Research Evidence, Practical Applications, Common Mistakes, Related Concepts
+[ ] **ID:** front-matter line present
+[ ] Created and Updated dates current
+
 Content:
-☐ All sections filled (Quick Takeaway through Update Log)
-☐ 1,200+ words
-☐ 8+ citations with full metadata
-☐ 3+ wikilinks to related topics
+[ ] 1,200+ words
+[ ] 8+ citations with DOI / PMID
+[ ] 3+ outbound wikilinks
+[ ] Update Log entry for this revision
 
-Citations:
-☐ All DOIs verified (links work)
-☐ Author names match exactly
-☐ Years correct
-☐ Study types accurate
-☐ Quality scores assigned
+Validation (run the pipeline in dry-run first):
+[ ] Citation audit JSON has 0 invalid DOIs (or all flagged for replace in the DOI fix suggestions)
+[ ] Interlink audit shows the new note's outbound links as `ok` (not `stub` or `broken`)
+[ ] Promotion dry-run shows the file as ready
 
-Formatting:
-☐ Markdown renders correctly
-☐ No broken links
-☐ Proper heading hierarchy
-☐ No spelling errors
-
-Wikilinks:
-☐ All links target existing nodes
-☐ Exact title match (case-sensitive)
-☐ Minimum 3 outbound links
-☐ Bidirectional links in place
-
-Before publishing to production:
-☐ Peer reviewed by 1+ expert
-☐ All feedback addressed
-☐ Final proofread
-☐ File saved to vault
-☐ Git commit with message
+Operator:
+[ ] You have read the rewritten file in `processed_archive/processed_notes/`
+[ ] No hallucinated citations (cross-check at least 3 random DOIs in your browser)
 ```
 
 ---
 
-## 🔄 Content Update Schedule
+## What `staged_promotion.py` does on accept
 
-**Revisit & Update Topics:**
+For each rewritten file the operator accepts, the script performs these actions atomically:
 
+1. Stamps the OG note title with `(Updated: YYYY-MM-DD)`.
+2. Appends a one-line `## Update Log` entry with citation deltas (new DOIs added, recommendations changed).
+3. Atomically replaces the OG file (write-temp → fsync → rename).
+4. Moves the rewritten source into `organized_library/processed_archive/confirmed_archive/<YYYY-MM-DD>/` so it cannot be re-promoted.
+5. Appends a JSONL row to `organized_library/automation_tools/promotion_history.jsonl`:
+
+```json
+{"timestamp":"2026-05-08T15:39:32Z","promotion_date":"2026-05-08","file":"A. Foundational Concepts.md","id":"Foundation-Index-001","title":"Foundation Topics Index","new_dois":0,"new_pmids":0,"recommendation_delta":0,"rewritten_path":"...","og_path":"...","dry_run":false,"archived_to":"..."}
 ```
-Monthly: Review popular topics for outdated research
-├─ Check if new meta-analyses published
-├─ Update if major findings change
 
-Quarterly: Deep review of 5-10 foundational topics
-├─ Add new citations
-├─ Update wikilinks
-├─ Refresh explanations
-
-Annually: Complete audit
-├─ Review all 100+ topics
-├─ Update citations >1 year old
-├─ Improve lowest-scoring topics
-```
+That JSONL is the operational source of truth for what was promoted, when, and what changed.
 
 ---
 
-**Last Updated:** 2026-05-03  
-**Next Review:** 2026-06-01  
-**Owner:** You  
-**Version:** 1.0
+## Update cadence
+
+- **Per release** — anything you author this week.
+- **Quarterly** — refresh top-traffic notes (top 20 from analytics) with newer evidence.
+- **Annually** — full audit; re-run the pipeline against every note older than one year and accept the rewrite if citations have moved on.
+
+---
+
+## Where each piece lives
+
+| Concern | File |
+|---|---|
+| Schema parser | `web app fitlib/src/lib/noteSchema.ts` |
+| Cloze generator | `web app fitlib/src/lib/clozeGen.ts` |
+| Rewrite engine | `organized_library/automation_tools/processing_scripts/process_fitness_library.py` |
+| Pipeline orchestrator | `organized_library/automation_tools/automation_scripts/seamless_update_pipeline.py` |
+| Citation audit | `organized_library/automation_tools/utility_scripts/citation_validation_audit.py` |
+| DOI fix suggestions | `organized_library/automation_tools/utility_scripts/citation_doi_fixer.py` |
+| Interlink validator | `organized_library/automation_tools/utility_scripts/interlink_validator.py` |
+| Staged promotion | `organized_library/automation_tools/automation_scripts/staged_promotion.py` |
+| Promotion history | `organized_library/automation_tools/promotion_history.jsonl` |
+| Pipeline mechanics | `organized_library/automation_tools/HOW_IT_WORKS.md` |
+| Pipeline runbook | `organized_library/automation_tools/tools/WORKFLOW.md` |
+
+---
+
+## Cross-references
+
+- Reader / FSRS / cards operations: `SOP_KNOWLEDGE_READER_SYSTEMS.md`.
+- Bridge / extraction internals: `SOP_EXTRACTION.md`.
+- Quality targets: `KPIs.md` § "Content Metrics".
+- Roadmap line items: `ROADMAP.md` § "Content".

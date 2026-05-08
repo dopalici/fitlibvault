@@ -1,8 +1,12 @@
 # AI-Assisted Management System
 
-**Purpose:** How Cline (AI) will continuously monitor, analyze, and guide FitLib's growth.
+Last reviewed: 2026-05-08
 
-**Owner:** You + Cline (collaborative)
+**Purpose:** How Cline / Claude Code (AI) continuously monitors, analyses, and guides FitLib's growth.
+
+**Owner:** You + AI assistant (collaborative)
+
+> **Scope clarification (2026-05-08 audit).** "AI-assisted" here means external tooling — the operator runs Cline / Claude Code against the repo each Friday and feeds it `WEEKLY_STANDUP_TEMPLATE.md` plus current `KPIs.md` actuals. The web app does **not** invoke an LLM at runtime. `@google/genai` is declared in `package.json` but no source file imports it. Any in-app AI features are roadmap, not built.
 
 **Frequency:** Every Friday (standup review) + Monthly (strategic review)
 

@@ -16,7 +16,9 @@
       "Bash(mv:*)",
       "Bash(true)",
       "Bash(rg:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(xargs -I {} basename {})",
+      "Bash(git add *)"
     ],
     "deny": []
   }

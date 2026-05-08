@@ -1,110 +1,75 @@
-# Documentation
+# Documentation — Library Reference Folder
 
-## Overview
-Documentation, guides, and meta-information about the library
+Last reviewed: 2026-05-08
 
-## Contents
-This folder contains 28 files covering various aspects of this topic area.
+This folder collects long-form reference documents that did not fit into either the web app's `docs/` (which is operational) or the automation tools' `tools/` (which is runbook-style). Some entries here are **historical processing reports** preserved as snapshots; others are **content-style overview notes** that live alongside the rest of the vault.
 
-### Files in this folder:
+For the operating documentation that this project actually runs on, see:
 
-#### Appendix References and Meta-information Series:
-- **Appendix References and Meta-information.md** - Appendix References and Meta-information
-
-#### B_section_enhanced_completion_report Series:
-- **B_section_enhanced_completion_report.md** - B section enhanced completion report
-
-#### COMPLETE_REPLACEMENT_REPORT Series:
-- **COMPLETE_REPLACEMENT_REPORT.md** - COMPLETE REPLACEMENT REPORT
-
-#### D Series:
-- **D. Weight Management.md** - D. Weight Management
-
-#### D1 Series:
-- **D1. Evidence-Based Weight Loss Principles.md** - D1. Evidence-Based Weight Loss Principles
-
-#### D2 Series:
-- **D2. Diet Adherence and Behavior Change.md** - D2. Diet Adherence and Behavior Change
-
-#### D3 Series:
-- **D3. Weight Maintenance After Loss.md** - D3. Weight Maintenance After Loss
-
-#### EXL Series:
-- **EXL. Exercise Library.md** - EXL. Exercise Library
-
-#### FINAL_PROCESSING_REPORT Series:
-- **FINAL_PROCESSING_REPORT.md** - FINAL PROCESSING REPORT
-
-#### G-VII-1 Series:
-- **G-VII-1. Musculoskeletal Anatomy Overview.md** - G-VII-1. Musculoskeletal Anatomy Overview
-
-#### G-VII-2 Series:
-- **G-VII-2. Kinesiology Movement Analysis.md** - G-VII-2. Kinesiology Movement Analysis
-
-#### G-VII-3 Series:
-- **G-VII-3. Neurophysiology of Movement.md** - G-VII-3. Neurophysiology of Movement
-
-#### G-VII Series:
-- **G-VII. Anatomy, Physiology & Biomechanics (More Applied).md** - G-VII. Anatomy, Physiology & Biomechanics (More Applied)
-
-#### IX10 Series:
-- **IX10. Movement Quality Restoration.md** - IX10. Movement Quality Restoration
-
-#### IX11 Series:
-- **IX11. Psychological Aspects of Injury Recovery.md** - IX11. Psychological Aspects of Injury Recovery
-
-#### IX12 Series:
-- **IX12. Technology in Rehabilitation.md** - IX12. Technology in Rehabilitation
-
-#### IX13 Series:
-- **IX13. Team-Based Injury Management.md** - IX13. Team-Based Injury Management
-
-#### IX14 Series:
-- **IX14. Injury Prevention Screening.md** - IX14. Injury Prevention Screening
-
-#### IX15 Series:
-- **IX15. Chronic Injury Management.md** - IX15. Chronic Injury Management
-
-#### IX8 Series:
-- **IX8. Return-to-Play Protocols.md** - IX8. Return-to-Play Protocols
-
-#### IX9 Series:
-- **IX9. Load Management in Rehabilitation.md** - IX9. Load Management in Rehabilitation
-
-#### Z1 Series:
-- **Z1. Understanding this Zettelkasten.md** - Z1. Understanding this Zettelkasten
-
-#### Z2 Series:
-- **Z2. Practical Implementation Guide.md** - Z2. Practical Implementation Guide
-
-#### Z3 Series:
-- **Z3. Cultural & Historical Perspectives on Fitness.md** - Z3. Cultural & Historical Perspectives on Fitness
-
-#### citation_validation_report Series:
-- **citation_validation_report.md** - citation validation report
-
-#### cost_controlled_report Series:
-- **cost_controlled_report.md** - cost controlled report
-
-#### fitlib Series:
-- **fitlib.md** - fitlib
-
-#### template Series:
-- **template.md** - template
-
-## Usage Notes
-- All files use markdown format (.md) for easy reading and cross-platform compatibility
-- Internal links use `[[Topic Name]]` format for navigation between related topics
-- Each file contains Quick Takeaway, Key Points, Deep Dive sections, and Research Evidence
-- Files are interconnected - use the Related Topics section to explore connections
-
-## Navigation
-- Use your markdown reader's search function to find specific topics
-- Follow internal links (in double brackets) to related concepts
-- Start with overview files (ending with just the letter) for topic introductions
-
-## Last Updated
-2025-06-05 18:10:13
+- `/Users/enes/fitlibvault-main/CAPABILITIES.md` — single-pane capability overview.
+- `/Users/enes/fitlibvault-main/web app fitlib/docs/` — web app operational docs.
+- `/Users/enes/fitlibvault-main/organized_library/automation_tools/` and `tools/` — pipeline docs.
 
 ---
-*This README was auto-generated during library organization*
+
+## What is in this folder
+
+The 35 markdown files break into four categories.
+
+### A. Project context (start here if you are an AI assistant or new contributor)
+
+- **`CLAUDE_PROJECT_CONTEXT.md`** — primer covering project goals, content stats, three-layer architecture, and current pipeline. **Refreshed 2026-05-08.**
+- **`fitlib.md`** — short branding / pitch note used as a "what is FitLib" reference.
+- **`README.md`** (this file) — index.
+
+### B. Strategic / business docs (snapshots; superseded by the web app's `docs/VISION.md` etc.)
+
+- **`FITNESS_LIBRARY_BUSINESS_DEVELOPMENT_GUIDE.md`** — original business strategy (Q1 2026 framing, $100K+ IP value, three-phase roll-out).
+- **`PROJECT_NEXT_STEPS_ACTION_PLAN.md`** — tactical execution roadmap from project inception.
+
+### C. Frontend / UX exploration (pre-React-port; archival)
+
+- **`FRONTEND_IMPLEMENTATION.md`** — cyberpunk terminal interface concept.
+- **`LOVABLE_AI_PROMPT.md`** and **`LOVABLE_AI_PROMPT_UPDATED.md`** — Lovable.dev prompts used to scaffold the original frontend.
+
+These describe a pre-React design language. The shipped frontend uses a paper-on-ink minimalist aesthetic and is built in React 19 + Tailwind v4. Treat these as historical references.
+
+### D. Processing reports (point-in-time records of automation runs)
+
+- **`COMPLETE_REPLACEMENT_REPORT.md`** — 331-file enhancement run (2025-06-05).
+- **`FINAL_PROCESSING_REPORT.md`** — A30–A65 batch report.
+- **`B_section_enhanced_completion_report.md`** — Resistance Training section (B1–B78) enhancement.
+- **`citation_validation_report.md`** and **`cost_controlled_report.md`** — pipeline run outputs.
+
+These are dated and intentionally preserved. They are not refreshed — for current pipeline activity see `automation_tools/promotion_history.jsonl` and `automation_tools/CHANGELOG-*.md`.
+
+### E. Content-style overview notes (live alongside vault content)
+
+- **`Appendix References and Meta-information.md`** — bibliography conventions and meta-information for the library.
+- **`D. Weight Management.md`**, **`D1. Evidence-Based Weight Loss Principles.md`**, **`D2. Diet Adherence and Behavior Change.md`**, **`D3. Weight Maintenance After Loss.md`** — D-series notes that also have copies at the vault root.
+- **`EXL. Exercise Library.md`** — exercise-library index note.
+- **`G-VII. Anatomy, Physiology & Biomechanics (More Applied).md`** and the **G-VII-1 / G-VII-2 / G-VII-3** subfiles — supplementary anatomy / kinesiology / neurophysiology notes.
+- **`IX8`–`IX15`** — injury-management series (return-to-play, load management, movement quality, psychological aspects, technology, team-based, screening, chronic).
+- **`Z1. Understanding this Zettelkasten.md`**, **`Z2. Practical Implementation Guide.md`**, **`Z3. Cultural & Historical Perspectives on Fitness.md`** — Zettelkasten-style reflection and meta-guidance notes.
+- **`template.md`** — boilerplate template for new notes.
+
+These are content notes, not project docs. The publishing pipeline picks them up the same way it picks up vault-root notes.
+
+---
+
+## Format notes
+
+- All files use markdown.
+- Internal links use `[[Topic Name]]` Obsidian-style wikilink format.
+- Content notes follow the canonical seven-section schema (Quick Takeaway → Key Points → Deep Dive → Research Evidence → Practical Applications → Common Mistakes → Related Concepts) defined in `web app fitlib/src/lib/noteSchema.ts`.
+- For the schema details and authoring rules, see `web app fitlib/docs/SOP_CONTENT.md`.
+
+---
+
+## When you should *not* read these files
+
+- If you are looking for what the project **does today**, read `CAPABILITIES.md` instead — most of the historical reports here describe earlier phases.
+- If you want the **active automation pipeline**, read `organized_library/automation_tools/HOW_IT_WORKS.md` and `tools/WORKFLOW.md`.
+- If you want the **business / financial plan**, the canonical version is `web app fitlib/docs/VISION.md` and `web app fitlib/docs/BUSINESS_MODEL.md`.
+
+This folder is reference, not operations.

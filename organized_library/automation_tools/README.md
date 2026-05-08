@@ -1,7 +1,13 @@
 # Automation Tools
 
+Last reviewed: 2026-05-08
+
 Python automation that rewrites, validates, and promotes fitness markdown notes
-without breaking the Obsidian interlink graph.
+without breaking the Obsidian interlink graph. For a single-pane summary of the
+whole project, see `/Users/enes/fitlibvault-main/CAPABILITIES.md`. For per-script
+status, `tools/SCRIPT_STATUS.md`. For the operator runbook, `tools/WORKFLOW.md`.
+
+Recent activity: **354 promotions on 2026-05-08** (see `promotion_history.jsonl`).
 
 ## Current Status
 

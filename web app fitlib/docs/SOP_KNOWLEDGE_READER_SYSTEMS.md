@@ -1,8 +1,10 @@
-# SOP: Knowledge Reader + Learning Systems (Owner View)
+# SOP — Knowledge Reader + Learning Systems
 
-Purpose: explain every new system in plain operational terms so you can run, debug, and evolve it without context-switch overhead.
+Purpose: explain every reader / FSRS / cloze system in plain operational terms so you can run, debug, and evolve it without context-switching to read source code.
 
-Last updated: 2026-05-06
+Last reviewed: 2026-05-08
+
+Current capacity (`public/content/stats.json`): 678 nodes, 985 citations, 5,568 wikilinks, 508 cards (41.7 % coverage), evidence quality 1,109 High / 260 Medium / 0 Low / 42 Unknown.
 
 ---
 
@@ -194,9 +196,12 @@ npx tsx scripts/buildClozeCards.ts
 
 ## 8) Known constraints
 
-- FSRS history is local browser storage by default (not cross-device synced yet).
-- Reader mode currently enforces access based on nodes passed from Library.
-- Admin bypass depends on exact email match (normalized lowercase).
+- FSRS history is local browser storage (IndexedDB store `fitlib-srs`). Switching device loses progress. Cross-device sync is roadmap, not built.
+- Reader mode currently enforces access based on the node list `Library.tsx` passes in. The 5-node free tier is enforced there; everything inside `StackedReader` assumes access has already been gated.
+- Admin bypass depends on exact email match (normalised to lowercase) against `VITE_ADMIN_EMAILS`.
+- Cloze cards exist for **41.7 %** of nodes — only notes whose Key Points contain numeric / acronym / quantitative spans produce cards. This is by design; tune `clozeGen.ts` weights to widen coverage.
+- Series shards in `public/content/series/` cover only A, B, C, E, Other today. The Library UI does not depend on the shards (it filters off `index.json`), so this is invisible to users.
+- FSRS config: `request_retention 0.9`, `maximum_interval 365 days`. Tune in `srs.ts` only after reading the FSRS-4 paper.
 
 ---
 

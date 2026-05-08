@@ -1,261 +1,200 @@
-# FITLIB Development Progress
+# FitLib — Development Progress
 
-*Last Updated: May 5, 2026*
+Last updated: 2026-05-08
 
-## Current Snapshot (Condensed)
-
-### What is now fully implemented
-
-- Static content bridge for full vault coverage:
-  - all markdown files extracted into web-ready JSON
-  - generated outputs:
-    - `public/content/index.json`
-    - `public/content/series/*.json`
-    - `public/content/nodes/*.json`
-- Library now loads all matching files (no forced 150-item cap).
-- In-drawer navigation improved:
-  - in-file heading jump list (`In this file`)
-  - previous/next topic navigation controls
-  - wikilink rendering with internal node navigation
-  - linked-node prefetching for faster navigation
-- Build pipeline updated:
-  - `npm run content:build` generates bridge content
-  - `npm run build` now runs content build + Vite build
-- Frontend deployment prep:
-  - `vercel.json` SPA rewrite config added
-  - Vercel deployment checklist document added
-
-### Verified status
-
-- `npm run lint` passes
-- `npm run build` passes
-- content generation latest run:
-  - 2027 nodes extracted
-  - 1414 citations parsed
-  - 20782 / 27191 wikilinks resolved
-  - 5 series chunks generated
-
-### Still pending / blockers
-
-- Vercel CLI deployment requires account login completion.
-- Production API topology still needs final decision:
-  - separate backend host for `server.ts`, or
-  - migrate `/api/*` endpoints to platform-native serverless.
-- Admin import to Firestore requires `FIREBASE_SERVICE_ACCOUNT_KEY` at runtime.
-
-### Immediate next steps
-
-1. Complete Vercel login and run `vercel pull` + first deploy.
-2. Finalize backend hosting approach for `/api/*` routes.
-3. Set production env vars in Vercel + backend host.
-4. Run smoke test: `/library` load, search, node detail, wikilink navigation.
-
-## Phase 2 Build Status: ✅ COMPLETE
-
-### 🚀 What Has Been Built & Completed
-
-#### ✅ Enhanced API Infrastructure
-- [x] **Express Server with Firebase Admin Integration**
-  - Comprehensive server setup with proper error handling
-  - Firebase Admin SDK initialization with graceful fallbacks
-  - Firestore database connectivity
-  - CORS configuration for cross-origin requests
-
-- [x] **Full CRUD API Routes**
-  - `/api/health` - Health check endpoint
-  - `/api/nodes` - Get all nodes with filtering (category, search, limit)
-  - `/api/nodes/:id` - Get single node by ID
-  - `/api/users/:userId/progress` - User progress tracking (GET/POST)
-  - `/api/analytics/:userId` - User analytics and statistics
-  - `/api/create-checkout-session` - Stripe payment processing
-  - `/api/stripe/webhook` - Stripe webhook handling
-
-- [x] **Payment Processing**
-  - Stripe integration with subscription management
-  - Webhook handling for payment events
-  - User subscription status tracking in Firestore
-  - Monthly ($7.99) and Annual ($79) pricing tiers
-
-#### ✅ Frontend Components & Pages
-
-- [x] **Landing Page (`src/pages/Landing.tsx`)**
-  - Professional hero section with animated background
-  - Feature showcase with 4 key value propositions
-  - Social proof section with testimonials
-  - Integrated pricing section with Stripe checkout
-  - Responsive design with smooth Motion animations
-  - Call-to-action flows directing to premium signup
-
-- [x] **Enhanced Dashboard (`src/pages/Dashboard.tsx`)**
-  - Real-time user progress tracking
-  - Study streak and reading time metrics
-  - Visual progress indicators for curriculum mastery
-  - Favorites management system
-  - Quick search functionality
-  - Admin-only data import tools
-  - Google authentication integration
-
-- [x] **Premium Paywall Component (`src/components/PremiumPaywall.tsx`)**
-  - Modal-based subscription interface
-  - Monthly and annual pricing options
-  - Integrated Stripe checkout flow
-  - Feature comparison and benefits
-  - Close/cancel functionality
-
-#### ✅ Search Integration
-
-- [x] **Algolia Search Service (`src/lib/algoliaService.ts`)**
-  - Advanced search with faceted filtering
-  - Autocomplete and suggestion functionality
-  - Category, level, author, and tag-based filtering
-  - Fallback search for offline/development use
-  - Popular searches tracking
-  - Search facets for filtering UI
-
-#### ✅ Navigation & Routing
-
-- [x] **Enhanced App Router (`src/App.tsx`)**
-  - React Router integration
-  - Landing page as home route (`/`)
-  - Library, Dashboard, and About pages
-  - Bottom navigation with active state indicators
-  - Responsive navigation design
-
-#### ✅ Production Deployment Setup
-
-- [x] **Docker Configuration**
-  - Multi-stage Dockerfile for production optimization
-  - Docker Compose for local and production deployment
-  - Health checks and monitoring setup
-  - Non-root user for security
-
-- [x] **Environment Configuration**
-  - Proper environment variable handling
-  - Graceful fallbacks for missing configurations
-  - Development vs production configurations
-
-- [x] **Build Scripts & Package.json**
-  - Updated package.json with proper metadata
-  - Production and development start scripts
-  - Docker build and deployment commands
-  - Health check utilities
-
-### 🔧 Technical Improvements Made
-
-#### ✅ TypeScript Error Resolution
-- [x] Fixed all TypeScript compilation errors
-- [x] Added proper type annotations for Firebase and Stripe
-- [x] Resolved implicit `any` type issues
-- [x] Fixed nullable type handling
-
-#### ✅ Error Handling & Resilience
-- [x] Graceful fallbacks for missing environment variables
-- [x] Database connection error handling
-- [x] Stripe initialization error handling
-- [x] API endpoint error responses
-- [x] Transaction error handling
-
-#### ✅ Security & Best Practices
-- [x] Firebase Admin SDK secure initialization
-- [x] CORS configuration
-- [x] Input validation and sanitization
-- [x] Webhook signature verification
-- [x] Non-root Docker user
-
-### 📊 Current Architecture
-
-```
-FITLIB Stack:
-├── Frontend: React 19 + TypeScript + Vite
-├── Styling: Tailwind CSS + Motion animations
-├── Backend: Express.js + Firebase Admin
-├── Database: Firestore
-├── Authentication: Firebase Auth (Google)
-├── Payments: Stripe Subscriptions
-├── Search: Algolia (with fallback)
-├── Visualization: D3.js knowledge graphs
-└── Deployment: Docker + Docker Compose
-```
-
-### 🎯 Key Features Delivered
-
-1. **Complete User Journey**: Landing → Registration → Payment → Dashboard → Library
-2. **Subscription System**: Monthly ($7.99) and Annual ($79) with Stripe
-3. **Progress Tracking**: Study streaks, reading time, completion rates
-4. **Advanced Search**: Algolia-powered with 10+ filter options
-5. **Knowledge Graphs**: Interactive D3.js visualizations
-6. **Responsive Design**: Mobile-first with desktop optimization
-7. **Production Ready**: Docker deployment with health checks
+This is the current build snapshot. For aspirational targets see `ROADMAP.md`; for the metrics dashboard see `KPIs.md`; for a single-pane capability overview see `/Users/enes/fitlibvault-main/CAPABILITIES.md`.
 
 ---
 
-## ⚠️ Known Issues & Environment Setup Requirements
+## TL;DR
 
-### Environment Variables Required
-```bash
-# Firebase
-FIREBASE_SERVICE_ACCOUNT_KEY="{...service account json...}"
-
-# Stripe
-STRIPE_SECRET_KEY="sk_test_..."
-STRIPE_WEBHOOK_SECRET="whsec_..."
-VITE_STRIPE_PUBLIC_KEY="pk_test_..."
-
-# Algolia (Optional)
-VITE_ALGOLIA_APP_ID="your_app_id"
-VITE_ALGOLIA_SEARCH_KEY="your_search_key"
-```
-
-### Current Development Status
-- ✅ **Code Complete**: All components built and integrated
-- ✅ **TypeScript Clean**: No compilation errors
-- ⚠️ **Environment Setup**: Requires API keys for full functionality
-- ✅ **Docker Ready**: Production deployment configured
+The app is functionally complete for its v1 surface area (Reader / Graph / Cards, paywall, FSRS, content bridge, Stripe, Firebase). The static content bridge has been refreshed (678 nodes, 985 citations, 5,568 wikilinks, 508 cloze cards). The automation pipeline ran 354 promotions on 2026-05-08. What is left is operational: production env config, Vercel deploy, Stripe live products, and content gap-filling for the F/G/H/I sections.
 
 ---
 
-## 🚀 Next Steps (Future Phases)
+## Shipped (working, in `main`, verified against the codebase)
 
-### Phase 3 - Content & Data
-- [ ] Populate Firestore with research data
-- [ ] Set up Algolia index with knowledge base
-- [ ] Configure Stripe products and pricing
-- [ ] Set up Firebase project and authentication
+### Backend (`server.ts`)
 
-### Phase 4 - Enhancement & Optimization
-- [ ] Add unit and integration tests
-- [ ] Implement caching layer (Redis)
-- [ ] Add monitoring and analytics
-- [ ] Performance optimization
-- [ ] SEO optimization
+- Express 4 + firebase-admin 13 with graceful init fallback when env vars are missing.
+- Routes: `/api/health`, `/api/nodes`, `/api/nodes/:id`, `/api/users/:userId/progress` (GET + POST), `/api/create-checkout-session`, `/api/check-subscription`, `/api/analytics/:userId`, `/api/stripe/webhook`.
+- Stripe API version pinned to `2026-04-22.dahlia`.
+- CORS open by design; webhook handler uses `express.raw()` before `express.json()` to preserve signature.
+- Vite middleware in dev; static + SPA fallback in prod.
 
-### Phase 5 - Advanced Features
-- [ ] Mobile app development
-- [ ] Social features and sharing
-- [ ] Advanced analytics dashboard
-- [ ] AI-powered recommendations
-- [ ] Content management system
+### Frontend pages
+
+| Route | File | Status |
+|---|---|---|
+| `/` | `pages/Landing.tsx` | Live counters from `stats.json`, two CTAs, four-pillar showcase |
+| `/library` | `pages/Library.tsx` | Three modes (Reader / Graph / Cards), paywall, admin badge, search filter, sidebar tree |
+| `/dashboard` | `pages/Dashboard.tsx` | Due-cards, recents, favourites, FSRS stats, Google sign-in, admin importer |
+| `/about` | `pages/About.tsx` | Evidence-quality breakdown, series tiles, transparency view |
+
+### Reader system
+
+- `StackedReader.tsx` — multi-column reader with `?stack=` URL state.
+- `NoteReader.tsx` — section-aware rendering driven by `parseNoteSections()`.
+- `NoteHoverCard.tsx` — wikilink hover preview, 180 ms enter delay.
+- `EvidencePill.tsx` — High / Medium / Low / Unknown badges.
+- `CitationCard.tsx` — citation render block.
+- Common-mistake callouts rendered in-line by `NoteReader`.
+
+### Graph system
+
+- `KnowledgeGraph.tsx` — D3 force layout with neighbour-dimming.
+- `AmbientGraph.tsx` — frozen layout cached in localStorage; near-zero CPU after first paint.
+- `NoteSidekick.tsx` — TOC + mini-graph sidebar.
+
+### Active recall + FSRS
+
+- `clozeGen.ts` — heuristic cloze generator from Key Points.
+- `srs.ts` — `ts-fsrs` 5 + Dexie IndexedDB store (`fitlib-srs`); config `request_retention 0.9`, `maximum_interval 365`.
+- `RecallSection.tsx` — input → grade → schedule UX.
+- Aggregate stats consumed by Dashboard.
+
+### Auth + payments
+
+- Firebase Auth (Google sign-in) wired in `firebase.ts`, `Library.tsx`, `Dashboard.tsx`.
+- Admin allowlist via `VITE_ADMIN_EMAILS` (comma-separated) in `admin.ts`.
+- Stripe checkout via `stripeService.ts → POST /api/create-checkout-session`.
+- Stripe webhook handler covers `checkout.session.completed`, `customer.subscription.deleted`, `customer.subscription.paused`.
+- `verifySubscription()` reads `users/{uid}.premium` through `/api/check-subscription`.
+- 5-node free tier enforced in `Library.tsx`; admin / premium bypass it.
+
+### Content bridge
+
+- `extractVault.ts` — vault scan, wikilink + citation extraction, broken-link detection.
+- `buildContentBridge.ts` — emits `index.json`, `nodes/<id>.json`, `series/<S>.json`, `stats.json`, then runs `buildClozeCards`.
+- `buildClozeCards.ts` — emits `cards.json` + per-node `cards/<id>.json`. Stable IDs via FNV-1a hash so review history survives rebuilds.
+- `importData.ts` — Firestore importer using batched 450-op writes.
+
+### Persistence
+
+- Firestore collections per `firestore.rules`: `nodes/{id}` + `nodes/{id}/citations/{cid}` (public read, admin write), `users/{uid}` (owner-write with field whitelist), `userProgress/{uid}` (owner-write), `admins/{aid}`.
+- IndexedDB store `fitlib-srs` (cards + reviews tables).
+- localStorage stores favourites, recently-viewed, ambient-graph layout, theme.
+
+### Build / deploy
+
+- Vite 6, Tailwind v4, TypeScript 5.8.
+- Multi-stage Dockerfile (Node 18-alpine, non-root `fitlib:nodejs`, healthcheck on `/api/health`).
+- `docker-compose.yml` with optional `redis` and `prometheus` profiles.
+- `vercel.json` SPA rewrite.
 
 ---
 
-## 📝 Development Commands
+## Latest content bridge stats (from `public/content/stats.json`, generated 2026-05-08T16:15Z)
+
+| Metric | Value |
+|---|---|
+| Nodes | 678 |
+| Citations | 985 |
+| Wikilinks | 5,568 |
+| Cards | 508 |
+| Card coverage | 41.7 % |
+| Average credibility | 0.50 |
+| Evidence (High / Medium / Low / Unknown) | 1,109 / 260 / 0 / 42 |
+| Broken wikilinks | 542 |
+| Series shards | A (66), B (72), C (110), E (118), Other (312) |
+
+`Other` rolls up D, F, G, H, I, J, K, L, M, N, O, P, Q, X — series shards for those letters are a pending bridge improvement.
+
+Source vault (counted from `*.md` at the repo root):
+
+| Section | Title | Subnotes |
+|---|---|---|
+| A | Foundational Concepts | 65 |
+| B | Resistance Training | 70 |
+| C | Nutrition & Diet | 106 |
+| D | Weight Management | 3 |
+| E | Cardio / Endurance | 15 |
+| F | Optimal Performance | 34 |
+| G | Special Populations | 16 |
+| H | Body Composition | 3 |
+| I | Hormones & Fitness | 3 |
+| J | Technology | 10 |
+| K | Elite Performance | 12 |
+| L | Cross-Training | 4 |
+| M | Recovery | 10 |
+| N | Long-Term Development | 10 |
+| O | Integrated Approaches | 8 |
+| P | Ethics | 10 |
+| Q | Key Topic Overviews | 8 |
+| X | Sports-Specific | 30 |
+
+---
+
+## Wired but inactive
+
+These exist in `package.json` / `firebase-blueprint.json` but are not used at runtime today:
+
+- `@google/genai` — declared dependency, no source import. Reserved for future AI features.
+- `redis` and `prometheus` Docker compose services — disabled by default profiles.
+- `database.py` (Python) — async SQLite layer for citation/quality records, never exercised by the active pipeline.
+
+## Optional, off by default
+
+- **Algolia search** — `algoliaService.ts` is fully implemented but only activates when `VITE_ALGOLIA_APP_ID`, `VITE_ALGOLIA_SEARCH_KEY`, `VITE_ALGOLIA_INDEX_NAME` are all set. Without them the SPA uses in-memory text search over `index.json`.
+- **`VITE_DEV_ADMIN`** — local-only admin bypass for development.
+
+---
+
+## Known issues / gaps
+
+| Area | Issue | Severity |
+|---|---|---|
+| Content bridge | D and F nodes are folded into `Other` series shard | Cosmetic — UI still renders correctly |
+| Wikilinks | 542 broken wikilinks at last extract | Operator follow-up via `interlink_validator.py` |
+| Cloze cards | Coverage is 41.7 % because the heuristic only fires on numeric / acronym / quantitative key points | By design; could be improved with weight tuning in `clozeGen.ts` |
+| FSRS | Review history is local-only (IndexedDB) — switching device loses progress | Roadmap: Firestore sync |
+| Series breakdown | Series counters in `stats.json` show only A/B/C/E/Other — no D/F/G/etc. shard | Improvement: extend `buildContentBridge.ts` to enumerate every section |
+| CI | No GitHub Actions / pre-commit. Lint and tests run manually | Recommended: add `npm test` on PR |
+| Production hosting | Vercel project not provisioned yet (per `VERCEL_DEPLOYMENT_CHECKLIST.md`) | Blocker for live launch |
+| Stripe live products | Test-mode price IDs only | Blocker for live launch |
+| Firebase service account | Production service-account JSON not yet provisioned | Blocker for live launch |
+
+---
+
+## Active development focus (this week)
+
+- Provision Vercel project, run first deploy, verify smoke tests in `PRODUCTION_LAUNCH_CHECKLIST.md`.
+- Set Stripe live mode + update price IDs in `stripeService.ts`.
+- Configure production Firebase service account.
+- Iterate on remaining `interlink_audit_report.json` broken-link fixes via `staged_promotion.py`.
+
+## Next 30 days
+
+- Series shard improvement (D / F / G / H / I / J / K / L / M / N / O / P / Q / X).
+- Add `/review` route — global due-card queue (skeleton already in `srs.ts::getDueCards`).
+- First content gap pass for F (Optimal Performance Factors) — currently 34 notes, target ≥45.
+- Add CI: `npm run lint && npm run build` + Python `pytest test_scripts/test_process_fitness_library_phase1.py` on every PR.
+
+## Backlog (from `ROADMAP.md`)
+
+- Firestore-backed FSRS sync.
+- Mobile app (PWA first, native later).
+- B2B API tier (Starter / Pro / Enterprise).
+- "Explain it like I'm…" reading-level toggle.
+- Pretest hooks above Quick Takeaway.
+
+---
+
+## Verification — how to check this status against the codebase
 
 ```bash
-# Development
-npm run dev              # Start development server
-npm run build           # Build for production
-npm run lint            # TypeScript checking
+# Stats (the numbers in this doc)
+cat "web app fitlib/public/content/stats.json" | jq
 
-# Docker
-npm run docker:build    # Build Docker image
-npm run docker:run      # Run Docker container
-npm run docker:compose  # Start with Docker Compose
+# Routes (cross-check the table above)
+grep -E "app\.(get|post|put|delete)" "web app fitlib/server.ts"
 
-# Health Check
-npm run health-check    # Verify API health
+# Active automation pipeline (reflected in CAPABILITIES.md)
+cat organized_library/automation_tools/tools/SCRIPT_STATUS.md
+
+# Latest promotions
+wc -l organized_library/automation_tools/promotion_history.jsonl
+tail -5 organized_library/automation_tools/promotion_history.jsonl | jq -r '.timestamp + "  " + .file'
 ```
 
----
-
-**Phase 2 Build Status: ✅ COMPLETE**
-*All requested components have been successfully built and integrated. The application is production-ready pending environment configuration.*
+Anything in this doc that disagrees with the codebase is a bug in the doc — open the issue or fix it directly.

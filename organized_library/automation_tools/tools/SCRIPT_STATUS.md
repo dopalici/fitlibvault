@@ -1,12 +1,15 @@
 # Script Status Matrix
 
-Scope: `organized_library/automation_tools/**/*.py`
+Last reviewed: 2026-05-08
+
+Scope: every `*.py` under `organized_library/automation_tools/`. There are 31 scripts in total — 7 active, 5 conditional, 17 legacy / experimental, 2 support modules.
 
 Status legend:
 
-- `active`: used in current recommended workflow
-- `conditional`: callable but dependent on setup/path assumptions
-- `legacy`: older/experimental utility; not part of default flow
+- `active`: used in the current recommended SOP (`WORKFLOW.md`).
+- `conditional`: callable but path-fragile or depends on env / config not enforced by the SOP.
+- `legacy`: older / experimental utility; superseded by something in the active set.
+- `support`: imported as a module by other scripts; not a standalone entry point.
 
 ## Active
 
@@ -74,7 +77,32 @@ Status legend:
 
 ## Shared Support Modules
 
-- `utility_scripts/config.py`
-- `utility_scripts/database.py`
+- `utility_scripts/config.py` — central `ConfigManager` with `APIConfig` / `ProcessingConfig` / `DatabaseConfig` / `QualityConfig` / `SystemConfig` dataclasses. Imported by `research_discovery.py`, `database.py`, `monitoring.py`, `quality_scorer.py`. Not used in the active SOP because none of those callers are.
+- `utility_scripts/database.py` — async SQLite layer (citations, file processing, quality metrics). Schema-only today; no active script writes to it.
 
-These are imported/config modules rather than standalone operational entrypoints.
+These are imported / config modules rather than standalone operational entry points.
+
+## Test scripts
+
+- `test_scripts/test_process_fitness_library_phase1.py` — pytest unit tests for the rewrite engine's evidence ranking. Run manually before changes to `process_fitness_library.py`.
+- `test_scripts/test_suite.py` — comprehensive (legacy) pytest suite touching `research_discovery`, `quality_scorer`, `content_enhancer`, `database`, `automation_pipeline`, `monitoring`, `config`. Many of those modules are legacy, so the suite has not been kept in sync.
+- `test_scripts/simple_test.py`, `test_scripts/demo_test.py` — incomplete scratch scripts; useful as references only.
+
+## Outputs cheat-sheet
+
+When the active SOP runs, these artefacts land in `organized_library/processed_archive/processed_notes/`:
+
+- `rewritten_*.md` — staging files (one per source note) until promoted.
+- `citation_audit_report.json`, `citation_audit_links.csv` — citation HTTP audit.
+- `citation_doi_fix_suggestions.json` — DOI fix suggestions.
+- `interlink_audit_report.json`, `interlink_audit.md`, `interlink_audit_links.csv` (optional) — wikilink validation.
+
+Promotion artefacts:
+
+- Vault-root OG file overwritten in place.
+- `organized_library/processed_archive/confirmed_archive/<YYYY-MM-DD>/rewritten_*.md` — promoted source archived per day.
+- `organized_library/automation_tools/promotion_history.jsonl` — JSONL audit log; 354 rows as of 2026-05-08.
+
+Website artefacts (when `--build-content` is set):
+
+- `web app fitlib/public/content/{index.json, nodes/*.json, series/*.json, stats.json, cards.json, cards/*.json}`.

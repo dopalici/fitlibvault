@@ -1,6 +1,10 @@
 # How It Works
 
-This automation stack has seven phases:
+Last reviewed: 2026-05-08
+
+This automation stack has seven phases. For a one-page index of every script (active / conditional / legacy), see `tools/SCRIPT_STATUS.md`. For a runbook with the exact commands, see `tools/WORKFLOW.md`. For a project-wide capability overview, see `/Users/enes/fitlibvault-main/CAPABILITIES.md`.
+
+Phases:
 
 1. Rewrite markdown notes (with PubMed-driven evidence packet)
 2. Audit citation links
@@ -9,6 +13,18 @@ This automation stack has seven phases:
 5. Validate rewrite structure and IDs
 6. Promote rewritten content into OG files (per-file confirm or bulk apply)
 7. Build website content + cloze cards for learning workflows
+
+## What is **not** in this pipeline (2026-05-08 audit)
+
+These modules exist in the codebase but are not wired into the active SOP:
+
+- **Cost gating** (`monitoring_scripts/api_cost_monitor.py`, `monitoring_scripts/cost_controlled_processor.py`) — the orchestrator does not enforce an Anthropic budget; manage spend externally.
+- **Database persistence** (`utility_scripts/database.py`) — async SQLite layer for citation / quality records, never invoked.
+- **Real-time monitoring & alerts** (`monitoring_scripts/monitoring.py`) — health checks, email alerts, matplotlib reports; sophisticated but inactive.
+- **Multi-API research discovery** (`monitoring_scripts/research_discovery.py`) — PubMed + CrossRef + Semantic Scholar implementation; only the inline PubMed integration in `process_fitness_library.py` is reachable from the SOP.
+- **Advanced quality scorer** (`validation_scripts/quality_scorer.py`) — full GRADE / bias-risk model; the rewrite engine uses its own simpler 3-factor scoring.
+
+If you need any of these capabilities, expect to glue them into `seamless_update_pipeline.py` first.
 
 ## 1) Rewrite Phase
 

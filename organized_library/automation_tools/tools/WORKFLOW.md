@@ -1,6 +1,10 @@
 # Workflow (SOP)
 
-This is the recommended safe cycle for rewriting, validating, and promoting notes.
+Last reviewed: 2026-05-08
+
+This is the recommended safe cycle for rewriting, validating, and promoting notes. Pair with `SCRIPT_STATUS.md` for the per-script status matrix and `../HOW_IT_WORKS.md` for the per-phase mechanics. For project-wide context, see `/Users/enes/fitlibvault-main/CAPABILITIES.md`.
+
+The flow described below was last exercised on 2026-05-08 with **354 promotions** (`promotion_history.jsonl`).
 
 ## Preferred One-Command Pipeline
 

@@ -1,17 +1,30 @@
-# Tools Docs
+# Tools docs
 
-This folder contains operational documentation for `organized_library/automation_tools`.
+Last reviewed: 2026-05-08
 
-- `SCRIPT_STATUS.md`: active vs conditional vs legacy script map
-- `WORKFLOW.md`: end-to-end SOP and execution order
+Operational documentation for `organized_library/automation_tools/`. Read these first before running anything from the pipeline.
 
-Citation QA utilities used in SOP:
+## What is in this folder
 
-- `../utility_scripts/citation_validation_audit.py`
-- `../utility_scripts/citation_doi_fixer.py`
+- **`SCRIPT_STATUS.md`** — every Python script in the automation tree with a status tag (`active` / `conditional` / `legacy` / `support`). The single matrix you should consult before deciding whether to call a script.
+- **`WORKFLOW.md`** — operator runbook. The recommended one-command pipeline, granular per-phase commands, pause / resume strategy, verification checklist, commit-and-push template.
+- **`README.md`** (this file) — index pointing at the above plus cross-links to the rest of the documentation.
 
-Primary orchestrator used in SOP:
+## Cross-references
 
-- `../automation_scripts/seamless_update_pipeline.py`
+- Pipeline overview + per-phase mechanics → `../HOW_IT_WORKS.md`.
+- Rationale and current status → `../README.md`.
+- Recent pipeline release notes → `../CHANGELOG-2026-05-05.md`, `../CHANGELOG-2026-05-07.md`.
+- Project-wide capability summary → `/Users/enes/fitlibvault-main/CAPABILITIES.md`.
+- Web-app side of the bridge (build / Reader / FSRS) → `/Users/enes/fitlibvault-main/web app fitlib/INTEGRATION.md` and `/Users/enes/fitlibvault-main/web app fitlib/docs/SOP_KNOWLEDGE_READER_SYSTEMS.md`.
 
-Use these docs as the source of truth before running automation commands.
+## Active SOP entry points (the only scripts you should call directly)
+
+- **Primary orchestrator:** `../automation_scripts/seamless_update_pipeline.py`.
+- **Per-file confirmed promotion:** `../automation_scripts/staged_promotion.py`.
+- **Bulk dry-run / fallback promotion:** `../automation_scripts/promote_rewritten_to_og.py`.
+- **Rewrite engine** (called by the orchestrator, but can be called standalone): `../processing_scripts/process_fitness_library.py`.
+- **Citation QA:** `../utility_scripts/citation_validation_audit.py`, `../utility_scripts/citation_doi_fixer.py`.
+- **Wikilink integrity:** `../utility_scripts/interlink_validator.py`.
+
+Everything else in the tree is conditional, legacy, or a support module — do not call them directly without first reading `SCRIPT_STATUS.md`.

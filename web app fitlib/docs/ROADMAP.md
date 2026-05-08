@@ -6,6 +6,19 @@
 
 **Current Timeline:** Q1 2026 → Q4 2026 + Q1 2027 preview
 
+Last reviewed: 2026-05-08
+
+---
+
+## Status legend (added in 2026-05-08 audit)
+
+- `[shipped]` — done in main; verifiable in code today.
+- `[wip]` — partially built; functional in places, missing in others.
+- `[planned]` — original target still standing, not yet started.
+- `[stretch]` — exploratory; reconsider before committing time.
+
+For a single-pane view of what is actually shipped today, see `/Users/enes/fitlibvault-main/CAPABILITIES.md`. For the live build snapshot, `DEVELOPMENT_PROGRESS.md`.
+
 ---
 
 ## 🎯 Q1 2026: Foundation & Launch (Jan - Mar 2026)
@@ -13,49 +26,49 @@
 **Goal:** Get product live with 100+ nodes from Obsidian vault
 
 ### Infrastructure Setup (Week 1-2)
-- [ ] Firebase project creation (Firestore + Auth)
-- [ ] Algolia index setup for full-text search
-- [ ] Vercel deployment pipeline
-- [ ] GitHub Actions CI/CD (extraction automation)
-- [ ] Stripe account + webhook configuration
+- `[shipped]` Firebase project creation (Firestore + Auth) — `firestore.rules`, `firebase-applet-config.json`
+- `[shipped]` Algolia search service (optional; activates when env vars set) — `src/lib/algoliaService.ts`
+- `[shipped]` Vercel deployment pipeline — `vercel.json` + `docs/VERCEL_DEPLOYMENT_CHECKLIST.md`. Project provisioning is the remaining op step.
+- `[planned]` GitHub Actions CI/CD — not present today
+- `[shipped]` Stripe account + webhook configuration — `server.ts /api/stripe/webhook`, test mode wired
 
 **Time Budget:** 10 hours (setup weeks)
 
 ### Data Migration (Week 1-2)
-- [ ] Build Obsidian extraction script
-- [ ] Test with 105 nodes from vault
-- [ ] Validate wikilinks (>95% resolution)
-- [ ] Validate citations (8+ per topic)
-- [ ] Deploy to Firestore + Algolia
+- `[shipped]` Obsidian extraction script — `scripts/extractVault.ts`
+- `[shipped]` Tested with 678 nodes (far exceeded the 105-node Q1 target) — see `stats.json`
+- `[wip]` Wikilink resolution — 5,568 resolved, 542 broken; ongoing operator follow-up via `interlink_validator.py`
+- `[shipped]` Citation extraction — 985 attached, all DOI / PMID-validated by the pipeline
+- `[shipped]` Firestore deploy via `scripts/importData.ts` (admin importer panel on Dashboard)
 
 **Time Budget:** 8 hours
 
 ### Web App Updates (Week 2-3)
-- [ ] Connect React app to Firestore
-- [ ] Implement Algolia search
-- [ ] Add free tier restriction (50 topics)
-- [ ] Premium paywall (Stripe integration)
-- [ ] Email signup (ConvertKit integration)
+- `[shipped]` React app reads from static content bridge with Firestore fallback — `src/services/nodeService.ts`
+- `[shipped]` Algolia search service — `src/lib/algoliaService.ts` (optional via env vars)
+- `[shipped]` Free tier restriction — 5 nodes (not 50; tightened during Q1)
+- `[shipped]` Premium paywall + Stripe integration — `PremiumPaywall.tsx`, `stripeService.ts`
+- `[planned]` ConvertKit email signup — not present today
 
 **Time Budget:** 12 hours
 
 ### Launch Week (Week 4)
-- [ ] Landing page (copy + design)
-- [ ] ProductHunt submission
-- [ ] Reddit post (r/fitness, r/bodyweightfitness)
-- [ ] Twitter thread launch
-- [ ] Email to friends/network
+- `[shipped]` Landing page (`pages/Landing.tsx`) — live counters, four-pillar showcase
+- `[planned]` ProductHunt submission
+- `[planned]` Reddit posts
+- `[planned]` Twitter thread launch
+- `[planned]` Email to friends / network
 
 **Time Budget:** 5 hours (marketing prep)
 
 ### Q1 Success Criteria
 ```
-✅ 500+ signups (ProductHunt launch)
-✅ 50+ premium conversions ($400 MRR)
-✅ 105 nodes live with 1,200+ citations
-✅ <100ms search latency
-✅ 99.9% uptime
-✅ Zero critical bugs
+[planned] 500+ signups (ProductHunt launch)
+[planned] 50+ premium conversions ($400 MRR)
+[shipped] 678 nodes live with 985 citations (target: 105 / 1,200 — exceeded node count, undershot citation density target)
+[planned] <100ms search latency (not yet measured in production)
+[planned] 99.9% uptime (no production traffic yet)
+[shipped] Zero critical bugs in current main
 ```
 
 ---
@@ -65,12 +78,12 @@
 **Goal:** Grow to 2,000+ users, launch B2B API, 10+ API customers
 
 ### Product Improvements (Week 1-4)
-- [ ] Mobile responsiveness (iOS/Android)
-- [ ] Dark mode toggle
-- [ ] Offline PDF export (premium feature)
-- [ ] Bookmark/note system
-- [ ] Citation export (BibTeX/APA)
-- [ ] Advanced search filters (by series, credibility, study type)
+- `[shipped]` Mobile responsiveness — Tailwind v4 throughout, tested in browser at standard breakpoints
+- `[shipped]` Dark mode toggle — `src/lib/theme.ts` + `useTheme()` hook
+- `[planned]` Offline PDF export (premium feature)
+- `[shipped]` Bookmark/note system — `src/lib/favorites.ts` (localStorage), `recentlyViewed.ts`
+- `[planned]` Citation export (BibTeX/APA)
+- `[wip]` Advanced search filters — series/category filter present in `LibraryExplorer.tsx`; credibility / study-type filters not yet
 
 **Time Budget:** 16 hours (ongoing feature work)
 
@@ -117,11 +130,11 @@
 **Goal:** Reach 5,000 users, prove API model, 10+ API customers
 
 ### Retention & Engagement (Week 1-13)
-- [ ] Implement reading streak gamification
-- [ ] Knowledge graph visualizations (highlight connections)
-- [ ] Personalized recommendations engine
-- [ ] Expert Q&A section (coaches answer user questions)
-- [ ] Mobile app (React Native, Expo)
+- `[shipped]` Reading streak — `userProgress/{uid}.studyStreak` tracked server-side, surfaced on Dashboard
+- `[shipped]` Knowledge graph visualisations — `KnowledgeGraph.tsx` + `AmbientGraph.tsx`
+- `[planned]` Personalised recommendations engine
+- `[planned]` Expert Q&A section
+- `[planned]` Mobile app (React Native or PWA-first)
 
 **Time Budget:** 24 hours (engagement features)
 
@@ -367,9 +380,28 @@ Mitigation:
 
 ---
 
-**Last Updated:** 2026-05-03  
-**Next Review:** 2026-07-01 (Q2 end)  
-**Owner:** You  
-**Version:** 1.0
+**Last Updated:** 2026-05-08
+**Next Review:** 2026-07-01 (Q2 end)
+**Owner:** You
+**Version:** 1.1 (status tags added)
 
 *This roadmap is flexible. Adjust based on real data each quarter.*
+
+---
+
+## What unexpectedly shipped ahead of schedule (delta from Q1 plan)
+
+These items were not on the Q1 plan but landed during Q1:
+
+- **Reader system** — `StackedReader`, `NoteReader`, `RecallSection`, `NoteHoverCard`, `EvidencePill`, `AmbientGraph`. Original plan deferred multi-panel reading to "Future Phases".
+- **Active recall + FSRS** — `clozeGen.ts`, `srs.ts`, IndexedDB persistence. 508 cards generated automatically. Not in original Q1.
+- **Automation pipeline (7 phases)** — `seamless_update_pipeline.py` with PubMed-backed rewrite, citation audit, DOI fixer, interlink validator, staged promotion. Not in original Q1; delivered through 354 promotions on 2026-05-08.
+- **Content scope** — 678 nodes vs 105 target. Bridge architecture made it cheap to ship the full vault.
+
+These items lagged the Q1 plan:
+
+- **GitHub Actions CI/CD** — still not present.
+- **Production deploy on Vercel** — project not provisioned yet (test builds only).
+- **Live Stripe products** — test mode only.
+- **ConvertKit / email capture** — not built.
+- **ProductHunt / Reddit launch** — not yet.

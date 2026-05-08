@@ -6,47 +6,84 @@
 
 **Owner:** You (monitor these metrics every Friday)
 
+Last reviewed: 2026-05-08
+
+> **How to read this doc (added in 2026-05-08 audit).** Every metric below is tagged either `[current]` or `[target]`. `[current]` numbers come from `public/content/stats.json`, `automation_tools/promotion_history.jsonl`, or Firebase / Stripe dashboards. `[target]` numbers are aspirational from `VISION.md` / `BUSINESS_MODEL.md`. The original framing of this doc treated the targets as expected reality, which made it impossible to use as a status board. Tagging them separates plan from delivery.
+
 ---
 
-## 📊 Dashboard Snapshot
+## 📊 Current actuals (2026-05-08)
 
-**Current Status (Template for you to fill)**
+These are the metrics with measurable values **today**. Everything else in this doc is a plan.
+
+```
+CONTENT (read from public/content/stats.json):
+├─ Total nodes published                : 678        [current]
+├─ Total citations attached             : 985        [current]
+├─ Total wikilinks (resolved)           : 5,568      [current]
+├─ Broken wikilinks                     : 542        [current; target ≤ 50]
+├─ Average credibility                  : 0.50       [current]
+├─ Cloze cards                          : 508 (41.7 % coverage)  [current]
+├─ Evidence quality (High / Med / Low / Unk): 1,109 / 260 / 0 / 42  [current]
+
+AUTOMATION (read from promotion_history.jsonl):
+├─ Total promotions on 2026-05-08       : 354        [current]
+├─ Total promotions to date             : 354        [current]
+├─ Active pipeline phases               : 7          [current]
+
+CODE / OPS:
+├─ Express routes registered            : 9          [current]
+├─ Build status (npm run lint && build) : passing    [current]
+├─ Production deploy (Vercel)           : not yet provisioned   [current]
+├─ Stripe products live                 : test mode only        [current]
+├─ CI                                   : none yet              [current]
+
+USER / REVENUE / ENGAGEMENT:
+├─ All metrics                          : N/A — no production traffic yet
+```
+
+When the app goes live, fill in the dashboard template below from the live dashboards instead of leaving the section blank.
+
+---
+
+## 📊 Dashboard Snapshot (weekly template)
 
 ```
 Week Ending: [YYYY-MM-DD]
 
 USER METRICS:
-├─ Total signups (cumulative): ___ (target: 500 Month 1)
-├─ Active users (DAU): ___ (target: 100+ Month 1)
-├─ Premium subscribers: ___ (target: 50 by Month 3)
-├─ Premium conversion rate: __% (target: 8-10%)
-└─ Monthly churn rate: __% (target: <2%)
+├─ Total signups (cumulative)        : ___   [target: 500 Month 1]
+├─ Active users (DAU)                : ___   [target: 100+ Month 1]
+├─ Premium subscribers               : ___   [target: 50 by Month 3]
+├─ Premium conversion rate           : __ %  [target: 8–10 %]
+└─ Monthly churn rate                : __ %  [target: < 2 %]
 
 REVENUE METRICS:
-├─ MRR from subscriptions: $___ (target: $400 Month 1)
-├─ MRR from API: $____ (target: $0 Month 1, $300 Month 6)
-├─ Total MRR: $_____ (target: $400 Month 1 → $2,000 Month 12)
-└─ CAC (Customer Acquisition Cost): $___ (target: <$50)
+├─ MRR from subscriptions            : $___  [target: $400 Month 1]
+├─ MRR from API                      : $___  [target: $0 Month 1, $300 Month 6]
+├─ Total MRR                         : $___  [target: $400 → $2,000 Month 12]
+└─ CAC                               : $___  [target: < $50]
 
-CONTENT METRICS:
-├─ Total nodes: ___ (target: 105+ from vault)
-├─ New nodes published: ___ (target: 2/week)
-├─ Average citations per node: ___ (target: 8+)
-├─ Wikilink resolution rate: __% (target: >95%)
-└─ Content quality score: __/5 (target: >4.0)
+CONTENT METRICS (read from stats.json each week):
+├─ Total nodes                       : ___   [current 678; target 750 by Month 6]
+├─ New nodes published               : ___   [target: 2 / week]
+├─ Average citations per node        : 1.45  [current; target ≥ 8]    — gap: most notes inherited 0–2 citations
+├─ Wikilink resolution rate          : 91 %  [current; target ≥ 95 %]
+└─ Content quality score             : __ /5 [target: > 4.0]
 
 ENGAGEMENT METRICS:
-├─ Avg session duration: ___ min (target: >3 min)
-├─ Pages per session: ___ (target: >2)
-├─ Knowledge graph interactions: ___ (target: >50%)
-├─ Search queries per day: ___ (target: >100)
-└─ Email list growth: ___ (target: +50/week)
+├─ Avg session duration              : ___ min   [target: > 3 min]
+├─ Pages per session                 : ___       [target: > 2]
+├─ Cards reviewed (FSRS) / day       : ___       [target: > 50]
+├─ Graph interactions                : ___       [target: > 50 % of sessions]
+├─ Search queries per day            : ___       [target: > 100]
+└─ Email list growth                 : ___       [target: + 50 / week]
 
 BUSINESS HEALTH:
-├─ Uptime: __% (target: 99.9%)
-├─ Search latency: ___ ms (target: <100ms)
-├─ Support response time: ___ hours (target: <24h)
-└─ API availability: __% (target: 99.99%)
+├─ Uptime                            : __ %  [target: 99.9 %]
+├─ Search latency                    : ___ ms [target: < 100 ms]
+├─ Support response time             : ___ h  [target: < 24 h]
+└─ API availability                  : __ %  [target: 99.99 %]
 ```
 
 ---

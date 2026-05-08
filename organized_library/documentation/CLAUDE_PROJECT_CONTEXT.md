@@ -1,350 +1,195 @@
-# Claude Project Context - Fitness Library Development
+# Claude Project Context — FitLib
 
-## 🎯 **Project Overview**
+Last refreshed: 2026-05-08
 
-### What This Project Is
-This is a **comprehensive fitness and exercise science library** that has been transformed from a collection of markdown files into a professionally organized, business-ready knowledge base for commercial development.
+This file is the orientation primer for an AI assistant (or new contributor) joining the project. It tells you what FitLib is, what state it is in, and where to look for everything else.
 
-### Current Project Status: **ORGANIZATION COMPLETE - READY FOR BUSINESS DEVELOPMENT**
-
----
-
-## 📊 **Project Statistics & Achievements**
-
-### Content Library Stats
-- **574 total files** organized and enhanced
-- **23 logical categories** with complete folder structure
-- **331 files replaced** with enhanced versions containing expert-level content
-- **5,914 internal links updated** to maintain navigation in new structure
-- **100% link preservation** - no broken internal references
-- **Professional citation standards** implemented throughout
-
-### File Organization Breakdown
-```
-Foundation (66 files) - Exercise science fundamentals
-Resistance Training (71 files) - Training methods & programming
-Nutrition & Diet (107 files) - Sports nutrition & supplements
-Exercise Library (100 files) - Detailed exercise instructions
-Performance Factors (35 files) - Testing & optimization
-Sports Specific (31 files) - Sport applications
-Documentation (28 files) - Guides & meta-information
-Special Populations (17 files) - Health conditions & age-specific
-Cardiovascular Training (16 files) - Endurance methods
-Elite Performance (13 files) - Advanced training
-Technology (11 files) - Digital tools & research
-Recovery (11 files) - Recovery strategies
-Ethics (11 files) - Professional standards
-Long-term Development (11 files) - Lifespan fitness
-Integrated Approaches (9 files) - Holistic programming
-Health Conditions (9 files) - Injury & rehabilitation
-Equipment Technology (6 files) - Gear recommendations
-Cross Training (5 files) - Functional fitness
-Hormones Fitness (4 files) - Hormonal responses
-Body Composition (4 files) - Assessment & change rates
-Key Overviews (9 files) - Topic summaries
-```
+The single most authoritative document is `/Users/enes/fitlibvault-main/CAPABILITIES.md`. Read that next.
 
 ---
 
-## 🗂️ **Directory Structure**
+## What FitLib is
 
-### Main Project Location
-```
-/Users/enesozkan/Library/Mobile Documents/iCloud~md~obsidian/Documents/fitness zettelkastenn/fitlib/
-```
+FitLib is an evidence-based fitness knowledge platform built in three independent layers stacked on the same source-of-truth markdown vault:
 
-### Organized Library Structure
+1. **Content vault** — an Obsidian-style markdown library at `/Users/enes/fitlibvault-main/`. 678 published nodes with 985 citations and 5,568 wikilinks.
+2. **Automation pipeline** — Python scripts under `organized_library/automation_tools/` that rewrite notes with PubMed-backed evidence, validate citations, validate wikilinks, and promote rewrites into the vault. Last run: **354 promotions on 2026-05-08**.
+3. **Web app** — a React 19 + Vite SPA over an Express backend (`web app fitlib/`). Reads content from a static JSON bridge generated from the vault; persists user state in Firestore + IndexedDB; bills via Stripe.
+
+Each layer can be operated in isolation. The pipeline produces vault notes; the vault produces a content bridge; the bridge feeds the SPA.
+
+---
+
+## Current state (2026-05-08)
+
+### Content
+
+| Metric | Value | Source |
+|---|---|---|
+| Notes published to web app | 678 | `public/content/stats.json` |
+| Citations attached | 985 | same |
+| Wikilinks resolved | 5,568 | same |
+| Wikilinks broken | 542 | same — operator follow-up |
+| Cloze cards | 508 (41.7 % coverage) | same |
+| Evidence quality | High 1,109 / Med 260 / Low 0 / Unknown 42 | same |
+| Vault root notes | 575 across A–X sections | filesystem |
+| Organised library notes (sorted views) | 946 | filesystem |
+
+### Pipeline
+
+- **Active orchestrator:** `automation_scripts/seamless_update_pipeline.py` (path-stable, 7-phase).
+- **Active rewrite engine:** `processing_scripts/process_fitness_library.py` (PubMed + Anthropic Claude).
+- **Active promotion:** `automation_scripts/staged_promotion.py` (per-file y/s/d/q with date stamping, atomic writes, JSONL audit).
+- **Active validators:** `utility_scripts/citation_validation_audit.py`, `citation_doi_fixer.py`, `interlink_validator.py`.
+- **Conditional / legacy / unused:** see `automation_tools/tools/SCRIPT_STATUS.md`.
+
+### Web app
+
+- React 19 SPA + Express 4 server, both in `web app fitlib/`.
+- Three reader modes: `StackedReader` (multi-panel), `KnowledgeGraph` (D3 force layout), `Cards` (FSRS recall queue).
+- 9 backend routes; Stripe webhook + Firebase Auth + Firestore wired.
+- Build target: Vercel (default) or Docker.
+- `dist/` is currently populated; production project not yet provisioned (test builds only).
+
+---
+
+## Architecture (replaces the planned architecture in older docs)
+
+Older docs in this folder reference a **planned** Next.js 14 + FastAPI + PostgreSQL stack. That plan was superseded. The shipped architecture is:
+
+| Layer | Stack |
+|---|---|
+| Frontend | React 19, Vite 6, TypeScript 5.8, Tailwind v4, react-router-dom 7, react-markdown |
+| Visualisation | D3 7 |
+| Spaced repetition | `ts-fsrs` 5 + Dexie 4 (IndexedDB) |
+| Backend | Express 4 + firebase-admin 13 |
+| Persistence | Firestore (server reads + user state), IndexedDB (FSRS), localStorage (favourites / theme) |
+| Search | Algolia (optional; `algoliaService.ts`) + in-memory text fallback |
+| Payments | Stripe 22 |
+| Deploy | Vercel (default), Docker (alt) |
+| AI in pipeline | Anthropic Claude (via `process_fitness_library.py`) — operator-side, not in-app |
+| AI in app | None today — `@google/genai` declared but unused |
+
+---
+
+## Directory map (top-level)
+
 ```
-organized_library/
-├── README.md (Main navigation guide)
-├── ORGANIZATION_COMPLETE_REPORT.md
-├── foundation/ (66 files + README.md)
-├── resistance_training/ (71 files + README.md)
-├── nutrition_diet/ (107 files + README.md)
-├── exercise_library/ (100 files + README.md)
-├── performance_factors/ (35 files + README.md)
-├── sports_specific/ (31 files + README.md)
-├── documentation/ (28 files + README.md)
-├── special_populations/ (17 files + README.md)
-├── cardiovascular_training/ (16 files + README.md)
-├── elite_performance/ (13 files + README.md)
-├── technology/ (11 files + README.md)
-├── recovery/ (11 files + README.md)
-├── ethics/ (11 files + README.md)
-├── long_term_development/ (11 files + README.md)
-├── integrated_approaches/ (9 files + README.md)
-├── health_conditions/ (9 files + README.md)
-├── equipment_technology/ (6 files + README.md)
-├── cross_training/ (5 files + README.md)
-├── hormones_fitness/ (4 files + README.md)
-├── body_composition/ (4 files + README.md)
-├── key_overviews/ (9 files + README.md)
-├── automation_tools/ (Processing scripts + README.md)
-├── processed_archive/ (Original rewritten files)
-└── original_backup/ (Pre-organization backup files)
+/Users/enes/fitlibvault-main/
+├── CAPABILITIES.md                ← read this first
+├── CHANGELOG_DOCS_2026-05-08.md   ← what the recent doc audit changed
+├── A. … X20.md                    ← root vault notes (575 notes across 18 sections)
+├── fitlib_export.json             ← latest portable vault snapshot
+├── export_for_google_ai_studio.py ← legacy export helper
+├── web app fitlib/                ← SPA + Express server
+│   ├── server.ts
+│   ├── src/                       ← React app
+│   ├── scripts/                   ← extractVault, buildContentBridge, buildClozeCards, importData
+│   ├── public/content/            ← static content bridge (regenerated by `npm run content:build`)
+│   ├── docs/                      ← operational docs (KPIs, ROADMAP, SOPs, checklists)
+│   ├── README.md
+│   └── INTEGRATION.md
+└── organized_library/
+    ├── automation_tools/          ← Python pipeline + docs
+    │   ├── README.md
+    │   ├── HOW_IT_WORKS.md
+    │   ├── tools/SCRIPT_STATUS.md
+    │   ├── tools/WORKFLOW.md
+    │   ├── automation_scripts/    ← orchestrators + promotion
+    │   ├── processing_scripts/    ← rewrite engine
+    │   ├── utility_scripts/       ← validators + helpers
+    │   ├── monitoring_scripts/    ← (legacy) cost / monitoring
+    │   ├── validation_scripts/    ← citation / quality scoring
+    │   └── test_scripts/          ← pytest
+    ├── exercise_library/          ← 101 exercise notes
+    ├── foundation/, resistance_training/, nutrition_diet/, … ← sorted views (946 notes total across 25 subdirs)
+    ├── processed_archive/         ← rewrite staging + dated promotion archives
+    ├── original_backup/           ← pre-rewrite snapshots (331 files)
+    └── documentation/             ← THIS FOLDER (35 reference docs)
 ```
 
 ---
 
-## 📝 **Content Standards & Format**
+## Note schema (used everywhere)
 
-### File Structure Template
-Every enhanced file follows this format:
-```markdown
-### [Topic Name]
-**ID:** [UNIQUE-IDENTIFIER]
-**Created:** [DATE] (Updated: [DATE])
+Every published note follows this seven-section schema, parsed by `web app fitlib/src/lib/noteSchema.ts`:
+
+```
+### [ID]. [Title]
+**ID:** [UNIQUE-ID]
+**Created:** YYYY-MM-DD
+**Updated:** YYYY-MM-DD
 
 ## Quick Takeaway
-[2-3 sentence summary]
+…
 
 ## Key Points
-- [5-7 actionable bullet points]
+- …
 
 ## Deep Dive
-### Mechanisms of Action
-### Implementation Protocols
-### Physiological Adaptations
-### Individual Variability Factors
-### Integration Strategies
+…
 
 ## Research Evidence
-[5+ peer-reviewed citations with DOI links]
+**Author. (Year). Title. Journal. Quality rating: High|Medium|Low**
+- …
 
 ## Practical Applications
-### Implementation Guidelines
-### Safety Considerations
-### Integration with Training Programs
+- …
 
-## Related Topics
-[[Cross-references to other library topics]]
+## Common Mistakes
+⚠️ …
+
+## Related Concepts
+[[Wikilinked Topic]]
+
+## Update Log
+- YYYY-MM-DD: …
 ```
 
-### Citation Standards
-- **Peer-reviewed journals** with DOI links
-- **Proper academic formatting** (Author, Year, Journal, Volume, Pages)
-- **High-impact factor sources** prioritized
-- **Current research** (<5 years preferred)
+For the authoring SOP, see `web app fitlib/docs/SOP_CONTENT.md`. For the rewrite engine that produces these, see `organized_library/automation_tools/processing_scripts/process_fitness_library.py`.
 
 ---
 
-## 🛠️ **Tools & Automation Created**
+## Documentation map (for AI sessions)
 
-### Processing Scripts (in automation_tools/)
-- **organize_fitness_library.py** - Main organization script
-- **replace_with_rewritten.py** - File replacement with enhanced versions
-- **update_links_for_organization.py** - Link structure updates
-- **cost_controlled_processor.py** - API budget management
-- **enhanced_depth_processor.py** - Subject-specific content creation
-- **expert_content_processor.py** - Expert-level training methods
-- **manual_enhanced_processor.py** - Template-based processing
-- **ultra_optimized_processor.py** - Token-optimized processing
-
-### Quality Assurance Tools
-- **validate_citations.py** - Citation quality validation
-- **Citation validation reports** - Quality assessment results
-- **Link integrity verification** - Cross-reference validation
-
----
-
-## 💼 **Business Development Status**
-
-### Market Value Assessment
-- **$100,000+ intellectual property asset**
-- **Academic-grade content quality**
-- **Professional citation standards**
-- **Ready for commercial development**
-
-### Target Markets
-- **Fitness professionals** seeking evidence-based guidance
-- **Academic institutions** needing curriculum resources
-- **Healthcare providers** requiring exercise prescriptions
-- **Corporate wellness programs**
-- **Serious fitness enthusiasts**
-
-### Business Model Planned
-```
-Subscription Tiers:
-- Free: 20% content access
-- Professional ($29/month): Full access
-- Enterprise ($99/month): API access, white-label
-
-Revenue Projections:
-- Year 1: ~$467,000 ARR
-- Year 2: ~$2.8M ARR
-```
+| If the user asks about… | Read |
+|---|---|
+| What the project does today | `/Users/enes/fitlibvault-main/CAPABILITIES.md` |
+| What changed in the recent doc audit | `/Users/enes/fitlibvault-main/CHANGELOG_DOCS_2026-05-08.md` |
+| Web app architecture / quickstart | `web app fitlib/README.md` |
+| Web app build state | `web app fitlib/docs/DEVELOPMENT_PROGRESS.md` |
+| Authoring a note | `web app fitlib/docs/SOP_CONTENT.md` |
+| Vault → SPA bridge | `web app fitlib/docs/SOP_EXTRACTION.md` |
+| Reader / cloze / FSRS | `web app fitlib/docs/SOP_KNOWLEDGE_READER_SYSTEMS.md` |
+| Pipeline mechanics | `organized_library/automation_tools/HOW_IT_WORKS.md` |
+| Pipeline runbook | `organized_library/automation_tools/tools/WORKFLOW.md` |
+| Per-script status | `organized_library/automation_tools/tools/SCRIPT_STATUS.md` |
+| Recent pipeline changes | `organized_library/automation_tools/CHANGELOG-2026-05-07.md` |
+| Production launch | `web app fitlib/docs/PRODUCTION_LAUNCH_CHECKLIST.md` |
+| Vercel-specific deploy | `web app fitlib/docs/VERCEL_DEPLOYMENT_CHECKLIST.md` |
+| Targets / direction | `web app fitlib/docs/VISION.md`, `ROADMAP.md`, `KPIs.md` |
+| Weekly review process | `web app fitlib/docs/AI_ASSISTED_MANAGEMENT.md`, `WEEKLY_STANDUP_TEMPLATE.md` |
 
 ---
 
-## 🎯 **Development Roadmap**
+## How to be useful in a new session
 
-### Phase 1: Foundation (Months 1-3)
-- [x] Content organization and enhancement - **COMPLETE**
-- [ ] MVP website development
-- [ ] User authentication system
-- [ ] Basic subscription model
-
-### Phase 2: Enhancement (Months 4-6)
-- [ ] Interactive learning pathways
-- [ ] Progress tracking system
-- [ ] Community features
-- [ ] Mobile app development
-
-### Phase 3: Scale (Months 7-12)
-- [ ] API development
-- [ ] Corporate licensing
-- [ ] International expansion
-- [ ] Certification programs
+1. **Confirm current state** — read `stats.json`, `promotion_history.jsonl`, and the most recent CHANGELOG. The numbers above will drift; trust the live files.
+2. **Pick the right layer** — vault, pipeline, or app. Each has its own SOP and entry points.
+3. **Do not propose Next.js / FastAPI / PostgreSQL** — the older docs in this folder describe a plan that was superseded by the React 19 + Express + Firebase + static bridge architecture.
+4. **Do not call legacy scripts** — `master_automation.py`, `run_complete_automation.py`, `automation_pipeline.py`, `replace_with_rewritten.py`, etc. are kept for reference but are path-fragile or superseded. Use `seamless_update_pipeline.py`.
+5. **Treat targets as targets** — `KPIs.md` and `ROADMAP.md` distinguish `[current]` (measurable today) from `[target]` (planned). Do not state targets as if they were delivered.
 
 ---
 
-## 🔧 **Technical Architecture Planned**
+## What changed since the original CLAUDE_PROJECT_CONTEXT was written
 
-### Frontend
-- **Next.js 14 with TypeScript**
-- **Tailwind CSS** for styling
-- **React components** for interactivity
-- **Server-side rendering** for SEO
+The original (dated 2025-06-05) framed the project as "ORGANIZATION COMPLETE — READY FOR BUSINESS DEVELOPMENT" and described **planned** technical architecture. Since then:
 
-### Backend
-- **FastAPI + PostgreSQL**
-- **Elasticsearch** for search
-- **JWT authentication**
-- **Stripe** for payments
+- The **web app shipped**. React 19 SPA, Express backend, FSRS, cloze cards, paywall, Stripe, all live in main.
+- The **automation pipeline shipped**. Seven-phase workflow, 354 promotions on 2026-05-08, JSONL audit trail.
+- The **content scope is 678 nodes**, not the 574-file framing of the original — adjusted for the rewrite-promotion lifecycle.
+- The **architecture stack changed**. Original plan was Next.js / FastAPI / PostgreSQL / Elasticsearch; shipped stack is React / Express / Firebase / Algolia (optional).
+- The **revenue framing softened**. Original projected "$467K Year 1 → $2.8M Year 2 ARR"; current operating plan in `web app fitlib/docs/VISION.md` is "$10K Year 1 → $50K Year 3 ARR" with a 7–8 hour-a-week sustainable cadence during university.
 
-### Features to Implement
-- **Knowledge graph visualization**
-- **Progressive disclosure interface**
-- **Adaptive learning paths**
-- **PDF export functionality**
-- **Mobile-responsive design**
-
----
-
-## 📋 **Current Tasks & Priorities**
-
-### Immediate Next Steps (This Week)
-1. **Business Foundation**
-   - Secure domain name
-   - Register LLC/business entity
-   - Set up business bank account
-   - Create brand identity
-
-2. **Technical Setup**
-   - Development environment setup
-   - GitHub repository creation
-   - Hosting configuration
-   - Basic website structure
-
-### Development Sprint 1 (Weeks 1-2)
-- Database schema design
-- Content migration from markdown
-- User authentication implementation
-- Search functionality development
-
-### Beta Launch Target: Month 2
-- 50-100 beta users
-- Core feature validation
-- Payment system testing
-- Performance optimization
-
----
-
-## 📄 **Key Reference Documents**
-
-### Business Strategy
-- **FITNESS_LIBRARY_BUSINESS_DEVELOPMENT_GUIDE.md** - Complete business strategy
-- **PROJECT_NEXT_STEPS_ACTION_PLAN.md** - Tactical execution roadmap
-
-### Technical Documentation
-- **ORGANIZATION_COMPLETE_REPORT.md** - Project completion summary
-- **B_section_enhanced_completion_report.md** - Content enhancement details
-- **COMPLETE_REPLACEMENT_REPORT.md** - File replacement results
-
-### Process Documentation
-- **automation_tools/README.md** - Tool descriptions and usage
-- Individual folder READMEs - Content explanations
-
----
-
-## 🧠 **Knowledge for Future Claude Sessions**
-
-### What Has Been Accomplished
-1. **Content Creation**: 574 professional-grade fitness topics created
-2. **Quality Enhancement**: Expert-level content with proper citations
-3. **Organization**: Logical folder structure with navigation
-4. **Link Preservation**: All internal cross-references maintained
-5. **Documentation**: Comprehensive README files for every folder
-6. **Business Planning**: Complete strategy and execution roadmap
-
-### What Needs to Be Done Next
-1. **Business Setup**: Legal entity, domain, branding
-2. **Technical Development**: Website, database, authentication
-3. **Content Migration**: Markdown to database conversion
-4. **User Experience**: Search, navigation, mobile optimization
-5. **Monetization**: Subscription system, payment processing
-
-### User's Goals
-- Transform fitness library into profitable business
-- Maintain academic-quality content standards
-- Implement weekly content updates with 20 citations per topic
-- Create best-in-class user experience for fitness professionals
-- Scale to $2.8M ARR within 2 years
-
-### User Preferences
-- Evidence-based, scientific approach
-- Professional quality standards
-- Systematic, organized methodology
-- Cost-effective development strategies
-- Comprehensive documentation
-
----
-
-## 💡 **Context for AI Assistance**
-
-### User's Expertise Level
-- Advanced understanding of fitness and exercise science
-- Business development experience
-- Quality-focused approach
-- Technical implementation capability
-
-### Preferred Communication Style
-- Direct, actionable guidance
-- Detailed technical specifications
-- Strategic business thinking
-- Evidence-based recommendations
-
-### Project Management Approach
-- Systematic, milestone-driven progress
-- Comprehensive documentation
-- Quality over speed
-- Risk mitigation strategies
-
----
-
-## 🔄 **How to Use This Context File**
-
-### For New Claude Sessions
-1. Read this file first to understand project status
-2. Check current phase and priorities
-3. Reference specific documentation as needed
-4. Continue from where previous session ended
-
-### For Project Updates
-1. Update completion status as tasks finish
-2. Add new challenges or discoveries
-3. Modify timelines if needed
-4. Document decisions and rationale
-
-### For Troubleshooting
-1. Check automation_tools/ for relevant scripts
-2. Review organization reports for patterns
-3. Validate against established standards
-4. Reference business strategy for decisions
-
----
-
-*Context File Created: 2025-06-05*
-*Last Updated: 2025-06-05*
-*Project Phase: Business Development Ready*
-*Next Session Focus: Technical Implementation Planning*
+Older numbers and frameworks live in this folder under `FITNESS_LIBRARY_BUSINESS_DEVELOPMENT_GUIDE.md` and `PROJECT_NEXT_STEPS_ACTION_PLAN.md` — preserved as historical context, not as live plans.
