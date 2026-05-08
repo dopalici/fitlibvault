@@ -1,0 +1,66 @@
+{
+  "note_title": "X11.7 Sprinting Biomechanics & Force Analysis",
+  "cached_at": "2026-05-08T15:44:59.156705",
+  "studies": [
+    {
+      "title": "The Relationship Between Running Biomechanics and Running Economy: A Systematic Review and Meta-Analysis of Observational Studies.",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-01997-3",
+      "pmid": "38446400",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0714,
+      "quality_score": 1.0,
+      "composite_score": 0.6914
+    },
+    {
+      "title": "Patellofemoral Biomechanics Considerations: Analysis of Factors Contributing to Patellofemoral Pain.",
+      "year": "2025",
+      "doi": "10.1249/JSR.0000000000001284",
+      "pmid": "40928419",
+      "journal": "Current sports medicine reports",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2,
+      "quality_score": 0.85,
+      "composite_score": 0.685
+    },
+    {
+      "title": "There is more to the knee joint than just the quadriceps: A systematic review with meta-analysis and evidence gap map of hamstring strength, flexibility, and morphology in individuals with gradual-onset knee disorders.",
+      "year": "2024",
+      "doi": "10.1016/j.jshs.2023.08.004",
+      "pmid": "37669706",
+      "journal": "Journal of sport and health science",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Aligner biomechanics: Where we are now and where we are heading for.",
+      "year": "2024",
+      "doi": "10.1016/j.ejwf.2023.12.005",
+      "pmid": "38228450",
+      "journal": "Journal of the World federation of orthodontists",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.61,
+      "composite_score": 0.5083
+    },
+    {
+      "title": "The biomechanics of running and running styles: a synthesis.",
+      "year": "2024",
+      "doi": "10.1080/14763141.2021.1873411",
+      "pmid": "33663325",
+      "journal": "Sports biomechanics",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.125,
+      "quality_score": 0.53,
+      "composite_score": 0.4725
+    }
+  ]
+}

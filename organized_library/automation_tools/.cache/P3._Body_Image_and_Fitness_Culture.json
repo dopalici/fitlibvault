@@ -1,0 +1,66 @@
+{
+  "note_title": "P3. Body Image and Fitness Culture",
+  "cached_at": "2026-05-07T21:51:15.084546",
+  "studies": [
+    {
+      "title": "Effects of Exercise Training on Mitochondrial and Capillary Growth in Human Skeletal Muscle: A Systematic Review and Meta-Regression.",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02120-2",
+      "pmid": "39390310",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Protein Nutrition for Endurance Athletes: A Metabolic Focus on Promoting Recovery and Training Adaptation.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02203-8",
+      "pmid": "40117058",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Effects of Skeletal Muscle Hypertrophy on Fat Mass and Glucose Homeostasis in Humans and Animals: A Narrative Review with Systematic Literature Search.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02263-w",
+      "pmid": "40576707",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Comparative effectiveness of physical activity interventions on cognitive functions in children and adolescents with Neurodevelopmental Disorders: a systematic review and network meta-analysis of randomized controlled trials.",
+      "year": "2025",
+      "doi": "10.1186/s12966-024-01702-7",
+      "pmid": "39806448",
+      "journal": "The international journal of behavioral nutrition and physical activity",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.58
+    },
+    {
+      "title": "Training-intensity Distribution on Middle- and Long-distance Runners: A Systematic Review.",
+      "year": "2022",
+      "doi": "10.1055/a-1559-3623",
+      "pmid": "34749417",
+      "journal": "International journal of sports medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    }
+  ]
+}

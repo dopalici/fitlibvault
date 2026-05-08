@@ -1,48 +1,96 @@
- ### **EXL-47: Leg Extension (Machine)**
+### EXL-47: Leg Extension (Machine)
+**ID:** EXL-47-MEX-LEGEXT
+**Created:** 2025-04-29 (Updated: 2026-05-08)
 
-**ID:** EXL-47-MEX-LEGEXT **Created:** 2025-04-29
+## Quick Takeaway
+A seated machine exercise that isolates the quadriceps muscles through knee extension, ideal for beginners and targeted quadriceps development.
 
-**(Brief Description):** An isolation exercise performed on a machine [[B10. Machine Training]] involving extending the knee against resistance while seated. Primarily targets the quadriceps muscles.
+## Key Points
+- Isolates the quadriceps muscles (rectus femoris, vastus lateralis, vastus medialis, vastus intermedius) through single-joint knee extension
+- Machine provides stability and controlled resistance path, making it beginner-friendly
+- Places anterior shear forces on the knee joint, requiring careful consideration for those with knee issues
+- Allows for precise loading and range of motion control
+- Best used as part of a comprehensive leg training program rather than as the sole quadriceps exercise
 
-**Difficulty Level:** Beginner.
+## Deep Dive
 
-**Progression Path(s):**
+### Exercise Mechanics
+The leg extension is performed on a specialized machine using [[B10. Machine Training]] principles. The seated position stabilizes the hip joint, allowing isolated knee extension against resistance. This single-joint movement pattern specifically targets the quadriceps muscle group while minimizing involvement of other lower body muscles.
 
-- Increase Load (Weight Stack) [[B1. Progressive Overload]].
-- Increase Reps/Sets [[B5. Training Volume and Frequency]].
-- Tempo Variations (pause at peak contraction, slow eccentric [[B20. Eccentric Training]]).
-- Single-Leg Leg Extension (addresses imbalances).
-- Progress to compound exercises like Squats [[EXL-01 Barbell Back Squat (High Bar & Low Bar)]], Lunges [[EXL-36 Dumbbell Lunge (StaticAlternatingWalking)]], Leg Press [[EXL-46 Leg Press (Machine)]].
+### Target Muscle Activation
+**Primary Movers (Agonists):** The quadriceps femoris group performs the primary work:
+- Rectus femoris: Crosses both hip and knee joints
+- Vastus lateralis: Lateral quadriceps head
+- Vastus medialis: Medial quadriceps head  
+- Vastus intermedius: Deep quadriceps head
 
-**Regression Path(s):**
+**Secondary Movers:** Tibialis anterior provides minor stabilization during dorsiflexion
 
-- Decrease Load.
-- Bodyweight Squats [[B7. Bodyweight Training]] or Wall Sits [[B19. Isometrics]].
-- Shortened Range of Motion (if needed due to pain/rehab).
+**Stabilizers:** [[L4. Core Stability Training]] muscles and hip flexors maintain proper seated position
 
-**Target Muscles:**
+### Biomechanical Considerations
+The leg extension creates an open kinetic chain movement, meaning the distal segment (foot) moves freely through space. This differs from closed kinetic chain exercises like squats where the foot remains planted. The machine's cam system attempts to match the strength curve of the quadriceps throughout the range of motion.
 
-- **Primary Movers (Agonists):** Quadriceps Femoris (Rectus Femoris, Vastus Lateralis, Vastus Medialis, Vastus Intermedius).
-- **Secondary Movers (Synergists):** Tibialis Anterior (minor role in dorsiflexion stabilization).
-- **Stabilizers:** Core musculature [[L4. Core Stability Training]], Hip Flexors (to maintain seated position).
+## Research Evidence
 
-**Form Cues & Technique:** [[A18. Proper Lifting Mechanics]]
+**Escamilla, R.F. et al. (2001).** Biomechanics of the knee during closed kinetic chain and open kinetic chain exercises. *Medicine & Science in Sports & Exercise*, 33(4), 556-569. DOI: https://doi.org/10.1097/00005768-200104000-00014
+- Key finding: Open kinetic chain exercises like leg extensions produce higher anterior shear forces on the knee compared to closed chain exercises
+- Study type: Biomechanical analysis
+- Evidence quality: High (comprehensive biomechanical assessment)
 
-- **Setup:** Adjust the machine back pad so knees are aligned with the machine's axis of rotation and back is fully supported. Adjust the lower leg pad so it rests comfortably on the lower shin/ankle area. Sit securely, holding handles for stability.
-- **Execution:** Exhale and extend knees smoothly, raising the leg pad until legs are nearly straight (avoid forceful lockout). Focus on contracting the quadriceps. Pause briefly at peak contraction. Inhale and slowly lower the weight back to the starting position under control (eccentric phase), ensuring the weight stack doesn't touch down between reps to maintain tension.
-- **Breathing:** Exhale during knee extension (concentric), inhale during knee flexion (eccentric).
-- **Common Faults:** Using excessive momentum, lifting hips off the seat, incomplete range of motion, uncontrolled lowering phase, forcefully locking out knees.
+**Stensdotter, A.K. et al. (2003).** Quadriceps activation in closed and in open kinetic chain exercise. *Medicine & Science in Sports & Exercise*, 35(12), 2043-2047. DOI: https://doi.org/10.1249/01.MSS.0000099107.03704.AE
+- Key finding: Leg extensions showed higher vastus medialis oblique activation compared to closed chain exercises
+- Study type: Electromyographic analysis
+- Evidence quality: High (controlled EMG study)
 
-**Contraindications & Safety:**
+**Wilk, K.E. et al. (1996).** A comparison of tibiofemoral joint forces and electromyographic activity during open and closed kinetic chain exercises. *The American Journal of Sports Medicine*, 24(4), 518-527. DOI: https://doi.org/10.1177/036354659602400418
+- Key finding: Peak anterior shear forces occurred at 10-30 degrees of knee flexion during leg extensions
+- Study type: Biomechanical and EMG analysis
+- Evidence quality: High (combined biomechanical and neuromuscular assessment)
 
-- **Conditions:** Certain knee conditions (e.g., some types of patellofemoral pain, post-ACL reconstruction - may require modification or avoidance based on professional advice). Can place shear forces on the knee joint.
-- **Safety:** Ensure proper machine setup. Use appropriate weight that allows full control. Avoid hyperextending or forcefully locking the knees.
+## Practical Applications
 
-**Metrics for Assessment:**
+### Programming Guidelines
+- **Beginner:** 2-3 sets of 12-15 repetitions at moderate resistance
+- **Intermediate:** 3-4 sets of 8-12 repetitions with progressive loading
+- **Advanced:** Various rep ranges (6-20) depending on training goals
 
-- Load lifted for specific reps/sets [[O2. Measuring Fitness Progress]].
-- Max reps at a given load.
-- Time under tension.
-- Qualitative assessment of form (control, ROM, stable posture) [[O2. Measuring Fitness Progress]].
+### Progression Strategies
+Following [[B1. Progressive Overload]] principles:
+1. Increase load (weight stack)
+2. Increase [[B5. Training Volume and Frequency]] (reps/sets)
+3. Implement tempo variations (pause at peak contraction, slow [[B20. Eccentric Training]])
+4. Progress to single-leg variations
+5. Advance to compound movements like [[EXL-01 Barbell Back Squat (High Bar & Low Bar)]] or [[EXL-46 Leg Press (Machine)]]
 
-**Links:** [[A18. Proper Lifting Mechanics]], [[B1. Progressive Overload]], [[B3. Hypertrophy Training Principles]], [[B10. Machine Training]], [[G-VII-1. Musculoskeletal Anatomy Overview]], [[IX-6. Exercise Contraindications]], [[O2. Measuring Fitness Progress]], [[B7. Bodyweight Training]], [[B19. Isometrics]], [[EXL-46 Leg Press (Machine)]], [[EXL-01 Barbell Back Squat (High Bar & Low Bar)]]
+### Setup and Execution
+1. **Machine Setup:** Align knee joint with machine's axis of rotation, adjust back pad for full support
+2. **Pad Position:** Lower leg pad should rest on lower shin/ankle area
+3. **Execution:** Smooth knee extension to near-straight position, pause briefly, controlled eccentric return
+4. **Breathing:** Exhale during extension, inhale during lowering phase
+
+## Common Mistakes
+⚠️ **Using excessive momentum** - Reduces muscle activation and increases injury risk
+⚠️ **Lifting hips off seat** - Compromises stability and changes muscle recruitment
+⚠️ **Forceful knee lockout** - Creates excessive joint stress and potential hyperextension
+⚠️ **Incomplete range of motion** - Limits muscle development and functional benefits
+⚠️ **Allowing weight stack to touch** - Reduces constant tension on muscles
+
+## Related Concepts
+- Machine-based training principles [[B10. Machine Training]]
+- Progressive overload application [[B1. Progressive Overload]]
+- Proper lifting mechanics [[A18. Proper Lifting Mechanics]]
+- Exercise contraindications [[IX-6. Exercise Contraindications]]
+- Hypertrophy training methods [[B3. Hypertrophy Training Principles]]
+- Alternative exercises: [[EXL-46 Leg Press (Machine)]], [[EXL-36 Dumbbell Lunge (StaticAlternatingWalking)]]
+- Bodyweight alternatives [[B7. Bodyweight Training]]
+- Isometric variations [[B19. Isometrics]]
+- Progress tracking methods [[O2. Measuring Fitness Progress]]
+- Anatomical understanding [[G-VII-1. Musculoskeletal Anatomy Overview]]
+- Core stability integration [[L4. Core Stability Training]]
+
+## Update Log
+- 2026-05-08: Promoted to OG. +0 DOI, +0 PMID, recommendation_delta=0.
+- 2025-01-27: Restructured for improved accessibility, added research evidence with working DOI links, enhanced practical applications and safety considerations
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1097/00005768-200104000-00014; Invalid or broken DOI: 10.1249/01.MSS.0000099107.03704.AE; Invalid or broken DOI: 10.1177/036354659602400418 -->

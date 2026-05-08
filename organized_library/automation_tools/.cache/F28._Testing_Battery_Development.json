@@ -1,0 +1,66 @@
+{
+  "note_title": "Testing Battery Development",
+  "cached_at": "2026-05-07T20:48:34.300467",
+  "studies": [
+    {
+      "title": "Assessment of Aerobic Fitness and Repeated Sprint Ability in Elite Male Soccer: A Systematic Review of Test Protocols Used in Practice and Research.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02188-4",
+      "pmid": "40220211",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Virtual reality and cognitive rehabilitation for older adults with mild cognitive impairment: A systematic review.",
+      "year": "2024",
+      "doi": "10.1016/j.arr.2023.102146",
+      "pmid": "38036103",
+      "journal": "Ageing research reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    },
+    {
+      "title": "Effects of Strength Training on Physical Fitness of Olympic Combat Sports Athletes: A Systematic Review.",
+      "year": "2023",
+      "doi": "10.3390/ijerph20043516",
+      "pmid": "36834211",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "Structural design and mechanical performance evaluation of personalized irregular porous L3-L4 fusion cage by additive manufacturing.",
+      "year": "2025",
+      "doi": "10.1016/j.compbiomed.2025.109796",
+      "pmid": "39923587",
+      "journal": "Computers in biology and medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.465
+    },
+    {
+      "title": "Fitness assessment in acute myeloid leukemia: recommendations from an expert panel on behalf of the European LeukemiaNet.",
+      "year": "2025",
+      "doi": "10.1182/bloodadvances.2024013744",
+      "pmid": "39913928",
+      "journal": "Blood advances",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.465
+    }
+  ]
+}

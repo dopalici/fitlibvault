@@ -1,0 +1,66 @@
+{
+  "note_title": "X6. Combat Sports (Boxing, MMA, Wrestling, Judo)",
+  "cached_at": "2026-05-08T15:45:12.475356",
+  "studies": [
+    {
+      "title": "Nutritional Ergogenic Aids in Combat Sports: A Systematic Review and Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.3390/nu14132588",
+      "pmid": "35807770",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 1.0,
+      "composite_score": 0.68
+    },
+    {
+      "title": "Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1007/s40279-023-01825-0",
+      "pmid": "36906633",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "The Practice of Weight Loss in Combat Sports Athletes: A Systematic Review.",
+      "year": "2024",
+      "doi": "10.3390/nu16071050",
+      "pmid": "38613083",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 0.85,
+      "composite_score": 0.645
+    },
+    {
+      "title": "Sport-Specific Injury Mechanisms and Situational Patterns of ACL Injuries: A Comprehensive Systematic Review.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02271-w",
+      "pmid": "40690162",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Pain Perception in Contact Sport Athletes: A Scoping Review.",
+      "year": "2022",
+      "doi": "10.1007/s40279-022-01721-z",
+      "pmid": "35867332",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    }
+  ]
+}

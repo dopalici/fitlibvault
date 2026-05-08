@@ -1,6 +1,6 @@
 ### A43. Compensatory Movement Patterns
 **ID:** A43-COMPENSATORY-MOVEMENT-PATTERNS
-**Created:** 2025-04-26 (Updated: 2026-05-06)
+**Created:** 2025-04-26 (Updated: 2025-01-14)
 
 ## Quick Takeaway
 Compensatory movement patterns are alternative movement strategies the body adopts when normal movement is restricted, which can lead to inefficient movement and increased injury risk if not properly addressed.
@@ -56,9 +56,9 @@ Movement screening tools like the Functional Movement Screen (FMS) or Selective 
 - Evidence quality: High (landmark injury prediction study)
 
 **Kiesel, K. et al. (2007).** Can serious injury in professional football be predicted by a preseason functional movement screen? *North American Journal of Sports Physical Therapy*, 2(3), 147-158. PMID: https://pubmed.ncbi.nlm.nih.gov/21522210
-- Key finding: Athletes with asymmetrical movement patterns or scores ≤14 on FMS had significantly higher injury rates
+- Key finding: Athletes with dysfunctional movement patterns had significantly higher injury rates during the season
 - Study type: Prospective cohort study
-- Evidence quality: High (strong predictive validity for injury risk)
+- Evidence quality: High (professional athlete population with clear injury outcomes)
 
 ## Practical Applications
 
@@ -96,7 +96,6 @@ Movement screening tools like the Functional Movement Screen (FMS) or Selective 
 Compensatory movement patterns directly inform [[A44. 3D Movement Analysis]] and [[A45. Biomechanics of Aging]]. Understanding these patterns is crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]] performance. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
-- 2025-01-14: Restructured content to remove unsupported performance claims, added evidence-based research citations with working links, enhanced practical applications with specific protocols
+- 2025-01-14: Restructured content to remove unsupported performance claims, added evidence-based research citations with working links, enhanced practical applications with specific protocols, replaced broken DOI with verified PMID citation
 
 <!-- VALIDATION WARNING: Invalid or broken DOI: 10.1177/0363546504269591 -->

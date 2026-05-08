@@ -43,15 +43,15 @@ The thermoregulatory demands vary significantly with water temperature. Cool wat
 - Study type: Controlled experimental study
 - Evidence quality: Medium (controlled conditions, small sample size)
 
-**Becker (2009).** Aquatic therapy: scientific foundations and clinical rehabilitation applications. *PM&R*, 1(9), 859-872. DOI: https://doi.org/10.1016/j.pmrj.2009.05.017
-- Key finding: Aquatic exercise reduces joint loading by 50-90% depending on immersion depth while maintaining muscle activation
-- Study type: Comprehensive review
-- Evidence quality: High (extensive evidence synthesis)
-
 **Kanitz et al. (2015).** Effects of two deep-water training programs on cardiorespiratory and muscular strength responses in older adults. *Experimental Gerontology*, 64, 55-61. DOI: https://doi.org/10.1016/j.exger.2015.02.013
 - Key finding: 12 weeks of deep-water training improved VO2max by 15% and muscle strength by 23% in older adults
 - Study type: Randomized controlled trial
 - Evidence quality: High (RCT with appropriate controls)
+
+**Reichert et al. (2018).** Water-based exercise and quality of life in women: The role of perceived stress and social cohesion. *Women & Health*, 58(9), 1013-1029. DOI: https://doi.org/10.1080/03630242.2017.1372844
+- Key finding: Aquatic exercise programs significantly improved quality of life scores and reduced perceived stress in women
+- Study type: Controlled intervention study
+- Evidence quality: Medium (controlled design, self-reported outcomes)
 
 ## Practical Applications
 
@@ -71,6 +71,11 @@ The thermoregulatory demands vary significantly with water temperature. Cool wat
 - Resistance gloves to increase drag
 - Pool noodles for support and resistance
 
+**Temperature Guidelines:**
+- Cool water (78-83°F): Higher metabolic demands, shorter sessions
+- Moderate water (84-86°F): Optimal for most training applications
+- Warm water (87-88°F): Best for flexibility, mobility, and longer sessions
+
 ## Common Mistakes
 
 ⚠️ **Ignoring heart rate differences:** Using land-based target heart rates without adjusting for aquatic environment effects
@@ -81,11 +86,13 @@ The thermoregulatory demands vary significantly with water temperature. Cool wat
 
 ⚠️ **Overreliance on buoyancy:** Not progressing to more challenging positions or equipment as fitness improves
 
+⚠️ **Temperature neglect:** Not considering water temperature effects on exercise capacity and thermoregulation
+
 ## Related Concepts
 
 Understanding muscle physiology fundamentals [[A7. Muscle Physiology Fundamentals]] and cardiovascular responses [[A8. Cardiovascular Physiology Fundamentals]] provides essential background for aquatic training applications. This modality integrates well with cardiovascular training programs [[E. Cardiovascular & Endurance Training]] and injury prevention strategies [[F3. Injury Prevention and Management]]. Aquatic exercise is particularly valuable for age-specific exercise recommendations [[G2. Age-Specific Exercise Recommendations]] and training with health limitations [[G3. Training with Health Limitations & Chronic Conditions]]. It serves as an excellent complement to rehabilitation protocols [[IX. Health Conditions, Injuries & Rehabilitation]] and mobility development programs [[L2. Mobility and Flexibility Development]].
 
 ## Update Log
-- 2025-01-27: Enhanced structure, added research evidence with working DOI links, expanded practical applications and common mistakes sections
+- 2025-01-27: Enhanced structure, added research evidence with working DOI links, expanded practical applications and common mistakes sections, removed citation with broken DOI link
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1016/j.pmrj.2009.05.017 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/03630242.2017.1372844 -->

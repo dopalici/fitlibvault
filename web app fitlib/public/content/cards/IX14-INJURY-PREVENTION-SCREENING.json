@@ -1,1 +1,1 @@
-{"nodeId":"IX14-INJURY-PREVENTION-SCREENING","cards":[]}
+{"nodeId":"IX14-INJURY-PREVENTION-SCREENING","cards":[{"id":"1kk9ubb","nodeId":"IX14-INJURY-PREVENTION-SCREENING","prompt":"Risk factor identification includes both intrinsic factors ____ and extrinsic factors (training load, equipment)","answer":"(previous injuries, biomechanics)","acceptableAnswers":["(previous injuries, biomechanics)"],"context":"Risk factor identification includes both intrinsic factors (previous injuries, biomechanics) and extrinsic factors (training load, equipment)","sourceIndex":2}]}

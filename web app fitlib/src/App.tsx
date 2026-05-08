@@ -3,14 +3,16 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+import { lazy, Suspense } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link, useLocation } from 'react-router-dom';
-import { Library } from './pages/Library';
-import { Dashboard } from './pages/Dashboard';
-import { About } from './pages/About';
-import { Landing } from './pages/Landing';
 import { cn } from './lib/utils';
 import { Moon, Sun } from 'lucide-react';
 import { useTheme } from './lib/theme';
+
+const Landing = lazy(() => import('./pages/Landing').then((m) => ({ default: m.Landing })));
+const Library = lazy(() => import('./pages/Library').then((m) => ({ default: m.Library })));
+const Dashboard = lazy(() => import('./pages/Dashboard').then((m) => ({ default: m.Dashboard })));
+const About = lazy(() => import('./pages/About').then((m) => ({ default: m.About })));
 
 function TopBar() {
   const location = useLocation();
@@ -101,12 +103,14 @@ export default function App() {
       >
         <TopBar />
         <div className="flex-1 min-h-0 flex flex-col">
-          <Routes>
-            <Route path="/" element={<Landing />} />
-            <Route path="/library" element={<Library />} />
-            <Route path="/dashboard" element={<Dashboard />} />
-            <Route path="/about" element={<About />} />
-          </Routes>
+          <Suspense fallback={<div className="flex-1" aria-hidden style={{ background: 'var(--paper)' }} />}>
+            <Routes>
+              <Route path="/" element={<Landing />} />
+              <Route path="/library" element={<Library />} />
+              <Route path="/dashboard" element={<Dashboard />} />
+              <Route path="/about" element={<About />} />
+            </Routes>
+          </Suspense>
         </div>
       </main>
     </Router>

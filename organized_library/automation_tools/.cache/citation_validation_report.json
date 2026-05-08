@@ -1,0 +1,66 @@
+{
+  "note_title": "Citation Validation Report",
+  "cached_at": "2026-05-08T15:45:16.590942",
+  "studies": [
+    {
+      "title": "Efficacy of dietary interventions in irritable bowel syndrome: a systematic review and network meta-analysis.",
+      "year": "2025",
+      "doi": "10.1016/S2468-1253(25)00054-8",
+      "pmid": "40258374",
+      "journal": "The lancet. Gastroenterology & hepatology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Effects of Creatine Supplementation and Resistance Training on Muscle Strength Gains in Adults <50 Years of Age: A Systematic Review and Meta-Analysis.",
+      "year": "2024",
+      "doi": "10.3390/nu16213665",
+      "pmid": "39519498",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Impact of Collagen Peptide Supplementation in Combination with Long-Term Physical Training on Strength, Musculotendinous Remodeling, Functional Recovery, and Body Composition in Healthy Adults: A Systematic Review with Meta-analysis.",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-02079-0",
+      "pmid": "39060741",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "The Role of Diet in Prognosis among Cancer Survivors: A Systematic Review and Meta-Analysis of Dietary Patterns and Diet Interventions.",
+      "year": "2022",
+      "doi": "10.3390/nu14020348",
+      "pmid": "35057525",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    },
+    {
+      "title": "Energy and Macronutrients Intake in Indoor Sport Team Athletes: Systematic Review.",
+      "year": "2022",
+      "doi": "10.3390/nu14224755",
+      "pmid": "36432438",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    }
+  ]
+}

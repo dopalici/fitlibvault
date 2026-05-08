@@ -1,0 +1,66 @@
+{
+  "note_title": "K6. Talent Identification Systems",
+  "cached_at": "2026-05-07T21:29:03.771438",
+  "studies": [
+    {
+      "title": "Isolation, Identification, Activity Evaluation, and Mechanism of Action of Neuroprotective Peptides from Walnuts: A Review.",
+      "year": "2023",
+      "doi": "10.3390/nu15184085",
+      "pmid": "37764868",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0833,
+      "quality_score": 0.85,
+      "composite_score": 0.62
+    },
+    {
+      "title": "Genetics and sports performance: the present and future in the identification of talent for sports based on DNA testing.",
+      "year": "2022",
+      "doi": "10.1007/s00421-022-04945-z",
+      "pmid": "35428907",
+      "journal": "European journal of applied physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1818,
+      "quality_score": 0.85,
+      "composite_score": 0.6095
+    },
+    {
+      "title": "The ion channels of endomembranes.",
+      "year": "2024",
+      "doi": "10.1152/physrev.00025.2023",
+      "pmid": "38451235",
+      "journal": "Physiological reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    },
+    {
+      "title": "Consensus Statements-Optimizing Performance of the Elite Athlete.",
+      "year": "2025",
+      "doi": "10.1111/sms.70112",
+      "pmid": "40781883",
+      "journal": "Scandinavian journal of medicine & science in sports",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    },
+    {
+      "title": "Synthetic Lethality-Based Targets and Their Exploration in Tumour Combination Strategies.",
+      "year": "2025",
+      "doi": "10.1111/jcmm.70756",
+      "pmid": "40859871",
+      "journal": "Journal of cellular and molecular medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    }
+  ]
+}

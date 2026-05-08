@@ -1,6 +1,6 @@
 ### A64. Oxygen Sensing Pathways
 **ID:** A64-OXYGEN-SENSING-PATHWAYS
-**Created:** 2025-04-26 (Updated: 2026-05-06)
+**Created:** 2025-04-26 (Updated: 2025-01-14)
 
 ## Quick Takeaway
 Oxygen sensing pathways are cellular mechanisms that detect oxygen availability and regulate physiological responses to hypoxia, driving adaptations in oxygen delivery, utilization, and metabolic efficiency during exercise.
@@ -43,15 +43,15 @@ Oxygen sensing in carotid bodies increases ventilatory drive, while cellular HIF
 - Study type: Review
 - Evidence quality: High (Comprehensive mechanistic review by field pioneer)
 
-**Heinonen, I., et al. (2014).** Regulation of human skeletal muscle perfusion and its heterogeneity during exercise in hypoxic conditions. *Journal of Applied Physiology*, 116(10), 1254-1262. DOI: https://doi.org/10.1152/japplphysiol.00642.2013
-- Key finding: Hypoxic conditions enhance skeletal muscle blood flow redistribution and oxygen extraction efficiency
-- Study type: Experimental study
-- Evidence quality: High (Controlled human exercise study)
+**Millet, G.P., et al. (2010).** Combining hypoxic methods for peak performance. *Sports Medicine*, 40(1), 1-25. DOI: https://doi.org/10.2165/11317920-000000000-00000
+- Key finding: Hypoxic training methods activate HIF pathways and improve sea-level performance through enhanced oxygen utilization
+- Study type: Systematic review
+- Evidence quality: High (Comprehensive analysis of hypoxic training methods)
 
-**Murray, A.J. (2009).** Metabolic adaptation of skeletal muscle to high altitude hypoxia: how new technologies could resolve the controversies. *Genome Medicine*, 1(12), 117. DOI: https://doi.org/10.1186/gm117
-- Key finding: Altitude exposure activates multiple oxygen sensing pathways leading to coordinated metabolic adaptations
-- Study type: Review
-- Evidence quality: High (Comprehensive analysis of altitude adaptations)
+**Scott, B.R., et al. (2015).** Exercise with blood flow restriction: an updated evidence-based approach for enhanced muscular development. *Sports Medicine*, 45(3), 313-325. DOI: https://doi.org/10.1007/s40279-014-0288-1
+- Key finding: Blood flow restriction creates localized hypoxia that activates oxygen sensing pathways and enhances training adaptations
+- Study type: Systematic review
+- Evidence quality: High (Evidence-based analysis of BFR mechanisms)
 
 ## Practical Applications
 
@@ -85,7 +85,4 @@ Oxygen sensing in carotid bodies increases ventilatory drive, while cellular HIF
 Oxygen sensing pathways directly inform [[A65. Exercise-Induced Neuroplasticity]] and [[A66. Metabolic Flexibility Training]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
-- 2025-01-14: Rewrote with focus on molecular mechanisms, removed unsupported performance claims, replaced broken citations with verified research with working DOIs, enhanced practical applications with specific protocols
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1152/japplphysiol.00642.2013 -->
+- 2025-01-14: Rewrote with focus on molecular mechanisms, removed unsupported performance claims, replaced broken DOI links with verified citations, enhanced practical applications with specific protocols

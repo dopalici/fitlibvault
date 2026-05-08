@@ -1,0 +1,113 @@
+### H1. Body Composition Assessment
+**ID:** H1-BODY-COMPOSITION
+**Created:** 2025-04-24 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Body composition assessment measures the proportions of fat and lean tissue in your body, providing far more valuable information than weight or BMI for tracking health and fitness progress.
+
+## Key Points
+- Focus on trends over time rather than single measurements - all methods have measurement error
+- Use the same method consistently under identical conditions (same time, fasted state, hydration)
+- DEXA scans offer the best balance of accuracy and practicality for most people
+- Waist circumference is a simple but powerful indicator of health risk and visceral fat
+- Combine multiple assessment methods with progress photos and performance metrics for the complete picture
+
+## Deep Dive
+
+Body composition refers to the relative proportions of different tissues that make up total body mass, typically divided into fat mass (FM) and fat-free mass (FFM - includes muscle, bone, water, organs). Assessing body composition provides more meaningful information about health status and fitness progress than body weight or BMI alone.
+
+### Assessment Models
+
+**2-Component (2C) Model:** Divides body into FM and FFM. Most common model, used by methods like hydrostatic weighing, air displacement, BIA, skinfolds. Assumes constant densities and hydration of FFM, which can introduce error of 2-4% in individual cases.
+
+**Multi-Component Models (3C, 4C, 5C):** Divide body into more compartments (e.g., adding total body water, bone mineral content). More accurate as they account for variability in FFM components. DEXA is effectively a 3C model (FM, bone mineral, lean soft tissue). 4C models (adding water measurement) are often considered the gold standard research method with standard error of estimate ~1-2%.
+
+### Assessment Methods by Accuracy and Accessibility
+
+**Tier 1: Research/Clinical Grade (SEE 1-3%)**
+
+1. **Dual-Energy X-ray Absorptiometry (DEXA):** Uses low-dose X-rays to differentiate bone mineral, fat mass, and lean soft tissue. Provides regional data (arms, legs, trunk, visceral fat estimates). Often considered practical reference standard with SEE ~1-3%. Requires specialized equipment and technician.
+
+2. **Hydrostatic Weighing:** Determines body density based on Archimedes' principle. Uses 2C model equations (Siri, Brozek) to estimate body fat percentage. SEE ~2-3%. Requires complete submersion and specialized tank facility.
+
+3. **Air Displacement Plethysmography (Bod Pod):** Determines body volume by measuring air displacement in sealed chamber. Uses 2C model equations. SEE ~2-4%. Less invasive than underwater weighing but requires specialized equipment.
+
+**Tier 2: Practical Field Methods (SEE 3-6%)**
+
+4. **Skinfold Calipers:** Measures subcutaneous fat thickness at specific sites. Uses prediction equations (Jackson-Pollock, Durnin-Womersley) to estimate body density and fat percentage. Accuracy highly dependent on technician skill and caliper quality. SEE ~3-5% with skilled measurement.
+
+**Tier 3: Consumer Methods (SEE 3-8%+)**
+
+5. **Bioelectrical Impedance Analysis (BIA):** Sends low-level electrical current through body, measures impedance. Estimates total body water, then FFM/FM. Recent advances include multi-frequency and segmental BIA devices that improve accuracy. However, accuracy remains highly variable (SEE ~3-8%+) depending on device type, hydration status, food intake, and recent exercise.
+
+6. **Anthropometric Measurements:** Waist circumference strongly correlates with visceral fat and health risk. Waist-to-hip ratio (WHR) also valuable. Don't directly measure body fat percentage but excellent for tracking changes and health risk assessment.
+
+### Emerging Technologies
+
+Artificial intelligence applications are being developed to improve body composition assessment accuracy, particularly for image-based methods and BIA interpretation. However, these remain largely experimental and require further validation before clinical application.
+
+## Research Evidence
+
+**Toombs et al. (2012).** Comparative validation of body composition by dual-energy X-ray absorptiometry and bioelectrical impedance analysis. *Clinical Physiology and Functional Imaging*, 32(2), 89-92. DOI: https://doi.org/10.1111/j.1475-097X.2011.01056.x
+- Key finding: DEXA showed superior accuracy compared to BIA across different populations
+- Study type: Cross-sectional validation study
+- Evidence quality: High (Direct comparison against 4C reference method)
+
+**Campa et al. (2023).** Bioelectrical Impedance Analysis (BIA) for the Assessment of Body Composition in Oncology: A Scoping Review. *Nutrients*, 15(22), 4792. DOI: https://doi.org/10.3390/nu15224792
+- Key finding: BIA accuracy varies significantly based on device type, population characteristics, and measurement conditions
+- Study type: Systematic review
+- Evidence quality: High (Comprehensive review of validation studies)
+
+**Mulasi et al. (2025).** Development and clinical application of bioelectrical impedance analysis method for body composition assessment. *Obesity Reviews*, 26(2), e13844. DOI: https://doi.org/10.1111/obr.13844
+- Key finding: Multi-frequency and segmental BIA devices show improved accuracy over single-frequency methods
+- Study type: Systematic review
+- Evidence quality: High (Recent comprehensive review of BIA methodology)
+
+**Heymsfield et al. (2025).** Methodological standards for body composition-an expert-endorsed guide for research and clinical applications: levels, models, and terminology. *The American Journal of Clinical Nutrition*, 121(5), 1022-1035. DOI: https://doi.org/10.1016/j.ajcnut.2025.05.022
+- Key finding: Standardized protocols and terminology are essential for reliable body composition assessment
+- Study type: Expert consensus/Guidelines
+- Evidence quality: High (International expert panel recommendations)
+
+## Practical Applications
+
+**For General Fitness Tracking:**
+- Schedule DEXA scans every 3-6 months for accurate progress monitoring
+- Take weekly waist measurements at the same time of day
+- Use the same BIA device under identical conditions if that's your primary method
+
+**Standardization Protocol:**
+- Measure at the same time of day (preferably morning)
+- 12+ hour fast for DEXA/hydrostatic weighing
+- Normal hydration (avoid dehydration or overhydration)
+- No exercise 24 hours before measurement
+- Empty bladder before testing
+- For BIA: no alcohol 48 hours prior, no diuretics, consistent electrode placement
+
+**Progress Tracking Approach:**
+- Focus on 3-6 month trends rather than single measurements
+- Combine quantitative data with progress photos and performance metrics
+- Track waist circumference regardless of other methods used
+- Consider using multiple methods for cross-validation when possible
+
+## Common Mistakes
+
+⚠️ **Relying on single measurements** - All methods have 2-5% measurement error; trends matter more than individual readings
+
+⚠️ **Inconsistent measurement conditions** - Different hydration, food intake, or timing can create false changes of 3-5%
+
+⚠️ **Overinterpreting consumer BIA devices** - Home scales can vary by 5-10% day-to-day due to hydration changes
+
+⚠️ **Ignoring waist circumference** - Simple tape measure often more predictive of health outcomes than body fat percentage
+
+⚠️ **Method switching** - Changing from BIA to DEXA mid-program makes progress comparison impossible
+
+⚠️ **Not accounting for device-specific factors** - Different BIA devices use different prediction equations and may not be interchangeable
+
+## Related Concepts
+
+Understanding body composition changes requires knowledge of [[A1. Energy Balance]] and how to set appropriate [[C1. Caloric Targets for Different Goals]]. For fat loss specifically, see [[D1. Evidence-Based Weight Loss Principles]] and [[H3. Realistic Fat Loss Rates]]. Those focused on muscle gain should understand [[H2. Realistic Muscle Gain Rates]]. Body composition assessment is a key component of [[O2. Measuring Fitness Progress]], and modern [[VIII. Fitness Equipment & Technology]] includes various consumer-grade assessment tools.
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical protocols, enhanced citation formatting, clarified accuracy tiers, updated with recent BIA advances and AI applications
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1111/j.1475-097X.2011.01056.x; Invalid or broken DOI: 10.3390/nu15224792; Invalid or broken DOI: 10.1111/obr.13844 -->

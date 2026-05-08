@@ -1,0 +1,66 @@
+{
+  "note_title": "M6. Sleep Optimization Strategies",
+  "cached_at": "2026-05-07T21:36:26.020162",
+  "studies": [
+    {
+      "title": "Nutritional Strategies to Improve Post-exercise Recovery and Subsequent Exercise Performance: A Narrative Review.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02213-6",
+      "pmid": "40221559",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0909,
+      "quality_score": 0.85,
+      "composite_score": 0.6523
+    },
+    {
+      "title": "The role of insufficient sleep and circadian misalignment in obesity.",
+      "year": "2023",
+      "doi": "10.1038/s41574-022-00747-7",
+      "pmid": "36280789",
+      "journal": "Nature reviews. Endocrinology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.125,
+      "quality_score": 0.85,
+      "composite_score": 0.6325
+    },
+    {
+      "title": "Contemporary medical, device, and surgical therapies for obesity in adults.",
+      "year": "2023",
+      "doi": "10.1016/S0140-6736(22)02403-5",
+      "pmid": "36774932",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "HIV-associated lung disease.",
+      "year": "2023",
+      "doi": "10.1038/s41572-023-00450-5",
+      "pmid": "37500684",
+      "journal": "Nature reviews. Disease primers",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Omega-3 Fatty Acid Supplementation on Post-Exercise Inflammation, Muscle Damage, Oxidative Response, and Sports Performance in Physically Healthy Adults-A Systematic Review of Randomized Controlled Trials.",
+      "year": "2024",
+      "doi": "10.3390/nu16132044",
+      "pmid": "38999792",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    }
+  ]
+}

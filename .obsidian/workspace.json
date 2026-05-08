@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organized_library/processed_archive/processed_notes/rewritten_A3. Macronutrients.md",
+                "file": "A16. Biomechanics Gait Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rewritten_A3. Macronutrients"
+              "title": "A16. Biomechanics Gait Analysis"
+            }
+          },
+          {
+            "id": "f0e6fb67e9cb0e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM)"
+            }
+          },
+          {
+            "id": "f566b8df83184e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C61. Cognitive Nutrition for Athletes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C61. Cognitive Nutrition for Athletes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "f",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,54 +208,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc03d789346089b6",
+  "active": "f566b8df83184e23",
   "lastOpenFiles": [
-    "web app fitlib/dist/assets/index-XIA63AF9.js",
-    "web app fitlib/dist/assets/index-BMNGrQwb.css",
-    "web app fitlib/public/content/nodes/A28.json",
-    "web app fitlib/public/content/nodes/A27-THERMOREGULATION.json",
-    "web app fitlib/public/content/nodes/A26-PRINCIPLE-RECOVERY.json",
-    "web app fitlib/public/content/nodes/A25-PRINCIPLE-PERIODIZATION.json",
-    "web app fitlib/public/content/nodes/A24-PRINCIPLE-DIMINISHING-RETURNS.json",
-    "web app fitlib/public/content/nodes/A23-PRINCIPLE-INDIVIDUALITY.json",
-    "web app fitlib/public/content/nodes/A22-PRINCIPLE-REVERSIBILITY.json",
-    "web app fitlib/public/content/nodes/A21-PRINCIPLE-PROGRESSION.json",
-    "web app fitlib/public/content/nodes/A20-PRINCIPLE-SPECIFICITY.json",
-    "organized_library/processed_archive/processed_notes/section_C_updates_only.md",
-    "organized_library/processed_archive/processed_notes/rewritten_COMPLETE_REPLACEMENT_REPORT.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C50. Recovery Nutrition Protocols.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C49. Multi-Day Event Nutrition.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C48. Cold Weather Nutrition.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C47. Heat Stress Nutrition.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C46. Altitude Nutrition.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C45. Travel Nutrition.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C44. Competition Day Nutrition.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C43. Circadian Nutrition.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C42. Precision Nutrition.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C41. Adaptogens in Sports.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C40. Nootropics for Athletes.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C39. Supplement Stacking Protocols.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C37. Sports Nutrition Periodization.md",
-    "organized_library/processed_archive/processed_notes/rewritten_C36. Nutrient Periodization.md",
+    "A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM).md",
+    "organized_library/automation_tools/CHANGELOG-2026-05-07.md",
+    "organized_library/automation_tools/automation_scripts/staged_promotion.py",
+    "organized_library/automation_tools/utility_scripts/interlink_validator.py",
+    "A13. Biomechanics Torque and Movement.md",
+    "A12. Biomechanics Force Vectors.md",
+    "A11. Biomechanics Levers in the Human Body.md",
+    "A10. Hormonal Responses to Exercise.md",
+    "A9. Respiratory Physiology Fundamentals.md",
+    "A5. FITT Principle.md",
+    "A16. Biomechanics Gait Analysis.md",
+    "A15. Biomechanics Posture Analysis.md",
+    "A14. Biomechanics Center of Gravity (COG) Center of Mass (COM).md",
+    "L3. Balance and Coordination Training.md",
+    "A8. Cardiovascular Physiology Fundamentals.md",
+    "A7. Muscle Physiology Fundamentals.md",
+    "A6. Energy Systems (Detailed).md",
+    "A4. Micronutrients.md",
+    "A3. Macronutrients.md",
+    "A2. Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE).md",
+    "A1. Energy Balance.md",
+    "C1. Caloric Targets for Different Goals.md",
+    "A. Foundational Concepts.md",
+    "organized_library/processed_archive/processed_notes/rewritten_A3. Macronutrients.md",
+    "web app fitlib/vite.config.ts",
+    "web app fitlib/vercel.json",
+    "web app fitlib/tsconfig.json",
+    "web app fitlib/src/pages/Library.tsx",
+    "web app fitlib/src/pages/Landing.tsx",
+    "web app fitlib/src/pages/Dashboard.tsx",
+    "web app fitlib/src/pages/About.tsx",
+    "web app fitlib/src/services/nodeService.ts",
+    "web app fitlib/docs/WEEKLY_STANDUP_TEMPLATE.md",
+    "web app fitlib/docs/VISION.md",
+    "web app fitlib/docs/VERCEL_DEPLOYMENT_CHECKLIST.md",
     "web app fitlib/docs/SOP_KNOWLEDGE_READER_SYSTEMS.md",
-    "web app fitlib/node_modules/dexie/dist/README.md",
-    "web app fitlib/node_modules/dexie/testmuai-logo.svg",
-    "web app fitlib/node_modules/dexie/testmuai-logo-white.svg",
-    "web app fitlib/node_modules/dexie/SECURITY.md",
-    "web app fitlib/node_modules/dexie/README.md",
-    "web app fitlib/node_modules/dexie/CONTRIBUTING.md",
-    "web app fitlib/node_modules/dexie/CODE_OF_CONDUCT.md",
-    "web app fitlib/node_modules/ts-fsrs/README_JA.md",
-    "web app fitlib/node_modules/ts-fsrs/README_CN.md",
-    "web app fitlib/node_modules/ts-fsrs/README.md",
-    "web app fitlib/node_modules/@vercel/node/node_modules/undici/docs/assets/lifecycle-diagram.png",
-    "organized_library/frontend/node_modules/renderkid/docs/images/usage.png",
-    "organized_library/frontend/node_modules/renderkid/docs/images/display.png",
-    "organized_library/frontend/node_modules/renderkid/docs/images/bullets-1.png",
-    "organized_library/frontend/node_modules/istanbul-reports/lib/html/assets/sort-arrow-sprite.png",
-    "organized_library/frontend/node_modules/istanbul-reports/lib/html-spa/assets/sort-arrow-sprite.png",
-    "organized_library/frontend/node_modules/istanbul-reports/lib/html/assets/favicon.png",
-    "organized_library/frontend/node_modules/psl/browserstack-logo.svg",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_world.png",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_word.png",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_white_zip.png",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_white_wrench.png",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_white_world.png",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_white_word.png",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_white_width.png",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_white_visualstudio.png",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_white_vector.png",
+    "organized_library/frontend/node_modules/serve-index/public/icons/page_white_tux.png",
     "Untitled.canvas"
   ]
 }

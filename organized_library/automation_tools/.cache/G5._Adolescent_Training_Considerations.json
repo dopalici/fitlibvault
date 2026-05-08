@@ -1,0 +1,66 @@
+{
+  "note_title": "Adolescent Training Considerations",
+  "cached_at": "2026-05-07T21:05:02.442238",
+  "studies": [
+    {
+      "title": "Safety and efficacy of COVID-19 vaccines: A systematic review and meta-analysis of controlled and randomized clinical trials.",
+      "year": "2024",
+      "doi": "10.1002/rmv.2507",
+      "pmid": "38282394",
+      "journal": "Reviews in medical virology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "Creatine supplementation and VO(2)max: a systematic review and meta-analysis.",
+      "year": "2023",
+      "doi": "10.1080/10408398.2021.2008864",
+      "pmid": "34859731",
+      "journal": "Critical reviews in food science and nutrition",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "A scoping review of school-based anthropometric measurement.",
+      "year": "2023",
+      "doi": "10.1111/obr.13610",
+      "pmid": "37653624",
+      "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    },
+    {
+      "title": "Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce.",
+      "year": "2022",
+      "doi": "10.1080/15622975.2021.2013041",
+      "pmid": "35311615",
+      "journal": "The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.51
+    },
+    {
+      "title": "The Efficacy and Safety of Physiotherapy in People with Dementia: A Systematic Review.",
+      "year": "2023",
+      "doi": "10.3233/JAD-230463",
+      "pmid": "37393508",
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

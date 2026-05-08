@@ -1,0 +1,66 @@
+{
+  "note_title": "H2. Realistic Muscle Gain Rates",
+  "cached_at": "2026-05-07T21:09:16.705195",
+  "studies": [
+    {
+      "title": "Resistance exercise and skeletal muscle: protein synthesis, degradation, and controversies.",
+      "year": "2025",
+      "doi": "10.1007/s00421-025-05832-z",
+      "pmid": "40512179",
+      "journal": "European journal of applied physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.85,
+      "composite_score": 0.655
+    },
+    {
+      "title": "NAD(+) Therapeutics and Skeletal Muscle Adaptation to Exercise in Humans.",
+      "year": "2022",
+      "doi": "10.1007/s40279-022-01772-2",
+      "pmid": "36331703",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.85,
+      "composite_score": 0.5883
+    },
+    {
+      "title": "The effect of sex hormones on skeletal muscle adaptation in females.",
+      "year": "2022",
+      "doi": "10.1080/17461391.2021.1921854",
+      "pmid": "33890831",
+      "journal": "European journal of sport science",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.85,
+      "composite_score": 0.585
+    },
+    {
+      "title": "Potential of synergist ablation to study mechanisms of skeletal muscle hypertrophy in rodent disease models.",
+      "year": "2025",
+      "doi": "10.1152/ajpcell.00076.2025",
+      "pmid": "40126526",
+      "journal": "American journal of physiology. Cell physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0714,
+      "quality_score": 0.61,
+      "composite_score": 0.5264
+    },
+    {
+      "title": "Mechanosensitive Ion Channels: Molecular Hubs Integrating Skeletal Muscle Adaptation and Systemic Homeostasis.",
+      "year": "2026",
+      "doi": "10.7150/ijbs.127875",
+      "pmid": "42088422",
+      "journal": "International journal of biological sciences",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0714,
+      "quality_score": 0.61,
+      "composite_score": 0.5264
+    }
+  ]
+}

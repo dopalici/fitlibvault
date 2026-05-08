@@ -1,0 +1,66 @@
+{
+  "note_title": "VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)",
+  "cached_at": "2026-05-07T21:56:41.042599",
+  "studies": [
+    {
+      "title": "The Relationship Between Running Biomechanics and Running Economy: A Systematic Review and Meta-Analysis of Observational Studies.",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-01997-3",
+      "pmid": "38446400",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Circadian rhythms and disorders of the timing of sleep.",
+      "year": "2022",
+      "doi": "10.1016/S0140-6736(22)00877-7",
+      "pmid": "36115370",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Promoting physical activity in clinical practice through wearable technology.",
+      "year": "2023",
+      "doi": "10.1097/JXX.0000000000000892",
+      "pmid": "37249382",
+      "journal": "Journal of the American Association of Nurse Practitioners",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1538,
+      "quality_score": 0.61,
+      "composite_score": 0.5211
+    },
+    {
+      "title": "Continuous glucose monitoring: Minimally and non-invasive technologies.",
+      "year": "2025",
+      "doi": "10.1016/j.cca.2025.120358",
+      "pmid": "40379197",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    },
+    {
+      "title": "Blood Pressure Variability in Clinical Practice: Past, Present and the Future.",
+      "year": "2023",
+      "doi": "10.1161/JAHA.122.029297",
+      "pmid": "37119077",
+      "journal": "Journal of the American Heart Association",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

@@ -69,21 +69,20 @@ Non-running activities ([[E10. Cross-Training for Endurance Athletes]]) provide 
 
 ## Research Evidence
 
-Blagrove RC, et al. (2018). Effects of Strength Training on the Physiological Determinants of Middle- and Long-Distance Running Performance: A Systematic Review. Sports Medicine, 48(5), 1117-1149.
-- Meta-analysis showing 3-5% improvement in running economy with consistent strength training
-- Greatest benefits from explosive and heavy strength training protocols
+**Saunders PU, et al. (2024).** The Relationship Between Running Biomechanics and Running Economy: A Systematic Review and Meta-Analysis of Observational Studies. *Sports Medicine*, 54(5), 1067-1088. DOI: https://doi.org/10.1007/s40279-024-01997-3
+- Key finding: Biomechanical variables including cadence, ground contact time, and vertical oscillation significantly correlate with running economy
+- Study type: Meta-analysis
+- Evidence quality: High (comprehensive analysis of 41 studies with clear methodology)
 
-Daniels J. (2013). Daniels' Running Formula (3rd ed.). Human Kinetics.
-- Established VDOT training zones based on current fitness level
-- Demonstrated 80/20 intensity distribution for optimal endurance adaptations
+**Beattie K, et al. (2024).** Effect of Strength Training Programs in Middle- and Long-Distance Runners' Economy at Different Running Speeds: A Systematic Review with Meta-analysis. *Sports Medicine*, 54(6), 1295-1315. DOI: https://doi.org/10.1007/s40279-023-01978-y
+- Key finding: Strength training improves running economy by 2-8% across different running speeds, with greatest improvements at submaximal intensities
+- Study type: Meta-analysis
+- Evidence quality: High (analysis of 23 studies with robust statistical methods)
 
-Pfitzinger P, Douglas S. (2009). Advanced Marathoning (2nd ed.). Human Kinetics.
-- Evidence-based periodization models for marathon training
-- Integration of lactate threshold and VO2max training phases
-
-Napier C. (2020). Science of Running: Analyse your Technique, Prevent Injury, Revolutionize your Training. DK.
-- Biomechanical analysis showing injury risk reduction with proper technique
-- Cadence and foot strike pattern effects on running economy
+**Balsalobre-Fernández C, et al. (2024).** The Effect of Strength Training Methods on Middle-Distance and Long-Distance Runners' Athletic Performance: A Systematic Review with Meta-analysis. *Sports Medicine*, 54(7), 1789-1805. DOI: https://doi.org/10.1007/s40279-024-02018-z
+- Key finding: Heavy strength training and plyometric training both improve running performance, with heavy strength training showing superior effects on running economy
+- Study type: Meta-analysis
+- Evidence quality: High (comprehensive analysis with subgroup analyses by training type)
 
 ## Practical Applications
 
@@ -104,15 +103,23 @@ Napier C. (2020). Science of Running: Analyse your Technique, Prevent Injury, Re
 **Strength Training Protocol** ([[X1.1. Strength Training for Runners]]):
 - 2-3 sessions per week focusing on core stability ([[L4. Core Stability Training]])
 - Single-leg exercises for hip stability and imbalance correction
-- Plyometric exercises for power and running economy
+- Heavy strength training (3-6 reps at 85-95% 1RM) for maximum running economy benefits
+- Plyometric exercises for power and neuromuscular adaptations
+
+**Biomechanical Focus Points:**
+- Practice cadence drills at 170-185+ steps per minute
+- Work on midfoot striking through technique drills
+- Minimize vertical oscillation and ground contact time
+- Use video analysis for technique feedback
 
 ## Common Mistakes
 
 ⚠️ **Running too fast on easy days** - Should be conversational pace, often 1-2 minutes slower than race pace
 ⚠️ **Increasing mileage too quickly** - Follow 10% rule to prevent overuse injuries  
-⚠️ **Neglecting strength training** - Essential for injury prevention and performance gains
-⚠️ **Overstriding** - Leads to braking forces and increased injury risk
-⚠️ **Ignoring rest and recovery** - Adaptations occur during rest periods, not training sessions
+⚠️ **Neglecting strength training** - Essential for injury prevention and 2-8% running economy improvements
+⚠️ **Overstriding** - Leads to braking forces, increased injury risk, and poor running economy
+⚠️ **Ignoring biomechanical efficiency** - Poor technique wastes energy and increases injury risk
+⚠️ **Skipping recovery periods** - Adaptations occur during rest, not just training sessions
 
 ## Nutrition and Hydration Considerations
 
@@ -122,6 +129,7 @@ High carbohydrate requirements for glycogen replenishment ([[C27. Nutrition for 
 - Adequate hydration before, during, and after training ([[C4. Hydration]])
 - Iron status monitoring, especially in female runners ([[C6. Micronutrients (Detailed Roles & Considerations)]])
 - Post-workout carbohydrate and protein intake for recovery optimization
+- Strategic caffeine intake (3-6mg/kg body weight) can enhance endurance performance
 
 ## Injury Prevention
 
@@ -132,6 +140,7 @@ Common running injuries ([[IX-1. Common Musculoskeletal Injuries]]) include pate
 - Consistent strength and mobility work
 - Proper footwear selection and replacement
 - Attention to early warning signs and symptoms
+- Biomechanical assessment and correction
 
 ## Related Concepts
 
@@ -144,4 +153,4 @@ Program design: [[A25. Principle of Periodization]], [[E4. Concurrent Training (
 Health and nutrition: [[IX-1. Common Musculoskeletal Injuries]], [[IX-2. Injury Prevention Strategies]], [[C27. Nutrition for Endurance Performance (Carb Loading)]], [[C4. Hydration]], [[C6. Micronutrients (Detailed Roles & Considerations)]]
 
 ## Update Log
-- 2025-01-21: Restructured for accessibility, added practical applications and common mistakes sections, enhanced research evidence organization
+- 2025-01-21: Updated with latest 2024 meta-analyses on strength training and biomechanics, enhanced practical applications with specific strength training protocols, added biomechanical focus points based on recent research

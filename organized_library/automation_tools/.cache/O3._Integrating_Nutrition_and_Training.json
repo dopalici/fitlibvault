@@ -1,0 +1,66 @@
+{
+  "note_title": "O3. Integrating Nutrition and Training",
+  "cached_at": "2026-05-07T21:46:00.290067",
+  "studies": [
+    {
+      "title": "Effects of Creatine Supplementation and Resistance Training on Muscle Strength Gains in Adults <50 Years of Age: A Systematic Review and Meta-Analysis.",
+      "year": "2024",
+      "doi": "10.3390/nu16213665",
+      "pmid": "39519498",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Compatibility of Concurrent Aerobic and Strength Training for Skeletal Muscle Size and Function: An Updated Systematic Review and Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.1007/s40279-021-01587-7",
+      "pmid": "34757594",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    },
+    {
+      "title": "Nutrition in adolescent growth and development.",
+      "year": "2022",
+      "doi": "10.1016/S0140-6736(21)01590-7",
+      "pmid": "34856190",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2,
+      "quality_score": 0.85,
+      "composite_score": 0.615
+    },
+    {
+      "title": "International society of sports nutrition position stand: energy drinks and energy shots.",
+      "year": "2023",
+      "doi": "10.1080/15502783.2023.2171314",
+      "pmid": "36862943",
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    },
+    {
+      "title": "Global consensus on optimal exercise recommendations for enhancing healthy longevity in older adults (ICFSR).",
+      "year": "2025",
+      "doi": "10.1016/j.jnha.2024.100401",
+      "pmid": "39743381",
+      "journal": "The journal of nutrition, health & aging",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    }
+  ]
+}

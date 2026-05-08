@@ -1,0 +1,66 @@
+{
+  "note_title": "E7. Cycling (Technique, Programming)",
+  "cached_at": "2026-05-07T19:35:51.934026",
+  "studies": [
+    {
+      "title": "Effects of Exercise Training on Mitochondrial and Capillary Growth in Human Skeletal Muscle: A Systematic Review and Meta-Regression.",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02120-2",
+      "pmid": "39390310",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Nutritional Ergogenic Aids in Cycling: A Systematic Review.",
+      "year": "2024",
+      "doi": "10.3390/nu16111768",
+      "pmid": "38892701",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.125,
+      "quality_score": 0.85,
+      "composite_score": 0.6325
+    },
+    {
+      "title": "Effects of Caffeine Intake on Endurance Running Performance and Time to Exhaustion: A Systematic Review and Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.3390/nu15010148",
+      "pmid": "36615805",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    },
+    {
+      "title": "Critical Power and Maximal Lactate Steady State in Cycling: \"Watts\" the Difference?",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-02075-4",
+      "pmid": "39196486",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0909,
+      "quality_score": 0.85,
+      "composite_score": 0.6223
+    },
+    {
+      "title": "Aerobic Exercise Prescription for Pain Reduction in Fibromyalgia: A Systematic Review and Meta-Analysis.",
+      "year": "2025",
+      "doi": "10.1002/ejp.4783",
+      "pmid": "39805734",
+      "journal": "European journal of pain (London, England)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.58
+    }
+  ]
+}

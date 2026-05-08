@@ -1,0 +1,66 @@
+{
+  "note_title": "K8. Competition Preparation Protocols",
+  "cached_at": "2026-05-07T21:30:14.604786",
+  "studies": [
+    {
+      "title": "Which Training Intensity Distribution Intervention will Produce the Greatest Improvements in Maximal Oxygen Uptake and Time-Trial Performance in Endurance Athletes? A Systematic Review and Network Meta-analysis of Individual Participant Data.",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02149-3",
+      "pmid": "39888556",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Body Composition of Competitive Bodybuilders: A Systematic Review of Published Data and Recommendations for Future Work.",
+      "year": "2023",
+      "doi": "10.1519/JSC.0000000000004155",
+      "pmid": "36727905",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Factors Relating to Sprint Swimming Performance: A Systematic Review.",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02172-4",
+      "pmid": "39841367",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Effects of Long-Haul Travel on Recovery and Performance in Elite Athletes: A Systematic Review.",
+      "year": "2022",
+      "doi": "10.1519/JSC.0000000000004021",
+      "pmid": "36287181",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Perioperative Penicillin and Cephalosporin Antibiotic Allergy Assessment and Testing: The PREPARE Pilot Randomized Clinical Trial.",
+      "year": "2025",
+      "doi": "10.1001/jamasurg.2025.0279",
+      "pmid": "40136281",
+      "journal": "JAMA surgery",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.55
+    }
+  ]
+}

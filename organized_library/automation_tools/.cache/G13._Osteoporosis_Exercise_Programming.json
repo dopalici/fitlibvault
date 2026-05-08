@@ -1,0 +1,66 @@
+{
+  "note_title": "Osteoporosis Exercise Programming",
+  "cached_at": "2026-05-07T21:00:57.988571",
+  "studies": [
+    {
+      "title": "Osteoporosis: A Review.",
+      "year": "2025",
+      "doi": "10.1001/jama.2025.6003",
+      "pmid": "40587168",
+      "journal": "JAMA",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3333,
+      "quality_score": 0.85,
+      "composite_score": 0.725
+    },
+    {
+      "title": "Osteoporosis in men.",
+      "year": "2022",
+      "doi": "10.1016/S2213-8587(22)00012-2",
+      "pmid": "35247315",
+      "journal": "The lancet. Diabetes & endocrinology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3333,
+      "quality_score": 0.85,
+      "composite_score": 0.655
+    },
+    {
+      "title": "Safety and efficacy of COVID-19 vaccines: A systematic review and meta-analysis of controlled and randomized clinical trials.",
+      "year": "2024",
+      "doi": "10.1002/rmv.2507",
+      "pmid": "38282394",
+      "journal": "Reviews in medical virology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "Effects of Multicomponent Exercise Training on the Health of Older Women with Osteoporosis: A Systematic Review and Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.3390/ijerph192114195",
+      "pmid": "36361073",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.76,
+      "composite_score": 0.54
+    },
+    {
+      "title": "Early-Onset Osteoporosis.",
+      "year": "2022",
+      "doi": "10.1007/s00223-021-00885-6",
+      "pmid": "34236445",
+      "journal": "Calcified tissue international",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3333,
+      "quality_score": 0.61,
+      "composite_score": 0.535
+    }
+  ]
+}

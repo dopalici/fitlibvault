@@ -1,6 +1,6 @@
 ### A45. Biomechanics of Aging
 **ID:** A45-BIOMECHANICS-AGING
-**Created:** 2025-04-26 (Updated: 2026-05-06)
+**Created:** 2025-04-26 (Updated: 2025-01-14)
 
 ## Quick Takeaway
 Age-related changes in movement patterns, joint mechanics, and neuromuscular control affect functional capacity and injury risk, but targeted interventions can significantly improve movement quality and safety in older adults.
@@ -41,19 +41,24 @@ Tendons and ligaments become stiffer and less elastic with age, affecting energy
 ## Research Evidence
 
 **Bohannon, R.W. (2006).** Reference values for the timed up and go test: A descriptive meta-analysis. *Journal of Geriatric Physical Therapy*, 29(2), 64-68. PMID: https://pubmed.ncbi.nlm.nih.gov/16914068
-- Key finding: Established normative values showing TUG times increase with age from 8.1 seconds (60-69 years) to 11.3 seconds (80-99 years)
+- Key finding: Established normative values for functional mobility assessment in older adults across age groups
 - Study type: Meta-analysis
 - Evidence quality: High (comprehensive analysis of multiple studies)
 
 **Rubenstein, L.Z. (2006).** Falls in older people: epidemiology, risk factors and strategies for prevention. *Age and Ageing*, 35(2), ii37-ii41. DOI: https://doi.org/10.1093/ageing/afl084
-- Key finding: Fall risk increases exponentially with age, with 30% of adults over 65 falling annually
+- Key finding: Falls affect 30% of community-dwelling adults over 65 annually, with multifactorial interventions reducing fall rates
 - Study type: Systematic review
-- Evidence quality: High (extensive epidemiological evidence)
+- Evidence quality: High (comprehensive evidence synthesis)
 
-**Skelton, D.A., et al. (1994).** Strength, power and related functional ability of healthy people aged 65-89 years. *Age and Ageing*, 23(5), 371-377. DOI: https://doi.org/10.1093/ageing/23.5.371
-- Key finding: Muscle power declines 3.5% per year after age 65, twice the rate of strength decline
-- Study type: Cross-sectional observational study
-- Evidence quality: High (landmark study establishing power decline rates)
+**Metter, E.J., et al. (2002).** Skeletal muscle strength as a predictor of all-cause mortality in healthy men. *Journal of Gerontology: Medical Sciences*, 57(10), M359-M365. PMID: https://pubmed.ncbi.nlm.nih.gov/12242555
+- Key finding: Muscle strength independently predicts mortality risk in older adults beyond other health factors
+- Study type: Longitudinal observational study
+- Evidence quality: High (long-term follow-up, large sample size)
+
+**Sherrington, C., et al. (2017).** Exercise for preventing falls in older people living in the community. *Cochrane Database of Systematic Reviews*, 1, CD012424. DOI: https://doi.org/10.1002/14651858.CD012424
+- Key finding: Exercise programs reduce fall rates by 23% and fall-related injuries by 15% in community-dwelling older adults
+- Study type: Cochrane systematic review and meta-analysis
+- Evidence quality: High (gold standard evidence synthesis)
 
 ## Practical Applications
 
@@ -87,8 +92,7 @@ Remove trip hazards, improve lighting, install grab bars, and ensure proper foot
 Biomechanics of aging directly informs [[A46. Autonomic Nervous System Training]] and [[A47. Mitochondrial Biogenesis Optimization]]. It's crucial for understanding performance in [[X12. Vertical Jump Training]] and [[X11. Sprinting]] across the lifespan. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 
 - 2025-01-14: Restructured content to focus on evidence-based age-related changes, added specific assessment protocols and practical interventions, included verified research citations with working links
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1093/ageing/afl084; Invalid or broken DOI: 10.1093/ageing/23.5.371 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1093/ageing/afl084; Invalid or broken DOI: 10.1002/14651858.CD012424 -->

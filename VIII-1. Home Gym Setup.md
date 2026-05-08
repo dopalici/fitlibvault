@@ -1,6 +1,6 @@
 ### VIII-1. Home Gym Setup
 **ID:** VIII-1-HOME-GYM 
-**Created:** 2025-04-24 (Updated: 2025-01-27)
+**Created:** 2025-04-24 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Start with versatile basics (resistance bands, bodyweight equipment) and progressively add free weights and specialized equipment based on your training goals and available space.
@@ -105,4 +105,5 @@ While specific research on home gym effectiveness is limited, several studies su
 Essential training methods that work well in home gym settings include [[B7. Bodyweight Training]] for space-efficient strength development and [[B11. Resistance Bands]] for variable resistance training. Equipment-specific approaches like [[B8. Free Weights (Barbells, Dumbbells)]], [[B9. Kettlebell Training]], and [[B12. Suspension Training (TRX)]] each offer unique advantages for home training. Consider [[L1. Movement Patterns and Functional Training]] principles when selecting exercises for your space, and reference [[O1. Integrated Programming Considerations]] when designing your complete home training program.
 
 ## Update Log
+- 2026-05-08: Promoted to OG. +0 DOI, +0 PMID, recommendation_delta=0.
 - 2025-01-27: Restructured for accessibility, added budget guidelines and specific equipment recommendations, included practical implementation timeline

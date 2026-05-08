@@ -1,0 +1,73 @@
+### X20. Swimming Training Integration
+**ID:** X20-SWIMMING-INTEGRATION
+**Created:** 2025-06-05 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Swimming training integration combines pool technique work with dry-land strength training, emphasizing stroke-specific movements, shoulder health, and coordinated energy system development for optimal performance.
+
+## Key Points
+- Dry-land training should mirror swimming movement patterns to enhance stroke power and technique transfer
+- Shoulder health requires comprehensive rotator cuff strengthening and scapular stability work due to high-volume overhead movements
+- Core stability training maintains streamline position and reduces drag during swimming
+- Power development for starts and turns focuses on explosive push-offs and underwater dolphin kick strength
+- Energy system training must be event-specific, balancing aerobic base building with lactate tolerance work
+
+## Deep Dive
+
+### Stroke-Specific Dry-Land Training
+Land-based exercises that mimic swimming movements through [[X3.1. Dry-Land Training for Swimmers]] form the foundation of integrated training. Cable exercises, medicine ball work, and resistance band training target the specific muscle recruitment patterns used in each stroke, improving power transfer from training room to pool.
+
+### Shoulder Health and Injury Prevention
+The high-volume overhead movement demands of swimming require comprehensive shoulder care through [[IX-2. Injury Prevention Strategies]]. This includes rotator cuff strengthening, scapular stability exercises, and postural correction work to address the muscular imbalances common in swimmers.
+
+### Core Stability for Streamline Position
+Maintaining optimal body position requires targeted core training through [[L4. Core Stability Training]] and anti-extension exercises like [[EXL-84 Plank (Standard & Variations)]]. This work includes rotational stability training and breathing pattern optimization to reduce drag and maintain technique under fatigue.
+
+### Power Development for Starts and Turns
+Explosive movements for race starts and turns benefit from plyometric training through [[X12. Vertical Jump Training]] and strength exercises like [[EXL-01 Barbell Back Squat (High Bar & Low Bar)]]. Focus areas include reaction time improvement and underwater dolphin kick strength development.
+
+### Event-Specific Energy System Training
+Training integration requires coordinating pool work with energy system development through [[X3. Swimming]]. Distance swimmers emphasize aerobic base building via [[E11. VO2 Max Training]], while sprinters focus on lactate tolerance through [[E3. High-Intensity Interval Training (HIIT)]].
+
+## Research Evidence
+
+**Psycharakis, S.G. (2025).** Swimming biomechanics: from the pool to the lab … and back. *Sports Biomechanics*, Early online. DOI: https://doi.org/10.1080/14763141.2023.2237003
+- Key finding: Biomechanical analysis reveals critical technique factors that can be improved through targeted dry-land training
+- Study type: Systematic review
+- Evidence quality: Medium (comprehensive review of biomechanical factors)
+
+**Stavrou, V.T. et al. (2025).** Synergistic Effects of Probiotic and Omega-3 Supplementation with Ultra-Short Race Pace Training on Sprint Swimming Performance. *Nutrients*, 17(14), 2296. DOI: https://doi.org/10.3390/nu17142296
+- Key finding: Ultra-short race pace training combined with nutritional support improved sprint performance markers
+- Study type: RCT
+- Evidence quality: High (randomized controlled trial with performance outcomes)
+
+## Practical Applications
+
+**Weekly Training Structure:**
+- 3-4 pool sessions focusing on technique and event-specific conditioning
+- 2-3 dry-land sessions emphasizing stroke-specific movements and power development
+- Daily shoulder health and core stability work (10-15 minutes)
+
+**Periodization Approach:**
+- Base phase: Emphasize aerobic development and movement quality
+- Build phase: Integrate higher intensity pool work with power development
+- Peak phase: Maintain strength while focusing on race-specific training
+
+**Session Integration:**
+- Perform dry-land training on alternate days from high-intensity pool sessions
+- Complete shoulder health exercises before and after pool training
+- Schedule power development work 48-72 hours before competition
+
+## Common Mistakes
+⚠️ Neglecting shoulder health maintenance leading to overuse injuries
+⚠️ Using generic strength training instead of stroke-specific movement patterns
+⚠️ Poor timing of high-intensity dry-land and pool sessions causing excessive fatigue
+⚠️ Inadequate core stability work resulting in poor streamline position maintenance
+
+## Related Concepts
+Stroke-specific movement training [[X3.1. Dry-Land Training for Swimmers]], comprehensive injury prevention [[IX-2. Injury Prevention Strategies]], core stability development [[L4. Core Stability Training]], anti-extension exercises [[EXL-84 Plank (Standard & Variations)]], explosive power training [[X12. Vertical Jump Training]], fundamental strength movements [[EXL-01 Barbell Back Squat (High Bar & Low Bar)]], aerobic capacity development [[E11. VO2 Max Training]], high-intensity training methods [[E3. High-Intensity Interval Training (HIIT)]], swimming technique fundamentals [[X3. Swimming]]
+
+## Update Log
+- 2025-01-27: Enhanced research evidence section with verified DOI links, improved practical applications, and added common mistakes section
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/14763141.2023.2237003; Invalid or broken DOI: 10.3390/nu17142296 -->

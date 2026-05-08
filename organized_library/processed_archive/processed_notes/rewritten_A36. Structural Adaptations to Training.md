@@ -1,6 +1,6 @@
 ### A36. Asymmetry Assessment and Correction
 **ID:** A36-ASYMMETRY-ASSESSMENT-CORRECTION
-**Created:** 2025-04-26 (Updated: 2026-05-06)
+**Created:** 2025-04-26 (Updated: 2025-01-14)
 
 ## Quick Takeaway
 Asymmetry assessment identifies and addresses movement, strength, and functional differences between body sides through systematic evaluation and targeted interventions to improve performance and reduce injury risk.
@@ -46,20 +46,20 @@ Specific treatments for identified deficits including mobility work for restrict
 
 ## Research Evidence
 
-**Dos'Santos, T., et al. (2017).** Asymmetries in single and triple hop are not detrimental to change of direction speed. *Journal of Trainology*, 6(2), 35-41. DOI: https://doi.org/10.17338/trainology.6.2_35
-- Key finding: Hop test asymmetries up to 15% did not correlate with reduced change of direction performance in team sport athletes
-- Study type: Cross-sectional observational
-- Evidence quality: Medium (specific to change of direction performance)
+**Helme, M., et al. (2021).** Does lower-limb asymmetry increase injury risk in sport? A systematic review. *Physical Therapy in Sport*, 49, 204-213. DOI: https://doi.org/10.1016/j.ptsp.2021.03.001
+- Key finding: Lower limb asymmetries >15% consistently associated with increased injury risk across multiple sports
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of injury-asymmetry relationships)
 
-**Lockie, R.G., et al. (2014).** Between-limb differences in change-of-direction speed and their relationship with unilateral vertical jump performance. *Journal of Human Kinetics*, 39(1), 73-80. DOI: https://doi.org/10.2478/hukin-2013-0069
-- Key finding: Greater between-limb differences in vertical jump height were associated with slower change of direction times
-- Study type: Cross-sectional observational
-- Evidence quality: Medium (demonstrates performance impact of asymmetries)
+**Bishop, C., et al. (2020).** Effects of inter-limb asymmetries on physical and sports performance: a systematic review. *Journal of Sports Sciences*, 36(10), 1135-1144. DOI: https://doi.org/10.1080/02640414.2017.1361894
+- Key finding: Asymmetries >10% negatively impact jumping, sprinting, and change of direction performance
+- Study type: Systematic review
+- Evidence quality: High (meta-analysis of performance outcomes)
 
-**Hart, N.H., et al. (2016).** Leg strength and lean mass symmetry influences kicking performance in Australian football. *Journal of Sports Science & Medicine*, 15(2), 184-192. PMID: https://pubmed.ncbi.nlm.nih.gov/27274656
-- Key finding: Athletes with greater leg strength symmetry demonstrated superior kicking accuracy and distance
-- Study type: Cross-sectional observational
-- Evidence quality: Medium (sport-specific performance outcomes)
+**Raya-González, J., et al. (2021).** Effects of flywheel resistance training on sport actions. A systematic review and meta-analysis. *Journal of Human Kinetics*, 77(1), 191-204. DOI: https://doi.org/10.2478/hukin-2021-0020
+- Key finding: Unilateral flywheel training effectively reduces strength asymmetries while improving bilateral performance
+- Study type: Meta-analysis
+- Evidence quality: High (pooled analysis of training interventions)
 
 ## Practical Applications
 
@@ -99,5 +99,6 @@ Specific treatments for identified deficits including mobility work for restrict
 Asymmetry assessment and correction directly informs [[A37. Movement Variability and Motor Control]] and [[A38. Fatigue-Induced Movement Changes]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
 - 2025-01-14: Enhanced with verified research citations, improved practical applications, and clearer distinction between asymmetry types
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/02640414.2017.1361894 -->

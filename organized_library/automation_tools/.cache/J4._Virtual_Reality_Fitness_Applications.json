@@ -1,0 +1,66 @@
+{
+  "note_title": "J4. Virtual Reality Fitness Applications",
+  "cached_at": "2026-05-07T21:21:28.659951",
+  "studies": [
+    {
+      "title": "The Relationship Between Running Biomechanics and Running Economy: A Systematic Review and Meta-Analysis of Observational Studies.",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-01997-3",
+      "pmid": "38446400",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Circadian rhythms and disorders of the timing of sleep.",
+      "year": "2022",
+      "doi": "10.1016/S0140-6736(22)00877-7",
+      "pmid": "36115370",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Wearable activity trackers-advanced technology or advanced marketing?",
+      "year": "2022",
+      "doi": "10.1007/s00421-022-04951-1",
+      "pmid": "35445837",
+      "journal": "European journal of applied physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Continuous glucose monitoring: Minimally and non-invasive technologies.",
+      "year": "2025",
+      "doi": "10.1016/j.cca.2025.120358",
+      "pmid": "40379197",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    },
+    {
+      "title": "Smart watch applications in atrial fibrillation detection: Current state and future directions.",
+      "year": "2024",
+      "doi": "10.1111/jce.16451",
+      "pmid": "39363440",
+      "journal": "Journal of cardiovascular electrophysiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0769,
+      "quality_score": 0.61,
+      "composite_score": 0.4981
+    }
+  ]
+}

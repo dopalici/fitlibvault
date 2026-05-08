@@ -1,0 +1,66 @@
+{
+  "note_title": "IX-6. Exercise Contraindications",
+  "cached_at": "2026-05-07T21:13:46.527408",
+  "studies": [
+    {
+      "title": "Markers of Low Energy Availability in Overreached Athletes: A Systematic Review and Meta-analysis.",
+      "year": "2022",
+      "doi": "10.1007/s40279-022-01723-x",
+      "pmid": "35819582",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    },
+    {
+      "title": "From Tissue to System: What Constitutes an Appropriate Response to Loading?",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02126-w",
+      "pmid": "39527327",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Nutritional Supplements for Muscle Hypertrophy: Mechanisms and Morphology-Focused Evidence.",
+      "year": "2025",
+      "doi": "10.3390/nu17223603",
+      "pmid": "41305653",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "A Critical Appraisal of Using Barbell Velocity Data to Regulate Training.",
+      "year": "2025",
+      "doi": "10.1519/JSC.0000000000005050",
+      "pmid": "39977021",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Ashwagandha Root Extract Stabilises Physiological Stress Responses in Male and Female Team Sports Athletes During Pre-Season Training.",
+      "year": "2026",
+      "doi": "10.3390/nu18020230",
+      "pmid": "41599843",
+      "journal": "Nutrients",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.55
+    }
+  ]
+}

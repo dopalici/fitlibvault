@@ -1,0 +1,66 @@
+{
+  "note_title": "G3. Training with Health Limitations / Chronic Conditions",
+  "cached_at": "2026-05-07T21:03:49.846272",
+  "studies": [
+    {
+      "title": "Effects of Exercise Training on Mitochondrial and Capillary Growth in Human Skeletal Muscle: A Systematic Review and Meta-Regression.",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02120-2",
+      "pmid": "39390310",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Chronic kidney disease and the global public health agenda: an international consensus.",
+      "year": "2024",
+      "doi": "10.1038/s41581-024-00820-6",
+      "pmid": "38570631",
+      "journal": "Nature reviews. Nephrology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1818,
+      "quality_score": 0.85,
+      "composite_score": 0.6495
+    },
+    {
+      "title": "Global Incidence and Prevalence of Chronic Rhinosinusitis: A Systematic Review.",
+      "year": "2025",
+      "doi": "10.1111/cea.14592",
+      "pmid": "39506931",
+      "journal": "Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.76,
+      "composite_score": 0.61
+    },
+    {
+      "title": "Global guideline for the diagnosis and management of cryptococcosis: an initiative of the ECMM and ISHAM in cooperation with the ASM.",
+      "year": "2024",
+      "doi": "10.1016/S1473-3099(23)00731-4",
+      "pmid": "38346436",
+      "journal": "The Lancet. Infectious diseases",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Towards the elimination of chronic obstructive pulmonary disease: a Lancet Commission.",
+      "year": "2022",
+      "doi": "10.1016/S0140-6736(22)01273-9",
+      "pmid": "36075255",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0909,
+      "quality_score": 0.85,
+      "composite_score": 0.5823
+    }
+  ]
+}

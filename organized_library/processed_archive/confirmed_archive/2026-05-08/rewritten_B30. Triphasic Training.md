@@ -1,0 +1,99 @@
+### B30. Triphasic Training
+**ID:** B30-TRIPHASIC-TRAINING
+**Created:** 2025-06-05 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Triphasic Training systematically develops the three phases of muscle contraction—eccentric, isometric, and concentric—in separate training blocks to maximize strength, power, and movement efficiency.
+
+## Key Points
+- Divides muscle contraction into three distinct phases that are trained separately across different training blocks
+- Eccentric phase focuses on controlling lengthening contractions for improved force absorption and injury prevention
+- Isometric phase develops static strength at specific joint angles to improve sticking points and stability
+- Concentric phase emphasizes explosive force production and power development
+- Sequential progression through phases allows for targeted adaptation and comprehensive strength development
+
+## Deep Dive
+
+### The Three Phases of Movement
+
+**Eccentric Phase (Lengthening)**
+The eccentric phase involves muscle lengthening under tension, such as the lowering portion of a squat or the landing phase of a jump. This phase is crucial for force absorption and deceleration. Eccentric contractions can produce significantly more force than concentric contractions and create greater mechanical stress on muscle fibers, leading to enhanced strength adaptations.
+
+**Isometric Phase (Static)**
+The isometric phase involves muscle contraction without joint movement, occurring at the transition points between eccentric and concentric phases. Training this phase improves strength at specific joint angles and enhances the ability to maintain positions under load. Isometric training is particularly effective for addressing sticking points in lifts and improving postural stability.
+
+**Concentric Phase (Shortening)**
+The concentric phase involves muscle shortening while contracting, such as the upward portion of a squat or the takeoff phase of a jump. This phase is responsible for force production and acceleration. Concentric training emphasizes speed of contraction and power output.
+
+### Training Methodology
+
+**Block Periodization**
+Triphasic training typically follows a block periodization model where each phase receives primary emphasis for 2-4 weeks before progressing to the next phase. This allows for specific adaptations to occur before moving to the subsequent phase of development.
+
+**Progressive Integration**
+As athletes advance through the phases, elements from previous blocks are maintained while new emphases are introduced. This creates a progressive integration that builds comprehensive movement competency.
+
+### Physiological Adaptations
+
+Each phase creates distinct neuromuscular adaptations. Eccentric training enhances muscle damage and repair processes, leading to increased muscle protein synthesis. Isometric training improves motor unit recruitment at specific joint angles and enhances intermuscular coordination. Concentric training optimizes rate of force development and power output through improved neural drive and fiber type recruitment patterns.
+
+## Research Evidence
+
+**Roig et al. (2009).** The effects of eccentric versus concentric resistance training on muscle strength and mass in healthy adults: a systematic review with meta-analysis. *British Journal of Sports Medicine*, 43(8), 556-568. DOI: https://doi.org/10.1136/bjsm.2008.051417
+- Key finding: Eccentric training produced greater increases in total strength compared to concentric training alone
+- Study type: Systematic review with meta-analysis
+- Evidence quality: High (comprehensive analysis of multiple RCTs)
+
+**Folland & Williams (2007).** The adaptations to strength training: morphological and neurological contributions to increased strength. *Sports Medicine*, 37(2), 145-168. DOI: https://doi.org/10.2165/00007256-200737020-00004
+- Key finding: Isometric training produces joint angle-specific strength gains with limited transfer to other angles
+- Study type: Systematic review
+- Evidence quality: High (comprehensive review of training adaptations)
+
+**Suchomel et al. (2018).** The importance of muscular strength: training considerations. *Sports Medicine*, 48(4), 765-785. DOI: https://doi.org/10.1007/s40279-018-0862-z
+- Key finding: Multi-phase strength training approaches enhance overall athletic performance more than single-phase methods
+- Study type: Narrative review
+- Evidence quality: High (extensive analysis of strength training methods)
+
+## Practical Applications
+
+**Sample 12-Week Progression:**
+- **Weeks 1-4:** Eccentric emphasis (4-6 second lowering phases, 70-85% 1RM)
+- **Weeks 5-8:** Isometric emphasis (3-5 second holds at sticking points, 80-90% 1RM)
+- **Weeks 9-12:** Concentric emphasis (explosive lifting, 60-80% 1RM with maximal intent)
+
+**Exercise Selection:**
+- Choose compound movements that allow clear identification of each phase
+- Examples: Back squat, bench press, deadlift, pull-ups
+- Progress from bilateral to unilateral movements as competency develops
+
+**Load and Volume Guidelines:**
+- Eccentric phase: Higher loads (100-120% concentric 1RM) with assisted lifting
+- Isometric phase: Moderate to high loads (80-100% 1RM) with timed holds
+- Concentric phase: Moderate loads (60-85% 1RM) with maximal velocity intent
+
+**Programming Considerations:**
+- Allow 48-72 hours recovery between sessions during eccentric phase
+- Reduce training volume by 20-30% when emphasizing eccentric work
+- Monitor fatigue levels closely as eccentric training creates greater muscle damage
+- Implement deload weeks between phase transitions
+
+## Common Mistakes
+
+⚠️ **Skipping phases** - Attempting to train all three phases simultaneously reduces the specific adaptations of each phase
+
+⚠️ **Inadequate recovery** - Eccentric training particularly requires longer recovery periods due to increased muscle damage
+
+⚠️ **Poor phase identification** - Failing to clearly define and control each phase of movement reduces training effectiveness
+
+⚠️ **Ignoring movement quality** - Focusing solely on load progression without maintaining proper technique in each phase
+
+⚠️ **Inappropriate load selection** - Using loads that don't match the specific demands of each training phase
+
+## Related Concepts
+
+Understanding muscle contraction types enhances implementation of [[B20. Eccentric Training]] protocols. The isometric component builds upon principles covered in [[B19. Isometrics]], while the overall approach integrates with [[L1. Movement Patterns and Functional Training]] for comprehensive athletic development.
+
+## Update Log
+- 2025-01-27: Enhanced structure with research evidence, practical applications, improved programming considerations, and maintained all original links while preserving scientific accuracy
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsm.2008.051417 -->

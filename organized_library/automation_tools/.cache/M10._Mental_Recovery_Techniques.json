@@ -1,0 +1,66 @@
+{
+  "note_title": "M10. Mental Recovery Techniques",
+  "cached_at": "2026-05-07T21:33:41.875275",
+  "studies": [
+    {
+      "title": "The Effects of Creatine Monohydrate Loading on Exercise Recovery in Active Women throughout the Menstrual Cycle.",
+      "year": "2023",
+      "doi": "10.3390/nu15163567",
+      "pmid": "37630756",
+      "journal": "Nutrients",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0769,
+      "quality_score": 0.7,
+      "composite_score": 0.5431
+    },
+    {
+      "title": "The Impact of Psychological Prehabilitation on Surgical Outcomes: A Meta-analysis and Meta-regression.",
+      "year": "2025",
+      "doi": "10.1097/SLA.0000000000006677",
+      "pmid": "39969855",
+      "journal": "Annals of surgery",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.54
+    },
+    {
+      "title": "Cold Water Immersion, Heart Rate Variability and Post-Exercise Recovery: A Systematic Review.",
+      "year": "2025",
+      "doi": "10.1002/pri.70033",
+      "pmid": "39918163",
+      "journal": "Physiotherapy research international : the journal for researchers and clinicians in physical therapy",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0769,
+      "quality_score": 0.61,
+      "composite_score": 0.5281
+    },
+    {
+      "title": "The prognosis of schizophrenia: A systematic review and meta-analysis with meta-regression of 20-year follow-up studies.",
+      "year": "2022",
+      "doi": "10.1016/j.schres.2022.11.010",
+      "pmid": "36417817",
+      "journal": "Schizophrenia research",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.47
+    },
+    {
+      "title": "Effects of Virtual Reality Rehabilitation Training on Cognitive Function and Activities of Daily Living of Patients With Poststroke Cognitive Impairment: A Systematic Review and Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.1016/j.apmr.2022.03.012",
+      "pmid": "35417757",
+      "journal": "Archives of physical medicine and rehabilitation",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.47
+    }
+  ]
+}

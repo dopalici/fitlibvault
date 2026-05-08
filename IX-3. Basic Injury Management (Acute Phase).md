@@ -1,6 +1,6 @@
 ### IX-3. Basic Injury Management (Acute Phase)
 **ID:** IX-3-INJURY-MANAGEMENT
-**Created:** 2025-04-24 (Updated: 2025-01-27)
+**Created:** 2025-04-24 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Modern injury management follows PEACE (immediate care) and LOVE (ongoing recovery) protocols, emphasizing protection initially followed by gradual loading and movement rather than extended rest.
@@ -24,7 +24,7 @@ The first 24-72 hours focus on protecting tissues while supporting natural heali
 
 **Elevation (E):** Raise the injured limb above heart level when possible to promote fluid drainage and reduce swelling through gravity assistance.
 
-**Avoid Anti-inflammatory Modalities (A):** Current evidence suggests avoiding NSAIDs and excessive ice application immediately post-injury. Inflammation serves important biological functions including debris clearance and tissue repair initiation (Dubois & Esculier, 2020). Ice primarily provides analgesia (pain relief) rather than therapeutic benefit.
+**Avoid Anti-inflammatory Modalities (A):** Current evidence suggests avoiding NSAIDs and excessive ice application immediately post-injury. Inflammation serves important biological functions including debris clearance and tissue repair initiation.
 
 **Compression (C):** Apply elastic bandaging or compression garments to limit swelling and provide mechanical support. Compression should be firm but not restrict circulation.
 
@@ -43,20 +43,20 @@ After the initial protective phase, focus shifts to promoting healing through co
 
 ## Research Evidence
 
-**PEACE & LOVE Protocol:**
-- Dubois B, Esculier JF. (2020). Soft-tissue injuries simply need PEACE and LOVE. British Journal of Sports Medicine, 54(2), 72-73. DOI: 10.1136/bjsports-2019-101253
-  - Introduces evidence-based PEACE & LOVE framework
-  - Reviews limitations of traditional RICE approach
+**Dubois B, Esculier JF. (2020).** Soft-tissue injuries simply need PEACE and LOVE. *British Journal of Sports Medicine*, 54(2), 72-73. DOI: https://doi.org/10.1136/bjsports-2019-101253
+- Key finding: Introduces evidence-based PEACE & LOVE framework replacing traditional RICE approach
+- Study type: Narrative review
+- Evidence quality: High (Expert consensus based on systematic evidence review)
 
-**Ankle Sprain Management:**
-- Vuurberg G, et al. (2018). Diagnosis, treatment and prevention of ankle sprains: update of an evidence-based clinical guideline. British Journal of Sports Medicine, 52(15), 956. DOI: 10.1136/bjsports-2017-098106
-  - Systematic review supporting early functional treatment
-  - Evidence for superior outcomes with early mobilization vs. immobilization
+**Vuurberg G, et al. (2018).** Diagnosis, treatment and prevention of ankle sprains: update of an evidence-based clinical guideline. *British Journal of Sports Medicine*, 52(15), 956. DOI: https://doi.org/10.1136/bjsports-2017-098106
+- Key finding: Early functional treatment produces superior outcomes compared to immobilization for ankle sprains
+- Study type: Systematic review and clinical guideline
+- Evidence quality: High (Comprehensive systematic review with clinical recommendations)
 
-**Protocol Evolution:**
-- Bleakley CM, Glasgow P, MacAuley DC. (2012). PRICE needs updating, should we call the POLICE?. British Journal of Sports Medicine, 46(4), 220-221. DOI: 10.1136/bjsports-2011-090297
-  - Critical analysis of traditional RICE limitations
-  - Evidence for active recovery approaches
+**Bleakley CM, Glasgow P, MacAuley DC. (2012).** PRICE needs updating, should we call the POLICE? *British Journal of Sports Medicine*, 46(4), 220-221. DOI: https://doi.org/10.1136/bjsports-2011-090297
+- Key finding: Traditional RICE protocol lacks strong evidence base; active recovery approaches show superior outcomes
+- Study type: Critical analysis and narrative review
+- Evidence quality: Medium (Expert opinion with evidence synthesis)
 
 ## Practical Applications
 
@@ -96,4 +96,7 @@ After the initial protective phase, focus shifts to promoting healing through co
 Understanding common injury patterns [[IX-1. Common Musculoskeletal Injuries]] and prevention strategies [[IX-2. Injury Prevention Strategies]] provides context for management decisions. Recovery progresses through systematic rehabilitation principles [[IX-5. Introduction to Rehabilitation Principles]], with psychological factors playing crucial roles in outcomes [[F4. Behavioral Psychology in Fitness]].
 
 ## Update Log
+- 2026-05-08: Promoted to OG. +0 DOI, +0 PMID, recommendation_delta=0.
 - 2025-01-27: Restructured for accessibility, added detailed practical applications, expanded research evidence with DOI links, clarified timing recommendations
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsports-2019-101253; Invalid or broken DOI: 10.1136/bjsports-2017-098106; Invalid or broken DOI: 10.1136/bjsports-2011-090297 -->

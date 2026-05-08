@@ -1,0 +1,66 @@
+{
+  "note_title": "VIII-4. Fitness Apps",
+  "cached_at": "2026-05-07T21:57:10.233698",
+  "studies": [
+    {
+      "title": "The link between the use of diet and fitness monitoring apps, body image and disordered eating symptomology: A systematic review.",
+      "year": "2025",
+      "doi": "10.1016/j.bodyim.2024.101836",
+      "pmid": "39671845",
+      "journal": "Body image",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1333,
+      "quality_score": 0.53,
+      "composite_score": 0.505
+    },
+    {
+      "title": "The Effectiveness of an App-Based Fitness Program on Self-Perceived Physical Functioning in Older Adults: Randomized Waitlist-Controlled Trial.",
+      "year": "2025",
+      "doi": "10.2196/64922",
+      "pmid": "40825224",
+      "journal": "Journal of medical Internet research",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0714,
+      "quality_score": 0.46,
+      "composite_score": 0.4514
+    },
+    {
+      "title": "Middle-aged and older adults' acceptance of mobile nutrition and fitness apps: A systematic mixed studies review.",
+      "year": "2022",
+      "doi": "10.1371/journal.pone.0278879",
+      "pmid": "36520839",
+      "journal": "PloS one",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1538,
+      "quality_score": 0.53,
+      "composite_score": 0.4411
+    },
+    {
+      "title": "A systematic review on smartphone use for activity monitoring during exercise therapy in intermittent claudication.",
+      "year": "2022",
+      "doi": "10.1016/j.jvs.2022.04.045",
+      "pmid": "35709859",
+      "journal": "Journal of vascular surgery",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.435
+    },
+    {
+      "title": "Smartphone app-based interventions on physical activity behaviors and psychological correlates in healthy young adults: A systematic review.",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0301088",
+      "pmid": "38578729",
+      "journal": "PloS one",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.435
+    }
+  ]
+}

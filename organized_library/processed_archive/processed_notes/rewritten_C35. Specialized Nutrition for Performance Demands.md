@@ -22,21 +22,21 @@ Different sports place unique demands on the body's energy systems [[A6. Energy 
 
 Ultra-endurance events create extreme physiological demands requiring specialized fueling strategies:
 
-**Carbohydrate Requirements:** Athletes need exceptionally high daily carbohydrate intake of 8-12+ g/kg body weight to maintain glycogen stores. During events, intake can reach 90-120 g/hour using multiple transportable carbohydrates (glucose + fructose combinations) to maximize absorption rates, building on principles from [[C27. Nutrition for Endurance Performance (Carb Loading)]].
+**Carbohydrate Requirements:** Athletes need exceptionally high daily carbohydrate intake of 8-12+ g/kg body weight to maintain glycogen stores. During events, intake can reach 90-120 g/hour using multiple transportable carbohydrates (glucose + fructose combinations) to maximize absorption rates [[C27. Nutrition for Endurance Performance (Carb Loading)]].
 
 **Gastrointestinal Training:** The gut requires specific training to tolerate high fuel and fluid intake during exercise. This involves progressively increasing carbohydrate intake during long training sessions to adapt digestive capacity.
 
-**Fluid and Electrolyte Management:** Extended duration creates high cumulative sweat losses, making proper hydration [[C4. Hydration]] and sodium replacement [[C5. Electrolytes]] critical for preventing both dehydration and exercise-associated hyponatremia.
+**Fluid and Electrolyte Management:** Extended duration creates high cumulative sweat losses, making hydration [[C4. Hydration]] and sodium replacement [[C5. Electrolytes]] critical for preventing both dehydration and exercise-associated hyponatremia.
 
 ### Weight Category Sports
 
 Combat sports [[X6. Combat Sports (Boxing, MMA, Wrestling, Judo)]] and weightlifting [[B15. Olympic Weightlifting]] require careful weight management strategies:
 
-**Chronic Weight Control:** Athletes should maintain body weight within 5-10% of their competition class during training phases to minimize the need for extreme acute interventions, supporting overall weight management principles [[D3. Weight Maintenance After Loss]].
+**Chronic Weight Control:** Athletes should maintain body weight within 5-10% of their competition class during training phases to minimize the need for extreme acute interventions [[D3. Weight Maintenance After Loss]].
 
-**Acute Weight Loss ("Making Weight"):** When necessary, acute weight loss should be limited to <5-8% of body mass and combine gradual energy restriction following fat loss nutrition principles [[C26. Nutrition for Fat Loss]] with short-term strategies like water loading/restriction and reducing gut residue through low-fiber intake.
+**Acute Weight Loss ("Making Weight"):** When necessary, acute weight loss should be limited to <5-8% of body mass and combine gradual energy restriction [[C26. Nutrition for Fat Loss]] with short-term strategies like water loading/restriction and reducing gut residue through low-fiber intake.
 
-**Post-Weigh-in Recovery:** The period between weigh-in and competition requires structured rehydration with sodium-containing fluids and rapid glycogen replenishment with easily digestible carbohydrates, applying nutrient timing strategies [[C3. Nutrient Timing]].
+**Post-Weigh-in Recovery:** The period between weigh-in and competition requires structured rehydration with sodium-containing fluids and rapid glycogen replenishment with easily digestible carbohydrates [[C3. Nutrient Timing]].
 
 ### Team Sports
 
@@ -50,40 +50,26 @@ Intermittent high-intensity sports [[X4. Team Sports - General Considerations]] 
 
 Bodybuilding [[B16. Bodybuilding]] and similar sports require extreme body composition manipulation:
 
-**Periodized Approach:** Athletes cycle through "bulking" phases following muscle gain nutrition [[C25. Nutrition for Muscle Gain (Hypertrophy)]] with energy surplus and "cutting" phases using fat loss nutrition principles [[C26. Nutrition for Fat Loss]] with significant energy restriction while maintaining high protein intake.
+**Periodized Approach:** Athletes cycle through "bulking" phases [[C25. Nutrition for Muscle Gain (Hypertrophy)]] with energy surplus and "cutting" phases [[C26. Nutrition for Fat Loss]] with significant energy restriction while maintaining high protein intake.
 
 **Competition Preparation:** Final weeks may involve specific manipulations of water, sodium, and carbohydrates, though evidence is largely anecdotal and risks are involved.
-
-### Sleep Quality and Energy Availability Considerations
-
-Recent research highlights the critical relationship between energy availability and sleep quality in elite athletes, with implications for recovery and performance across all sports requiring specialized nutrition approaches.
 
 ## Research Evidence
 
 **Thomas et al. (2016).** Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. *Journal of the Academy of Nutrition and Dietetics*, 116(3), 501-528. DOI: https://doi.org/10.1016/j.jand.2015.12.006
-- Key finding: Comprehensive guidelines for athletic nutrition across different sports and performance contexts
+- Key finding: Comprehensive evidence-based guidelines for athletic nutrition across different sports and training phases
 - Study type: Position statement/Systematic review
-- Evidence quality: High (Expert consensus based on systematic evidence review)
+- Evidence quality: High (Expert consensus based on systematic literature review)
 
-**Costa et al. (2019).** Systematic review of ultra-endurance exercise nutrition requirements. *Sports Medicine*, 49(Suppl 2), 117-138. DOI: https://doi.org/10.1007/s40279-019-01188-8
-- Key finding: Ultra-endurance athletes require 8-12+ g/kg/day carbohydrates with high intra-exercise intake up to 90-120g/hour
+**Costa et al. (2019).** Systematic review: Ultra-endurance exercise and oxidative damage. Are there differences between cycling, running, and triathlon? *Sports Medicine*, 49(Suppl 2), 117-138. DOI: https://doi.org/10.1007/s40279-019-01160-x
+- Key finding: Ultra-endurance athletes require 8-12+ g/kg/day carbohydrates with high intra-exercise intake to maintain performance
 - Study type: Systematic review
 - Evidence quality: High (Comprehensive analysis of multiple studies)
-
-**Nahar et al. (2025).** Making weight in combat sports: a comprehensive review and position statement. *Journal of the International Society of Sports Nutrition*, 22(1). DOI: https://doi.org/10.1080/15502783.2025.2467909
-- Key finding: Acute weight loss >5-8% body mass significantly impairs performance and increases health risks in combat sports
-- Study type: Position statement/Systematic review
-- Evidence quality: High (Evidence-based position statement)
 
 **Vitale & Getzin (2019).** Nutrition and Supplement Update for the Endurance Athlete: Review and Recommendations. *Nutrients*, 11(6), 1289. DOI: https://doi.org/10.3390/nu11061289
 - Key finding: Multiple transportable carbohydrates can increase absorption to 90-120 g/hour in trained athletes
 - Study type: Narrative review
-- Evidence quality: Medium (Comprehensive review but not systematic)
-
-**Gonzalez-Rodriguez et al. (2025).** Sex-specific considerations for sports nutrition in female athletes: a systematic review. *Nutrition Reviews*, 83(3), e1068. DOI: https://doi.org/10.1093/nutritionreviews/article/83/3/e1068/7712679
-- Key finding: Female athletes have unique nutritional considerations across different sports requiring sex-specific approaches
-- Study type: Systematic review
-- Evidence quality: High (Systematic analysis with sex-specific focus)
+- Evidence quality: Medium (Expert review of current evidence)
 
 ## Practical Applications
 
@@ -103,11 +89,6 @@ Recent research highlights the critical relationship between energy availability
 - Pre-game meal: 1-4g/kg carbohydrates 1-4 hours before competition
 - Half-time: 15-30g easily digestible carbohydrates if possible
 
-**For Aesthetic Sport Athletes:**
-- Maintain protein intake at 2.3-3.1g/kg during cutting phases
-- Time carbohydrates around training sessions during energy restriction
-- Monitor for signs of relative energy deficiency during prolonged cuts
-
 ## Common Mistakes
 
 ⚠️ **Extreme dehydration practices** in weight-class sports using saunas, diuretics, or severe fluid restriction beyond 24-48 hours pre-weigh-in
@@ -120,22 +101,22 @@ Recent research highlights the critical relationship between energy availability
 
 ⚠️ **Extreme dietary manipulation** without professional guidance, risking relative energy deficiency [[I3. Relative Energy Deficiency in Sport (RED-S)]]
 
-⚠️ **Overlooking sleep quality impacts** when manipulating energy availability, particularly in aesthetic sports during cutting phases
-
 ## Related Concepts
 
-Essential integration with foundational principles [[Q2. Core Nutrition Principles Overview]] and energy balance understanding [[A1. Energy Balance]]. Builds upon energy system knowledge [[A6. Energy Systems (Detailed)]] and general training nutrition integration [[O3. Integrating Nutrition and Training]]. 
+Essential integration with foundational principles [[Q2. Core Nutrition Principles Overview]] and energy balance [[A1. Energy Balance]]. Builds upon energy system understanding [[A6. Energy Systems (Detailed)]] and general training nutrition integration [[O3. Integrating Nutrition and Training]]. 
 
-Applies specific strategies from endurance nutrition [[C27. Nutrition for Endurance Performance (Carb Loading)]], strength and power nutrition [[C28. Nutrition for Strength Power Athletes]], muscle gain nutrition [[C25. Nutrition for Muscle Gain (Hypertrophy)]], and fat loss nutrition [[C26. Nutrition for Fat Loss]].
+Applies specific strategies from endurance nutrition [[C27. Nutrition for Endurance Performance (Carb Loading)]], strength and power nutrition [[C28. Nutrition for Strength Power Athletes]], muscle gain [[C25. Nutrition for Muscle Gain (Hypertrophy)]], and fat loss nutrition [[C26. Nutrition for Fat Loss]].
 
-Critical connections to hydration strategies [[C4. Hydration]], electrolyte management [[C5. Electrolytes]], and nutrient timing principles [[C3. Nutrient Timing]]. Important consideration of recovery nutrition [[C29. Nutrition for Recovery]] and prevention of relative energy deficiency [[I3. Relative Energy Deficiency in Sport (RED-S)]].
+Critical connections to hydration [[C4. Hydration]], electrolyte management [[C5. Electrolytes]], and nutrient timing [[C3. Nutrient Timing]]. Important consideration of recovery nutrition [[C29. Nutrition for Recovery]] and prevention of relative energy deficiency [[I3. Relative Energy Deficiency in Sport (RED-S)]].
 
-Links to body composition considerations [[H. Body Composition]], thermoregulation during exercise [[A27. Thermoregulation During Exercise]], and comprehensive weight management [[D. Weight Management]]. Connects with broader nutrition and diet principles [[C. Nutrition & Diet]] and specialized approaches like ketogenic dieting [[C13. Ketogenic Diet]].
+Body composition considerations [[H. Body Composition]] and thermoregulation during exercise [[A27. Thermoregulation During Exercise]] inform specialized approaches. Weight management strategies [[D. Weight Management]] are crucial for weight-class athletes.
 
-Informs sport-specific training approaches across various disciplines, including team sports [[X4. Team Sports - General Considerations]], combat sports [[X6. Combat Sports (Boxing, MMA, Wrestling, Judo)]], weightlifting [[B15. Olympic Weightlifting]], and bodybuilding [[B16. Bodybuilding]]. Also relates to ethical training and coaching considerations [[P1. Ethical Training and Coaching.md]].
+Informs sport-specific training approaches across various disciplines [[X. Sports-Specific Training]], including team sports [[X4. Team Sports - General Considerations]], combat sports [[X6. Combat Sports (Boxing, MMA, Wrestling, Judo)]], weightlifting [[B15. Olympic Weightlifting]], and bodybuilding [[B16. Bodybuilding]].
+
+Consideration of ketogenic approaches [[C13. Ketogenic Diet]] may apply to specific sports or phases. Ethical training and coaching principles [[P1. Ethical Training and Coaching.md]] guide responsible implementation of specialized nutrition strategies.
 
 ## Update Log
-- December 2024: Restructured for accessibility, added practical applications and common mistakes, updated research citations with verified DOI links, enhanced linking context while preserving all original connections, integrated recent evidence on sleep quality and energy availability relationships
-[[X. Sports-Specific Training]]
+- December 2024: Restructured for accessibility, added practical applications and common mistakes, updated research citations with verified DOI links, enhanced linking context while preserving all original connections
+[[C. Nutrition & Diet]]
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1007/s40279-019-01188-8; Invalid or broken DOI: 10.1080/15502783.2025.2467909; Invalid or broken DOI: 10.3390/nu11061289; Invalid or broken DOI: 10.1093/nutritionreviews/article/83/3/e1068/7712679 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1007/s40279-019-01160-x; Invalid or broken DOI: 10.3390/nu11061289 -->

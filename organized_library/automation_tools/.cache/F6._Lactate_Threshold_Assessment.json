@@ -1,0 +1,66 @@
+{
+  "note_title": "F6. Lactate Threshold Assessment",
+  "cached_at": "2026-05-07T20:54:31.901431",
+  "studies": [
+    {
+      "title": "The Effect of Strength Training on Endurance Performance Determinants in Middle- and Long-Distance Endurance Athletes: An Umbrella Review of Systematic Reviews and Meta-Analysis.",
+      "year": "2025",
+      "doi": "10.1519/JSC.0000000000005056",
+      "pmid": "40153564",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "The Acute and Chronic Effects of Implementing Velocity Loss Thresholds During Resistance Training: A Systematic Review, Meta-Analysis, and Critical Evaluation of the Literature.",
+      "year": "2023",
+      "doi": "10.1007/s40279-022-01754-4",
+      "pmid": "36178597",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Much Ado About Zone 2: A Narrative Review Assessing the Efficacy of Zone 2 Training for Improving Mitochondrial Capacity and Cardiorespiratory Fitness in the General Population.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02261-y",
+      "pmid": "40560504",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Identification of Non-Invasive Exercise Thresholds: Methods, Strategies, and an Online App.",
+      "year": "2022",
+      "doi": "10.1007/s40279-021-01581-z",
+      "pmid": "34694596",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Strength Training Improves Running Economy Durability and Fatigued High-Intensity Performance in Well-Trained Male Runners: A Randomized Control Trial.",
+      "year": "2025",
+      "doi": "10.1249/MSS.0000000000003685",
+      "pmid": "40016936",
+      "journal": "Medicine and science in sports and exercise",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.55
+    }
+  ]
+}

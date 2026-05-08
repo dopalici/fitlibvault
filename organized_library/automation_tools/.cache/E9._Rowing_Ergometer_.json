@@ -1,0 +1,66 @@
+{
+  "note_title": "E9. Rowing (Ergometer)",
+  "cached_at": "2026-05-07T19:36:45.205737",
+  "studies": [
+    {
+      "title": "Effects of Exercise Training on Mitochondrial and Capillary Growth in Human Skeletal Muscle: A Systematic Review and Meta-Regression.",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02120-2",
+      "pmid": "39390310",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Aerobic Exercise Prescription for Pain Reduction in Fibromyalgia: A Systematic Review and Meta-Analysis.",
+      "year": "2025",
+      "doi": "10.1002/ejp.4783",
+      "pmid": "39805734",
+      "journal": "European journal of pain (London, England)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.58
+    },
+    {
+      "title": "Training-intensity Distribution on Middle- and Long-distance Runners: A Systematic Review.",
+      "year": "2022",
+      "doi": "10.1055/a-1559-3623",
+      "pmid": "34749417",
+      "journal": "International journal of sports medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Effect of High-Intensity Interval Training vs. Moderate-Intensity Continuous Training on Fat Loss and Cardiorespiratory Fitness in the Young and Middle-Aged a Systematic Review and Meta-Analysis.",
+      "year": "2023",
+      "doi": "10.3390/ijerph20064741",
+      "pmid": "36981649",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.55
+    },
+    {
+      "title": "A Life Outside.",
+      "year": "2024",
+      "doi": "10.1146/annurev-marine-032223-014227",
+      "pmid": "37669565",
+      "journal": "Annual review of marine science",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    }
+  ]
+}

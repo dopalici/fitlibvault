@@ -1,0 +1,66 @@
+{
+  "note_title": "J2. Evaluating Scientific Research in Fitness",
+  "cached_at": "2026-05-07T21:20:20.194331",
+  "studies": [
+    {
+      "title": "The Relationship Between Running Biomechanics and Running Economy: A Systematic Review and Meta-Analysis of Observational Studies.",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-01997-3",
+      "pmid": "38446400",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Association of intrinsic capacity with functional decline and mortality in older adults: a systematic review and meta-analysis of longitudinal studies.",
+      "year": "2024",
+      "doi": "10.1016/S2666-7568(24)00092-8",
+      "pmid": "38945130",
+      "journal": "The lancet. Healthy longevity",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effect of High-Intensity Interval Training vs. Moderate-Intensity Continuous Training on Fat Loss and Cardiorespiratory Fitness in the Young and Middle-Aged a Systematic Review and Meta-Analysis.",
+      "year": "2023",
+      "doi": "10.3390/ijerph20064741",
+      "pmid": "36981649",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0588,
+      "quality_score": 0.76,
+      "composite_score": 0.5676
+    },
+    {
+      "title": "Effectiveness of wearable activity trackers to increase physical activity and improve health: a systematic review of systematic reviews and meta-analyses.",
+      "year": "2022",
+      "doi": "10.1016/S2589-7500(22)00111-X",
+      "pmid": "35868813",
+      "journal": "The Lancet. Digital health",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Agility training in volleyball.",
+      "year": "2022",
+      "doi": "10.23736/S0022-4707.21.12084-5",
+      "pmid": "33615762",
+      "journal": "The Journal of sports medicine and physical fitness",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    }
+  ]
+}

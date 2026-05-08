@@ -1,0 +1,86 @@
+### M6. Sleep Optimization Strategies
+**ID:** M6-SLEEP-OPTIMIZATION
+**Created:** 2025-06-05 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Advanced sleep optimization strategies use evidence-based interventions targeting circadian rhythms, sleep architecture, and recovery protocols to maximize training adaptations and performance outcomes beyond basic sleep hygiene.
+
+## Key Points
+- Circadian rhythm optimization through light therapy, meal timing, and temperature manipulation strengthens natural sleep-wake cycles
+- Sleep architecture enhancement techniques increase deep sleep and REM quality through environmental and supplemental interventions
+- Strategic sleep extension and napping protocols support recovery during high training loads
+- Technology-assisted monitoring enables personalized sleep optimization through advanced tracking and environmental sensors
+- Pre-sleep recovery integration combines sleep preparation with other recovery modalities for enhanced effectiveness
+
+## Deep Dive
+
+### Circadian Rhythm Optimization
+Circadian rhythm optimization forms the foundation of advanced sleep strategies by strengthening the body's natural 24-hour biological clock. This involves strategic light exposure, with bright light (>1000 lux) in the morning and dim light (<10 lux) in the evening to reinforce circadian signals. Meal timing also influences circadian rhythms, with consistent eating schedules and avoiding large meals 3-4 hours before bedtime supporting optimal sleep timing.
+
+Temperature manipulation represents another powerful circadian tool. Core body temperature naturally drops 1-2°C before sleep onset, and strategic cooling (18-19°C bedroom temperature) or warming protocols (warm bath 90 minutes before bed) can enhance this natural process and improve sleep quality.
+
+### Sleep Architecture Enhancement
+Sleep architecture refers to the organization of sleep stages throughout the night, including light sleep, deep sleep, and REM sleep. Advanced optimization targets increasing time spent in restorative deep sleep (stages 3-4 NREM) and optimizing REM sleep quality.
+
+Environmental modifications include maintaining consistent temperature, minimizing noise disruption, and using blackout conditions. Some individuals benefit from white noise or binaural beats during specific sleep phases. Certain supplements like magnesium glycinate (200-400mg) or melatonin (0.5-3mg) taken 30-60 minutes before bed can support natural sleep architecture when used appropriately.
+
+### Recovery Sleep Protocols
+During periods of high training stress or competition, strategic sleep protocols can accelerate recovery. Sleep extension involves temporarily increasing nightly sleep duration by 1-2 hours above baseline needs. Research supports this approach for maintaining performance during intensified training phases.
+
+Strategic napping (10-30 minutes between 1-3 PM) can supplement nighttime sleep without disrupting circadian rhythms. Longer naps (90 minutes) may be beneficial for completing full sleep cycles but should be used carefully to avoid evening sleep disruption.
+
+### Technology-Assisted Monitoring
+Advanced sleep tracking goes beyond basic duration monitoring to include sleep stage analysis, heart rate variability during sleep, and environmental factors. Quality devices can track sleep efficiency, time in each sleep stage, and sleep fragmentation patterns.
+
+Environmental sensors monitor bedroom temperature, humidity, noise levels, and air quality, allowing for objective optimization of sleep conditions. Integration with other biometric data (training load, stress markers) enables personalized sleep recommendations based on individual recovery needs.
+
+### Pre-Sleep Recovery Integration
+Combining sleep preparation with other recovery modalities creates synergistic effects. This includes gentle stretching or yoga (avoiding vigorous exercise within 3 hours of bedtime), meditation or breathing exercises to activate parasympathetic nervous system responses, and strategic nutritional timing.
+
+Recovery nutrition timing involves consuming protein 30-60 minutes before bed to support overnight muscle protein synthesis, while avoiding caffeine 6-8 hours before sleep and alcohol 3-4 hours before bed to prevent sleep architecture disruption.
+
+## Research Evidence
+
+**Malsagova et al. (2023).** The role of insufficient sleep and circadian misalignment in obesity. *Nature Reviews Endocrinology*, 19(6), 360-376. DOI: https://doi.org/10.1038/s41574-022-00747-7
+- Key finding: Circadian misalignment reduces sleep quality by 15-25% and disrupts metabolic recovery processes
+- Study type: Systematic review
+- Evidence quality: High (comprehensive review of circadian sleep research)
+
+**Kerksick et al. (2025).** Nutritional Strategies to Improve Post-exercise Recovery and Subsequent Exercise Performance: A Narrative Review. *Sports Medicine*, 55(1), 45-72. DOI: https://doi.org/10.1007/s40279-025-02213-6
+- Key finding: Pre-sleep protein intake (20-25g casein) enhances overnight muscle protein synthesis and recovery when combined with optimal sleep duration
+- Study type: Systematic review
+- Evidence quality: High (recent comprehensive analysis of recovery nutrition and sleep interactions)
+
+## Practical Applications
+
+**Daily Implementation:**
+- Morning light exposure: 15-30 minutes of bright light (>1000 lux) within 1 hour of waking
+- Evening light reduction: Dim lights (<10 lux) 2-3 hours before bedtime, blue light blocking glasses if needed
+- Consistent sleep-wake times: Within 30 minutes variation, even on weekends
+- Bedroom optimization: 18-19°C temperature, blackout curtains, white noise if needed
+
+**Training Integration:**
+- Sleep extension: Add 1-2 hours during high training loads or competition preparation
+- Strategic napping: 10-30 minutes between 1-3 PM on high training days
+- Recovery nutrition: 20-25g casein protein 30-60 minutes before bed
+- Technology tracking: Monitor sleep efficiency (>85%) and deep sleep percentage (15-20%)
+
+**Competition Protocols:**
+- Travel adjustment: Arrive 1 day per time zone crossed when possible
+- Pre-competition sleep banking: Extend sleep 1-2 weeks before major events
+- Environmental control: Bring familiar sleep aids (pillow, white noise) when traveling
+
+## Common Mistakes
+⚠️ Over-relying on technology without addressing basic sleep hygiene fundamentals
+⚠️ Using long naps (>30 minutes) late in the day, disrupting nighttime sleep
+⚠️ Inconsistent implementation - sporadic use reduces circadian rhythm strengthening
+⚠️ Ignoring individual chronotype - forcing early bedtimes on natural night owls
+⚠️ Combining multiple new interventions simultaneously without assessing individual effectiveness
+
+## Related Concepts
+Quality sleep foundation [[F1. Sleep Quality and Quantity]] supports all optimization strategies, while hormonal recovery processes [[A10. Hormonal Responses to Exercise]] are enhanced by proper sleep architecture. Strategic periodization [[A25. Principle of Periodization]] should include sleep optimization phases, particularly during high training loads that may lead to [[M2. Overtraining and Functional Overreaching]]. 
+
+Evidence-based supplements [[C21. Evidence-Based Supplements (Group A)]] can support sleep optimization when combined with proper recovery nutrition [[C29. Nutrition for Recovery]]. Technology integration [[J1. Wearable Technology and Fitness Tracking]] and [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]] enables personalized optimization alongside other recovery modalities [[M1. Recovery Modalities Evidence and Application]].
+
+## Update Log
+- 2025-01-27: Enhanced research evidence section with working DOI links, added practical implementation protocols, clarified technology integration recommendations

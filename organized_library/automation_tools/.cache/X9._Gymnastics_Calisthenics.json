@@ -1,0 +1,66 @@
+{
+  "note_title": "X9. Gymnastics / Calisthenics",
+  "cached_at": "2026-05-08T16:11:57.603097",
+  "studies": [
+    {
+      "title": "Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1007/s40279-023-01825-0",
+      "pmid": "36906633",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Virtual reality for stroke rehabilitation.",
+      "year": "2025",
+      "doi": "10.1002/14651858.CD008349.pub5",
+      "pmid": "40537150",
+      "journal": "The Cochrane database of systematic reviews",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.62
+    },
+    {
+      "title": "Examining the Influence of Warm-Up Static and Dynamic Stretching, as well as Post-Activation Potentiation Effects, on the Acute Enhancement of Gymnastic Performance: A Systematic Review with Meta-Analysis.",
+      "year": "2024",
+      "doi": "10.52082/jssm.2024.156",
+      "pmid": "38455430",
+      "journal": "Journal of sports science & medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Meta-analysis of the effect of different exercise modalities in the prevention and treatment of perinatal depression.",
+      "year": "2024",
+      "doi": "10.1016/j.jad.2024.01.076",
+      "pmid": "38228277",
+      "journal": "Journal of affective disorders",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Eating-disorder psychopathology in female athletes and non-athletes: A meta-analysis.",
+      "year": "2022",
+      "doi": "10.1002/eat.23748",
+      "pmid": "35665528",
+      "journal": "The International journal of eating disorders",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.51
+    }
+  ]
+}

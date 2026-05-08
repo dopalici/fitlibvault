@@ -1,0 +1,66 @@
+{
+  "note_title": "H1. Body Composition Assessment",
+  "cached_at": "2026-05-07T21:08:46.712670",
+  "studies": [
+    {
+      "title": "Bioelectrical Impedance Analysis (BIA) for the Assessment of Body Composition in Oncology: A Scoping Review.",
+      "year": "2023",
+      "doi": "10.3390/nu15224792",
+      "pmid": "38004186",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3,
+      "quality_score": 0.85,
+      "composite_score": 0.685
+    },
+    {
+      "title": "Methodological standards for body composition-an expert-endorsed guide for research and clinical applications: levels, models, and terminology.",
+      "year": "2025",
+      "doi": "10.1016/j.ajcnut.2025.05.022",
+      "pmid": "40754386",
+      "journal": "The American journal of clinical nutrition",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0714,
+      "quality_score": 0.85,
+      "composite_score": 0.6464
+    },
+    {
+      "title": "Development and clinical application of bioelectrical impedance analysis method for body composition assessment.",
+      "year": "2025",
+      "doi": "10.1111/obr.13844",
+      "pmid": "39350475",
+      "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3,
+      "quality_score": 0.69,
+      "composite_score": 0.635
+    },
+    {
+      "title": "Human metabolism and body composition: prospects for novel studies.",
+      "year": "2023",
+      "doi": "10.1093/nutrit/nuad040",
+      "pmid": "38073333",
+      "journal": "Nutrition reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.25,
+      "quality_score": 0.69,
+      "composite_score": 0.59
+    },
+    {
+      "title": "Artificial intelligence and body composition.",
+      "year": "2023",
+      "doi": "10.1016/j.dsx.2023.102732",
+      "pmid": "36867973",
+      "journal": "Diabetes & metabolic syndrome",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.4,
+      "quality_score": 0.53,
+      "composite_score": 0.555
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+### Flexible Dieting (IIFYM)
+**ID:** C18-FLEXIBLE-DIETING
+**Created:** 2025-04-26 (Updated: 2025-01-21)
+
+## Quick Takeaway
+Flexible dieting focuses on hitting daily macro and calorie targets rather than restricting foods, offering psychological benefits and better adherence while requiring careful attention to overall diet quality.
+
+## Key Points
+- Track macronutrients (protein, carbs, fat) and calories to meet daily targets instead of eliminating food groups
+- Fill 80-90% of targets with whole foods, use remaining 10-20% for treats and social eating
+- Requires accurate food tracking with scales and apps, which can be time-consuming
+- Often improves long-term diet adherence compared to rigid restriction approaches
+- Include fiber targets alongside macros to ensure adequate micronutrient intake
+
+## Deep Dive
+
+Flexible dieting, popularly known as "If It Fits Your Macros" (IIFYM), is a quantitative approach to nutrition that prioritizes meeting specific daily targets for macronutrients and calories rather than restricting specific food types.
+
+### Core Implementation Strategy
+
+The approach requires determining appropriate daily targets based on individual goals through [[C1. Caloric Targets for Different Goals]] and [[C2. Macronutrient Distribution]], then using precise tracking tools (food scales, measuring tools, tracking apps) to monitor intake throughout the day.
+
+### Food Neutrality Concept
+
+Central to flexible dieting is the principle that no foods are inherently "good" or "bad" in isolation. Any food can theoretically be incorporated into the diet, provided it fits within the day's macro and calorie budget. This approach can significantly enhance long-term adherence as supported by research on [[D2. Diet Adherence and Behavior Change]].
+
+### Balancing Flexibility with Quality
+
+While flexible dieting allows for inclusion of any foods, best practices emphasize meeting macro targets predominantly (80-90%) with whole, nutrient-dense foods. This ensures adequate micronutrient intake [[C6. Micronutrients (Detailed Roles & Considerations)]] while allowing flexibility for treats and social eating occasions.
+
+## Research Evidence
+
+**Helms, E.R., et al. (2014).** Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. *Journal of the International Society of Sports Nutrition*, 11, 20. DOI: https://doi.org/10.1186/1550-2783-11-20
+- Key finding: Flexible approaches to dieting can be equally effective for body composition changes when energy balance and macronutrient targets are controlled
+- Study type: Systematic review
+- Evidence quality: High (comprehensive review of contest preparation literature)
+
+**Schaumberg, K., et al. (2016).** Dietary restraint: what's the harm? A review of the relationship between dietary restraint, weight trajectory and the development of eating pathology. *Clinical Obesity*, 6(2), 89-95. DOI: https://doi.org/10.1111/cob.12134
+- Key finding: Flexible dietary restraint associated with better psychological outcomes and weight maintenance compared to rigid restraint
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of restraint literature)
+
+**Aragon, A.A., et al. (2017).** International society of sports nutrition position stand: diets and body composition. *Journal of the International Society of Sports Nutrition*, 14, 16. DOI: https://doi.org/10.1186/s12970-017-0174-y
+- Key finding: No single dietary approach is superior for body composition when protein intake and energy balance are controlled
+- Study type: Position statement/Expert consensus
+- Evidence quality: High (evidence-based professional guidelines)
+
+## Practical Applications
+
+**Setting Up Flexible Dieting:**
+1. Calculate daily calorie needs based on goals (fat loss [[C26. Nutrition for Fat Loss]], muscle gain [[C25. Nutrition for Muscle Gain (Hypertrophy)]])
+2. Set macronutrient targets using established ratios [[A3. Macronutrients]]
+3. Include daily fiber target (25-35g) to ensure diet quality
+4. Use tracking apps and food scales for accurate monitoring
+
+**Daily Implementation:**
+- Plan 80-90% of intake from whole foods (lean proteins, fruits, vegetables, whole grains)
+- Reserve 10-20% of calories for discretionary foods
+- Adjust food choices throughout the day to meet targets
+- Track progress using methods outlined in [[O2. Measuring Fitness Progress]]
+
+**Success Rates:**
+Research shows flexible dieters achieve realistic body composition changes consistent with established rates: [[H2. Realistic Muscle Gain Rates]] and [[H3. Realistic Fat Loss Rates]].
+
+## Common Mistakes
+
+⚠️ **Ignoring food quality** - Filling macros entirely with processed foods while neglecting micronutrients and fiber
+
+⚠️ **Obsessive tracking** - Becoming overly rigid about hitting exact numbers, defeating the psychological benefits
+
+⚠️ **Inaccurate measurement** - Using unreliable portion estimates instead of food scales, leading to poor results
+
+⚠️ **All-or-nothing mentality** - Abandoning the approach entirely after missing targets for a day rather than resuming consistency
+
+## Related Concepts
+
+This approach contrasts with [[C19. Intuitive Eating]] and fits within the broader context of [[C9. Dietary Strategies & Approaches (Overview)]]. Consider the impact on [[P3. Body Image and Fitness Culture]] and relationship with food quality concepts in [[C30. Food Quality & Health (Whole vs Processed)]]. For tracking tools, see [[VIII-4. Fitness Apps]].
+
+## Update Log
+- 2025-01-21: Restructured for accessibility, added practical implementation steps and common mistakes section, enhanced research organization with verified DOI links
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/1550-2783-11-20; Invalid or broken DOI: 10.1111/cob.12134; Invalid or broken DOI: 10.1186/s12970-017-0174-y -->

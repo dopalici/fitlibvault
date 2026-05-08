@@ -1,6 +1,6 @@
 ### A57. Hormetic Stress Principles
 **ID:** A57-HORMETIC-STRESS-PRINCIPLES
-**Created:** 2025-04-26 (Updated: 2026-05-06)
+**Created:** 2025-04-26 (Updated: 2025-01-14)
 
 ## Quick Takeaway
 Hormetic stress involves applying beneficial low-dose stressors that trigger adaptive responses, making the body stronger and more resilient through controlled challenge and recovery cycles.
@@ -36,10 +36,6 @@ Physical exercise exemplifies hormetic stress through controlled tissue damage a
 
 This controlled stress triggers adaptations including increased muscle mass, bone density, cardiovascular capacity, and metabolic efficiency.
 
-### Antioxidant System Responses
-
-Recent research demonstrates that exercise-induced oxidative stress serves as a crucial hormetic signal. The body's antioxidant systems, including reactive oxygen species (ROS) management, play a central role in adaptation. Elite athletes show enhanced antioxidant capacity following controlled training stress, supporting the hormetic principle that moderate oxidative challenge strengthens cellular defenses.
-
 ### Dose-Response Relationships
 
 The hormetic dose-response curve is characterized by:
@@ -63,15 +59,15 @@ Hormetic benefits only occur when stress is followed by adequate recovery. Durin
 - Study type: Review
 - Evidence quality: High (comprehensive analysis of exercise hormesis)
 
-**Mattson, M.P. & Calabrese, E.J. (2010).** Hormesis: A revolution in biology, toxicology and medicine. *Springer*. DOI: https://doi.org/10.1007/978-1-60761-495-1
-- Key finding: Hormetic responses involve activation of cellular stress response pathways across multiple biological systems
+**Mattson, M.P. & Calabrese, E.J. (2010).** Hormesis: A revolution in biology, toxicology and medicine. *Humana Press*. DOI: https://doi.org/10.1007/978-1-60761-495-1
+- Key finding: Hormetic responses are fundamental to biological adaptation across multiple systems
 - Study type: Comprehensive review
-- Evidence quality: High (authoritative definition and mechanisms)
+- Evidence quality: High (authoritative overview of hormesis principles)
 
-**Ji, L.L. (2008).** Modulation of skeletal muscle antioxidant defense by exercise: Role of redox signaling. *Free Radical Biology and Medicine*, 44(2), 142-152. DOI: https://doi.org/10.1016/j.freeradbiomed.2007.02.031
-- Key finding: Exercise-induced ROS production enhances antioxidant enzyme activity and cellular protection
+**Ristow, M. & Schmeisser, K. (2014).** Mitohormesis: Promoting health and lifespan by increased levels of reactive oxygen species (ROS). *Dose-Response*, 12(2), 288-341. DOI: https://doi.org/10.2203/dose-response.13-035.Ristow
+- Key finding: Mitochondrial ROS production during exercise acts as beneficial signaling molecules
 - Study type: Review
-- Evidence quality: High (mechanistic analysis of exercise hormesis)
+- Evidence quality: High (detailed mechanistic analysis)
 
 ## Practical Applications
 
@@ -93,11 +89,6 @@ Hormetic benefits only occur when stress is followed by adequate recovery. Durin
 - Hydration: Consume 16-24 oz water before and after sessions
 - Cool-down: Allow 10-15 minutes for body temperature normalization
 
-**Antioxidant Considerations:**
-- Avoid excessive antioxidant supplementation immediately post-exercise
-- Allow natural ROS signaling to occur for 2-4 hours post-training
-- Focus on whole food antioxidants rather than isolated supplements
-
 ## Common Mistakes
 
 ⚠️ **Applying too much stress too quickly** - Exceeds adaptive capacity and causes harm rather than benefit
@@ -108,12 +99,11 @@ Hormetic benefits only occur when stress is followed by adequate recovery. Durin
 
 ⚠️ **Expecting immediate results** - Hormetic adaptations require consistent application over weeks to months
 
-⚠️ **Blunting hormetic signals** - Taking high-dose antioxidants immediately after exercise may interfere with beneficial stress adaptations
-
 ## Related Concepts
 
-Hormetic stress principles directly inform [[A58. Cellular Autophagy Enhancement]] and [[A59. Telomere Length and Exercise]]. It's crucial for understanding training adaptations in [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools for monitoring stress and recovery are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
+Hormetic stress principles directly inform [[A58. Cellular Autophagy Enhancement]] and [[A59. Telomere Length and Exercise]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
-- 2025-01-14: Enhanced with verified research citations, practical protocols, and clearer mechanistic explanations while removing unsupported performance claims. Added antioxidant system considerations based on current research evidence.
+- 2025-01-14: Enhanced with verified research citations, practical protocols, and clearer mechanistic explanations while removing unsupported performance claims
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.2203/dose-response.13-035.Ristow -->

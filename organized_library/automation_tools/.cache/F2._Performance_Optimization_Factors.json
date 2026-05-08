@@ -1,0 +1,66 @@
+{
+  "note_title": "F2. Performance Optimization Factors",
+  "cached_at": "2026-05-07T20:43:45.093011",
+  "studies": [
+    {
+      "title": "Evidence-Based Hamstring Injury Prevention and Risk Factor Management: A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+      "year": "2023",
+      "doi": "10.1177/03635465221083998",
+      "pmid": "35384731",
+      "journal": "The American journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Persistent acute kidney injury biomarkers: A systematic review and meta-analysis.",
+      "year": "2025",
+      "doi": "10.1016/j.cca.2024.119907",
+      "pmid": "39127297",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.58
+    },
+    {
+      "title": "Systematic review and meta-analysis of predictive factors for spontaneous regression in lumbar disc herniation.",
+      "year": "2023",
+      "doi": "10.3171/2023.6.SPINE23367",
+      "pmid": "37486886",
+      "journal": "Journal of neurosurgery. Spine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0833,
+      "quality_score": 0.76,
+      "composite_score": 0.575
+    },
+    {
+      "title": "Optimizing the Time and Dose of Melatonin as a Sleep-Promoting Drug: A Systematic Review of Randomized Controlled Trials and Dose-Response Meta-Analysis.",
+      "year": "2024",
+      "doi": "10.1111/jpi.12985",
+      "pmid": "38888087",
+      "journal": "Journal of pineal research",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Stereotactic Body Radiation therapy for Liver Metastases: Systematic Review and Meta-Analysis With International Stereotactic Radiosurgery Society (ISRS) Practice Guidelines.",
+      "year": "2025",
+      "doi": "10.1016/j.prro.2024.09.011",
+      "pmid": "39419281",
+      "journal": "Practical radiation oncology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.54
+    }
+  ]
+}

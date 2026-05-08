@@ -1,0 +1,66 @@
+{
+  "note_title": "E10. Cross-Training for Endurance Athletes",
+  "cached_at": "2026-05-07T19:31:30.046768",
+  "studies": [
+    {
+      "title": "The Effect of Strength Training on Endurance Performance Determinants in Middle- and Long-Distance Endurance Athletes: An Umbrella Review of Systematic Reviews and Meta-Analysis.",
+      "year": "2025",
+      "doi": "10.1519/JSC.0000000000005056",
+      "pmid": "40153564",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1333,
+      "quality_score": 1.0,
+      "composite_score": 0.74
+    },
+    {
+      "title": "Why low-intensity endurance training for athletes?",
+      "year": "2025",
+      "doi": "10.1007/s00421-025-05843-w",
+      "pmid": "40576827",
+      "journal": "European journal of applied physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3333,
+      "quality_score": 0.85,
+      "composite_score": 0.725
+    },
+    {
+      "title": "Low Energy Availability and Relative Energy Deficiency in Sport: A Systematic Review and Meta-analysis.",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02130-0",
+      "pmid": "39485653",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Effects of Exercise Training on Mitochondrial and Capillary Growth in Human Skeletal Muscle: A Systematic Review and Meta-Regression.",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02120-2",
+      "pmid": "39390310",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Effects of Creatine Monohydrate on Endurance Performance in a Trained Population: A Systematic Review and Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1007/s40279-023-01823-2",
+      "pmid": "36877404",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0769,
+      "quality_score": 1.0,
+      "composite_score": 0.6931
+    }
+  ]
+}

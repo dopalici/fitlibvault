@@ -1,0 +1,66 @@
+{
+  "note_title": "X19. Track and Field Training",
+  "cached_at": "2026-05-08T15:45:06.437441",
+  "studies": [
+    {
+      "title": "Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1007/s40279-023-01825-0",
+      "pmid": "36906633",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Olympic Weightlifting Training for Sprint Performance in Athletes: A Systematic Review with Meta-analysis.",
+      "year": "2024",
+      "doi": "10.1055/a-2161-4867",
+      "pmid": "37640059",
+      "journal": "International journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effects of physical activity and exercise-based interventions in young adults with autism spectrum disorder: A systematic review.",
+      "year": "2024",
+      "doi": "10.1177/13623613231169058",
+      "pmid": "37128159",
+      "journal": "Autism : the international journal of research and practice",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "The importance of extrinsic and intrinsic compensatory mechanisms to body posture of competitive athletes a systematic review and meta-analysis.",
+      "year": "2022",
+      "doi": "10.1038/s41598-022-12979-8",
+      "pmid": "35614193",
+      "journal": "Scientific reports",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.47
+    },
+    {
+      "title": "Tabata training in perspective.",
+      "year": "2025",
+      "doi": "10.1139/apnm-2023-0506",
+      "pmid": "39700481",
+      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.465
+    }
+  ]
+}

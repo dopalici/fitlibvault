@@ -1,0 +1,66 @@
+{
+  "note_title": "Remote Testing Protocols",
+  "cached_at": "2026-05-07T20:52:08.479329",
+  "studies": [
+    {
+      "title": "De-escalation to ticagrelor monotherapy versus 12 months of dual antiplatelet therapy in patients with and without acute coronary syndromes: a systematic review and individual patient-level meta-analysis of randomised trials.",
+      "year": "2024",
+      "doi": "10.1016/S0140-6736(24)01616-7",
+      "pmid": "39226909",
+      "journal": "Lancet (London, England)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Assessment of Aerobic Fitness and Repeated Sprint Ability in Elite Male Soccer: A Systematic Review of Test Protocols Used in Practice and Research.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02188-4",
+      "pmid": "40220211",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0556,
+      "quality_score": 0.85,
+      "composite_score": 0.6417
+    },
+    {
+      "title": "Power profiling and the power-duration relationship in cycling: a narrative review.",
+      "year": "2022",
+      "doi": "10.1007/s00421-021-04833-y",
+      "pmid": "34708276",
+      "journal": "European journal of applied physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Telemedicine and remote monitoring in neuromuscular diseases: Challenges and opportunities.",
+      "year": "2026",
+      "doi": "10.1177/22143602251330436",
+      "pmid": "40560121",
+      "journal": "Journal of neuromuscular diseases",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.61,
+      "composite_score": 0.5383
+    },
+    {
+      "title": "Artificial Intelligence in Point-of-Care Testing.",
+      "year": "2023",
+      "doi": "10.3343/alm.2023.43.5.401",
+      "pmid": "37080740",
+      "journal": "Annals of laboratory medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 0.53,
+      "composite_score": 0.485
+    }
+  ]
+}

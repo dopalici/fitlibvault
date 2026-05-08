@@ -1,0 +1,66 @@
+{
+  "note_title": "Cost-Effective Testing Solutions",
+  "cached_at": "2026-05-07T20:51:33.266159",
+  "studies": [
+    {
+      "title": "Blood phosphorylated tau for the diagnosis of Alzheimer's disease: a systematic review and meta-analysis.",
+      "year": "2025",
+      "doi": "10.1016/S1474-4422(25)00227-3",
+      "pmid": "40818474",
+      "journal": "The Lancet. Neurology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Assessment of Aerobic Fitness and Repeated Sprint Ability in Elite Male Soccer: A Systematic Review of Test Protocols Used in Practice and Research.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02188-4",
+      "pmid": "40220211",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Power profiling and the power-duration relationship in cycling: a narrative review.",
+      "year": "2022",
+      "doi": "10.1007/s00421-021-04833-y",
+      "pmid": "34708276",
+      "journal": "European journal of applied physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Cost-Effective Fiber Optic Solutions for Biosensing.",
+      "year": "2022",
+      "doi": "10.3390/bios12080575",
+      "pmid": "36004971",
+      "journal": "Biosensors",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3333,
+      "quality_score": 0.53,
+      "composite_score": 0.495
+    },
+    {
+      "title": "Animal Models of Rotator Cuff Injury and Repair: A Systematic Review.",
+      "year": "2022",
+      "doi": "10.1089/ten.TEB.2022.0034",
+      "pmid": "35972750",
+      "journal": "Tissue engineering. Part B, Reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.475
+    }
+  ]
+}

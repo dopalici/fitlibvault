@@ -1,0 +1,66 @@
+{
+  "note_title": "G-VII-2. Kinesiology: Movement Analysis",
+  "cached_at": "2026-05-07T20:57:51.389185",
+  "studies": [
+    {
+      "title": "Resistance training in pregnancy: systematic review and meta-analysis of pregnancy, delivery, fetal and pelvic floor outcomes and call to action.",
+      "year": "2025",
+      "doi": "10.1136/bjsports-2024-109123",
+      "pmid": "40610191",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Resistance training prescription for muscle strength and hypertrophy in healthy adults: a systematic review and Bayesian network meta-analysis.",
+      "year": "2023",
+      "doi": "10.1136/bjsports-2023-106807",
+      "pmid": "37414459",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "The Effects of Creatine Supplementation Combined with Resistance Training on Regional Measures of Muscle Hypertrophy: A Systematic Review with Meta-Analysis.",
+      "year": "2023",
+      "doi": "10.3390/nu15092116",
+      "pmid": "37432300",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Physical Activity Interventions to Alleviate Depressive Symptoms in Children and Adolescents: A Systematic Review and Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1001/jamapediatrics.2022.5090",
+      "pmid": "36595284",
+      "journal": "JAMA pediatrics",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effects of Creatine Supplementation and Resistance Training on Muscle Strength Gains in Adults <50 Years of Age: A Systematic Review and Meta-Analysis.",
+      "year": "2024",
+      "doi": "10.3390/nu16213665",
+      "pmid": "39519498",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    }
+  ]
+}

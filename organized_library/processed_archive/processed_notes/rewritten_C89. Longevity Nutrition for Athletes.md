@@ -29,9 +29,6 @@ Chronic inflammation is a key driver of aging and disease. Long-term implementat
 ### Age-Appropriate Adaptations
 Nutritional needs evolve throughout an athletic career. Integration of [[C66. Masters Athlete Nutrition (45+ years)]] principles with [[N2. Training for Longevity (Healthspan & Lifespan)]] ensures that nutrition strategies adapt to changing physiological needs while maintaining competitive capabilities.
 
-### Sleep and Recovery Integration
-Quality sleep is fundamental to longevity and performance. Energy availability significantly impacts sleep quality in athletes, with adequate energy intake supporting both recovery and long-term health outcomes. This connection between nutrition, sleep, and longevity requires careful monitoring throughout an athlete's career.
-
 ## Research Evidence
 
 **Fontana, L., & Partridge, L. (2015).** Promoting health and longevity through diet: from model organisms to humans. *Cell*, 161(1), 106-118. DOI: https://doi.org/10.1016/j.cell.2015.02.020
@@ -56,14 +53,12 @@ Quality sleep is fundamental to longevity and performance. Energy availability s
 - Include omega-3 rich fish 2-3 times per week or supplement with 1-2g EPA/DHA daily
 - Incorporate fermented foods daily for gut microbiome support
 - Time carbohydrate intake around training for metabolic flexibility
-- Maintain adequate energy availability to support sleep quality and recovery
 
 **Periodization Strategy:**
 - Implement 12-16 hour intermittent fasting windows during off-season
 - Use anti-inflammatory foods during high-training periods
 - Adjust protein intake based on training phase and age (1.6-2.2g/kg bodyweight)
 - Include polyphenol-rich foods like berries, green tea, and dark chocolate regularly
-- Monitor energy availability closely, especially in female athletes
 
 **Career Phase Adaptations:**
 - Young athletes: Focus on establishing healthy eating patterns and metabolic flexibility
@@ -74,14 +69,13 @@ Quality sleep is fundamental to longevity and performance. Energy availability s
 
 ⚠️ Focusing solely on performance metrics while ignoring long-term health indicators
 ⚠️ Neglecting sleep quality and recovery nutrition in favor of training-focused nutrition
-⚠️ Over-restricting calories or nutrients in pursuit of longevity benefits, potentially compromising energy availability
+⚠️ Over-restricting calories or nutrients in pursuit of longevity benefits
 ⚠️ Ignoring individual genetic variations and biomarker responses to dietary interventions
 ⚠️ Failing to adapt nutrition strategies as physiological needs change with age
-⚠️ Underestimating the impact of energy availability on sleep quality and long-term health
 
 ## Related Concepts
 
 Understanding metabolic health through [[C8. Metabolic Adaptation (Adaptive Thermogenesis)]] and implementing [[C30. Food Quality & Health (Whole vs Processed)]] forms the foundation. Supporting gut health with [[C32. Gut Health and Microbiome]] optimization and [[C33. Anti-Inflammatory FoodsDiets]] reduces systemic inflammation. Cellular protection through [[C34. Antioxidants]] and brain health via [[C61. Cognitive Nutrition for Athletes]] are essential components. [[C62. Metabolic Flexibility Training]] and [[C66. Masters Athlete Nutrition (45+ years)]] provide age-specific strategies. Integration with [[N1. Fitness Across the Lifespan]] and [[N2. Training for Longevity (Healthspan & Lifespan)]] ensures comprehensive approach. Supporting systems include [[A38. Immune System Adaptations to Training]] and [[F1. Sleep Quality and Quantity]].
 
 ## Update Log
-- 2025-01-27: Enhanced structure with practical applications, research evidence with working links, comprehensive implementation strategies, and added emphasis on energy availability and sleep quality connections
+- 2025-01-27: Enhanced structure with practical applications, research evidence with working links, and comprehensive implementation strategies

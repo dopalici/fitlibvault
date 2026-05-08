@@ -1,0 +1,66 @@
+{
+  "note_title": "IX9. Load Management in Rehabilitation",
+  "cached_at": "2026-05-07T21:18:47.842812",
+  "studies": [
+    {
+      "title": "From Tissue to System: What Constitutes an Appropriate Response to Loading?",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02126-w",
+      "pmid": "39527327",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Nutritional Supplements for Muscle Hypertrophy: Mechanisms and Morphology-Focused Evidence.",
+      "year": "2025",
+      "doi": "10.3390/nu17223603",
+      "pmid": "41305653",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Blood Flow Restricted Exercise and Discomfort: A Review.",
+      "year": "2022",
+      "doi": "10.1519/JSC.0000000000003525",
+      "pmid": "32058360",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Current Clinical Concepts: Exercise and Load Management of Adductor Strains, Adductor Ruptures, and Long-Standing Adductor-Related Groin Pain.",
+      "year": "2023",
+      "doi": "10.4085/1062-6050-0496.21",
+      "pmid": "35834724",
+      "journal": "Journal of athletic training",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.61,
+      "composite_score": 0.5179
+    },
+    {
+      "title": "Management of Patellar Tendinopathy Through Monitoring, Load Control, and Therapeutic Exercise: A Systematic Review.",
+      "year": "2022",
+      "doi": "10.1123/jsr.2021-0117",
+      "pmid": "34942594",
+      "journal": "Journal of sport rehabilitation",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 0.61,
+      "composite_score": 0.485
+    }
+  ]
+}

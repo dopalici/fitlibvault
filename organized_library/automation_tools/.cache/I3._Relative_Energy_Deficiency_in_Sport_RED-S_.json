@@ -1,0 +1,66 @@
+{
+  "note_title": "I3. Relative Energy Deficiency in Sport (RED-S)",
+  "cached_at": "2026-05-07T21:11:06.056573",
+  "studies": [
+    {
+      "title": "Low Energy Availability and Relative Energy Deficiency in Sport: A Systematic Review and Meta-analysis.",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02130-0",
+      "pmid": "39485653",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.4,
+      "quality_score": 1.0,
+      "composite_score": 0.82
+    },
+    {
+      "title": "Relative Energy Deficiency in Sport (RED-S) in Adolescents - A Practical Review.",
+      "year": "2023",
+      "doi": "10.1055/a-1947-3174",
+      "pmid": "36122585",
+      "journal": "International journal of sports medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.625,
+      "quality_score": 0.85,
+      "composite_score": 0.7825
+    },
+    {
+      "title": "Does Relative Energy Deficiency in Sport (REDs) Syndrome Exist?",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-02108-y",
+      "pmid": "39287777",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.4444,
+      "quality_score": 0.85,
+      "composite_score": 0.7283
+    },
+    {
+      "title": "Female Athlete Triad and Relative Energy Deficiency in Sport (REDs): Nutritional Management.",
+      "year": "2024",
+      "doi": "10.3390/nu16030359",
+      "pmid": "38337644",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3636,
+      "quality_score": 0.85,
+      "composite_score": 0.7041
+    },
+    {
+      "title": "Considerations of Low Carbohydrate Availability (LCA) to Relative Energy Deficiency in Sport (RED-S) in Female Endurance Athletes: A Narrative Review.",
+      "year": "2023",
+      "doi": "10.3390/nu15204457",
+      "pmid": "37892531",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3333,
+      "quality_score": 0.85,
+      "composite_score": 0.695
+    }
+  ]
+}

@@ -55,6 +55,22 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ nodes, links, on
     const inkMuted = styles.getPropertyValue('--ink-muted').trim() || '#A0A4AC';
     const inkStrong = styles.getPropertyValue('--ink-strong').trim() || '#FFFFFF';
     const paper = styles.getPropertyValue('--paper').trim() || '#0F1115';
+    const accent = styles.getPropertyValue('--accent').trim() || '#7DB7FF';
+
+    // Neighbour map for the hover-focus effect — Quartz dims everything that
+    // isn't the hovered node or one of its first-degree neighbours.
+    const neighbours = new Map<string, Set<string>>();
+    nodes.forEach((n) => neighbours.set(n.id, new Set([n.id])));
+    links.forEach((l: any) => {
+      const sId = typeof l.source === 'object' ? l.source.id : l.source;
+      const tId = typeof l.target === 'object' ? l.target.id : l.target;
+      neighbours.get(sId)?.add(tId);
+      neighbours.get(tId)?.add(sId);
+    });
+
+    const radius = (d: GraphNode) => 4 + d.credibilityScore * 12;
+    const DIM_OPACITY = 0.15;
+    const FADE_MS = 200;
 
     const link = g.append('g')
       .attr('stroke', inkFaint)
@@ -75,26 +91,65 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ nodes, links, on
         .on('drag', dragged)
         .on('end', dragended));
 
-    node.append('circle')
-      .attr('r', d => 4 + (d.credibilityScore * 12))
+    const circle = node.append('circle')
+      .attr('r', radius)
       .attr('fill', d => SERIES_COLORS[d.series] || SERIES_COLORS.Other)
       .attr('stroke', paper)
       .attr('stroke-width', 1.5);
 
     node.append('title').text(d => d.title);
 
-    node.append('text')
+    // Labels stay hidden in idle state; the hover focus reveals just the
+    // hovered node + its neighbours, mirroring Quartz's calm-default look.
+    const label = node.append('text')
       .attr('dy', '.35em')
-      .attr('x', d => 8 + (d.credibilityScore * 12))
+      .attr('x', d => 8 + radius(d))
       .text(d => d.title)
       .style('font-size', '10px')
       .style('font-family', 'var(--font-sans), sans-serif')
       .style('fill', inkMuted)
       .style('pointer-events', 'none')
-      .style('opacity', 0)
-      .transition()
-      .duration(500)
-      .style('opacity', 0.85);
+      .style('opacity', 0);
+
+    node
+      .on('mouseenter', (_event, d) => focus(d.id))
+      .on('mouseleave', () => focus(null));
+
+    function focus(activeId: string | null) {
+      const active = activeId ? neighbours.get(activeId) : null;
+
+      node.transition('focus').duration(FADE_MS).ease(d3.easeCubicOut)
+        .style('opacity', (n: any) => (active && !active.has(n.id) ? DIM_OPACITY : 1));
+
+      circle.transition('focus').duration(FADE_MS).ease(d3.easeCubicOut)
+        .attr('r', (n: any) => (n.id === activeId ? radius(n) + 2 : radius(n)))
+        .attr('fill', (n: any) =>
+          n.id === activeId ? paper : (SERIES_COLORS[n.series] || SERIES_COLORS.Other)
+        )
+        .attr('stroke', (n: any) =>
+          n.id === activeId ? accent : paper
+        )
+        .attr('stroke-width', (n: any) => (n.id === activeId ? 2 : 1.5));
+
+      label.transition('focus').duration(FADE_MS).ease(d3.easeCubicOut)
+        .style('opacity', (n: any) => (active && active.has(n.id) ? 0.9 : 0))
+        .style('fill', (n: any) => (n.id === activeId ? inkStrong : inkMuted));
+
+      link.transition('focus').duration(FADE_MS).ease(d3.easeCubicOut)
+        .attr('stroke-opacity', (l: any) => {
+          if (!active) return 0.45;
+          const sId = typeof l.source === 'object' ? l.source.id : l.source;
+          const tId = typeof l.target === 'object' ? l.target.id : l.target;
+          const touches = sId === activeId || tId === activeId;
+          return touches ? 0.9 : DIM_OPACITY * 0.4;
+        })
+        .attr('stroke', (l: any) => {
+          if (!active) return inkFaint;
+          const sId = typeof l.source === 'object' ? l.source.id : l.source;
+          const tId = typeof l.target === 'object' ? l.target.id : l.target;
+          return sId === activeId || tId === activeId ? accent : inkFaint;
+        });
+    }
 
     simulation.on('tick', () => {
       link

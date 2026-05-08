@@ -1,0 +1,42 @@
+{
+  "note_title": "VIII-5. Apparel & Footwear",
+  "cached_at": "2026-05-07T21:57:40.041430",
+  "studies": [
+    {
+      "title": "The dawn of a new air pollutant: inhalable microplastics as emerging vectors of hazardous contaminants and their implications for human health.",
+      "year": "2025",
+      "doi": "10.1016/j.envint.2025.109897",
+      "pmid": "41202458",
+      "journal": "Environment international",
+      "study_type": "Observational",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.16,
+      "composite_score": 0.28
+    },
+    {
+      "title": "Effects of Footwear Selection on Plantar Pressure and Neuromuscular Characteristics during Jump Rope Training.",
+      "year": "2023",
+      "doi": "10.3390/ijerph20031731",
+      "pmid": "36767100",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Observational",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0833,
+      "quality_score": 0.16,
+      "composite_score": 0.275
+    },
+    {
+      "title": "Trail running events contribute microplastic pollution to conservation and wilderness areas.",
+      "year": "2023",
+      "doi": "10.1016/j.jenvman.2023.117304",
+      "pmid": "36657197",
+      "journal": "Journal of environmental management",
+      "study_type": "Observational",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.16,
+      "composite_score": 0.25
+    }
+  ]
+}

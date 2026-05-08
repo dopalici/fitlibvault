@@ -1,107 +1,97 @@
 ### B56. 5-3-1 Methodology
 **ID:** B56--5-3-1-METHODOLOGY
-**Created:** 2025-06-05 (Updated: 2025-06-05)
+**Created:** 2025-06-05 (Updated: 2025-01-27)
 
 ## Quick Takeaway
-
-B56. 5-3-1 Methodology represents a specialized training methodology with specific physiological mechanisms and evidence-based applications for enhancing athletic performance and training adaptations.
+The 5-3-1 methodology is a percentage-based strength training system that uses submaximal loads with specific rep ranges to build strength while maintaining training quality and reducing injury risk.
 
 ## Key Points
-
-- B56. 5-3-1 Methodology utilizes specific physiological pathways to create targeted adaptations
-- Implementation requires systematic progression and careful monitoring of key variables
-- Individual response varies based on genetic, training, and environmental factors
-- Integration with existing training programs requires periodization considerations
-- Research supports specific protocols with documented outcomes and safety parameters
+- Uses percentage-based loading with three main working sets per exercise
+- Built around compound movements (squat, bench press, deadlift, overhead press)
+- Emphasizes submaximal training (85-95% of training max) to maintain movement quality
+- Incorporates autoregulation through AMRAP (as many reps as possible) sets
+- Designed for long-term strength development with built-in progression
 
 ## Deep Dive
 
-### Mechanisms of Action
+### Core Methodology Structure
 
-B56. 5-3-1 Methodology operates through specific physiological pathways that enhance training adaptations and performance outcomes. The methodology targets key systems including neuromuscular coordination, metabolic efficiency, and tissue adaptation processes.
+The 5-3-1 system operates on a four-week cycle with three main working sets per session:
+- Week 1: 65%, 75%, 85% for 5, 5, 5+ reps
+- Week 2: 70%, 80%, 90% for 3, 3, 3+ reps  
+- Week 3: 75%, 85%, 95% for 5, 3, 1+ reps
+- Week 4: Deload at 40%, 50%, 60% for 5, 5, 5 reps
 
-### Implementation Protocols
+### Training Max Concept
 
-Effective application requires systematic progression and careful monitoring of training variables. Protocol design should consider individual fitness levels, training history, and specific performance goals.
+The system uses a "training max" set at 90% of actual one-rep max rather than true maximum. This approach ensures:
+- Consistent movement quality under load
+- Reduced neurological fatigue
+- Sustainable long-term progression
+- Lower injury risk compared to maximal loading
 
-### Physiological Adaptations
+### Autoregulation Through AMRAP Sets
 
-The training stimulus promotes adaptations in multiple systems, with primary benefits including enhanced strength, power, endurance, or skill-specific improvements depending on the protocol's focus.
+The final set of each session uses a "+" notation, indicating athletes should perform additional reps beyond the minimum. This provides:
+- Individual adaptation based on daily readiness
+- Progressive overload through volume increases
+- Feedback mechanism for program adjustment
+- Motivation through performance tracking
 
-### Integration Strategies
+### Accessory Work Integration
 
-Successful implementation requires thoughtful integration with existing training programs, considering factors such as training phase, competition schedule, and recovery requirements.
+The methodology incorporates supplemental exercises following the main lifts:
+- Boring But Big (BBB): High-volume work at 50-60% training max
+- First Set Last (FSL): Repeat first working set for additional volume
+- Joker Sets: Optional heavy singles above programmed percentages
 
 ## Research Evidence
 
-**Smith, J.A., et al. (2023).** Effects of b56. 5-3-1 methodology on athletic performance: A systematic review. *Journal of Strength and Conditioning Research*, 37(4), 1234-1245. DOI: https://doi.org/10.1519/JSC.0000000000004567
+**Helms, E.R., et al. (2018).** RPE vs. Percentage 1RM Loading in Periodized Programs Matched for Sets and Repetitions. *Frontiers in Physiology*, 9, 247. DOI: https://doi.org/10.3389/fphys.2018.00247
+- Key finding: Percentage-based and RPE-based loading produced similar strength gains when volume was matched
+- Study type: Randomized controlled trial
+- Evidence quality: High (well-controlled design with experienced lifters)
 
-**Johnson, M.B., et al. (2022).** Physiological adaptations to b56. 5-3-1 methodology: Meta-analysis of controlled trials. *Sports Medicine*, 52(8), 1891-1907. DOI: https://doi.org/10.1007/s40279-022-01698-1
+**Zourdos, M.C., et al. (2016).** Novel Resistance Training-Specific Rating of Perceived Exertion Scale Measuring Repetitions in Reserve. *Journal of Strength and Conditioning Research*, 30(1), 267-275. DOI: https://doi.org/10.1519/JSC.0000000000001049
+- Key finding: Submaximal loading with repetitions in reserve effectively drives strength adaptations
+- Study type: Validation study
+- Evidence quality: High (established measurement validity for autoregulated training)
 
-**Williams, K.C., et al. (2023).** Individual variability in response to b56. 5-3-1 methodology: Genetic and physiological factors. *International Journal of Sports Physiology and Performance*, 18(6), 612-625. DOI: https://doi.org/10.1123/ijspp.2022-0485
-
-**Brown, D.L., et al. (2022).** Implementation strategies for b56. 5-3-1 methodology in competitive athletics. *Medicine & Science in Sports & Exercise*, 54(9), 1456-1468. DOI: https://doi.org/10.1249/MSS.0000000000002891
-
-**Davis, R.E., et al. (2023).** Safety considerations and monitoring protocols for b56. 5-3-1 methodology. *British Journal of Sports Medicine*, 57(12), 734-742. DOI: https://doi.org/10.1136/bjsports-2022-106543
+**Izquierdo, M., et al. (2006).** Differential effects of strength training leading to failure versus not to failure on hormonal responses, strength, and muscle power gains. *Journal of Applied Physiology*, 100(5), 1647-1656. DOI: https://doi.org/10.1152/japplphysiol.01400.2005
+- Key finding: Training not to failure produced similar strength gains with better recovery markers
+- Study type: Randomized controlled trial
+- Evidence quality: High (direct comparison of training to failure vs. submaximal approaches)
 
 ## Practical Applications
 
-### Implementation Guidelines
+### Program Setup
+1. **Establish Training Max**: Set at 90% of current 1RM
+2. **Calculate Percentages**: Use training max for all percentage calculations
+3. **Track Performance**: Record reps achieved on AMRAP sets
+4. **Progress Monthly**: Increase training max by 5-10 pounds after each cycle
 
-**Beginner Protocol:**
-- Initial exposure with reduced intensity and duration
-- Focus on adaptation monitoring and safety parameters
-- Progressive increase based on individual response
-- Integration with basic training program structure
+### Weekly Structure Example
+- **Day 1**: Squat 5-3-1 + supplemental work
+- **Day 2**: Bench Press 5-3-1 + supplemental work  
+- **Day 3**: Deadlift 5-3-1 + supplemental work
+- **Day 4**: Overhead Press 5-3-1 + supplemental work
 
-**Intermediate Protocol:**
-- Enhanced intensity with systematic progression
-- Multiple adaptation strategies and monitoring points
-- Periodized implementation with training cycle integration
-- Advanced technique refinement and optimization
+### Progression Guidelines
+- **Beginner**: Add 10 lbs to squat/deadlift, 5 lbs to bench/press monthly
+- **Intermediate**: Add 5 lbs to squat/deadlift, 2.5 lbs to bench/press monthly
+- **Advanced**: Progress based on AMRAP performance and testing cycles
 
-**Advanced Protocol:**
-- Competition-specific applications and timing
-- Maximum stimulus with comprehensive monitoring
-- Complex integration with elite training programs
-- Performance optimization and peak adaptation strategies
+## Common Mistakes
+⚠️ **Using True 1RM Instead of Training Max**: Leads to form breakdown and stalled progress
+⚠️ **Skipping Deload Weeks**: Results in accumulated fatigue and reduced performance
+⚠️ **Ego Lifting on AMRAP Sets**: Compromises form for additional reps
+⚠️ **Inadequate Warm-up**: Jumping to working percentages without proper preparation
+⚠️ **Ignoring Accessory Work**: Missing opportunities for balanced development and injury prevention
 
-### Safety Considerations
+## Related Concepts
+Effective implementation requires understanding of [[A. Foundational Concepts]] for training principles, integration with [[B. Resistance Training]] methodologies, consideration of [[F. Optimal Performance Factors]] for performance enhancement, and proper [[M. Recovery Strategies]] for adaptation optimization.
 
-**Contraindications:**
-- Medical conditions requiring physician clearance
-- Current illness or compromised immune function
-- Inadequate baseline fitness or training preparation
-- Environmental factors limiting safe implementation
+## Update Log
+- 2025-01-27: Completely rewrote note to accurately reflect Jim Wendler's 5-3-1 methodology with proper scientific backing and practical applications. Removed fictitious research and replaced with legitimate studies supporting percentage-based, submaximal training approaches.
 
-**Monitoring Requirements:**
-- Baseline assessment and ongoing evaluation protocols
-- Physiological markers requiring regular tracking
-- Performance indicators and adaptation measurements
-- Safety parameters with clear intervention thresholds
-
-### Integration with Training Programs
-
-**Periodization Strategy:**
-- Preparation phase implementation for base adaptations
-- Competition phase applications with performance focus
-- Recovery phase protocols for maintenance and restoration
-- Off-season intensive protocols for maximum adaptation
-
-**Load Management:**
-- Compatibility assessment with existing training loads
-- Recovery requirements and fatigue monitoring
-- Progressive overload principles and adaptation timelines
-- Individual response patterns and program modifications
-
-## Related Topics
-
-[[A. Foundational Concepts]] - Basic physiological principles
-[[B. Resistance Training]] - Primary training methodologies
-[[F. Optimal Performance Factors]] - Performance enhancement strategies
-[[M. Recovery Strategies]] - Recovery and adaptation optimization
-
----
-*Last Updated: 2025-06-05*
-*References: Evidence-based research citations with peer-review validation*
-*Applications: Practical implementation with safety considerations*
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1519/JSC.0000000000001049; Invalid or broken DOI: 10.1152/japplphysiol.01400.2005 -->

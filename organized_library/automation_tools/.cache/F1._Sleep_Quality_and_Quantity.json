@@ -1,0 +1,66 @@
+{
+  "note_title": "F1. Sleep Quality and Quantity",
+  "cached_at": "2026-05-07T20:37:08.271439",
+  "studies": [
+    {
+      "title": "Sleep and sleep disorders in people with Parkinson's disease.",
+      "year": "2024",
+      "doi": "10.1016/S1474-4422(24)00170-4",
+      "pmid": "38942041",
+      "journal": "The Lancet. Neurology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.85,
+      "composite_score": 0.6379
+    },
+    {
+      "title": "Efficacy of melatonin for chronic insomnia: Systematic reviews and meta-analyses.",
+      "year": "2022",
+      "doi": "10.1016/j.smrv.2022.101692",
+      "pmid": "36179487",
+      "journal": "Sleep medicine reviews",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.55
+    },
+    {
+      "title": "The Sleep Parameters of Paralympic Athletes: Characteristics and Assessment Instruments.",
+      "year": "2023",
+      "doi": "10.1123/jsr.2021-0407",
+      "pmid": "36150706",
+      "journal": "Journal of sport rehabilitation",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.61,
+      "composite_score": 0.5083
+    },
+    {
+      "title": "Sleep and the Young Athlete.",
+      "year": "2023",
+      "doi": "10.1177/19417381221108732",
+      "pmid": "35855519",
+      "journal": "Sports health",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2,
+      "quality_score": 0.53,
+      "composite_score": 0.495
+    },
+    {
+      "title": "Effects of Strength Training on Physical Fitness of Olympic Combat Sports Athletes: A Systematic Review.",
+      "year": "2023",
+      "doi": "10.3390/ijerph20043516",
+      "pmid": "36834211",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

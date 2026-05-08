@@ -1,0 +1,66 @@
+{
+  "note_title": "Exercise for Diabetes Management",
+  "cached_at": "2026-05-07T21:06:24.044604",
+  "studies": [
+    {
+      "title": "Diagnosis and Treatment of Type 2 Diabetes in Adults: A Review.",
+      "year": "2025",
+      "doi": "10.1001/jama.2025.5956",
+      "pmid": "40549398",
+      "journal": "JAMA",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.85,
+      "composite_score": 0.6679
+    },
+    {
+      "title": "Exercise Prescription for Postprandial Glycemic Management.",
+      "year": "2024",
+      "doi": "10.3390/nu16081170",
+      "pmid": "38674861",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2,
+      "quality_score": 0.85,
+      "composite_score": 0.655
+    },
+    {
+      "title": "Semaglutide and walking capacity in people with symptomatic peripheral artery disease and type 2 diabetes (STRIDE): a phase 3b, double-blind, randomised, placebo-controlled trial.",
+      "year": "2025",
+      "doi": "10.1016/S0140-6736(25)00509-4",
+      "pmid": "40169145",
+      "journal": "Lancet (London, England)",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0588,
+      "quality_score": 0.7,
+      "composite_score": 0.5676
+    },
+    {
+      "title": "Ketogenic Diet Benefits to Weight Loss, Glycemic Control, and Lipid Profiles in Overweight Patients with Type 2 Diabetes Mellitus: A Meta-Analysis of Randomized Controlled Trails.",
+      "year": "2022",
+      "doi": "10.3390/ijerph191610429",
+      "pmid": "36012064",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0526,
+      "quality_score": 0.76,
+      "composite_score": 0.5258
+    },
+    {
+      "title": "Effects of combined aerobic and resistance training on glycemic control, blood pressure, inflammation, cardiorespiratory fitness and quality of life in patients with type 2 diabetes and overweight/obesity: a systematic review and meta-analysis.",
+      "year": "2024",
+      "doi": "10.7717/peerj.17525",
+      "pmid": "38887616",
+      "journal": "PeerJ",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0455,
+      "quality_score": 0.68,
+      "composite_score": 0.5237
+    }
+  ]
+}

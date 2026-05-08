@@ -9,29 +9,6 @@
  * and means a fresh `npm run dev` shows the real numbers immediately.
  */
 
-import type { NodeData, NodeSummary } from '../types';
-import { parseNoteSections, type EvidenceQuality } from './noteSchema';
-
-interface ContentBridgeIndex {
-  generatedAt: string;
-  metadata?: {
-    version?: string;
-    exported_at?: string;
-    total_nodes?: number;
-    total_citations?: number;
-    broken_wikilinks?: number;
-    validation_warnings?: number;
-  };
-  totalNodes: number;
-  nodes: NodeSummary[];
-}
-
-interface ClozeAggregate {
-  generatedAt: string;
-  totalCards: number;
-  cards: { id: string; nodeId: string }[];
-}
-
 interface SeriesBreakdown {
   series: string;
   total: number;
@@ -60,9 +37,7 @@ export interface LibraryStats {
   brokenWikilinks?: number;
 }
 
-const INDEX_PATH = '/content/index.json';
-const CARDS_PATH = '/content/cards.json';
-const NODE_PATH = '/content/nodes';
+const STATS_PATH = '/content/stats.json';
 const STATS_CACHE_KEY = 'fitlib.libraryStats.v1';
 
 let cachedStats: LibraryStats | null = null;
@@ -70,7 +45,7 @@ let inflight: Promise<LibraryStats | null> | null = null;
 
 async function fetchJson<T>(path: string): Promise<T | null> {
   try {
-    const response = await fetch(path, { cache: 'no-cache' });
+    const response = await fetch(path);
     if (!response.ok) return null;
     return (await response.json()) as T;
   } catch {
@@ -78,79 +53,14 @@ async function fetchJson<T>(path: string): Promise<T | null> {
   }
 }
 
-function summariseSeries(nodes: NodeSummary[]): SeriesBreakdown[] {
-  const map = new Map<string, { total: number; links: number; credSum: number }>();
-  nodes.forEach((node) => {
-    const bucket = map.get(node.series) || { total: 0, links: 0, credSum: 0 };
-    bucket.total += 1;
-    bucket.links += node.links?.length || 0;
-    bucket.credSum += node.credibilityScore || 0;
-    map.set(node.series, bucket);
-  });
-  return Array.from(map.entries())
-    .map(([series, data]) => ({
-      series,
-      total: data.total,
-      totalLinks: data.links,
-      averageCredibility: data.total === 0 ? 0 : data.credSum / data.total,
-    }))
-    .sort((a, b) => b.total - a.total);
-}
-
-/**
- * Sample evidence quality from a bounded set of nodes so the Transparency page
- * doesn't pull every node JSON on first paint. We hit ~64 spread across series
- * which is plenty to show a meaningful High/Med/Low distribution.
- */
-async function sampleEvidenceQuality(
-  nodes: NodeSummary[],
-  maxSampleSize = 64
-): Promise<{ quality: EvidenceQualityBreakdown; totalEvidenceEntries: number }> {
-  const buckets: EvidenceQualityBreakdown = { High: 0, Medium: 0, Low: 0, Unknown: 0 };
-  let totalEvidenceEntries = 0;
-  if (nodes.length === 0) return { quality: buckets, totalEvidenceEntries };
-
-  // Stratified pick: take an even share from each series so we don't oversample
-  // whichever series happens to come first alphabetically.
-  const bySeries = new Map<string, NodeSummary[]>();
-  nodes.forEach((n) => {
-    if (!bySeries.has(n.series)) bySeries.set(n.series, []);
-    bySeries.get(n.series)!.push(n);
-  });
-  const perSeries = Math.max(2, Math.floor(maxSampleSize / Math.max(1, bySeries.size)));
-  const sample: NodeSummary[] = [];
-  bySeries.forEach((list) => sample.push(...list.slice(0, perSeries)));
-
-  const results = await Promise.all(
-    sample.map((summary) =>
-      fetchJson<NodeData>(`${NODE_PATH}/${encodeURIComponent(summary.id)}.json`)
-    )
-  );
-
-  results.forEach((node) => {
-    if (!node || typeof node.content !== 'string') return;
-    const sections = parseNoteSections(node.content);
-    sections.evidence.forEach((entry) => {
-      totalEvidenceEntries += 1;
-      const key: EvidenceQuality = entry.quality;
-      buckets[key] = (buckets[key] || 0) + 1;
-    });
-  });
-
-  return { quality: buckets, totalEvidenceEntries };
-}
-
 export async function loadLibraryStats(force = false): Promise<LibraryStats | null> {
   if (!force && cachedStats) return cachedStats;
   if (inflight) return inflight;
 
   inflight = (async () => {
-    const [index, cards] = await Promise.all([
-      fetchJson<ContentBridgeIndex>(INDEX_PATH),
-      fetchJson<ClozeAggregate>(CARDS_PATH),
-    ]);
+    const stats = await fetchJson<LibraryStats>(STATS_PATH);
 
-    if (!index) {
+    if (!stats) {
       // Fall back to a previously-saved snapshot so the dashboard isn't blank
       // when the dev server briefly returns a 404 mid-rebuild.
       try {
@@ -163,33 +73,6 @@ export async function loadLibraryStats(force = false): Promise<LibraryStats | nu
       }
       return null;
     }
-
-    const series = summariseSeries(index.nodes);
-    const totalLinks = series.reduce((acc, s) => acc + s.totalLinks, 0);
-    const averageCredibility =
-      index.nodes.length === 0
-        ? 0
-        : index.nodes.reduce((acc, n) => acc + (n.credibilityScore || 0), 0) / index.nodes.length;
-
-    const cardsWithNodes = new Set((cards?.cards || []).map((c) => c.nodeId));
-    const cardCoverage =
-      index.nodes.length === 0 ? 0 : cardsWithNodes.size / index.nodes.length;
-
-    const { quality, totalEvidenceEntries } = await sampleEvidenceQuality(index.nodes);
-
-    const stats: LibraryStats = {
-      generatedAt: index.generatedAt,
-      totalNodes: index.totalNodes,
-      totalCitations: index.metadata?.total_citations || 0,
-      averageCredibility,
-      totalLinks,
-      series,
-      totalCards: cards?.totalCards || 0,
-      cardCoverage,
-      evidenceQuality: quality,
-      totalEvidenceEntries,
-      brokenWikilinks: index.metadata?.broken_wikilinks,
-    };
 
     cachedStats = stats;
     try {

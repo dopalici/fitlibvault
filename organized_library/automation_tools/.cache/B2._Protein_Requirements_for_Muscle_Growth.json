@@ -1,0 +1,66 @@
+{
+  "note_title": "B2. Protein Requirements for Muscle Growth",
+  "cached_at": "2026-05-07T18:11:11.046948",
+  "studies": [
+    {
+      "title": "Low Energy Availability and Relative Energy Deficiency in Sport: A Systematic Review and Meta-analysis.",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02130-0",
+      "pmid": "39485653",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "The Effects of Creatine Supplementation Combined with Resistance Training on Regional Measures of Muscle Hypertrophy: A Systematic Review with Meta-Analysis.",
+      "year": "2023",
+      "doi": "10.3390/nu15092116",
+      "pmid": "37432300",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0667,
+      "quality_score": 1.0,
+      "composite_score": 0.69
+    },
+    {
+      "title": "Effect of Strength Training Programs in Middle- and Long-Distance Runners' Economy at Different Running Speeds: A Systematic Review with Meta-analysis.",
+      "year": "2024",
+      "doi": "10.1007/s40279-023-01978-y",
+      "pmid": "38165636",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "The Top 5 Can't-Miss Sport Supplements.",
+      "year": "2024",
+      "doi": "10.3390/nu16193247",
+      "pmid": "39408214",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Strategies for minimizing muscle loss during use of incretin-mimetic drugs for treatment of obesity.",
+      "year": "2025",
+      "doi": "10.1111/obr.13841",
+      "pmid": "39295512",
+      "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0769,
+      "quality_score": 0.69,
+      "composite_score": 0.5681
+    }
+  ]
+}

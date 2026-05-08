@@ -1,0 +1,66 @@
+{
+  "note_title": "K11. Performance Team Integration",
+  "cached_at": "2026-05-07T21:25:57.151827",
+  "studies": [
+    {
+      "title": "Translational genomics of osteoarthritis in 1,962,069 individuals.",
+      "year": "2025",
+      "doi": "10.1038/s41586-025-08771-z",
+      "pmid": "40205036",
+      "journal": "Nature",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Clinical recovery from concussion-return to school and sport: a systematic review and meta-analysis.",
+      "year": "2023",
+      "doi": "10.1136/bjsports-2022-106682",
+      "pmid": "37316183",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Exerkines in health, resilience and disease.",
+      "year": "2022",
+      "doi": "10.1038/s41574-022-00641-2",
+      "pmid": "35304603",
+      "journal": "Nature reviews. Endocrinology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Previous fracture and subsequent fracture risk: a meta-analysis to update FRAX.",
+      "year": "2023",
+      "doi": "10.1007/s00198-023-06870-z",
+      "pmid": "37566158",
+      "journal": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.55
+    },
+    {
+      "title": "The effectiveness of dressings and securement devices to prevent central venous catheter-associated complications: A systematic review and meta-analysis.",
+      "year": "2024",
+      "doi": "10.1016/j.ijnurstu.2023.104620",
+      "pmid": "37879273",
+      "journal": "International journal of nursing studies",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.55
+    }
+  ]
+}

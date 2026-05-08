@@ -1,0 +1,66 @@
+{
+  "note_title": "IX-3. Basic Injury Management (Acute Phase)",
+  "cached_at": "2026-05-07T21:12:32.725463",
+  "studies": [
+    {
+      "title": "Evidence-Based Hamstring Injury Prevention and Risk Factor Management: A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+      "year": "2023",
+      "doi": "10.1177/03635465221083998",
+      "pmid": "35384731",
+      "journal": "The American journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1176,
+      "quality_score": 1.0,
+      "composite_score": 0.7053
+    },
+    {
+      "title": "Prevention strategies and modifiable risk factors for sport-related concussions and head impacts: a systematic review and meta-analysis.",
+      "year": "2023",
+      "doi": "10.1136/bjsports-2022-106656",
+      "pmid": "37316182",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "The molecular and metabolic landscape of iron and ferroptosis in cardiovascular disease.",
+      "year": "2023",
+      "doi": "10.1038/s41569-022-00735-4",
+      "pmid": "35788564",
+      "journal": "Nature reviews. Cardiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Injury prevention programs that include balance training exercises reduce ankle injury rates among soccer players: a systematic review.",
+      "year": "2022",
+      "doi": "10.1016/j.jphys.2022.05.019",
+      "pmid": "35753965",
+      "journal": "Journal of physiotherapy",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0526,
+      "quality_score": 0.76,
+      "composite_score": 0.5258
+    },
+    {
+      "title": "Injury prevention programs that include plyometric exercises reduce the incidence of anterior cruciate ligament injury: a systematic review of cluster randomised trials.",
+      "year": "2022",
+      "doi": "10.1016/j.jphys.2022.09.001",
+      "pmid": "36244964",
+      "journal": "Journal of physiotherapy",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0476,
+      "quality_score": 0.76,
+      "composite_score": 0.5243
+    }
+  ]
+}

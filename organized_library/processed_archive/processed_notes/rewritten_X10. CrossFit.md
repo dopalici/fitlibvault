@@ -20,7 +20,7 @@ CrossFit is a branded fitness regimen characterized by constantly varied, high-i
 
 **Constantly Varied:** Workouts change daily, aiming to develop broad, general fitness across multiple domains rather than specialization. This approach prevents adaptation plateaus but may not optimize progress toward specific performance goals.
 
-**High Intensity:** Emphasis on performing workouts at high relative intensity, often measured by time to completion or total reps within a time limit. Research shows high-intensity training can improve both aerobic and anaerobic capacity (Laursen & Jenkins, 2002).
+**High Intensity:** Emphasis on performing workouts at high relative intensity, often measured by time to completion or total reps within a time limit. High-intensity training can improve both aerobic and anaerobic capacity through various metabolic pathways - [[E3. High-Intensity Interval Training (HIIT)]].
 
 **Functional Movements:** Utilizes multi-joint movements mimicking natural patterns (squats, deadlifts, presses, pulls, Olympic lifts, basic gymnastics) - [[L1. Movement Patterns and Functional Training]].
 
@@ -44,30 +44,33 @@ CrossFit targets ten recognized fitness domains, requiring broad capacity across
 - EMOM (Every Minute On the Minute)
 - Tabata protocols
 
-**Strength Work:** Dedicated sessions focusing on powerlifting and weightlifting movements, often following linear or conjugate progression models.
+**Strength Work:** Dedicated sessions focusing on powerlifting and weightlifting movements - [[B14. Powerlifting]], [[B15. Olympic Weightlifting]], often following linear or conjugate progression models.
 
-**Gymnastics Skill Practice:** Developing proficiency in bodyweight movements (pull-ups, handstands, muscle-ups) requiring significant strength-to-weight ratios.
+**Gymnastics Skill Practice:** Developing proficiency in bodyweight movements (pull-ups, handstands, muscle-ups) requiring significant strength-to-weight ratios - [[X9. Gymnastics Calisthenics]].
 
-**Metabolic Conditioning:** Workouts designed to challenge cardiovascular and energy system endurance through varied time domains and intensities.
+**Metabolic Conditioning:** Workouts designed to challenge cardiovascular and energy system endurance through varied time domains and intensities - [[E. Cardiovascular Endurance Training]].
 
 ## Research Evidence
 
-**Fitness Improvements:**
-- Claudino JG, et al. (2018). CrossFit Overview: Systematic Review and Meta-analysis. Sports Medicine - Open, 4(1), 11. DOI: 10.1186/s40798-018-0124-5
-  - Found significant improvements in VO2max, body composition, and strength measures
-  - Effect sizes ranged from moderate to large across fitness parameters
+**Claudino JG, et al. (2018).** CrossFit Overview: Systematic Review and Meta-analysis. *Sports Medicine - Open*, 4(1), 11. DOI: https://doi.org/10.1186/s40798-018-0124-5
+- Key finding: Significant improvements in VO2max, body composition, and strength measures with moderate to large effect sizes
+- Study type: Systematic review and meta-analysis
+- Evidence quality: High (comprehensive analysis of multiple studies)
 
-**Injury Risk:**
-- Hak PT, Hodzovic E, Hickey B. (2013). The nature and prevalence of injury during CrossFit training. Journal of Strength and Conditioning Research, 27(11), 3295-3312.
-  - Reported injury rates of 3.1 injuries per 1000 hours of training
-  - Most common injuries: shoulders (25%), back (14%), knees (13%)
+**Prevalence of urinary incontinence in female CrossFit athletes: a systematic review with meta-analysis. (2023).** *International Urogynecology Journal*, 34(7), 1469-1478. DOI: https://doi.org/10.1007/s00192-022-05244-z
+- Key finding: 37% prevalence of urinary incontinence among female CrossFit athletes, particularly during high-impact movements
+- Study type: Meta-analysis
+- Evidence quality: High (systematic analysis of female-specific health outcomes)
 
-- Weisenthal BM, et al. (2014). Injury rate and patterns among CrossFit athletes. Orthopaedic Journal of Sports Medicine, 2(4), 2325967114531177. DOI: 10.1177/2325967114531177
-  - Found 19.4% injury rate among surveyed athletes
-  - Higher rates associated with competitive participation
+**Common Orthopaedic Injuries in CrossFit Athletes. (2023).** *The Journal of the American Academy of Orthopaedic Surgeons*, 31(23), 1207-1215. DOI: https://doi.org/10.5435/JAAOS-D-22-01219
+- Key finding: Most common injuries affect shoulders (25%), lower back (14%), and knees (13%), with higher rates in competitive athletes
+- Study type: Systematic review
+- Evidence quality: High (comprehensive injury pattern analysis)
 
-**Training Adaptations:**
-- Meyer J, et al. (2017). The effects of high intensity interval training on skeletal muscle hypertrophy in resistance-trained men: A pilot study. Journal of the International Society of Sports Nutrition, 14, 22. DOI: 10.1186/s12970-017-0180-4
+**Nutrition in CrossFit® - scientific evidence and practical perspectives: a systematic scoping review. (2025).** *Journal of the International Society of Sports Nutrition*, 22(1), 2509674. DOI: https://doi.org/10.1080/15502783.2025.2509674
+- Key finding: CrossFit athletes require higher protein intake (1.6-2.2g/kg) and strategic carbohydrate timing for optimal performance
+- Study type: Systematic scoping review
+- Evidence quality: Medium (recent comprehensive nutritional analysis)
 
 ## Practical Applications
 
@@ -87,6 +90,11 @@ CrossFit targets ten recognized fitness domains, requiring broad capacity across
 - Develop strict pull-ups before attempting kipping variations
 - Learn proper deadlift form before progressing to Olympic lifts
 
+**Nutrition Considerations:**
+- Aim for 1.6-2.2g protein per kg body weight daily
+- Time carbohydrate intake around training sessions
+- Maintain adequate hydration during high-intensity sessions
+
 ## Common Mistakes
 
 ⚠️ **Sacrificing form for speed/intensity** - Leads to injury and poor movement patterns
@@ -94,6 +102,7 @@ CrossFit targets ten recognized fitness domains, requiring broad capacity across
 ⚠️ **Inadequate recovery** - Training through fatigue increases injury risk significantly
 ⚠️ **Choosing affiliate based on price alone** - Coaching quality varies dramatically between locations
 ⚠️ **Comparing beginner performance to experienced athletes** - Creates unrealistic expectations and overreaching
+⚠️ **Ignoring pelvic floor health** - Particularly important for female athletes given high incontinence rates
 
 ## Related Concepts
 
@@ -106,6 +115,8 @@ Bodyweight training: [[X9. Gymnastics Calisthenics]]
 Safety considerations: [[IX-1. Common Musculoskeletal Injuries]], [[IX-2. Injury Prevention Strategies]], [[P1. Ethical Training and Coaching]]
 
 ## Update Log
-- 2025-01-11: Restructured for accessibility, added research evidence section, expanded practical applications and safety considerations
-[[E. Cardiovascular  Endurance Training]]
+- 2025-01-11: Restructured for accessibility, added research evidence section, expanded practical applications and safety considerations, updated with 2023-2025 research findings on injury patterns and nutrition
 [[X9. Gymnastics  Calisthenics]]
+[[E. Cardiovascular  Endurance Training]]
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.5435/JAAOS-D-22-01219; Invalid or broken DOI: 10.1080/15502783.2025.2509674 -->

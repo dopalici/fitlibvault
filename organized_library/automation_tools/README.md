@@ -1,28 +1,76 @@
 # Automation Tools
 
-This folder contains Python automation used to rewrite, validate, and promote fitness markdown notes.
+Python automation that rewrites, validates, and promotes fitness markdown notes
+without breaking the Obsidian interlink graph.
 
 ## Current Status
 
 - Primary rewrite engine: `processing_scripts/process_fitness_library.py`
-- Safe promotion workflow: `automation_scripts/promote_rewritten_to_og.py`
-- Primary end-to-end runner: `automation_scripts/seamless_update_pipeline.py`
-- Legacy replacement flow: `replace_with_rewritten.py` (kept for reference, not preferred)
-- Orchestrators:
-  - `automation_scripts/master_automation.py` (callable, section orchestration)
-  - `automation_scripts/run_complete_automation.py` (currently path-sensitive; see `tools/SCRIPT_STATUS.md`)
+  - PubMed search now combines title + section domain hint + topic keywords
+  - Studies are filtered to humans + strong study designs and ranked by a
+    composite score (0.5 × quality + 0.3 × relevance + 0.2 × recency)
+  - `--min-relevance`, `--min-quality`, `--top-studies`, `--lookback-years`
+    expose tunable gates so only the most relatable + credible studies pass
+- Bulk promotion (legacy, all-or-nothing): `automation_scripts/promote_rewritten_to_og.py`
+- **Per-file confirm + date stamping** (recommended): `automation_scripts/staged_promotion.py`
+- **Interlink validator**: `utility_scripts/interlink_validator.py`
+- End-to-end runner: `automation_scripts/seamless_update_pipeline.py`
+- Citation QA: `utility_scripts/citation_validation_audit.py` and
+  `utility_scripts/citation_doi_fixer.py`
+- Legacy replacement flow: `replace_with_rewritten.py` (kept for reference)
 
 ## SOP (Run Order)
 
-1. Run the full deterministic pipeline (recommended):
-   - `python3 "organized_library/automation_tools/automation_scripts/seamless_update_pipeline.py" --section A --start-num 1 --end-num 65 --apply --build-content`
-2. Optional granular mode (manual per phase):
+1. **Recommended one-command run** (rewrite → audit → DOI fix → interlink check
+   → dry-run promotion validation → per-file confirmed promotion → website
+   rebuild). The interactive `--staged-apply` mode pauses on each file for
+   y / s / d / q so you can inspect each change before it touches the OG file:
+
+   ```bash
+   python3 "organized_library/automation_tools/automation_scripts/seamless_update_pipeline.py" \
+     --section A --start-num 1 --end-num 65 \
+     --validate-interlinks --interlink-fail-on broken \
+     --apply --staged-apply \
+     --build-content
+   ```
+
+   Headless variant (no prompts, accept everything that passes validation):
+
+   ```bash
+   ... --apply --staged-apply --staged-auto-yes
+   ```
+
+2. **Granular mode** (manual per phase):
    - rewrite: `python3 "organized_library/automation_tools/processing_scripts/process_fitness_library.py" --section A --input-dir "/Users/enes/fitlibvault-main" --output-dir "/Users/enes/fitlibvault-main/organized_library/processed_archive/processed_notes" --api-key "$ANTHROPIC_API_KEY"`
-   - audit: `python3 "organized_library/automation_tools/utility_scripts/citation_validation_audit.py" --file-glob "rewritten_*.md"`
-   - DOI suggestions: `python3 "organized_library/automation_tools/utility_scripts/citation_doi_fixer.py"`
-   - promote dry run: `python3 "organized_library/automation_tools/automation_scripts/promote_rewritten_to_og.py"`
-   - promote apply: `python3 "organized_library/automation_tools/automation_scripts/promote_rewritten_to_og.py" --apply`
+   - citation audit: `python3 "organized_library/automation_tools/utility_scripts/citation_validation_audit.py" --file-glob "rewritten_*.md"`
+   - DOI fix suggestions: `python3 "organized_library/automation_tools/utility_scripts/citation_doi_fixer.py"`
+   - **interlink integrity** (full vault scan): `python3 "organized_library/automation_tools/utility_scripts/interlink_validator.py" --scope vault --write-csv`
+   - **interlink integrity** (rewritten staging only, pre-promotion): `python3 "organized_library/automation_tools/utility_scripts/interlink_validator.py" --scope rewritten --fail-on broken`
+   - promote dry-run: `python3 "organized_library/automation_tools/automation_scripts/promote_rewritten_to_og.py"`
+   - **per-file confirmed promote**: `python3 "organized_library/automation_tools/automation_scripts/staged_promotion.py" --interactive`
+   - bulk promote (legacy): `python3 "organized_library/automation_tools/automation_scripts/promote_rewritten_to_og.py" --apply`
    - website rebuild: `cd "web app fitlib" && npm run content:build`
+
+## Confirmation + Audit Trail
+
+`staged_promotion.py` is the answer to "I want to confirm each update before
+it replaces the OG file, and I want a real timestamp on every push":
+
+- Builds an in-memory map of every markdown file in the vault and flags stubs
+  (empty / title-only). Any rewrite whose `[[wikilinks]]` resolve to broken
+  targets or stubs is **blocked** unless `--allow-link-issues` is set.
+- Shows a unified diff preview, plus citation/recommendation deltas, before
+  asking y / s / d / q.
+- On accept it:
+  1. Rewrites the `(Updated: …)` tag in-place with today's ISO date
+  2. Appends a one-line entry to the note's `## Update Log`
+  3. Atomically replaces the OG file (write-temp → fsync → rename, so an
+     interrupted run can never corrupt the file)
+  4. Moves the source `rewritten_*.md` into
+     `organized_library/processed_archive/confirmed_archive/<YYYY-MM-DD>/`
+     so the same change cannot be re-applied next run
+  5. Appends a JSONL row to `organized_library/automation_tools/promotion_history.jsonl`
+     (timestamp, ID, file, citation deltas, archive path)
 
 ## Documentation Map
 
@@ -31,11 +79,52 @@ This folder contains Python automation used to rewrite, validate, and promote fi
 - Internal mechanics: `HOW_IT_WORKS.md`
 - Web app integration + learning system wiring: `web app fitlib/INTEGRATION.md`
 - Reader/admin/FSRS owner SOP: `web app fitlib/docs/SOP_KNOWLEDGE_READER_SYSTEMS.md`
-- Citation QA utilities:
-  - `utility_scripts/citation_validation_audit.py`
-  - `utility_scripts/citation_doi_fixer.py`
+
+## File Format Optimisation Proposal (optional, not yet applied)
+
+Things that would make the file format even more seamless without breaking
+existing Obsidian behaviour. None of the current scripts depend on these,
+they're suggestions for when you want to tighten things further:
+
+- **YAML frontmatter** for metadata. Replace the trio
+  `**ID:** ...` / `**Created:** ...` / `**Updated:** ...` with a single
+  YAML block at the top of the file:
+
+  ```yaml
+  ---
+  id: A10-HORMONAL-RESPONSES
+  created: 2025-04-23
+  updated: 2026-05-07
+  section: A
+  tags: [physiology, hormones]
+  ---
+  ```
+
+  Obsidian renders this as a clean Properties panel; every script in this
+  folder already parses both the YAML form and the bold-inline form, so
+  migration can be incremental.
+
+- **Single canonical wikilink format** — drop the `.md` suffix inside
+  brackets (`[[VIII-2. Commercial Gym Equipment.md]]` is invalid Obsidian
+  syntax, the validator flags 200+ of these). The validator's
+  `interlink_audit.md` lists every offender with a suggested rewrite.
+
+- **Stop shipping section-index stubs** like `D. Weight Management.md`
+  (16 body words, just a title and a link list). They're Obsidian
+  shadow-risks: if a wikilink names them ambiguously, Obsidian or the
+  website builder may resolve to the stub instead of the real OG. Either
+  fill them with at least 40 body words or rename them to
+  `_index/D. Weight Management.md` so they stop competing for basenames.
+
+- **Promote `confirmed_archive/<date>/` over `processed_archive/`**.
+  Once a rewrite is promoted, it should live in `confirmed_archive/`, not
+  alongside still-pending rewrites. `staged_promotion.py` does this
+  automatically; switching to it as the default removes the staging clutter
+  that was producing zero-byte stubs in `processed_notes/`.
 
 ## Notes
 
-- The website exporter now prefers explicit `**ID:**` metadata and ignores rewritten/backup artifacts.
-- Keep OG filenames stable to preserve Obsidian interlinks.
+- The website exporter prefers explicit `**ID:**` metadata and ignores
+  rewritten/backup artefacts.
+- Keep OG filenames stable to preserve Obsidian interlinks. Promotion never
+  renames files, only rewrites their content.

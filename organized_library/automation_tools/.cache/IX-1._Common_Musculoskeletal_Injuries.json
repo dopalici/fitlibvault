@@ -1,0 +1,66 @@
+{
+  "note_title": "IX-1. Common Musculoskeletal Injuries",
+  "cached_at": "2026-05-07T21:11:33.929635",
+  "studies": [
+    {
+      "title": "From Tissue to System: What Constitutes an Appropriate Response to Loading?",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02126-w",
+      "pmid": "39527327",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Nutritional Supplements for Muscle Hypertrophy: Mechanisms and Morphology-Focused Evidence.",
+      "year": "2025",
+      "doi": "10.3390/nu17223603",
+      "pmid": "41305653",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "A Critical Appraisal of Using Barbell Velocity Data to Regulate Training.",
+      "year": "2025",
+      "doi": "10.1519/JSC.0000000000005050",
+      "pmid": "39977021",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Effectiveness of exercise therapy on chronic ankle instability: a meta-analysis.",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-95896-w",
+      "pmid": "40188228",
+      "journal": "Scientific reports",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.54
+    },
+    {
+      "title": "Modified Brostr\u00f6m vs suture tape augmentation: A systematic review.",
+      "year": "2025",
+      "doi": "10.1053/j.jfas.2024.09.013",
+      "pmid": "39395621",
+      "journal": "The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    }
+  ]
+}

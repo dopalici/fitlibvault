@@ -1,0 +1,66 @@
+{
+  "note_title": "Fatigue Assessment Protocols",
+  "cached_at": "2026-05-07T20:43:07.238282",
+  "studies": [
+    {
+      "title": "Phase 3 Trial of Cabozantinib to Treat Advanced Neuroendocrine Tumors.",
+      "year": "2025",
+      "doi": "10.1056/NEJMoa2403991",
+      "pmid": "39282913",
+      "journal": "The New England journal of medicine",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Effects of cold-water immersion on health and wellbeing: A systematic review and meta-analysis.",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0317615",
+      "pmid": "39879231",
+      "journal": "PloS one",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.54
+    },
+    {
+      "title": "Dostarlimab for Primary Advanced or Recurrent Endometrial Cancer.",
+      "year": "2023",
+      "doi": "10.1056/NEJMoa2216334",
+      "pmid": "36972026",
+      "journal": "The New England journal of medicine",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    },
+    {
+      "title": "Overall survival with sacituzumab govitecan in hormone receptor-positive and human epidermal growth factor receptor 2-negative metastatic breast cancer (TROPiCS-02): a randomised, open-label, multicentre, phase 3 trial.",
+      "year": "2023",
+      "doi": "10.1016/S0140-6736(23)01245-X",
+      "pmid": "37633306",
+      "journal": "Lancet (London, England)",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    },
+    {
+      "title": "Nurse-Supported Self-Directed Cognitive Behavioral Therapy for Insomnia: A Randomized Clinical Trial.",
+      "year": "2024",
+      "doi": "10.1001/jamainternmed.2024.4419",
+      "pmid": "39250131",
+      "journal": "JAMA internal medicine",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    }
+  ]
+}

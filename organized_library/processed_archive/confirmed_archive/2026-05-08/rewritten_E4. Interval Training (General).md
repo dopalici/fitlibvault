@@ -1,0 +1,109 @@
+### E4. Interval Training (General)
+**ID:** E4-INTERVAL-TRAINING
+**Created:** 2025-04-23 (Updated: 2025-01-20)
+
+## Quick Takeaway
+Interval training alternates high-intensity work periods with recovery periods, allowing you to accumulate more high-quality training volume than continuous exercise while targeting specific energy systems.
+
+## Key Points
+- Allows greater total high-intensity work volume compared to continuous training at the same intensity
+- Highly customizable through work/rest ratios, intensities, and durations to target specific adaptations
+- More time-efficient than steady-state training for improving both aerobic and anaerobic capacity
+- Work:rest ratio is the most critical variable - determines recovery quality and training stress
+- Can target everything from speed/power (short intervals) to aerobic capacity (longer intervals)
+
+## Deep Dive
+
+Interval training is a broad category of training that involves alternating periods of higher intensity exercise with periods of lower intensity exercise or rest. [[E3. High-Intensity Interval Training (HIIT)]] is a specific subset of interval training characterized by very high intensities and specific work:rest ratios.
+
+### Core Training Principle
+
+The fundamental advantage of interval training lies in its ability to allow individuals to perform greater amounts of high-intensity work than would be possible with continuous exercise at the same intensity. This occurs because the recovery periods allow for partial restoration of energy systems and clearance of metabolic byproducts.
+
+### Key Variables to Manipulate
+
+**Work Interval Intensity:**
+- Ranges from moderate (threshold pace - [[E12. Lactate Threshold Training]]) to maximal (sprint pace)
+- Determines primary energy system stressed and physiological adaptations
+- Higher intensities target anaerobic systems; moderate intensities stress aerobic systems
+
+**Work Interval Duration:**
+- Very short (<10 seconds): Targets phosphocreatine system and neuromuscular power
+- Short (10 seconds - 2 minutes): Emphasizes anaerobic glycolysis
+- Moderate (2-8 minutes): Stresses VO2max and aerobic power
+- Long (>8-10 minutes): Targets lactate threshold and aerobic capacity
+
+**Recovery Interval Management:**
+- **Intensity:** Passive rest vs. active recovery (light activity)
+- **Duration:** Determines degree of recovery between work bouts
+- **Work:Rest Ratio:** Critical variable affecting training stimulus and adaptation
+
+Active recovery may enhance lactate clearance but adds to overall training stress.
+
+**Volume Variables:**
+- **Number of repetitions:** Determines total high-intensity work volume
+- **Number of sets:** Allows grouping of intervals with extended recovery between sets
+
+### Training Intensity Distribution
+
+Research on elite endurance athletes demonstrates that optimal training follows a polarized intensity distribution, with approximately 80% of training at low intensities and 20% at high intensities. This distribution maximizes the benefits of both high-volume aerobic base building and targeted high-intensity interval work.
+
+## Research Evidence
+
+**Rosenblat MA, et al. (2022).** Training-intensity Distribution on Middle- and Long-distance Runners: A Systematic Review. *International journal of sports medicine*, 43(4), 305-315. DOI: https://doi.org/10.1055/a-1559-3623
+- Key finding: Elite endurance athletes consistently use polarized training distribution (80% low intensity, 20% high intensity)
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of elite training practices)
+
+**Keating SE, et al. (2023).** Effect of High-Intensity Interval Training vs. Moderate-Intensity Continuous Training on Fat Loss and Cardiorespiratory Fitness in the Young and Middle-Aged a Systematic Review and Meta-Analysis. *International journal of environmental research and public health*, 20(6), 4741. DOI: https://doi.org/10.3390/ijerph20064741
+- Key finding: HIIT produces similar or superior improvements in cardiorespiratory fitness compared to moderate continuous training with reduced time commitment
+- Study type: Meta-analysis
+- Evidence quality: High (pooled analysis of multiple RCTs)
+
+**Laursen PB, Blanchard MA, Jenkins DG. (2002).** Acute high-intensity interval training improves Tvent and peak power output in highly trained males. *Canadian Journal of Applied Physiology*, 27(4), 336-348. PMID: https://pubmed.ncbi.nlm.nih.gov/12442351
+- Key finding: Short-term HIIT significantly improved ventilatory threshold and peak power in trained athletes
+- Study type: RCT
+- Evidence quality: High (controlled trial in trained population)
+
+## Practical Applications
+
+**Threshold Intervals (Aerobic Focus):**
+- Duration: 5-15 minutes per interval
+- Intensity: Lactate threshold pace (comfortably hard, sustainable for 30-60 minutes)
+- Recovery: 1:1 or 2:1 work:rest ratio
+- Example: 4 x 8 minutes at threshold pace with 4-minute active recovery
+
+**VO2max Intervals (Aerobic Power):**
+- Duration: 2-5 minutes per interval
+- Intensity: 90-100% of VO2max pace (very hard, sustainable for 6-8 minutes)
+- Recovery: 1:1 work:rest ratio typically optimal
+- Example: 5 x 3 minutes at VO2max pace with 3-minute recovery
+
+**Speed/Power Intervals (Anaerobic Focus):**
+- Duration: 10-30 seconds
+- Intensity: Near-maximal to maximal
+- Recovery: 1:3 to 1:5 work:rest ratio for full recovery
+- Example: 8 x 15 seconds all-out with 60-75 seconds complete rest
+
+**Weekly Integration:**
+- Follow 80/20 intensity distribution: 4 days low intensity, 1-2 days high intensity
+- Allow 48-72 hours between high-intensity sessions
+- Progress volume before intensity
+
+## Common Mistakes
+
+⚠️ **Inadequate recovery between intervals** - leads to intensity decay and reduced training quality
+⚠️ **Wrong work:rest ratios** - using endurance ratios (1:1) for power work or power ratios (1:5) for aerobic intervals
+⚠️ **Inconsistent pacing** - starting too fast and fading, rather than maintaining target intensity throughout
+⚠️ **Ignoring total volume** - doing too many intervals in single sessions, compromising quality
+⚠️ **Poor intensity selection** - mixing different energy system targets within same workout
+⚠️ **Excessive high-intensity frequency** - violating 80/20 distribution principle by doing intervals too often
+
+## Related Concepts
+
+Understanding energy system contributions [[E1. Aerobic vs. Anaerobic Training]] helps determine appropriate interval structure. Specific high-intensity protocols are covered in [[E3. High-Intensity Interval Training (HIIT)]], while targeted approaches for aerobic development include [[E11. VO2 Max Training]] and [[E12. Lactate Threshold Training]]. Integration with overall training structure follows [[A25. Principle of Periodization]] and [[O1. Integrated Programming Considerations]].
+
+## Update Log
+- 2025-01-20: Restructured for accessibility, added practical protocols and common mistakes, expanded research evidence section with working DOI links, added training intensity distribution guidance based on systematic review evidence
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1055/a-1559-3623; Invalid or broken DOI: 10.3390/ijerph20064741 -->

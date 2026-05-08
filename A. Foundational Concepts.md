@@ -1,6 +1,6 @@
 ### Foundation Topics Index
 **ID:** Foundation-Index-001
-**Created:** [Original date] (Updated: December 2024)
+**Created:** [Original date] (Updated: 2026-05-08)
 
 ## Quick Takeaway
 This index contains 29 fundamental exercise science topics covering nutrition, physiology, biomechanics, and training principles that form the foundation for all advanced fitness concepts.
@@ -49,7 +49,7 @@ Understanding how forces create movement and how to optimize technique:
 - Leverage systems in the body [[A11. Biomechanics Levers in the Human Body]]
 - Direction and application of forces [[A12. Biomechanics Force Vectors]]
 - Rotational forces and movement [[A13. Biomechanics Torque and Movement]]
-- Balance and stability factors [[A14. Biomechanics Center of Gravity (COG) Center of Mass (COM)]]
+- Balance and stability factors [[A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM)]]
 
 **Movement Analysis:**
 - Static alignment assessment [[A15. Biomechanics Posture Analysis]]
@@ -72,7 +72,7 @@ The fundamental laws governing effective exercise programming:
 - Rest and adaptation needs [[A26. Principle of Recovery]]
 
 ## Research Evidence
-Each foundational topic is supported by decades of exercise science research. The principles covered here represent well-established concepts with extensive peer-reviewed backing across multiple disciplines including exercise physiology, biomechanics, nutrition science, and sports medicine.
+Each foundational topic is supported by decades of exercise science research. The principles covered here represent well-established concepts with extensive peer-reviewed backing across multiple disciplines including exercise physiology, biomechanics, nutrition science, and sports medicine. The provided recent evidence does not directly relate to the foundational concepts covered in this index, as it focuses on specialized supplementation and specific population studies rather than core exercise science principles.
 
 ## Practical Applications
 **Study Sequence Recommendations:**
@@ -88,16 +88,22 @@ Each foundational topic is supported by decades of exercise science research. Th
 - Use biomechanical principles to inform exercise selection
 - Apply training principles to optimize programming
 
+**Learning Timeline:**
+- Allow 2-4 weeks per domain for thorough understanding
+- Practice applying concepts through case studies and real-world scenarios
+- Review interconnections between topics regularly
+
 ## Common Mistakes
 ⚠️ Skipping foundational concepts to jump to advanced topics
 ⚠️ Studying topics in isolation without understanding interconnections
 ⚠️ Focusing only on one domain (e.g., just physiology) while ignoring others
 ⚠️ Not applying theoretical knowledge to practical scenarios
 ⚠️ Rushing through fundamentals without mastering core concepts
+⚠️ Assuming foundational knowledge is "basic" and therefore unimportant
 
 ## Related Concepts
 These foundational topics serve as prerequisites for all intermediate and advanced concepts in the knowledge base. Mastery of these fundamentals is essential before progressing to specialized training methodologies, advanced programming techniques, or population-specific applications.
 
 ## Update Log
-- December 2024: Restructured index with learning pathway recommendations and integration guidance
-[[A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM)]]
+- 2026-05-08: Promoted to OG. +0 DOI, +0 PMID, recommendation_delta=0.
+- December 2024: Restructured index with learning pathway recommendations and integration guidance, added practical timeline suggestions

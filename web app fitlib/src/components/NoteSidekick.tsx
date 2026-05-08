@@ -221,8 +221,23 @@ const LocalGraphlet: React.FC<LocalGraphProps> = ({ slice, focusId, onSelect }) 
     const ticks = Math.min(140, Math.ceil(Math.log(sim.alphaMin()) / Math.log(1 - sim.alphaDecay())));
     for (let i = 0; i < ticks; i++) sim.tick();
 
+    // Neighbour map for the hover-focus effect (Quartz-style).
+    const neighbours = new Map<string, Set<string>>();
+    nodesCopy.forEach((n) => neighbours.set(n.id, new Set([n.id])));
+    linksCopy.forEach((l: any) => {
+      const sId = typeof l.source === 'object' ? l.source.id : l.source;
+      const tId = typeof l.target === 'object' ? l.target.id : l.target;
+      neighbours.get(sId)?.add(tId);
+      neighbours.get(tId)?.add(sId);
+    });
+
+    const DIM = 0.15;
+    const FADE_MS = 180;
+    const baseRadius = (d: any) => (d.id === focusId ? 6.5 : 4);
+    const baseFill = (d: any) => (d.id === focusId ? 'var(--accent)' : 'var(--ink-faint)');
+
     const root = svg.append('g');
-    root
+    const lineSel = root
       .append('g')
       .selectAll('line')
       .data(linksCopy)
@@ -234,22 +249,26 @@ const LocalGraphlet: React.FC<LocalGraphProps> = ({ slice, focusId, onSelect }) 
       .attr('stroke', 'var(--hairline-strong)')
       .attr('stroke-width', 0.7);
 
-    root
+    const circleSel = root
       .append('g')
       .selectAll('circle')
       .data(nodesCopy)
       .join('circle')
       .attr('cx', (d: any) => d.x)
       .attr('cy', (d: any) => d.y)
-      .attr('r', (d: any) => (d.id === focusId ? 6.5 : 4))
-      .attr('fill', (d: any) => (d.id === focusId ? 'var(--accent)' : 'var(--ink-faint)'))
+      .attr('r', baseRadius)
+      .attr('fill', baseFill)
       .attr('stroke', (d: any) => (d.id === focusId ? 'var(--accent)' : 'transparent'))
       .attr('stroke-width', 1.2)
       .attr('opacity', (d: any) => (d.id === focusId ? 1 : 0.7))
       .style('cursor', 'pointer')
-      .on('click', (_e, d: any) => onSelect(d.id));
+      .on('click', (_e, d: any) => onSelect(d.id))
+      .on('mouseenter', (_e, d: any) => focus(d.id))
+      .on('mouseleave', () => focus(null));
 
-    root
+    // Labels hidden by default — only the focused node carries one.
+    // Hover reveals labels for the hovered node + its first-degree neighbours.
+    const textSel = root
       .append('g')
       .selectAll('text')
       .data(nodesCopy)
@@ -260,7 +279,48 @@ const LocalGraphlet: React.FC<LocalGraphProps> = ({ slice, focusId, onSelect }) 
       .attr('font-size', 9)
       .attr('font-family', 'var(--font-sans)')
       .attr('fill', (d: any) => (d.id === focusId ? 'var(--ink-strong)' : 'var(--ink-muted)'))
-      .style('pointer-events', 'none');
+      .style('pointer-events', 'none')
+      .style('opacity', (d: any) => (d.id === focusId ? 0.95 : 0));
+
+    function focus(activeId: string | null) {
+      const active = activeId ? neighbours.get(activeId) : null;
+
+      circleSel.transition('focus').duration(FADE_MS).ease(d3.easeCubicOut)
+        .attr('r', (n: any) => {
+          if (n.id === activeId) return baseRadius(n) + 1.5;
+          return baseRadius(n);
+        })
+        .attr('fill', (n: any) => (n.id === activeId ? 'var(--paper)' : baseFill(n)))
+        .attr('stroke', (n: any) => {
+          if (n.id === activeId || n.id === focusId) return 'var(--accent)';
+          return 'transparent';
+        })
+        .attr('opacity', (n: any) => {
+          if (!active) return n.id === focusId ? 1 : 0.7;
+          if (active.has(n.id)) return 1;
+          return DIM;
+        });
+
+      textSel.transition('focus').duration(FADE_MS).ease(d3.easeCubicOut)
+        .style('opacity', (n: any) => {
+          if (active && active.has(n.id)) return n.id === activeId ? 0.95 : 0.8;
+          return n.id === focusId ? 0.95 : 0;
+        });
+
+      lineSel.transition('focus').duration(FADE_MS).ease(d3.easeCubicOut)
+        .attr('stroke', (l: any) => {
+          if (!active) return 'var(--hairline-strong)';
+          const sId = typeof l.source === 'object' ? l.source.id : l.source;
+          const tId = typeof l.target === 'object' ? l.target.id : l.target;
+          return sId === activeId || tId === activeId ? 'var(--accent)' : 'var(--hairline-strong)';
+        })
+        .attr('stroke-opacity', (l: any) => {
+          if (!active) return 1;
+          const sId = typeof l.source === 'object' ? l.source.id : l.source;
+          const tId = typeof l.target === 'object' ? l.target.id : l.target;
+          return sId === activeId || tId === activeId ? 0.9 : DIM * 0.5;
+        });
+    }
   }, [slice, focusId, onSelect]);
 
   if (slice.nodes.length === 0) {
@@ -270,7 +330,7 @@ const LocalGraphlet: React.FC<LocalGraphProps> = ({ slice, focusId, onSelect }) 
       </p>
     );
   }
-  return <svg ref={svgRef} className="w-full h-44" aria-hidden />;
+  return <svg ref={svgRef} className="w-full h-44" role="img" aria-label="Local graph of related notes" />;
 };
 
 interface Heading {

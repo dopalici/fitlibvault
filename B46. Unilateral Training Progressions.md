@@ -1,107 +1,108 @@
 ### B46. Unilateral Training Progressions
 **ID:** B46--UNILATERAL-TRAINING-PROGRESSIONS
-**Created:** 2025-06-05 (Updated: 2025-06-05)
+**Created:** 2025-06-05 (Updated: 2025-01-27)
 
 ## Quick Takeaway
-
-B46. Unilateral Training Progressions represents a specialized training methodology with specific physiological mechanisms and evidence-based applications for enhancing athletic performance and training adaptations.
+Unilateral training progressions involve single-limb exercises that address strength imbalances, improve stability, and enhance functional movement patterns through systematic advancement from basic to complex movements.
 
 ## Key Points
-
-- B46. Unilateral Training Progressions utilizes specific physiological pathways to create targeted adaptations
-- Implementation requires systematic progression and careful monitoring of key variables
-- Individual response varies based on genetic, training, and environmental factors
-- Integration with existing training programs requires periodization considerations
-- Research supports specific protocols with documented outcomes and safety parameters
+- Unilateral training targets one limb at a time to identify and correct strength imbalances between sides
+- Single-limb exercises enhance proprioception, core stability, and functional movement patterns
+- Progressive overload applies through increased load, range of motion, instability, or movement complexity
+- Training transfers to bilateral movements and sport-specific activities requiring unilateral force production
+- Implementation requires careful assessment of limb differences and systematic progression protocols
 
 ## Deep Dive
 
-### Mechanisms of Action
+### Physiological Mechanisms
 
-B46. Unilateral Training Progressions operates through specific physiological pathways that enhance training adaptations and performance outcomes. The methodology targets key systems including neuromuscular coordination, metabolic efficiency, and tissue adaptation processes.
+Unilateral training creates unique neuromuscular demands compared to bilateral exercises. Single-limb loading requires increased core stabilization, proprioceptive awareness, and contralateral muscle activation to maintain balance and control. This training method exposes strength asymmetries that bilateral exercises may mask, allowing targeted correction of imbalances.
 
-### Implementation Protocols
+The cross-education effect occurs during unilateral training, where training one limb produces strength gains in the untrained contralateral limb through neural adaptations. This phenomenon involves interhemispheric transfer of motor learning and can be particularly valuable during injury rehabilitation.
 
-Effective application requires systematic progression and careful monitoring of training variables. Protocol design should consider individual fitness levels, training history, and specific performance goals.
+### Assessment and Identification
 
-### Physiological Adaptations
+Before implementing unilateral progressions, baseline assessment identifies existing asymmetries. Common evaluation methods include single-leg strength tests, balance assessments, and movement screens. Strength differences exceeding 10-15% between limbs typically warrant targeted intervention through unilateral training protocols.
 
-The training stimulus promotes adaptations in multiple systems, with primary benefits including enhanced strength, power, endurance, or skill-specific improvements depending on the protocol's focus.
+### Progressive Training Framework
 
-### Integration Strategies
+**Foundation Phase (Weeks 1-3):**
+- Basic single-limb exercises with body weight or light resistance
+- Focus on movement quality, balance, and proprioception
+- Examples: single-leg glute bridges, step-ups, single-arm rows
 
-Successful implementation requires thoughtful integration with existing training programs, considering factors such as training phase, competition schedule, and recovery requirements.
+**Development Phase (Weeks 4-8):**
+- Increased external load while maintaining movement quality
+- Introduction of unstable surfaces or multi-planar movements
+- Examples: single-leg deadlifts, Bulgarian split squats, single-arm presses
+
+**Integration Phase (Weeks 9-12):**
+- Complex movement patterns combining strength and stability
+- Sport-specific applications and higher intensities
+- Examples: single-leg hop progressions, rotational patterns, reactive exercises
+
+### Training Variables and Progression
+
+Load progression follows similar principles to bilateral training but requires attention to individual limb capabilities. Volume should initially favor the weaker limb to address imbalances, with the stronger limb matching the weaker limb's training volume rather than working to its full capacity.
+
+Stability challenges progress from stable surfaces to unstable platforms, from eyes open to eyes closed conditions, and from static holds to dynamic movements. Range of motion progressions advance from partial to full range, incorporating end-range strengthening as mobility allows.
 
 ## Research Evidence
 
-**Smith, J.A., et al. (2023).** Effects of b46. unilateral training progressions on athletic performance: A systematic review. *Journal of Strength and Conditioning Research*, 37(4), 1234-1245. DOI: https://doi.org/10.1519/JSC.0000000000004567
-
-**Johnson, M.B., et al. (2022).** Physiological adaptations to b46. unilateral training progressions: Meta-analysis of controlled trials. *Sports Medicine*, 52(8), 1891-1907. DOI: https://doi.org/10.1007/s40279-022-01698-1
-
-**Williams, K.C., et al. (2023).** Individual variability in response to b46. unilateral training progressions: Genetic and physiological factors. *International Journal of Sports Physiology and Performance*, 18(6), 612-625. DOI: https://doi.org/10.1123/ijspp.2022-0485
-
-**Brown, D.L., et al. (2022).** Implementation strategies for b46. unilateral training progressions in competitive athletics. *Medicine & Science in Sports & Exercise*, 54(9), 1456-1468. DOI: https://doi.org/10.1249/MSS.0000000000002891
-
-**Davis, R.E., et al. (2023).** Safety considerations and monitoring protocols for b46. unilateral training progressions. *British Journal of Sports Medicine*, 57(12), 734-742. DOI: https://doi.org/10.1136/bjsports-2022-106543
+**Note:** The current evidence base for unilateral training progressions is limited in high-quality research with verifiable citations. The studies in the provided evidence packet focus on general strength training effects rather than specific unilateral training protocols. More targeted research on unilateral training progressions is needed to provide evidence-based recommendations with working DOI links.
 
 ## Practical Applications
 
 ### Implementation Guidelines
 
-**Beginner Protocol:**
-- Initial exposure with reduced intensity and duration
-- Focus on adaptation monitoring and safety parameters
-- Progressive increase based on individual response
-- Integration with basic training program structure
+**Assessment Protocol:**
+1. Bilateral strength testing (e.g., leg press, bench press)
+2. Unilateral strength testing (e.g., single-leg press, single-arm press)
+3. Calculate strength ratios between limbs
+4. Identify imbalances exceeding 10-15%
 
-**Intermediate Protocol:**
-- Enhanced intensity with systematic progression
-- Multiple adaptation strategies and monitoring points
-- Periodized implementation with training cycle integration
-- Advanced technique refinement and optimization
+**Basic Progression Examples:**
 
-**Advanced Protocol:**
-- Competition-specific applications and timing
-- Maximum stimulus with comprehensive monitoring
-- Complex integration with elite training programs
-- Performance optimization and peak adaptation strategies
+**Upper Body:**
+- Week 1-2: Single-arm dumbbell press (seated)
+- Week 3-4: Single-arm dumbbell press (standing)
+- Week 5-6: Single-arm press with core rotation
+- Week 7-8: Single-arm press on unstable surface
 
-### Safety Considerations
+**Lower Body:**
+- Week 1-2: Step-ups with body weight
+- Week 3-4: Step-ups with external load
+- Week 5-6: Single-leg squats (assisted)
+- Week 7-8: Single-leg squats (unassisted)
 
-**Contraindications:**
-- Medical conditions requiring physician clearance
-- Current illness or compromised immune function
-- Inadequate baseline fitness or training preparation
-- Environmental factors limiting safe implementation
+### Programming Considerations
 
-**Monitoring Requirements:**
-- Baseline assessment and ongoing evaluation protocols
-- Physiological markers requiring regular tracking
-- Performance indicators and adaptation measurements
-- Safety parameters with clear intervention thresholds
+**Volume Distribution:**
+- Begin with 2-3 sets of 8-12 repetitions per limb
+- Weaker limb performs desired repetitions first
+- Stronger limb matches weaker limb's volume
+- Progress both limbs equally once balance is achieved
 
-### Integration with Training Programs
+**Frequency:**
+- 2-3 sessions per week for targeted muscle groups
+- Allow 48-72 hours recovery between sessions
+- Monitor fatigue and adjust volume accordingly
 
-**Periodization Strategy:**
-- Preparation phase implementation for base adaptations
-- Competition phase applications with performance focus
-- Recovery phase protocols for maintenance and restoration
-- Off-season intensive protocols for maximum adaptation
+## Common Mistakes
 
-**Load Management:**
-- Compatibility assessment with existing training loads
-- Recovery requirements and fatigue monitoring
-- Progressive overload principles and adaptation timelines
-- Individual response patterns and program modifications
+⚠️ **Ignoring the weaker limb:** Allowing the stronger limb to dominate training volume perpetuates imbalances
 
-## Related Topics
+⚠️ **Progressing too quickly:** Advancing to complex movements before mastering basic patterns increases injury risk
 
-[[A. Foundational Concepts]] - Basic physiological principles
-[[B. Resistance Training]] - Primary training methodologies
-[[F. Optimal Performance Factors]] - Performance enhancement strategies
-[[M. Recovery Strategies]] - Recovery and adaptation optimization
+⚠️ **Neglecting bilateral integration:** Failing to transfer unilateral gains back to bilateral movement patterns
 
----
-*Last Updated: 2025-06-05*
-*References: Evidence-based research citations with peer-review validation*
-*Applications: Practical implementation with safety considerations*
+⚠️ **Poor exercise selection:** Choosing exercises that don't address specific imbalances or movement deficits
+
+⚠️ **Inadequate assessment:** Implementing unilateral training without identifying actual asymmetries or movement limitations
+
+## Related Concepts
+
+Understanding proper [[A. Foundational Concepts]] provides the physiological basis for unilateral training adaptations. Integration with broader [[B. Resistance Training]] programs ensures balanced development. Consider [[F. Optimal Performance Factors]] when timing unilateral training phases, and implement appropriate [[M. Recovery Strategies]] to support adaptation while managing the increased stability demands.
+
+## Update Log
+- 2025-01-27: Restructured content for accessibility, added practical progressions, noted limitations in current research evidence base, maintained all existing links

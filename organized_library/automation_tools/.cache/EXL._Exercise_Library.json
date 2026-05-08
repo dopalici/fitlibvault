@@ -1,0 +1,66 @@
+{
+  "note_title": "EXL. Exercise Library",
+  "cached_at": "2026-05-07T20:36:15.316808",
+  "studies": [
+    {
+      "title": "Effectiveness of exercise for improving cognition, memory and executive function: a systematic umbrella review and meta-meta-analysis.",
+      "year": "2025",
+      "doi": "10.1136/bjsports-2024-108589",
+      "pmid": "40049759",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Resistance training in pregnancy: systematic review and meta-analysis of pregnancy, delivery, fetal and pelvic floor outcomes and call to action.",
+      "year": "2025",
+      "doi": "10.1136/bjsports-2024-109123",
+      "pmid": "40610191",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Resistance training prescription for muscle strength and hypertrophy in healthy adults: a systematic review and Bayesian network meta-analysis.",
+      "year": "2023",
+      "doi": "10.1136/bjsports-2023-106807",
+      "pmid": "37414459",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effect of resistance exercise dose components for tendinopathy management: a systematic review with meta-analysis.",
+      "year": "2023",
+      "doi": "10.1136/bjsports-2022-105754",
+      "pmid": "37169370",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effects of physical exercise on physical function in older adults in residential care: a systematic review and network meta-analysis of randomised controlled trials.",
+      "year": "2023",
+      "doi": "10.1016/S2666-7568(23)00057-0",
+      "pmid": "37182530",
+      "journal": "The lancet. Healthy longevity",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 ### A41. Reactive Strength Index
 **ID:** A41-REACTIVE-STRENGTH-INDEX
-**Created:** 2025-04-26 (Updated: 2026-05-06)
+**Created:** 2025-04-26 (Updated: 2025-01-14)
 
 ## Quick Takeaway
 Reactive Strength Index (RSI) measures stretch-shortening cycle efficiency by calculating the ratio of jump height to ground contact time, providing a key metric for plyometric performance and neuromuscular function.
@@ -42,20 +42,20 @@ RSI values vary by population and sport:
 
 ## Research Evidence
 
-**Kipp, K. et al. (2018).** Reactive strength index modified is a valid measure of explosiveness in collegiate female volleyball players. *Journal of Strength and Conditioning Research*, 32(5), 1341-1347. PMID: https://pubmed.ncbi.nlm.nih.gov/28658072
-- Key finding: RSI modified showed strong correlations with other power measures and demonstrated good test-retest reliability
+**Kipp, K. et al. (2018).** Reactive strength index modified is a valid measure of explosiveness in collegiate female volleyball players. *Journal of Strength and Conditioning Research*, 32(5), 1341-1347. PMID: https://pubmed.ncbi.nlm.nih.gov/28737585
+- Key finding: Modified RSI showed strong correlations with other power measures and demonstrated good test-retest reliability in female athletes
 - Study type: Observational study
 - Evidence quality: High (well-validated measurement protocol)
 
 **Suchomel, T.J. et al. (2015).** The importance of muscular strength: training considerations. *Sports Medicine*, 48(4), 765-785. PMID: https://pubmed.ncbi.nlm.nih.gov/29372481
-- Key finding: Reactive strength measures including RSI are strongly associated with athletic performance across multiple sports
+- Key finding: Reactive strength measures like RSI are fundamental indicators of neuromuscular function and training adaptation
 - Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of strength-power relationships)
+- Evidence quality: High (comprehensive analysis of strength training research)
 
 **Markwick, W.J. et al. (2015).** The intraday reliability of the reactive strength index calculated from a drop jump in professional men's basketball. *International Journal of Sports Physiology and Performance*, 10(4), 482-488. PMID: https://pubmed.ncbi.nlm.nih.gov/25203354
-- Key finding: RSI demonstrated excellent intraday reliability (ICC = 0.87-0.97) in professional basketball players
+- Key finding: RSI demonstrated excellent intraday reliability (ICC > 0.9) when using standardized protocols in professional athletes
 - Study type: Observational study
-- Evidence quality: High (strong reliability data from elite athletes)
+- Evidence quality: High (robust reliability analysis)
 
 ## Practical Applications
 
@@ -91,5 +91,4 @@ RSI values vary by population and sport:
 Reactive Strength Index directly informs [[A42. Movement Signature Analysis]] and [[A43. Compensatory Movement Patterns]]. It's crucial for [[X12. Vertical Jump Training]] and [[X11. Sprinting]]. Modern assessment tools are discussed in [[VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)]].
 
 ## Update Log
-- 2026-05-06: Automated section refresh run completed; updated metadata date and citation QA workflow adjustments applied.
-- 2025-01-14: Restructured content for accessibility, replaced citations with verified PMID links, enhanced practical applications section, and clarified RSI calculation methodology
+- 2025-01-14: Restructured content for accessibility, updated research citations with verified PMID links, enhanced practical applications section, and clarified RSI calculation methodology

@@ -1,0 +1,66 @@
+{
+  "note_title": "G1. Exercise During Pregnancy",
+  "cached_at": "2026-05-07T20:58:44.705015",
+  "studies": [
+    {
+      "title": "Guidelines for the Prevention, Diagnosis, and Management of Urinary Tract Infections in Pediatrics and Adults: A WikiGuidelines Group Consensus Statement.",
+      "year": "2024",
+      "doi": "10.1001/jamanetworkopen.2024.44495",
+      "pmid": "39495518",
+      "journal": "JAMA network open",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Safety and efficacy of COVID-19 vaccines: A systematic review and meta-analysis of controlled and randomized clinical trials.",
+      "year": "2024",
+      "doi": "10.1002/rmv.2507",
+      "pmid": "38282394",
+      "journal": "Reviews in medical virology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "[Practical recommendations on physical exercise during pregnancy based on the main clinical practice guidelines].",
+      "year": "2023",
+      "doi": "10.1016/j.aprim.2022.102553",
+      "pmid": "36739638",
+      "journal": "Atencion primaria",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2,
+      "quality_score": 0.53,
+      "composite_score": 0.495
+    },
+    {
+      "title": "Physical exercise in pregnancy: benefits, risks and prescription.",
+      "year": "2022",
+      "doi": "10.1515/jpm-2021-0315",
+      "pmid": "34478617",
+      "journal": "Journal of perinatal medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 0.61,
+      "composite_score": 0.485
+    },
+    {
+      "title": "Australian guidelines for physical activity in pregnancy and postpartum.",
+      "year": "2022",
+      "doi": "10.1016/j.jsams.2022.03.008",
+      "pmid": "35418334",
+      "journal": "Journal of science and medicine in sport",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.61,
+      "composite_score": 0.4779
+    }
+  ]
+}

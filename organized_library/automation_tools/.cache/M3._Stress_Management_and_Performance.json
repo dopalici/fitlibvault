@@ -1,0 +1,66 @@
+{
+  "note_title": "M3. Stress Management and Performance",
+  "cached_at": "2026-05-07T21:34:46.993315",
+  "studies": [
+    {
+      "title": "From Food Supplements to Functional Foods: Emerging Perspectives on Post-Exercise Recovery Nutrition.",
+      "year": "2024",
+      "doi": "10.3390/nu16234081",
+      "pmid": "39683475",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Effects of cold-water immersion on health and wellbeing: A systematic review and meta-analysis.",
+      "year": "2025",
+      "doi": "10.1371/journal.pone.0317615",
+      "pmid": "39879231",
+      "journal": "PloS one",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.54
+    },
+    {
+      "title": "Effects of Withania somnifera Extract in Chronically Stressed Adults: A Randomized Controlled Trial.",
+      "year": "2024",
+      "doi": "10.3390/nu16091293",
+      "pmid": "38732539",
+      "journal": "Nutrients",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    },
+    {
+      "title": "Job satisfaction and burnout syndrome among intensive-care unit nurses: A systematic review and meta-analysis.",
+      "year": "2024",
+      "doi": "10.1016/j.iccn.2024.103660",
+      "pmid": "38394983",
+      "journal": "Intensive & critical care nursing",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.51
+    },
+    {
+      "title": "Does Ashwagandha supplementation have a beneficial effect on the management of anxiety and stress? A systematic review and meta-analysis of randomized controlled trials.",
+      "year": "2022",
+      "doi": "10.1002/ptr.7598",
+      "pmid": "36017529",
+      "journal": "Phytotherapy research : PTR",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.125,
+      "quality_score": 0.68,
+      "composite_score": 0.5075
+    }
+  ]
+}

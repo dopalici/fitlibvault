@@ -1,1 +1,1 @@
-{"nodeId":"P7-CONFIDENTIALITY-PRIVACY","cards":[]}
+{"nodeId":"P7-CONFIDENTIALITY-PRIVACY","cards":[{"id":"jw0cal","nodeId":"P7-CONFIDENTIALITY-PRIVACY","prompt":"Health data protection involves secure handling of medical histories, injury records, and fitness assessments while maintaining ____ compliance where applicable","answer":"HIPAA","acceptableAnswers":["HIPAA","hipaa"],"context":"Health data protection involves secure handling of medical histories, injury records, and fitness assessments while maintaining HIPAA compliance where applicable","sourceIndex":2}]}

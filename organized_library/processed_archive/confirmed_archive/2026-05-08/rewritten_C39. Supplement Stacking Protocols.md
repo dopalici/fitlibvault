@@ -1,0 +1,88 @@
+### C39. Supplement Stacking Protocols
+
+**ID:** C39-SUPPLEMENT-STACKING-PROTOCOLS
+**Created:** 2025-06-05 (Updated: 2025-01-21)
+
+## Quick Takeaway
+Supplement stacking combines multiple evidence-based supplements using specific timing and dosing protocols to maximize synergistic effects while maintaining safety and anti-doping compliance.
+
+## Key Points
+- Effective stacking requires understanding supplement interactions (synergistic, antagonistic, or neutral)
+- Timing protocols are crucial for optimizing bioavailability and preventing interference between supplements
+- Goal-specific combinations should target strength, endurance, recovery, or body composition outcomes
+- Safety monitoring and anti-doping compliance are essential for all stacked protocols
+- Evidence-based combinations outperform random supplement mixing
+
+## Deep Dive
+
+### Understanding Supplement Interactions
+
+Supplement stacking effectiveness depends on how individual ingredients interact at the molecular level. Synergistic combinations produce effects greater than the sum of individual supplements, while antagonistic combinations may reduce overall effectiveness. Understanding these interactions through evidence-based supplement selection [[C21. Evidence-Based Supplements (Group A)]] ensures optimal outcomes.
+
+Common synergistic combinations include creatine with beta-alanine for power sports, or caffeine with L-theanine for cognitive enhancement during training. These combinations work through complementary mechanisms that enhance overall performance beyond what each supplement provides individually.
+
+### Timing Optimization Strategies
+
+Proper timing protocols maximize supplement bioavailability and prevent competitive absorption. Fat-soluble vitamins require different timing than water-soluble compounds, and some supplements work better when taken together while others should be separated by hours.
+
+Pre-exercise timing focuses on supplements that enhance immediate performance [[C5. Pre, During, and Post-Exercise Nutrition]], while post-exercise protocols target recovery and adaptation [[C3. Nutrient Timing]]. Understanding these temporal relationships is crucial for stack effectiveness.
+
+### Goal-Specific Stacking Protocols
+
+Different training goals require distinct supplement combinations. Hypertrophy-focused stacks might combine creatine, protein, and HMB [[C25. Nutrition for Muscle Gain (Hypertrophy)]], while endurance protocols may emphasize caffeine, beta-alanine, and electrolytes.
+
+Fat loss stacks often include thermogenic compounds with appetite suppressants and metabolic enhancers [[C26. Nutrition for Fat Loss]], but require careful monitoring for stimulant interactions and cardiovascular effects.
+
+### Safety and Quality Considerations
+
+All stacked supplements must meet rigorous safety standards and quality control measures [[C23. Supplement Safety, Regulation, and Quality Control]]. This includes third-party testing, proper manufacturing practices, and verification of ingredient purity and potency.
+
+Anti-doping compliance requires checking each supplement against prohibited substance lists, as some combinations may contain banned ingredients or metabolic precursors [[P2. Performance Enhancement Ethics]]. Regular monitoring for adverse effects becomes more important with multiple supplements.
+
+## Research Evidence
+
+**Note:** The provided evidence packet contains studies with quality scores of 0.00 and minimal relevance to supplement stacking protocols. These studies focus on unrelated topics (plant biology, COVID-19 research, university programs) and do not provide valid evidence for supplement stacking recommendations. Following the requirement for working DOI/PMID links and relevant, high-quality evidence, no citations from this packet meet the inclusion criteria.
+
+## Practical Applications
+
+### Basic Strength Stack
+- Creatine monohydrate: 3-5g daily, timing flexible
+- Beta-alanine: 3-5g daily, split into smaller doses
+- Caffeine: 3-6mg/kg bodyweight, 30-45 minutes pre-workout
+- Take creatine and beta-alanine consistently; time caffeine strategically
+
+### Endurance Performance Stack
+- Caffeine: 3-6mg/kg bodyweight, 30-60 minutes before exercise
+- Beta-alanine: 3-5g daily for 2-4 weeks loading
+- Sodium bicarbonate: 0.3g/kg bodyweight, 60-90 minutes pre-exercise (for events 1-7 minutes)
+- Monitor gastrointestinal tolerance with bicarbonate
+
+### Recovery-Focused Stack
+- Protein: 20-40g post-exercise
+- Creatine: 3-5g daily, can combine with protein
+- Tart cherry extract: 480mg twice daily
+- Magnesium: 200-400mg before bed
+- Separate magnesium from other minerals by 2+ hours
+
+## Common Mistakes
+
+⚠️ **Timing Conflicts:** Taking competing supplements simultaneously (e.g., calcium with iron, zinc with copper)
+
+⚠️ **Overdosing:** Assuming more supplements equal better results, leading to excessive intake and potential toxicity
+
+⚠️ **Ignoring Interactions:** Combining stimulants without considering cumulative effects on heart rate and blood pressure
+
+⚠️ **Poor Quality Control:** Mixing supplements from different manufacturers without verifying third-party testing
+
+⚠️ **Neglecting Individual Response:** Not monitoring personal tolerance and effectiveness of specific combinations
+
+## Related Concepts
+
+Evidence-based supplement selection [[C21. Evidence-Based Supplements (Group A)]] forms the foundation for effective stacking protocols. Understanding the broader supplement framework [[C20. Supplements (Overview & Framework)]] helps identify appropriate candidates for combination use.
+
+Proper nutrient timing principles [[C3. Nutrient Timing]] and exercise-specific nutrition strategies [[C5. Pre, During, and Post-Exercise Nutrition]] guide optimal timing protocols. Safety considerations [[C23. Supplement Safety, Regulation, and Quality Control]] and ergogenic aid classification [[C24. Ergogenic Aids]] ensure responsible stacking practices.
+
+Goal-specific nutrition approaches for muscle gain [[C25. Nutrition for Muscle Gain (Hypertrophy)]] and fat loss [[C26. Nutrition for Fat Loss]] inform targeted stacking strategies. Ethical considerations [[P2. Performance Enhancement Ethics]] guide appropriate use in competitive settings.
+
+## Update Log
+- 2025-01-21: Enhanced structure for accessibility, added practical protocols, noted evidence quality issues in provided packet

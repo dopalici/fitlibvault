@@ -1,0 +1,77 @@
+### Cardiovascular Disease Exercise Prescription
+**ID:** G8
+**Created:** 2025-06-05 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Exercise prescription for cardiovascular disease requires specialized protocols with careful risk stratification, heart rate monitoring, and gradual progression to improve cardiac function while ensuring patient safety.
+
+## Key Points
+- Risk stratification determines appropriate exercise supervision levels and safety protocols
+- Heart rate zones and RPE guide safe exercise intensity for cardiac populations
+- Aerobic training forms the foundation with gradual progression from low to moderate intensity
+- Resistance training can be safely integrated with modified protocols and proper monitoring
+- Multidisciplinary collaboration between exercise professionals and healthcare providers is essential
+
+## Deep Dive
+
+### Risk Stratification and Medical Clearance
+Comprehensive assessment protocols determine exercise safety and appropriate supervision levels. This process connects to [[IX-6. Exercise Contraindications]] and involves evaluating cardiac function, exercise capacity, and potential complications. Risk stratification guides whether patients require supervised cardiac rehabilitation or can participate in community-based programs.
+
+### Exercise Intensity Prescription
+Precise exercise intensity prescription uses multiple monitoring methods including heart rate zones, rating of perceived exertion (RPE), and metabolic equivalents (METs). This approach relates to [[E13. Heart Rate Zone Training]] and [[A8. Cardiovascular Physiology Fundamentals]], ensuring exercise remains within safe therapeutic ranges while promoting cardiovascular adaptations.
+
+### Aerobic Exercise Foundation
+Low-to-moderate intensity cardiovascular training forms the cornerstone of cardiac exercise prescription. This emphasis on aerobic base development connects to [[E2. Steady-State Cardio (LISS - Low-Intensity Steady State)]] and [[E11. VO2 Max Training]], promoting improved cardiac output, stroke volume, and overall cardiovascular efficiency through [[A39. Cardiovascular Adaptations to Training]].
+
+### Resistance Training Integration
+Safe integration of strength training requires modified protocols considering cardiac limitations. This connects to [[B4. Strength Training Principles]] while applying [[A19. Principle of Overload]] and [[A21. Principle of Progression]] in a controlled manner. Resistance training typically begins with lighter loads and higher repetitions to minimize cardiovascular stress.
+
+### Monitoring and Progression
+Continuous monitoring during exercise sessions allows for real-time adjustments and safety assurance. Progress tracking through [[Q4. Interpreting Biometric & Progress Data]] helps optimize exercise prescription while ensuring patient safety throughout the rehabilitation process.
+
+## Research Evidence
+
+**Vromen et al. (2023).** Practical guidelines for exercise prescription in patients with chronic heart failure. *Heart Failure Reviews*, 28(4), 823-836. DOI: https://doi.org/10.1007/s10741-023-10310-9
+- Key finding: Structured exercise programs combining aerobic and resistance training improve functional capacity and quality of life in heart failure patients
+- Study type: Systematic review
+- Evidence quality: Medium (comprehensive review of clinical guidelines)
+
+**Zheng et al. (2022).** Resistance Training and Mortality Risk: A Systematic Review and Meta-Analysis. *American Journal of Preventive Medicine*, 63(5), 719-728. DOI: https://doi.org/10.1016/j.amepre.2022.03.020
+- Key finding: Resistance training is associated with reduced all-cause and cardiovascular mortality risk
+- Study type: Meta-analysis
+- Evidence quality: High (large sample size with robust methodology)
+
+**Cramer et al. (2024).** Isometric Exercise Training and Arterial Hypertension: An Updated Review. *Sports Medicine*, 54(6), 1459-1497. DOI: https://doi.org/10.1007/s40279-024-02036-x
+- Key finding: Isometric exercise training produces clinically meaningful blood pressure reductions in hypertensive populations
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of current evidence)
+
+## Practical Applications
+
+**Phase I (Inpatient/Immediate Post-Event):**
+- Supervised ambulation 2-3 times daily
+- Activities of daily living with monitoring
+- Heart rate <120 bpm or <20 bpm above resting
+
+**Phase II (Outpatient Cardiac Rehabilitation):**
+- 3-4 sessions per week for 8-12 weeks
+- 40-80% heart rate reserve or RPE 11-14
+- 20-60 minutes aerobic exercise plus resistance training
+
+**Phase III (Maintenance):**
+- 150 minutes moderate intensity or 75 minutes vigorous weekly
+- 2-3 resistance training sessions per week
+- 8-12 exercises, 1-3 sets, 10-15 repetitions at 40-80% 1RM
+
+## Common Mistakes
+⚠️ Starting exercise intensity too high without proper risk stratification
+⚠️ Inadequate monitoring during exercise sessions, especially heart rate and symptoms
+⚠️ Progressing too rapidly without allowing adequate adaptation time
+⚠️ Ignoring contraindications or warning signs during exercise
+⚠️ Failing to coordinate with healthcare team for medication and condition management
+
+## Related Concepts
+Safe exercise prescription requires understanding [[IX-6. Exercise Contraindications]] and proper application of [[A19. Principle of Overload]] and [[A21. Principle of Progression]]. Cardiovascular improvements occur through [[A39. Cardiovascular Adaptations to Training]] and [[A8. Cardiovascular Physiology Fundamentals]]. Exercise modalities include [[E2. Steady-State Cardio (LISS - Low-Intensity Steady State)]], [[E11. VO2 Max Training]], and [[E13. Heart Rate Zone Training]], with strength components following [[B4. Strength Training Principles]]. Progress monitoring utilizes [[Q4. Interpreting Biometric & Progress Data]].
+
+## Update Log
+- 2025-01-27: Enhanced structure, added current research evidence, expanded practical applications and safety considerations

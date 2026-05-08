@@ -1,0 +1,66 @@
+{
+  "note_title": "B3. Hypertrophy Training Principles",
+  "cached_at": "2026-05-07T18:15:16.468908",
+  "studies": [
+    {
+      "title": "Influence of Resistance Training Proximity-to-Failure on Skeletal Muscle Hypertrophy: A Systematic Review with Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1007/s40279-022-01784-y",
+      "pmid": "36334240",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Resistance training prescription for muscle strength and hypertrophy in healthy adults: a systematic review and Bayesian network meta-analysis.",
+      "year": "2023",
+      "doi": "10.1136/bjsports-2023-106807",
+      "pmid": "37414459",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0769,
+      "quality_score": 1.0,
+      "composite_score": 0.6931
+    },
+    {
+      "title": "The Effects of Creatine Supplementation Combined with Resistance Training on Regional Measures of Muscle Hypertrophy: A Systematic Review with Meta-Analysis.",
+      "year": "2023",
+      "doi": "10.3390/nu15092116",
+      "pmid": "37432300",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0769,
+      "quality_score": 1.0,
+      "composite_score": 0.6931
+    },
+    {
+      "title": "Effect of Strength Training Programs in Middle- and Long-Distance Runners' Economy at Different Running Speeds: A Systematic Review with Meta-analysis.",
+      "year": "2024",
+      "doi": "10.1007/s40279-023-01978-y",
+      "pmid": "38165636",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effects of Periodization on Strength and Muscle Hypertrophy in Volume-Equated Resistance Training Programs: A Systematic Review and Meta-analysis.",
+      "year": "2022",
+      "doi": "10.1007/s40279-021-01636-1",
+      "pmid": "35044672",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0833,
+      "quality_score": 1.0,
+      "composite_score": 0.655
+    }
+  ]
+}

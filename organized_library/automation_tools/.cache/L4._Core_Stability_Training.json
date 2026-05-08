@@ -1,0 +1,66 @@
+{
+  "note_title": "L4. Core Stability Training",
+  "cached_at": "2026-05-07T21:32:50.079632",
+  "studies": [
+    {
+      "title": "Effectiveness of core stability programs in the prevention of sports injuries: a scope review.",
+      "year": "2026",
+      "doi": "10.23736/S0022-4707.25.17402-1",
+      "pmid": "41556733",
+      "journal": "The Journal of sports medicine and physical fitness",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2222,
+      "quality_score": 0.85,
+      "composite_score": 0.6917
+    },
+    {
+      "title": "Effects of core stability training on swimmers' specific performance: A systematic review with meta-analysis.",
+      "year": "2025",
+      "doi": "10.1016/j.jbmt.2025.03.005",
+      "pmid": "40325637",
+      "journal": "Journal of bodywork and movement therapies",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2222,
+      "quality_score": 0.76,
+      "composite_score": 0.6467
+    },
+    {
+      "title": "Investigating the effects of core stability training on balance and gait in people with multiple sclerosis: A systematic review and meta-analysis.",
+      "year": "2024",
+      "doi": "10.1016/j.msard.2024.105686",
+      "pmid": "38850684",
+      "journal": "Multiple sclerosis and related disorders",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 0.68,
+      "composite_score": 0.56
+    },
+    {
+      "title": "The effect of core stability training combined with fascial release on patients with nonspecific low back pain.",
+      "year": "2025",
+      "doi": "10.3233/THC-240902",
+      "pmid": "39177625",
+      "journal": "Technology and health care : official journal of the European Society for Engineering and Medicine",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1818,
+      "quality_score": 0.46,
+      "composite_score": 0.4845
+    },
+    {
+      "title": "Effects of Core Stability Training on Deep Stabilizing Muscle Function and Neuromuscular Control.",
+      "year": "2025",
+      "doi": "10.3390/medicina61030364",
+      "pmid": "40142175",
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2222,
+      "quality_score": 0.38,
+      "composite_score": 0.4567
+    }
+  ]
+}

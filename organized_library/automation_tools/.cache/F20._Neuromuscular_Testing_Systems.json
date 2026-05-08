@@ -1,0 +1,66 @@
+{
+  "note_title": "Neuromuscular Testing Systems",
+  "cached_at": "2026-05-07T20:44:14.580493",
+  "studies": [
+    {
+      "title": "The Miami Framework for ALS and related neurodegenerative disorders: an integrated view of phenotype and biology.",
+      "year": "2024",
+      "doi": "10.1038/s41582-024-00961-z",
+      "pmid": "38769202",
+      "journal": "Nature reviews. Neurology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Neurological adverse events of immune checkpoint inhibitors and the development of paraneoplastic neurological syndromes.",
+      "year": "2024",
+      "doi": "10.1016/S1474-4422(23)00369-1",
+      "pmid": "38101905",
+      "journal": "The Lancet. Neurology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "International Guideline for Idiopathic Inflammatory Myopathy-Associated Cancer Screening: an International Myositis Assessment and Clinical Studies\u00a0Group (IMACS)\u00a0initiative.",
+      "year": "2023",
+      "doi": "10.1038/s41584-023-01045-w",
+      "pmid": "37945774",
+      "journal": "Nature reviews. Rheumatology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "International norms for adult handgrip strength: A systematic review of data on 2.4 million adults aged 20 to 100+ years from 69 countries and regions.",
+      "year": "2025",
+      "doi": "10.1016/j.jshs.2024.101014",
+      "pmid": "39647778",
+      "journal": "Journal of sport and health science",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    },
+    {
+      "title": "Clinical significance and applications of oscillometry.",
+      "year": "2022",
+      "doi": "10.1183/16000617.0208-2021",
+      "pmid": "35140105",
+      "journal": "European respiratory review : an official journal of the European Respiratory Society",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.475
+    }
+  ]
+}

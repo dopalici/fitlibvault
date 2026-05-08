@@ -1,0 +1,66 @@
+{
+  "note_title": "F8. Wingate Test Protocol",
+  "cached_at": "2026-05-07T20:55:55.531703",
+  "studies": [
+    {
+      "title": "Assessment of Aerobic Fitness and Repeated Sprint Ability in Elite Male Soccer: A Systematic Review of Test Protocols Used in Practice and Research.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02188-4",
+      "pmid": "40220211",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0556,
+      "quality_score": 0.85,
+      "composite_score": 0.6417
+    },
+    {
+      "title": "Power profiling and the power-duration relationship in cycling: a narrative review.",
+      "year": "2022",
+      "doi": "10.1007/s00421-021-04833-y",
+      "pmid": "34708276",
+      "journal": "European journal of applied physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Determining the Levels of Cortisol, Testosterone, Lactic Acid and Anaerobic Performance in Athletes Using Various Forms of Coffee.",
+      "year": "2024",
+      "doi": "10.3390/nu16193228",
+      "pmid": "39408196",
+      "journal": "Nutrients",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    },
+    {
+      "title": "Animal Models of Rotator Cuff Injury and Repair: A Systematic Review.",
+      "year": "2022",
+      "doi": "10.1089/ten.TEB.2022.0034",
+      "pmid": "35972750",
+      "journal": "Tissue engineering. Part B, Reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.475
+    },
+    {
+      "title": "Effects of Strength Training on Physical Fitness of Olympic Combat Sports Athletes: A Systematic Review.",
+      "year": "2023",
+      "doi": "10.3390/ijerph20043516",
+      "pmid": "36834211",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

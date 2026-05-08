@@ -1,0 +1,66 @@
+{
+  "note_title": "B47. Movement Flow Training",
+  "cached_at": "2026-05-07T18:23:41.455423",
+  "studies": [
+    {
+      "title": "American College of Sports Medicine Position Stand. Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults: An Overview of Reviews.",
+      "year": "2026",
+      "doi": "10.1249/MSS.0000000000003897",
+      "pmid": "41843416",
+      "journal": "Medicine and science in sports and exercise",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "An Overview of Blood Flow Restriction Physiology and Clinical Considerations.",
+      "year": "2022",
+      "doi": "10.1249/JSR.0000000000000948",
+      "pmid": "35394953",
+      "journal": "Current sports medicine reports",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.85,
+      "composite_score": 0.5883
+    },
+    {
+      "title": "The Efficacy of Blood Flow Restriction Training to Improve Quadriceps Muscle Function after Anterior Cruciate Ligament Reconstruction.",
+      "year": "2025",
+      "doi": "10.1249/MSS.0000000000003573",
+      "pmid": "39350350",
+      "journal": "Medicine and science in sports and exercise",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0667,
+      "quality_score": 0.7,
+      "composite_score": 0.57
+    },
+    {
+      "title": "Resistance training in heart failure patients: a systematic review and meta-analysis.",
+      "year": "2022",
+      "doi": "10.1007/s10741-021-10169-8",
+      "pmid": "34542742",
+      "journal": "Heart failure reviews",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Resistance Training and Muscle Strength in people with Spinal cord injury: A systematic review and meta-analysis.",
+      "year": "2022",
+      "doi": "10.1016/j.jbmt.2021.09.031",
+      "pmid": "35248264",
+      "journal": "Journal of bodywork and movement therapies",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.51
+    }
+  ]
+}

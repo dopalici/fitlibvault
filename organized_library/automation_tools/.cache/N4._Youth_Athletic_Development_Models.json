@@ -1,0 +1,66 @@
+{
+  "note_title": "N4. Youth Athletic Development Models",
+  "cached_at": "2026-05-07T21:40:58.443496",
+  "studies": [
+    {
+      "title": "The Effects of Strength, Plyometric and Combined Training on Strength, Power and Speed Characteristics in High-Level, Highly Trained Male Youth Soccer Players: A Systematic Review and Meta-Analysis.",
+      "year": "2024",
+      "doi": "10.1007/s40279-023-01944-8",
+      "pmid": "37897637",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.05,
+      "quality_score": 1.0,
+      "composite_score": 0.685
+    },
+    {
+      "title": "Do Exercise-Based Prevention Programs Reduce Injury in Endurance Runners? A Systematic Review and Meta-Analysis.",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-01993-7",
+      "pmid": "38261240",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Association between Food, Beverages and Overweight/Obesity in Children and Adolescents-A Systematic Review and Meta-Analysis of Observational Studies.",
+      "year": "2023",
+      "doi": "10.3390/nu15030764",
+      "pmid": "36771470",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1007/s40279-023-01825-0",
+      "pmid": "36906633",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Comparison of Weightlifting, Traditional Resistance Training and Plyometrics on Strength, Power and Speed: A Systematic Review with Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.1007/s40279-021-01627-2",
+      "pmid": "35025093",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    }
+  ]
+}

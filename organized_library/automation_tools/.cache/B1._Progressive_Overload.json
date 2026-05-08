@@ -1,0 +1,66 @@
+{
+  "note_title": "B1. Progressive Overload",
+  "cached_at": "2026-05-07T18:06:22.321530",
+  "studies": [
+    {
+      "title": "The Effects of Creatine Supplementation Combined with Resistance Training on Regional Measures of Muscle Hypertrophy: A Systematic Review with Meta-Analysis.",
+      "year": "2023",
+      "doi": "10.3390/nu15092116",
+      "pmid": "37432300",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effect of Strength Training Programs in Middle- and Long-Distance Runners' Economy at Different Running Speeds: A Systematic Review with Meta-analysis.",
+      "year": "2024",
+      "doi": "10.1007/s40279-023-01978-y",
+      "pmid": "38165636",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "The Effect of Carbohydrate Intake on Strength and Resistance Training Performance: A Systematic Review.",
+      "year": "2022",
+      "doi": "10.3390/nu14040856",
+      "pmid": "35215506",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Effects of Resistance Training Overload Progression Protocols on Strength and Muscle Mass.",
+      "year": "2024",
+      "doi": "10.1055/a-2256-5857",
+      "pmid": "38286426",
+      "journal": "International journal of sports medicine",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.7,
+      "composite_score": 0.5533
+    },
+    {
+      "title": "The Effect of Resistance Training on the Rehabilitation of Elderly Patients with Sarcopenia: A Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.3390/ijerph192315491",
+      "pmid": "36497565",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.51
+    }
+  ]
+}

@@ -1,1 +1,1 @@
-{"nodeId":"F18","cards":[]}
+{"nodeId":"F18","cards":[{"id":"udhea","nodeId":"F18","prompt":"Heart rate variability (____) provides non-invasive assessment of autonomic nervous system recovery status","answer":"HRV","acceptableAnswers":["HRV","hrv"],"context":"Heart rate variability (HRV) provides non-invasive assessment of autonomic nervous system recovery status","sourceIndex":0}]}

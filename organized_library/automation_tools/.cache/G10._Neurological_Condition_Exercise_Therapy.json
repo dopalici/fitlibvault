@@ -1,0 +1,66 @@
+{
+  "note_title": "Neurological Condition Exercise Therapy",
+  "cached_at": "2026-05-07T20:59:13.657331",
+  "studies": [
+    {
+      "title": "Exercise and Neuropathy: Systematic Review with Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.1007/s40279-021-01596-6",
+      "pmid": "34964950",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    },
+    {
+      "title": "Safety and efficacy of COVID-19 vaccines: A systematic review and meta-analysis of controlled and randomized clinical trials.",
+      "year": "2024",
+      "doi": "10.1002/rmv.2507",
+      "pmid": "38282394",
+      "journal": "Reviews in medical virology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "Cognitive rehabilitation and aerobic exercise for cognitive impairment in people with progressive multiple sclerosis (CogEx): a randomised, blinded, sham-controlled trial.",
+      "year": "2023",
+      "doi": "10.1016/S1474-4422(23)00280-6",
+      "pmid": "37739574",
+      "journal": "The Lancet. Neurology",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    },
+    {
+      "title": "Global consensus on optimal exercise recommendations for enhancing healthy longevity in older adults (ICFSR).",
+      "year": "2025",
+      "doi": "10.1016/j.jnha.2024.100401",
+      "pmid": "39743381",
+      "journal": "The journal of nutrition, health & aging",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    },
+    {
+      "title": "Exercise as medicine in Parkinson's disease.",
+      "year": "2024",
+      "doi": "10.1136/jnnp-2023-332974",
+      "pmid": "38418216",
+      "journal": "Journal of neurology, neurosurgery, and psychiatry",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

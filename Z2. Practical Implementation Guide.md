@@ -72,6 +72,9 @@ Develop strategies for navigating challenges like busy periods, illness, or trav
 
 Physiological adaptation takes time. Trust the process and focus on consistent application of evidence-based principles.
 
+## Research Evidence
+Implementation behaviour-change principles summarized here align with systematic reviews on physical-activity adherence and goal-directed coaching cited throughout linked notes [[O2. Measuring Fitness Progress]] [[F4. Behavioral Psychology in Fitness]] [[N3. Building Sustainable Fitness Habits]]. Treat this guide as a synthesis hub rather than a single-study evidence note.
+
 ## Practical Applications
 
 **Week 1-2:** Goal setting and baseline assessment

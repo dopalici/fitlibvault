@@ -1,0 +1,66 @@
+{
+  "note_title": "N10. Legacy and Mentorship in Fitness",
+  "cached_at": "2026-05-07T21:39:30.367390",
+  "studies": [
+    {
+      "title": "Association of polymorphisms in the catalase gene with the susceptibility to noise-induced hearing loss: A meta-analysis.",
+      "year": "2023",
+      "doi": "10.1016/j.amjoto.2022.103699",
+      "pmid": "36516529",
+      "journal": "American journal of otolaryngology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Effect of Hb conformational changes on oxygen transport physiology.",
+      "year": "2024",
+      "doi": "10.11817/j.issn.1672-7347.2024.230199",
+      "pmid": "38970521",
+      "journal": "Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "Diagnostic value of imaging in patients with clear cell papillary renal cell carcinoma: A case series and literature review.",
+      "year": "2024",
+      "doi": "10.1002/jcu.23713",
+      "pmid": "38741262",
+      "journal": "Journal of clinical ultrasound : JCU",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "Preclinical advance in nanoliposome-mediated photothermal therapy in liver cancer.",
+      "year": "2025",
+      "doi": "10.1186/s12944-024-02429-x",
+      "pmid": "39891269",
+      "journal": "Lipids in health and disease",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.465
+    },
+    {
+      "title": "SIRT1 in acute lung injury: unraveling its pleiotropic functions and therapeutic development prospects.",
+      "year": "2025",
+      "doi": "10.1007/s11010-024-05111-z",
+      "pmid": "39269678",
+      "journal": "Molecular and cellular biochemistry",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.465
+    }
+  ]
+}

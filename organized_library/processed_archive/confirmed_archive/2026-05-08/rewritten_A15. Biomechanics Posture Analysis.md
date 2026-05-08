@@ -1,0 +1,103 @@
+### A15. Biomechanics: Posture Analysis
+**ID:** A15-BIOMECH-POSTURE
+**Created:** 2025-04-23 (Updated: 2025-01-03)
+
+## Quick Takeaway
+Posture analysis evaluates body alignment to identify movement dysfunctions and guide corrective exercise strategies, though static posture deviations don't always directly cause pain.
+
+## Key Points
+- Static posture is body alignment at rest; dynamic posture is alignment during movement
+- Common assessment methods include plumb line analysis, photographic documentation, and specialized software
+- Upper and lower crossed syndromes represent typical muscle imbalance patterns affecting posture
+- Poor posture can contribute to musculoskeletal dysfunction but isn't always the direct cause of pain
+- Assessment results inform targeted corrective exercise programming
+
+## Deep Dive
+
+### Understanding Posture Types
+Posture refers to the alignment of body segments in relation to each other and to gravity. **Static posture** represents alignment while stationary, while **dynamic posture** describes alignment during movement. Ideal posture minimizes stress on tissues and allows for efficient movement patterns.
+
+### Assessment Methods
+
+#### Visual Observation
+The gold standard for initial assessment involves **plumb line analysis** using lateral, anterior, and posterior views. This method compares anatomical landmarks to a vertical reference line to identify deviations such as:
+- Forward head posture
+- Excessive kyphosis or lordosis
+- Pelvic tilt abnormalities
+- Scoliotic curves
+
+#### Objective Documentation
+**Photographic and videographic analysis** provides more objective recording capabilities, allowing for:
+- Consistent measurement angles
+- Progress tracking over time
+- Enhanced accuracy in deviation identification
+
+**Specialized software analysis** enables precise measurement of angles and distances between anatomical landmarks, improving assessment reliability.
+
+### Common Postural Deviation Syndromes
+
+#### Upper Crossed Syndrome
+Characterized by:
+- **Tight muscles:** Pectorals, upper trapezius, levator scapulae
+- **Weak muscles:** Deep neck flexors, rhomboids, lower trapezius
+- **Common presentations:** Forward head posture, rounded shoulders
+
+#### Lower Crossed Syndrome
+Features include:
+- **Tight muscles:** Hip flexors, erector spinae
+- **Weak muscles:** Gluteals, abdominals
+- **Common presentations:** Anterior pelvic tilt, increased lumbar lordosis
+
+#### Pronation Distortion Syndrome
+Involves excessive foot pronation often linked to knee valgus and internal hip rotation, creating a kinetic chain dysfunction from the ground up.
+
+### Clinical Implications
+Poor posture can contribute to various issues including musculoskeletal pain (particularly back, neck, and shoulder regions), altered movement patterns, reduced movement efficiency, and potentially increased injury risk during exercise. However, the relationship between static posture deviations and pain is complex and not always directly causal.
+
+## Research Evidence
+
+**Christensen ST, Hartvigsen J. (2008).** Spinal curves and health: a systematic critical review of the epidemiological literature dealing with associations between sagittal spinal curves and health. *Journal of Manipulative and Physiological Therapeutics*, 31(9), 690-714. DOI: https://doi.org/10.1016/j.jmpt.2008.10.004
+- Key finding: Limited evidence for direct causal relationships between spinal curves and health outcomes
+- Study type: Systematic review
+- Evidence quality: High (rigorous methodology and comprehensive scope)
+
+**Ruivo RM, et al. (2017).** The effects of training and detraining after an 8 month resistance and stretching training program on forward head and protracted shoulder postures in adolescents: Randomised controlled study. *Manual Therapy*, 21, 76-82. DOI: https://doi.org/10.1016/j.math.2015.05.001
+- Key finding: Targeted exercise programs can improve postural alignment in adolescents
+- Study type: Randomized controlled trial
+- Evidence quality: High (well-designed RCT with clear outcomes)
+
+**Sheikhhoseini R, et al. (2018).** Effectiveness of therapeutic exercise on forward head posture: a systematic review and meta-analysis. *Journal of Manipulative and Physiological Therapeutics*, 41(6), 530-539. DOI: https://doi.org/10.1016/j.jmpt.2018.02.002
+- Key finding: Exercise interventions show moderate effectiveness in reducing forward head posture
+- Study type: Meta-analysis
+- Evidence quality: High (comprehensive analysis of multiple RCTs)
+
+## Practical Applications
+
+### Assessment Protocol
+1. **Initial screening:** Use plumb line analysis in three planes
+2. **Documentation:** Take standardized photographs for baseline measurements
+3. **Movement assessment:** Observe dynamic posture during functional movements
+4. **Prioritization:** Focus on most significant deviations affecting function
+
+### Corrective Exercise Strategies
+- **Upper crossed syndrome:** Strengthen deep neck flexors and posterior chain; stretch pectorals and upper trapezius
+- **Lower crossed syndrome:** Strengthen glutes and core; stretch hip flexors and erector spinae
+- **Integration:** Progress from isolated exercises to functional movement patterns
+
+### Programming Considerations
+- Address mobility restrictions before stability training
+- Emphasize movement quality over exercise intensity initially
+- Include both static holds and dynamic movement patterns
+- Monitor progress through regular reassessment
+
+## Common Mistakes
+⚠️ Assuming all postural deviations require correction - focus on those affecting function
+⚠️ Neglecting dynamic posture assessment in favor of only static analysis
+⚠️ Over-correcting minor deviations that don't impact movement quality
+⚠️ Failing to address underlying movement patterns that contribute to postural dysfunction
+
+## Related Concepts
+Assessment findings directly inform [[A17. Movement Screening]] protocols and guide [[F3. Injury Prevention and Management]] strategies. Understanding center of mass relationships [[A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM)]] helps explain postural compensation patterns. Results should integrate with [[L1. Movement Patterns and Functional Training]] to address dysfunction through movement-based interventions.
+
+## Update Log
+- 2025-01-03: Enhanced research evidence section with working DOI links, improved practical applications, and clarified the complex relationship between posture and pain

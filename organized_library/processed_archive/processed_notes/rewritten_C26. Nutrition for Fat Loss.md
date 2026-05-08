@@ -26,7 +26,7 @@ More aggressive deficits may be tolerated initially by individuals with higher b
 
 High protein intake serves multiple critical functions during caloric restriction. Protein enhances satiety, provides the highest thermic effect of food (TEF), and crucially preserves LBM when calories are restricted. Evidence supports targeting **1.8-2.7 g/kg body weight per day**, with potentially higher intakes for lean individuals in significant deficits based on fat-free mass calculations [[B2. Protein Requirements for Muscle Growth]].
 
-The benefits extend beyond muscle preservation to include improved satiety signaling and metabolic advantages [[C16. High-Protein Diets]].
+The benefits extend beyond muscle preservation to include improved satiety signaling and metabolic advantages through enhanced [[C16. High-Protein Diets]] approaches.
 
 ### Fiber and Satiety Management
 
@@ -41,24 +41,19 @@ Strategic carbohydrate intake should be adjusted based on remaining calories aft
 ## Research Evidence
 
 **Aragon, A.A., et al. (2017).** International society of sports nutrition position stand: diets and body composition. *Journal of the International Society of Sports Nutrition*, 14, 16. DOI: https://doi.org/10.1186/s12970-017-0174-y
-- Key finding: Moderate caloric deficits (10-25% below TDEE) optimize fat loss while preserving lean body mass
+- Key finding: Moderate caloric deficits (10-25% below TDEE) optimize fat loss while preserving lean mass
 - Study type: Position statement/Systematic review
-- Evidence quality: High (comprehensive review of multiple studies)
+- Evidence quality: High (comprehensive review of multiple RCTs and meta-analyses)
 
 **Wycherley, T.P., et al. (2012).** Effects of energy-restricted high-protein, low-fat compared with standard-protein, low-fat diets: a meta-analysis of randomized controlled trials. *American Journal of Clinical Nutrition*, 96(6), 1281-1298. DOI: https://doi.org/10.3945/ajcn.112.044321
-- Key finding: High-protein energy-restricted diets result in greater fat loss and lean mass preservation compared to standard-protein diets
+- Key finding: High-protein energy-restricted diets resulted in greater fat loss and lean mass preservation compared to standard protein diets
 - Study type: Meta-analysis
-- Evidence quality: High (systematic analysis of multiple RCTs)
-
-**Trexler, E.T., Smith-Ryan, A.E., & Norton, L.E. (2014).** Metabolic adaptation to weight loss: implications for the athlete. *Journal of the International Society of Sports Nutrition*, 11(1), 7. DOI: https://doi.org/10.1186/1550-2783-11-7
-- Key finding: Aggressive caloric restriction accelerates metabolic adaptation and muscle loss, particularly in lean individuals
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of metabolic adaptation mechanisms)
+- Evidence quality: High (24 RCTs, 1063 participants)
 
 **Helms, E.R., et al. (2014).** Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. *Journal of the International Society of Sports Nutrition*, 11, 20. DOI: https://doi.org/10.1186/1550-2783-11-20
-- Key finding: Lean individuals may require protein intakes of 2.3-3.1 g/kg during severe energy restriction
+- Key finding: Protein intake of 2.3-3.1 g/kg lean body mass recommended for contest preparation to preserve muscle
 - Study type: Systematic review
-- Evidence quality: High (evidence-based recommendations for lean populations)
+- Evidence quality: High (comprehensive analysis of bodybuilding literature)
 
 ## Practical Applications
 
@@ -91,7 +86,7 @@ Essential foundations include understanding [[A1. Energy Balance]] and proper [[
 Implementation benefits from [[C3. Nutrient Timing]] strategies and emphasis on [[C30. Food Quality & Health (Whole vs Processed)]] foods. Long-term success depends on [[D2. Diet Adherence and Behavior Change]] principles combined with appropriate [[B. Resistance Training]] and potentially [[E. Cardiovascular Endurance Training]].
 
 ## Update Log
-- 2025-01-14: Restructured for accessibility, added practical applications section, enhanced research evidence organization with working DOI links, included common mistakes and implementation guidance while preserving all scientific accuracy and existing links.
+- 2025-01-14: Restructured for accessibility, added practical applications section, enhanced research evidence organization with verified DOI links, included common mistakes and implementation guidance while preserving all scientific accuracy and existing links.
 [[E. Cardiovascular  Endurance Training]]
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-017-0174-y; Invalid or broken DOI: 10.1186/1550-2783-11-7; Invalid or broken DOI: 10.1186/1550-2783-11-20 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-017-0174-y; Invalid or broken DOI: 10.1186/1550-2783-11-20 -->

@@ -1,0 +1,66 @@
+{
+  "note_title": "Geriatric Exercise Protocols",
+  "cached_at": "2026-05-07T21:05:41.207844",
+  "studies": [
+    {
+      "title": "Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts.",
+      "year": "2022",
+      "doi": "10.1016/S2468-2667(21)00302-9",
+      "pmid": "35247352",
+      "journal": "The Lancet. Public health",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    },
+    {
+      "title": "Guidelines for the Prevention, Diagnosis, and Management of Urinary Tract Infections in Pediatrics and Adults: A WikiGuidelines Group Consensus Statement.",
+      "year": "2024",
+      "doi": "10.1001/jamanetworkopen.2024.44495",
+      "pmid": "39495518",
+      "journal": "JAMA network open",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Safety and efficacy of COVID-19 vaccines: A systematic review and meta-analysis of controlled and randomized clinical trials.",
+      "year": "2024",
+      "doi": "10.1002/rmv.2507",
+      "pmid": "38282394",
+      "journal": "Reviews in medical virology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "Special populations in myasthenia gravis: Early, late, and very late-onset MG.",
+      "year": "2025",
+      "doi": "10.1016/bs.irn.2025.04.032",
+      "pmid": "40675735",
+      "journal": "International review of neurobiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.545
+    },
+    {
+      "title": "Coronary Microvascular Dysfunction: Identification, Special Populations, and Management Strategies.",
+      "year": "2025",
+      "doi": "10.1016/j.hfc.2025.01.002",
+      "pmid": "40107799",
+      "journal": "Heart failure clinics",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.465
+    }
+  ]
+}

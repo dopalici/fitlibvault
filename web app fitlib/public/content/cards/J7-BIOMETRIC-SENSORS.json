@@ -1,1 +1,1 @@
-{"nodeId":"J7-BIOMETRIC-SENSORS","cards":[]}
+{"nodeId":"J7-BIOMETRIC-SENSORS","cards":[{"id":"1xtxpb8","nodeId":"J7-BIOMETRIC-SENSORS","prompt":"____ integration with movement sensors provides real-time muscle activation patterns and recruitment analysis","answer":"EMG","acceptableAnswers":["EMG","emg"],"context":"EMG integration with movement sensors provides real-time muscle activation patterns and recruitment analysis","sourceIndex":4}]}

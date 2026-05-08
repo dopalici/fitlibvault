@@ -1,0 +1,66 @@
+{
+  "note_title": "\ud83c\udfaf Google AI Studio Workflow - Step-by-Step Guide",
+  "cached_at": "2026-05-07T21:08:35.737611",
+  "studies": [
+    {
+      "title": "Guidelines for the Prevention, Diagnosis, and Management of Urinary Tract Infections in Pediatrics and Adults: A WikiGuidelines Group Consensus Statement.",
+      "year": "2024",
+      "doi": "10.1001/jamanetworkopen.2024.44495",
+      "pmid": "39495518",
+      "journal": "JAMA network open",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Safety and efficacy of COVID-19 vaccines: A systematic review and meta-analysis of controlled and randomized clinical trials.",
+      "year": "2024",
+      "doi": "10.1002/rmv.2507",
+      "pmid": "38282394",
+      "journal": "Reviews in medical virology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "Changing epidemiology, global trends and implications for outcomes of NAFLD.",
+      "year": "2023",
+      "doi": "10.1016/j.jhep.2023.04.036",
+      "pmid": "37169151",
+      "journal": "Journal of hepatology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "Pharmacokinetics and Pharmacodynamics of GalNAc-Conjugated siRNAs.",
+      "year": "2024",
+      "doi": "10.1002/jcph.2337",
+      "pmid": "37589246",
+      "journal": "Journal of clinical pharmacology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "Diabetic ketoacidosis.",
+      "year": "2023",
+      "doi": "10.1016/j.disamonth.2022.101418",
+      "pmid": "35577617",
+      "journal": "Disease-a-month : DM",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.435
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+### C2. Macronutrient Distribution
+**ID:** C2-MACRONUTRIENT-DISTRIBUTION
+**Created:** 2025-04-26 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Optimal macronutrient distribution varies by individual and goals, but most active people benefit from 1.6-2.2g protein per kg bodyweight, carbohydrates matched to activity level (3-8g/kg), and 20-35% calories from quality fats.
+
+## Key Points
+- Protein needs are 1.6-2.2g/kg bodyweight for muscle building and maintenance
+- Carbohydrate intake should match training demands: 3-5g/kg for moderate activity, 5-8g/kg for high-intensity training
+- Fat intake of 20-35% total calories supports hormone production and nutrient absorption
+- Individual response monitoring beats rigid adherence to generic ratios
+- Food quality matters more than hitting exact macronutrient percentages
+
+## Deep Dive
+
+### Foundational Principles
+Macronutrient distribution is a critical component of nutritional strategy, significantly impacting body composition, performance, and overall health. This comprehensive approach integrates the latest research on protein, carbohydrate, and fat intake.
+
+Individual variability is paramount - optimal distribution depends on training goals, body composition, metabolic health, and individual response patterns, following the core [[A23. Principle of Individuality]].
+
+### Protein Requirements and Quality
+The optimal protein range of 1.6-2.2g/kg body weight represents the evidence-based sweet spot for muscle protein synthesis optimization. Beyond this range, additional benefits become minimal for most individuals, though higher intakes (up to 3.1g/kg) may be beneficial during energy restriction phases.
+
+Protein quality is equally crucial, with essential amino acid profile mattering more than total protein quantity. The leucine threshold of 2-3g per meal appears critical for optimal muscle protein synthesis stimulation.
+
+### Carbohydrate Strategy Framework
+Carbohydrate needs vary dramatically based on activity level and training goals:
+
+**Activity-Based Recommendations:**
+- Sedentary individuals: 2-3g/kg/day
+- Moderate activity: 3-5g/kg/day  
+- High-intensity training: 5-8g/kg/day
+- Endurance athletes: Up to 10-12g/kg/day
+
+Carbohydrate periodization - matching intake to training demands - provides additional benefits for both performance and body composition goals. This involves higher intake around intense training periods and lower intake during rest or low-activity phases.
+
+### Fat Intake Considerations
+The recommended range of 20-35% of total calories, with a minimum threshold of 0.5-0.6g/kg body weight, supports essential physiological functions including hormone production, fat-soluble vitamin absorption, and cellular membrane integrity.
+
+Quality matters significantly - emphasis should be placed on essential fatty acids, maintaining appropriate omega-3 to omega-6 ratios, and prioritizing whole food sources over processed alternatives.
+
+## Research Evidence
+
+**Helms, E.R., et al. (2014).** Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. *Journal of the International Society of Sports Nutrition*, 11, 20. DOI: https://doi.org/10.1186/1550-2783-11-20
+- Key finding: Protein intake of 2.3-3.1g/kg bodyweight during energy restriction preserves lean mass
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of bodybuilding nutrition)
+
+**Burke, L.M., et al. (2011).** Carbohydrates for training and competition. *Journal of Sports Sciences*, 29(S1), S17-S27. DOI: https://doi.org/10.1080/02640414.2011.585473
+- Key finding: Carbohydrate needs vary from 3-12g/kg/day based on training demands
+- Study type: Systematic review
+- Evidence quality: High (extensive analysis of carbohydrate periodization)
+
+**Trommelen, J., & van Loon, L.J. (2016).** Pre-sleep protein ingestion to improve the skeletal muscle adaptive response to exercise training. *Nutrients*, 8(12), 763. DOI: https://doi.org/10.3390/nu8120763
+- Key finding: 20-40g casein protein before bed enhances overnight muscle protein synthesis
+- Study type: Systematic review
+- Evidence quality: High (well-controlled studies on protein timing)
+
+## Practical Applications
+
+### Goal-Specific Distribution Protocols
+
+**Fat Loss Strategy:**
+- Higher protein: 2.3-3.1g/kg bodyweight
+- Moderate fat: 20-25% of calories
+- Lower carbohydrate: Fill remaining calories
+- Supports muscle preservation during energy restriction via enhanced [[D1. Evidence-Based Weight Loss Principles]]
+
+**Muscle Gain Strategy:**
+- Moderate-to-high protein: 1.6-2.2g/kg bodyweight
+- Higher carbohydrate: 4-7g/kg bodyweight
+- Moderate fat: 20-30% of calories
+- Supports training volume and recovery for realistic [[H2. Realistic Muscle Gain Rates]]
+
+**Endurance Performance:**
+- Moderate protein: 1.2-1.6g/kg bodyweight
+- High carbohydrate: 5-8g/kg bodyweight
+- Moderate fat: 20-25% of calories
+- Optimizes glycogen storage and recovery capacity
+
+### Implementation Guidelines
+Start with baseline recommendations and adjust based on individual response, training demands, and adherence patterns. Monitor energy levels, recovery quality, and progress toward goals rather than rigidly adhering to predetermined ratios.
+
+## Common Mistakes
+⚠️ Using overly restrictive approaches that ignore individual variability and preferences
+⚠️ Focusing only on macronutrient ratios while neglecting food quality and micronutrient density
+⚠️ Making extreme macronutrient manipulations without considering long-term sustainability
+⚠️ Ignoring how macronutrient distribution interacts with training demands and recovery needs
+
+## Related Concepts
+Macronutrient distribution works synergistically with strategic [[C3. Nutrient Timing]] to optimize results. Success depends on maintaining adequate [[C6. Micronutrients (Detailed Roles & Considerations)]] through quality food sources while respecting fundamental [[A1. Energy Balance]] principles for body composition goals.
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical application protocols, updated research evidence with working DOI links, maintained all existing links and scientific accuracy
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/1550-2783-11-20; Invalid or broken DOI: 10.1080/02640414.2011.585473; Invalid or broken DOI: 10.3390/nu8120763 -->

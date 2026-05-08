@@ -1,0 +1,66 @@
+{
+  "note_title": "M8. Technology-Enhanced Recovery",
+  "cached_at": "2026-05-07T21:37:40.077693",
+  "studies": [
+    {
+      "title": "Nutritional Strategies to Improve Post-exercise Recovery and Subsequent Exercise Performance: A Narrative Review.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02213-6",
+      "pmid": "40221559",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.85,
+      "composite_score": 0.655
+    },
+    {
+      "title": "Protein Nutrition for Endurance Athletes: A Metabolic Focus on Promoting Recovery and Training Adaptation.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02203-8",
+      "pmid": "40117058",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.85,
+      "composite_score": 0.655
+    },
+    {
+      "title": "From Food Supplements to Functional Foods: Emerging Perspectives on Post-Exercise Recovery Nutrition.",
+      "year": "2024",
+      "doi": "10.3390/nu16234081",
+      "pmid": "39683475",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Nutritional Compounds to Improve Post-Exercise Recovery.",
+      "year": "2022",
+      "doi": "10.3390/nu14235069",
+      "pmid": "36501099",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 0.85,
+      "composite_score": 0.605
+    },
+    {
+      "title": "Omega-3 Fatty Acid Supplementation on Post-Exercise Inflammation, Muscle Damage, Oxidative Response, and Sports Performance in Physically Healthy Adults-A Systematic Review of Randomized Controlled Trials.",
+      "year": "2024",
+      "doi": "10.3390/nu16132044",
+      "pmid": "38999792",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "note_title": "D1. Evidence-Based Weight Loss Principles",
+  "cached_at": "2026-05-07T19:29:31.595969",
+  "studies": [
+    {
+      "title": "Combined cardiorespiratory and resistance training for people with stroke.",
+      "year": "2025",
+      "doi": "10.1002/14651858.CD016002",
+      "pmid": "40990157",
+      "journal": "The Cochrane database of systematic reviews",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.62
+    },
+    {
+      "title": "Perioperative paediatric patient blood management: a narrative review.",
+      "year": "2025",
+      "doi": "10.1016/j.bja.2024.08.034",
+      "pmid": "39455307",
+      "journal": "British journal of anaesthesia",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    },
+    {
+      "title": "ESO annual stroke evidence update 2025.",
+      "year": "2026",
+      "doi": "10.1093/esj/aakag009",
+      "pmid": "41706824",
+      "journal": "European stroke journal",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    },
+    {
+      "title": "Behavioral Weight Loss and Maintenance: A 25-Year Research Program Informing Innovative Programming.",
+      "year": "2022",
+      "doi": "10.7812/TPP/21.212",
+      "pmid": "35933678",
+      "journal": "The Permanente journal",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 0.61,
+      "composite_score": 0.485
+    },
+    {
+      "title": "[Dietary Management of Obesity].",
+      "year": "2024",
+      "doi": "10.4166/kjg.2024.004",
+      "pmid": "38522851",
+      "journal": "The Korean journal of gastroenterology = Taehan Sohwagi Hakhoe chi",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

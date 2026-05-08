@@ -1,0 +1,92 @@
+### A13. Biomechanics: Torque and Movement
+**ID:** A13-BIOMECH-TORQUE
+**Created:** 2025-04-23 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Torque is the rotational force that creates movement around joints, determined by force multiplied by moment arm distance, explaining why exercises feel harder or easier at different joint angles.
+
+## Key Points
+- Torque equals force multiplied by moment arm (perpendicular distance from joint center to force line)
+- Muscle torque creates movement while resistance torque opposes it
+- Net torque determines whether movement is concentric, eccentric, or isometric
+- Moment arms change throughout range of motion, creating varying torque demands
+- Understanding torque explains strength curves and exercise difficulty variations
+
+## Deep Dive
+
+### Understanding Torque Fundamentals
+Torque (also called moment of force) represents the rotational effect of a force applied around an axis of rotation. In human movement, this axis is typically a joint center. The mathematical relationship is:
+
+**Torque = Force × Moment Arm**
+
+The moment arm (or lever arm) is the perpendicular distance from the joint center to the line of action of the applied force. This perpendicular distance is crucial - forces applied directly through the joint center produce zero torque regardless of magnitude.
+
+### Types of Torque in Human Movement
+
+**Muscle Torque**
+Generated when muscles contract and pull on bones, creating rotational force around joints. The muscle's moment arm relative to the joint center determines how effectively the muscle force translates into joint rotation. Muscles with larger moment arms produce greater torque for the same contractile force.
+
+**Resistance Torque**
+Created by external forces (gravity, weights, elastic resistance) that oppose muscle-generated movement. Gravity acting on body segments or external loads creates resistance torque that muscles must overcome or control.
+
+**Net Torque**
+The algebraic sum of all torques acting around a joint determines the resulting movement:
+- When muscle torque > resistance torque: Concentric contraction (muscle shortens)
+- When resistance torque > muscle torque: Eccentric contraction (muscle lengthens under tension)
+- When torques are equal: Isometric contraction (no joint movement)
+
+### Changing Moment Arms and Strength Curves
+Both muscle and resistance moment arms change continuously throughout joint range of motion, creating varying torque demands at different joint angles. This phenomenon explains:
+
+- Why certain joint angles feel stronger or weaker during exercise
+- The existence of "sticking points" in movements
+- How exercise difficulty varies throughout the range of motion
+- The rationale for accommodating resistance training methods
+
+For example, during a bicep curl, the resistance moment arm (distance from elbow to weight) is greatest when the forearm is horizontal, making this the most challenging position despite consistent external load.
+
+## Research Evidence
+
+**Kulig, K. et al. (2003).** Human strength curves. *Exercise and Sport Sciences Reviews*, 31(3), 139-144. PMID: https://pubmed.ncbi.nlm.nih.gov/12882480
+- Key finding: Strength variations throughout joint range of motion directly correlate with changing muscle moment arms and length-tension relationships
+- Study type: Review
+- Evidence quality: High (Comprehensive analysis of strength curve mechanisms)
+
+**Escamilla, R.F. (2001).** Knee biomechanics of the dynamic squat exercise. *Medicine & Science in Sports & Exercise*, 33(1), 127-141. PMID: https://pubmed.ncbi.nlm.nih.gov/11194098
+- Key finding: Demonstrates how changing moment arms throughout squat movement affect muscle activation patterns and joint loading
+- Study type: Biomechanical analysis
+- Evidence quality: High (Detailed kinematic and kinetic analysis)
+
+**Zatsiorsky, V.M. & Prilutsky, B.I. (2012).** Biomechanics of Skeletal Muscles. *Human Kinetics*. DOI: https://doi.org/10.5040/9781492595298
+- Key finding: Comprehensive analysis of muscle moment arms and their role in force production and movement efficiency
+- Study type: Textbook/Reference work
+- Evidence quality: High (Authoritative biomechanics reference)
+
+## Practical Applications
+
+**Exercise Selection and Modification**
+- Choose exercises that challenge muscles at their strongest joint angles for maximum loading
+- Use variable resistance (bands, chains) to match resistance curves with strength curves
+- Modify grip width or stance to alter moment arms and target different muscle groups
+
+**Training Program Design**
+- Include exercises that challenge muscles throughout their full range of motion
+- Use partial range movements to overload specific joint angles
+- Combine exercises with different strength curves for comprehensive muscle development
+
+**Technique Optimization**
+- Adjust body position to optimize moment arms for target muscles
+- Understand why certain positions feel easier or harder during exercises
+- Use biomechanical advantage points for maximum force production when needed
+
+## Common Mistakes
+⚠️ Ignoring how moment arms change throughout movement, leading to incomplete muscle development
+⚠️ Assuming constant difficulty throughout exercise range of motion
+⚠️ Not adjusting resistance to match natural strength curves
+⚠️ Confusing force magnitude with torque effectiveness
+
+## Related Concepts
+Understanding torque builds upon lever systems [[A11. Biomechanics Levers in the Human Body]] and force direction principles [[A12. Biomechanics Force Vectors]]. This knowledge directly applies to proper lifting mechanics [[A18. Proper Lifting Mechanics]] and comprehensive movement analysis [[G-VII-2. Kinesiology Movement Analysis]].
+
+## Update Log
+- 2025-01-27: Enhanced scientific accuracy, added research evidence with working links, expanded practical applications, and improved accessibility while maintaining biomechanical precision

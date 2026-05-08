@@ -1,0 +1,66 @@
+{
+  "note_title": "Power Testing Methodologies",
+  "cached_at": "2026-05-07T20:41:11.456298",
+  "studies": [
+    {
+      "title": "Predicting paediatric asthma exacerbations with machine learning: a systematic review with meta-analysis.",
+      "year": "2024",
+      "doi": "10.1183/16000617.0118-2024",
+      "pmid": "39537241",
+      "journal": "European respiratory review : an official journal of the European Respiratory Society",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "Heparin versus 0.9% sodium chloride locking for prevention of occlusion in central venous catheters in adults.",
+      "year": "2022",
+      "doi": "10.1002/14651858.CD008462.pub4",
+      "pmid": "35849083",
+      "journal": "The Cochrane database of systematic reviews",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Behavioral interventions for migraine prevention: A systematic review and meta-analysis.",
+      "year": "2025",
+      "doi": "10.1111/head.14914",
+      "pmid": "39968795",
+      "journal": "Headache",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.54
+    },
+    {
+      "title": "Dupilumab for Eosinophilic Esophagitis in Patients 1 to 11 Years of Age.",
+      "year": "2024",
+      "doi": "10.1056/NEJMoa2312282",
+      "pmid": "38924731",
+      "journal": "The New England journal of medicine",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    },
+    {
+      "title": "The Effect of Creatine Nitrate and Caffeine Individually or Combined on Exercise Performance and Cognitive Function: A Randomized, Crossover, Double-Blind, Placebo-Controlled Trial.",
+      "year": "2024",
+      "doi": "10.3390/nu16060766",
+      "pmid": "38542677",
+      "journal": "Nutrients",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    }
+  ]
+}

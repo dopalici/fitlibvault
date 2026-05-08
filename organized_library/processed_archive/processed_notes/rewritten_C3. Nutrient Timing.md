@@ -29,7 +29,7 @@ Strategic pre-exercise feeding optimizes substrate availability and prevents hyp
 - **Protein:** 0.3-0.5 g/kg body weight
 - **Timing:** 1-4 hours before exercise (closer to 1 hour for smaller amounts)
 
-Easily digestible foods are recommended to minimize gastrointestinal distress. Pre-exercise meal timing significantly impacts muscle and liver glycogen availability, with individual tolerance varying considerably.
+Easily digestible foods are recommended to minimize gastrointestinal distress while ensuring adequate substrate availability.
 
 ### Intra-Exercise Nutrition
 For sessions exceeding 60-90 minutes, intra-exercise nutrition becomes increasingly important to maintain performance and delay fatigue.
@@ -38,7 +38,7 @@ For sessions exceeding 60-90 minutes, intra-exercise nutrition becomes increasin
 - **Standard sessions (60-150 minutes):** 30-60g/hour
 - **Ultra-endurance events (>2.5 hours):** Up to 90g/hour
 
-Utilizing multiple carbohydrate transporters through glucose-fructose combinations (2:1 or 3:1 ratio) optimizes oxidation rates, with individual absorption capacity being the limiting factor rather than muscle uptake.
+Research demonstrates that utilizing multiple carbohydrate transporters through glucose-fructose combinations (2:1 or 3:1 ratio) optimizes oxidation rates, with individual absorption capacity being the limiting factor rather than muscle uptake.
 
 ### Post-Exercise Nutrition (0-2 Hours After)
 The post-exercise period represents a window of enhanced nutrient sensitivity, though this window is more flexible than previously believed.
@@ -57,24 +57,29 @@ Optimizing muscle protein synthesis requires strategic protein distribution thro
 - **Per meal amount:** 0.3-0.5 g/kg body weight
 - **Pre-sleep protein:** 30-40g of casein or slow-digesting protein
 
-Nighttime protein ingestion stimulates overnight muscle protein synthesis rates, with protein quality and total daily intake being primary determinants of adaptation.
+Research shows that nighttime protein ingestion stimulates overnight muscle protein synthesis rates, with protein quality and total daily intake being primary determinants of adaptation.
 
 ## Research Evidence
 
-**Aragon, A.A., & Schoenfeld, B.J. (2013).** Nutrient timing revisited: is there a post-exercise anabolic window? *Journal of the International Society of Sports Nutrition*, 10(1), 5. DOI: https://doi.org/10.1186/1550-2783-10-5
-- Key finding: Total daily protein intake more important than precise post-exercise timing for muscle protein synthesis
-- Study type: Systematic review
-- Evidence quality: High (comprehensive analysis of timing research)
+**Kerksick, C.M., et al. (2018).** International society of sports nutrition position stand: nutrient timing. *Journal of the International Society of Sports Nutrition*, 15(1), 38. DOI: https://doi.org/10.1186/s12970-018-0246-y
+- Key finding: Pre-exercise carbohydrate intake (1-4 g/kg) optimizes glycogen availability with timing flexibility of 1-4 hours
+- Study type: Position stand/Systematic review
+- Evidence quality: High (Comprehensive review of multiple RCTs)
 
-**Kerksick, C., et al. (2008).** International Society of Sports Nutrition position stand: nutrient timing. *Journal of the International Society of Sports Nutrition*, 5(1), 17. DOI: https://doi.org/10.1186/1550-2783-5-17
-- Key finding: Pre-exercise carbohydrate (1-4g/kg) and protein (0.15-0.25g/kg) intake 1-4 hours before exercise optimizes performance
-- Study type: Position statement/systematic review
-- Evidence quality: High (evidence-based consensus)
+**Jeukendrup, A. (2014).** A step towards personalized sports nutrition: carbohydrate intake during exercise. *Sports Medicine*, 44(Suppl 1), S25-33. DOI: https://doi.org/10.1007/s40279-014-0148-z
+- Key finding: Multiple transportable carbohydrates (glucose:fructose 2:1) enable oxidation rates up to 1.75 g/min
+- Study type: Systematic review
+- Evidence quality: High (Multiple controlled trials)
+
+**Aragon, A.A., & Schoenfeld, B.J. (2013).** Nutrient timing revisited: is there a post-exercise anabolic window? *Journal of the International Society of Sports Nutrition*, 10(1), 5. DOI: https://doi.org/10.1186/1550-2783-10-5
+- Key finding: Anabolic window extends several hours post-exercise; total daily protein intake more important than precise timing
+- Study type: Narrative review
+- Evidence quality: Medium (Analysis of existing literature)
 
 **Trommelen, J., & van Loon, L.J. (2016).** Pre-sleep protein ingestion to improve the skeletal muscle adaptive response to exercise training. *Nutrients*, 8(12), 763. DOI: https://doi.org/10.3390/nu8120763
-- Key finding: 30-40g protein before sleep increases overnight muscle protein synthesis by 22%
+- Key finding: 30-40g pre-sleep protein increases overnight muscle protein synthesis by ~22%
 - Study type: Systematic review
-- Evidence quality: High (multiple controlled trials)
+- Evidence quality: High (Multiple controlled trials)
 
 ## Practical Applications
 
@@ -106,10 +111,11 @@ Nighttime protein ingestion stimulates overnight muscle protein synthesis rates,
 ⚠️ **Neglecting liquid vs. solid food considerations** - Liquids empty from stomach faster and may be better tolerated closer to exercise
 
 ## Related Concepts
+
 Essential protein intake guidelines [[B2. Protein Requirements]] form the foundation for timing strategies. Understanding overall [[A1. Energy Balance]] remains paramount before implementing timing protocols. Athletes should consider sport-specific approaches through [[C27. Nutrition for Endurance Performance (Carb Loading)]] and [[C28. Nutrition for Strength Power Athletes]] based on their training demands and performance goals.
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, added practical applications and common mistakes, preserved all scientific accuracy and updated research citations with working DOI links
+- 2025-01-27: Restructured for accessibility, added practical applications and common mistakes, preserved all scientific accuracy and research citations
 [[B2. Protein Requirements for Muscle Growth]]
 
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/1550-2783-10-5; Invalid or broken DOI: 10.1186/1550-2783-5-17; Invalid or broken DOI: 10.3390/nu8120763 -->
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-018-0246-y; Invalid or broken DOI: 10.1186/1550-2783-10-5; Invalid or broken DOI: 10.3390/nu8120763 -->

@@ -1,0 +1,107 @@
+### X11.6 Resisted & Assisted Sprint Training Methods
+**ID:** X11.6-RESISTED-ASSISTED-SPRINTS
+**Created:** 2025-04-26 (Updated: 2025-01-21)
+
+## Quick Takeaway
+Resisted sprints (sleds, hills) improve acceleration power, while assisted sprints (downhill, towing) enhance maximum speed - both require precise loading to avoid technique breakdown.
+
+## Key Points
+- Sled loads of 10-20% bodyweight improve acceleration while preserving sprint mechanics
+- Hill sprints at 3-7° grade provide natural resistance for horizontal force development
+- Assisted training should only increase speed by 5-10% above maximum to maintain safety
+- These methods supplement, never replace, regular sprint training and strength work
+- Reserve for experienced athletes with solid sprint mechanics foundation
+
+## Deep Dive
+
+### Resisted Sprint Training Methods
+
+Resisted sprint training involves sprinting against external resistance to overload propulsive forces, primarily targeting the acceleration phase and horizontal force production capacity.
+
+#### Sled Towing
+The most researched and practical resisted training method. Athletes pull a weighted sled via harness while maintaining maximal sprint intent.
+
+**Loading Guidelines:**
+- Light loads (10-20% bodyweight): Preserve sprint mechanics while overloading acceleration
+- Moderate loads (20-30% bodyweight): Greater strength stimulus but some technique changes
+- Heavy loads (>30% bodyweight): Shift toward strength development, significant kinematic alterations
+
+#### Hill Sprints
+Running uphill forces greater horizontal force production and recruits specific muscle patterns similar to flat-ground acceleration. The gradient creates natural resistance while maintaining sprint-specific movement patterns.
+
+**Optimal gradients:**
+- 3-7° incline: Enhances horizontal force without excessive technique changes
+- Steeper gradients (>10°): More strength-focused, less sprint-specific
+
+#### Resistance Bands and Parachutes
+Provide variable resistance throughout the sprint. Parachutes become most effective at higher speeds due to air resistance properties.
+
+### Assisted Sprint Training (Overspeed Training)
+
+Assisted training involves sprinting with external assistance to achieve velocities 5-10% higher than unassisted maximum speed, targeting neuromuscular adaptations for improved stride frequency and maximum velocity potential.
+
+#### Downhill Running
+The most accessible assisted method using slight declines (1-3% grade) where gravity provides assistance during acceleration.
+
+#### Towing Systems
+Elastic cords or motorized devices provide controlled pulling force to achieve supramaximal speeds.
+
+**Critical Safety Considerations:**
+- Higher injury risk, especially hamstring strains due to rapid eccentric loading
+- Requires experienced coaching and athlete readiness
+- Use sparingly with proper progression
+
+## Research Evidence
+
+**Slater LV, et al. (2024).** Olympic Weightlifting Training for Sprint Performance in Athletes: A Systematic Review with Meta-analysis. *International Journal of Sports Medicine*, 45(10), 721-735. DOI: https://doi.org/10.1055/a-2161-4867
+- Key finding: Olympic lifting combined with sprint training showed moderate improvements in sprint performance, supporting power-based training approaches
+- Study type: Meta-analysis
+- Evidence quality: High (comprehensive systematic review with robust methodology)
+
+**Note:** While extensive research exists on resisted and assisted sprint training methods, the current evidence packet does not contain studies with sufficient relevance scores (>0.05) specifically addressing sled towing, hill sprints, or overspeed training methods. The Olympic weightlifting meta-analysis provides supporting evidence for power-based training approaches that complement resisted sprint methods.
+
+## Practical Applications
+
+**Weekly Programming:**
+- Incorporate 1-2 sessions per week during specific training blocks
+- Use resisted methods early in session when neuromuscular system is fresh
+- Allow full recovery between repetitions (3-5 minutes minimum)
+
+**Periodization Strategy:**
+- Acceleration phase emphasis: Focus on resisted methods during early season
+- Maximum velocity emphasis: Integrate assisted methods during competition preparation
+- Always maintain regular sprint training as foundation
+
+**Session Structure Example:**
+1. Dynamic warm-up
+2. 4-6 x 20m sled pulls (15% bodyweight)
+3. Full recovery (4-5 minutes between reps)
+4. 2-3 regular sprint accelerations
+5. Cool-down
+
+**Loading Progressions:**
+- Week 1-2: 10% bodyweight, 4 reps
+- Week 3-4: 15% bodyweight, 5 reps
+- Week 5-6: 20% bodyweight, 6 reps
+- Deload week: Return to 10% bodyweight
+
+## Common Mistakes
+
+⚠️ **Excessive loading** - Using sled weights >25% bodyweight destroys sprint-specific mechanics
+
+⚠️ **Insufficient recovery** - Rushing between repetitions compromises power output and technique
+
+⚠️ **Replacing regular sprints** - These are supplements, not replacements for unloaded sprint training
+
+⚠️ **Poor athlete readiness** - Implementing with beginners who lack proper sprint mechanics foundation
+
+⚠️ **Overspeed overuse** - Excessive assisted training increases injury risk without proportional benefits
+
+## Related Concepts
+
+Sprint mechanics foundation [[X11. Sprinting]] must be established before implementing these advanced methods. Understanding acceleration-specific techniques [[X11.1 Sprint Start & Acceleration Technique]] and maximum velocity mechanics [[X11.2 Maximum Velocity Mechanics]] is crucial for proper application. These methods follow progressive overload principles [[B1. Progressive Overload]] for neuromuscular adaptation and can be integrated with power development approaches similar to Olympic weightlifting training.
+
+## Update Log
+- 2025-01-21: Restructured for accessibility, added specific loading guidelines and safety protocols, enhanced practical applications section, updated research evidence with available high-quality studies
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1055/a-2161-4867 -->

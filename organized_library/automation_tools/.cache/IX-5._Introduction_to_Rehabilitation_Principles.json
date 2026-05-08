@@ -1,0 +1,66 @@
+{
+  "note_title": "IX-5. Introduction to Rehabilitation Principles",
+  "cached_at": "2026-05-07T21:13:24.591120",
+  "studies": [
+    {
+      "title": "From Tissue to System: What Constitutes an Appropriate Response to Loading?",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02126-w",
+      "pmid": "39527327",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Nutritional Supplements for Muscle Hypertrophy: Mechanisms and Morphology-Focused Evidence.",
+      "year": "2025",
+      "doi": "10.3390/nu17223603",
+      "pmid": "41305653",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Statistics: an introduction to basic principles.",
+      "year": "2022",
+      "doi": "10.1136/postgradmedj-2020-139446",
+      "pmid": "34039698",
+      "journal": "Postgraduate medical journal",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3333,
+      "quality_score": 0.61,
+      "composite_score": 0.535
+    },
+    {
+      "title": "INCOG 2.0 Guidelines for Cognitive Rehabilitation Following Traumatic Brain Injury, Part I: Posttraumatic Amnesia.",
+      "year": "2023",
+      "doi": "10.1097/HTR.0000000000000840",
+      "pmid": "36594857",
+      "journal": "The Journal of head trauma rehabilitation",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0714,
+      "quality_score": 0.61,
+      "composite_score": 0.4964
+    },
+    {
+      "title": "A Review of Wearable Optical Fiber Sensors for Rehabilitation Monitoring.",
+      "year": "2024",
+      "doi": "10.3390/s24113602",
+      "pmid": "38894393",
+      "journal": "Sensors (Basel, Switzerland)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.53,
+      "composite_score": 0.465
+    }
+  ]
+}

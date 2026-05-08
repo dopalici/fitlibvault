@@ -1,0 +1,66 @@
+{
+  "note_title": "Performance Prediction Models",
+  "cached_at": "2026-05-07T20:50:17.288678",
+  "studies": [
+    {
+      "title": "Assessment of Aerobic Fitness and Repeated Sprint Ability in Elite Male Soccer: A Systematic Review of Test Protocols Used in Practice and Research.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02188-4",
+      "pmid": "40220211",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Power profiling and the power-duration relationship in cycling: a narrative review.",
+      "year": "2022",
+      "doi": "10.1007/s00421-021-04833-y",
+      "pmid": "34708276",
+      "journal": "European journal of applied physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Applications of SARS-CoV-2 serological testing: impact of test performance, sample matrices, and patient characteristics.",
+      "year": "2024",
+      "doi": "10.1080/10408363.2023.2254390",
+      "pmid": "37800891",
+      "journal": "Critical reviews in clinical laboratory sciences",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0769,
+      "quality_score": 0.69,
+      "composite_score": 0.5381
+    },
+    {
+      "title": "Structural design and mechanical performance evaluation of personalized irregular porous L3-L4 fusion cage by additive manufacturing.",
+      "year": "2025",
+      "doi": "10.1016/j.compbiomed.2025.109796",
+      "pmid": "39923587",
+      "journal": "Computers in biology and medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0667,
+      "quality_score": 0.53,
+      "composite_score": 0.485
+    },
+    {
+      "title": "Effects of Strength Training on Physical Fitness of Olympic Combat Sports Athletes: A Systematic Review.",
+      "year": "2023",
+      "doi": "10.3390/ijerph20043516",
+      "pmid": "36834211",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

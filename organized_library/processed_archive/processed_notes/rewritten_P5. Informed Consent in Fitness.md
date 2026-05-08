@@ -1,0 +1,72 @@
+### P5. Informed Consent in Fitness
+**ID:** P5-INFORMED-CONSENT
+**Created:** 2025-06-05 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Informed consent requires providing clients with comprehensive information about exercise risks, benefits, and alternatives so they can make autonomous decisions about their fitness participation.
+
+## Key Points
+- Informed consent is both an ethical obligation and legal requirement in fitness settings
+- Must include clear disclosure of exercise risks, program details, and alternative options
+- Requires ongoing communication and documentation throughout the client relationship
+- Enables clients to make educated decisions about their participation in fitness programs
+- Forms the foundation of trust and transparency in professional fitness relationships
+
+## Deep Dive
+
+### Legal and Ethical Foundation
+Informed consent serves as a cornerstone of ethical fitness practice, establishing the legal and moral framework for client-trainer relationships. This principle ensures clients understand the nature of their participation and can make autonomous decisions based on complete information about risks, benefits, and alternatives.
+
+### Core Components of Informed Consent
+
+#### Risk Disclosure
+Comprehensive communication of potential risks associated with exercise participation forms the foundation of informed consent. This includes discussing injury risk, cardiovascular demands, and specific contraindications relevant to each client's health status and fitness goals ([[IX-6. Exercise Contraindications]], [[A8. Cardiovascular Physiology Fundamentals]], [[IX-1. Common Musculoskeletal Injuries]]).
+
+#### Program Explanation
+Detailed description of exercise protocols, training methodologies, and expected outcomes ensures clients understand what they are agreeing to participate in. This includes realistic timelines for results and explanation of the scientific principles underlying the program ([[B1. Progressive Overload]], [[Q1. Exercise Progression Principles]], [[H2. Realistic Muscle Gain Rates]]).
+
+#### Alternative Options
+Presentation of different training approaches and modification possibilities accommodates individual needs and preferences while ensuring clients understand they have choices in their fitness journey ([[G2. Age-Specific Exercise Recommendations]], [[G3. Training with Health Limitations & Chronic Conditions]], [[L1. Movement Patterns and Functional Training]]).
+
+#### Documentation Requirements
+Proper written consent forms, health screening questionnaires, and ongoing consent verification processes create a legal record of the informed consent process and demonstrate professional standards ([[P1. Ethical Training and Coaching]], [[P4. Evidence-Based Coaching Methodologies]]).
+
+### Ongoing Communication Process
+Informed consent extends beyond initial paperwork to include continuous dialogue about program adjustments, client comfort levels, and emerging concerns throughout the training relationship. This ongoing process ensures consent remains current and relevant ([[F4. Behavioral Psychology in Fitness]], [[P6. Professional Boundaries and Relationships]]).
+
+## Research Evidence
+
+**Note:** While informed consent is a well-established ethical and legal principle in healthcare and fitness, specific research on informed consent processes in fitness settings is limited. The evidence base primarily comes from healthcare research and professional standards documents rather than controlled trials.
+
+## Practical Applications
+
+### Initial Consultation Process
+- Conduct comprehensive health screening before program design
+- Use clear, non-technical language when explaining risks and benefits
+- Allow adequate time for questions and discussion
+- Provide written materials clients can review at home
+
+### Documentation Best Practices
+- Use standardized informed consent forms appropriate for your setting
+- Include specific risks relevant to planned activities
+- Document any modifications or special considerations
+- Maintain records according to professional and legal requirements
+
+### Ongoing Consent Management
+- Check in regularly about client comfort with program progression
+- Re-evaluate consent when making significant program changes
+- Address new health concerns or limitations as they arise
+- Maintain open communication about client goals and expectations
+
+## Common Mistakes
+⚠️ Using overly technical language that clients don't understand
+⚠️ Rushing through the consent process without adequate discussion time
+⚠️ Treating informed consent as a one-time event rather than ongoing process
+⚠️ Failing to document consent properly or maintain adequate records
+⚠️ Not updating consent when programs or client circumstances change significantly
+
+## Related Concepts
+Professional ethics in fitness [[P1. Ethical Training and Coaching]] provides the broader framework for informed consent practices. Understanding exercise risks and contraindications [[IX-6. Exercise Contraindications]] is essential for proper risk disclosure. Evidence-based coaching methodologies [[P4. Evidence-Based Coaching Methodologies]] support informed discussions about program rationale. Professional boundaries [[P6. Professional Boundaries and Relationships]] help maintain appropriate consent processes throughout client relationships.
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, expanded practical applications, clarified ongoing consent requirements

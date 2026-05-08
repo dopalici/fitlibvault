@@ -1,0 +1,66 @@
+{
+  "note_title": "Data Analysis and Interpretation",
+  "cached_at": "2026-05-07T20:47:22.605576",
+  "studies": [
+    {
+      "title": "Toward clinical long-read genome sequencing for rare diseases.",
+      "year": "2025",
+      "doi": "10.1038/s41588-025-02160-y",
+      "pmid": "40335760",
+      "journal": "Nature genetics",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Single-molecule orientation-localization microscopy: Applications and approaches.",
+      "year": "2024",
+      "doi": "10.1017/S0033583524000167",
+      "pmid": "39710866",
+      "journal": "Quarterly reviews of biophysics",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    },
+    {
+      "title": "Network Meta-Analysis of Comparing Different Dosages of Potassium-Competitive Acid Blocker With Proton-Pump Inhibitor in Acid-Related Disorders.",
+      "year": "2024",
+      "doi": "10.14309/ctg.0000000000000776",
+      "pmid": "39412166",
+      "journal": "Clinical and translational gastroenterology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.51
+    },
+    {
+      "title": "Spatial omics techniques and data analysis for cancer immunotherapy applications.",
+      "year": "2024",
+      "doi": "10.1016/j.copbio.2024.103111",
+      "pmid": "38520821",
+      "journal": "Current opinion in biotechnology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2222,
+      "quality_score": 0.53,
+      "composite_score": 0.5017
+    },
+    {
+      "title": "Effects of Strength Training on Physical Fitness of Olympic Combat Sports Athletes: A Systematic Review.",
+      "year": "2023",
+      "doi": "10.3390/ijerph20043516",
+      "pmid": "36834211",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "note_title": "F4. Behavioral Psychology in Fitness",
+  "cached_at": "2026-05-07T20:53:15.178337",
+  "studies": [
+    {
+      "title": "Exercise for depression.",
+      "year": "2026",
+      "doi": "10.1002/14651858.CD004366.pub7",
+      "pmid": "41500513",
+      "journal": "The Cochrane database of systematic reviews",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.62
+    },
+    {
+      "title": "Virtual Reality Interventions for Older Adults With Mild Cognitive Impairment: Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "year": "2025",
+      "doi": "10.2196/59195",
+      "pmid": "39793970",
+      "journal": "Journal of medical Internet research",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.58
+    },
+    {
+      "title": "Effects of Strength Training on Physical Fitness of Olympic Combat Sports Athletes: A Systematic Review.",
+      "year": "2023",
+      "doi": "10.3390/ijerph20043516",
+      "pmid": "36834211",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0833,
+      "quality_score": 0.61,
+      "composite_score": 0.5
+    },
+    {
+      "title": "Effectiveness of a Multifaceted Intervention for Prevention of Obesity in Primary School Children in China: A Cluster Randomized Clinical Trial.",
+      "year": "2022",
+      "doi": "10.1001/jamapediatrics.2021.4375",
+      "pmid": "34747972",
+      "journal": "JAMA pediatrics",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.48
+    },
+    {
+      "title": "Combinations of Physical Activity, Sedentary Behavior, and Sleep Duration and Their Associations With Physical, Psychological, and Educational Outcomes in Children and Adolescents: A Systematic Review.",
+      "year": "2023",
+      "doi": "10.1093/aje/kwac212",
+      "pmid": "36516992",
+      "journal": "American journal of epidemiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

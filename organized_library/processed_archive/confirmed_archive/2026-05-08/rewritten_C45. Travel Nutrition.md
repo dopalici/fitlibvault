@@ -1,0 +1,90 @@
+### C45. Travel Nutrition
+
+**ID:** C45-TRAVEL-NUTRITION **Created:** 2025-06-05 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Travel nutrition maintains athletic performance during travel by strategically managing jet lag, food safety, portable nutrition, and digestive adaptation while away from home environments.
+
+## Key Points
+- Circadian rhythm disruption from travel affects hormone production, digestion, and performance capacity
+- Food safety protocols prevent gastrointestinal illness that can derail training and competition
+- Strategic meal timing and light exposure help accelerate adaptation to new time zones
+- Portable nutrition solutions maintain dietary consistency when familiar foods are unavailable
+- Pre-travel planning reduces stress and ensures nutritional needs are met throughout the journey
+
+## Deep Dive
+
+Travel presents unique nutritional challenges that can significantly impact athletic performance. The disruption of normal routines, exposure to unfamiliar foods, and physiological stress of travel require specific strategies to maintain optimal nutritional status.
+
+### Jet Lag and Circadian Management
+
+Time zone changes disrupt the body's internal clock, affecting hormone production, digestion, and metabolism. Strategic nutrition timing combined with light exposure can help reset circadian rhythms more quickly. Eating meals at destination meal times immediately upon arrival helps signal the new schedule to the body's internal clock, as covered in [[C43. Circadian Nutrition]].
+
+Melatonin production, cortisol rhythms, and digestive enzyme secretion all follow circadian patterns that become misaligned during travel. This disruption can affect appetite, nutrient absorption, and sleep quality, all critical factors for athletic performance as detailed in [[F1. Sleep Quality and Quantity]].
+
+### Food Safety and Selection
+
+Gastrointestinal illness from contaminated food or water can severely impact performance and recovery. Safe food selection involves choosing thoroughly cooked foods, avoiding raw vegetables and fruits that cannot be peeled, and ensuring water sources are safe. This connects to broader food quality principles discussed in [[C30. Food Quality & Health (Whole vs Processed)]].
+
+Proper hydration becomes more challenging when water quality is uncertain. Athletes must plan for safe hydration sources and may need to rely on bottled water or water purification methods, building on hydration fundamentals from [[C4. Hydration]].
+
+### Portable Nutrition Solutions
+
+Maintaining nutritional standards requires careful planning of travel-friendly foods and supplements. Non-perishable protein sources, complex carbohydrates, and essential nutrients must be portable and shelf-stable. This often involves strategic use of supplements as outlined in [[C21. Evidence-Based Supplements (Group A)]].
+
+Competition nutrition timing becomes more complex during travel, requiring adaptation of normal pre, during, and post-exercise nutrition protocols as covered in [[C5. Pre, During, and Post-Exercise Nutrition]]. Athletes must account for meal timing disruptions and limited food access around training and competition.
+
+### Gastrointestinal Adaptation
+
+Travel stress, dietary changes, and altered eating patterns can disrupt normal digestive function. The gut microbiome, discussed in [[C32. Gut Health and Microbiome]], can be particularly sensitive to travel-related changes. Maintaining fiber intake, staying hydrated, and managing stress become crucial for digestive health.
+
+Stress management during travel affects both digestion and performance, connecting to principles covered in [[M3. Stress Management and Performance]]. The psychological stress of travel compounds the physiological challenges.
+
+## Research Evidence
+
+*Note: The provided evidence packet contained studies with quality and relevance scores of 0.00, making them unsuitable for inclusion. High-quality research specific to travel nutrition in athletes is needed to strengthen this evidence base.*
+
+## Practical Applications
+
+**Pre-Travel Planning:**
+- Research destination food options and identify safe restaurants or grocery stores
+- Pack 3-5 days of essential supplements and familiar snacks
+- Plan meal timing strategy based on destination time zone
+- Identify backup nutrition options for competition days
+
+**During Travel:**
+- Begin eating on destination meal schedule immediately
+- Stay hydrated but avoid excessive fluid intake before long flights
+- Choose easily digestible foods during travel days
+- Use compression garments and movement to support circulation
+
+**Post-Arrival Protocol:**
+- Seek natural light exposure at appropriate destination times
+- Maintain consistent meal timing even if not hungry
+- Gradually introduce local foods while keeping familiar base foods
+- Monitor hydration status and adjust intake based on climate
+
+**Competition Preparation:**
+- Test all travel nutrition strategies during training camps
+- Pack competition day nutrition from familiar sources
+- Have backup plans for delayed flights or lost luggage
+- Coordinate with team nutritionist or support staff when possible
+
+## Common Mistakes
+
+⚠️ Waiting until arrival to plan nutrition strategy instead of preparing in advance
+⚠️ Trying completely new foods close to competition instead of gradual introduction
+⚠️ Ignoring hydration needs during long flights leading to dehydration
+⚠️ Not accounting for different food safety standards in international destinations
+⚠️ Relying solely on hotel or venue food without backup options
+
+## Related Concepts
+
+Strategic meal timing supports circadian rhythm management [[C43. Circadian Nutrition]], while maintaining hydration standards [[C4. Hydration]] becomes more complex with uncertain water quality. Competition day protocols [[C44. Competition Day Nutrition]] must be adapted for travel scenarios, and overall nutrition periodization [[C37. Sports Nutrition Periodization]] should account for travel demands.
+
+Supplement strategies [[C21. Evidence-Based Supplements (Group A)]] become more important when whole food options are limited, and maintaining gut health [[C32. Gut Health and Microbiome]] requires attention to dietary changes. Sleep quality [[F1. Sleep Quality and Quantity]] and stress management [[M3. Stress Management and Performance]] are closely linked to successful travel nutrition implementation.
+
+Food quality principles [[C30. Food Quality & Health (Whole vs Processed)]] guide safe food selection, while exercise nutrition timing [[C5. Pre, During, and Post-Exercise Nutrition]] must be adapted for disrupted schedules and limited food access.
+
+## Update Log
+- 2025-01-27: Enhanced structure, improved practical applications, noted evidence limitations requiring future research updates

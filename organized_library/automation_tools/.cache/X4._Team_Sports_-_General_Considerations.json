@@ -1,0 +1,66 @@
+{
+  "note_title": "X4. Team Sports - General Considerations",
+  "cached_at": "2026-05-08T15:45:11.124405",
+  "studies": [
+    {
+      "title": "Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1007/s40279-023-01825-0",
+      "pmid": "36906633",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Racial Disparities in Sports Cardiology: A Review.",
+      "year": "2024",
+      "doi": "10.1001/jamacardio.2024.1899",
+      "pmid": "39018059",
+      "journal": "JAMA cardiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.125,
+      "quality_score": 0.85,
+      "composite_score": 0.6325
+    },
+    {
+      "title": "Second international consensus report on gaps and opportunities for the clinical translation of precision diabetes medicine.",
+      "year": "2023",
+      "doi": "10.1038/s41591-023-02502-5",
+      "pmid": "37794253",
+      "journal": "Nature medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Contemporary Themes in Dietary Intake in Rugby Union Players: A Narrative Review.",
+      "year": "2024",
+      "doi": "10.3390/nu16173011",
+      "pmid": "39275326",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Remote Exercise Engagement Among Individuals With Cardiovascular Disease: A Systematic Review of Barriers and Facilitators.",
+      "year": "2025",
+      "doi": "10.1097/HCR.0000000000000899",
+      "pmid": "39298562",
+      "journal": "Journal of cardiopulmonary rehabilitation and prevention",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    }
+  ]
+}

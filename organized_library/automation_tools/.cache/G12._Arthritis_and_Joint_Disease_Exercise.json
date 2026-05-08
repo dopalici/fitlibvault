@@ -1,0 +1,66 @@
+{
+  "note_title": "Arthritis and Joint Disease Exercise",
+  "cached_at": "2026-05-07T21:00:20.048666",
+  "studies": [
+    {
+      "title": "Osteoarthritis.",
+      "year": "2025",
+      "doi": "10.1038/s41572-025-00594-6",
+      "pmid": "39948092",
+      "journal": "Nature reviews. Disease primers",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Osteoarthritis.",
+      "year": "2025",
+      "doi": "10.1016/S0140-6736(24)02322-5",
+      "pmid": "39755397",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Yoga or Strengthening Exercise for Knee Osteoarthritis: A Randomized Clinical Trial.",
+      "year": "2025",
+      "doi": "10.1001/jamanetworkopen.2025.3698",
+      "pmid": "40198073",
+      "journal": "JAMA network open",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Comparative efficacy and safety of exercise modalities in knee osteoarthritis: systematic review and network meta-analysis.",
+      "year": "2025",
+      "doi": "10.1136/bmj-2025-085242",
+      "pmid": "41093618",
+      "journal": "BMJ (Clinical research ed.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.54
+    },
+    {
+      "title": "Exercise for osteoarthritis of the knee.",
+      "year": "2024",
+      "doi": "10.1002/14651858.CD004376.pub4",
+      "pmid": "39625083",
+      "journal": "The Cochrane database of systematic reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    }
+  ]
+}

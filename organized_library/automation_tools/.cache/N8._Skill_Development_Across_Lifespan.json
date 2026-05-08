@@ -1,0 +1,66 @@
+{
+  "note_title": "N8. Skill Development Across Lifespan",
+  "cached_at": "2026-05-07T21:43:42.446586",
+  "studies": [
+    {
+      "title": "Reinvest to Assess: Advancing Approaches to Motor Competence Measurement Across the Lifespan.",
+      "year": "2023",
+      "doi": "10.1007/s40279-022-01750-8",
+      "pmid": "35997861",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1818,
+      "quality_score": 0.85,
+      "composite_score": 0.6495
+    },
+    {
+      "title": "Trajectories of neurodevelopment and opportunities for intervention across the lifespan in congenital heart disease.",
+      "year": "2023",
+      "doi": "10.1080/09297049.2023.2173162",
+      "pmid": "36752083",
+      "journal": "Child neuropsychology : a journal on normal and abnormal development in childhood and adolescence",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1818,
+      "quality_score": 0.61,
+      "composite_score": 0.5295
+    },
+    {
+      "title": "Aging, brain plasticity, and motor learning.",
+      "year": "2024",
+      "doi": "10.1016/j.arr.2024.102569",
+      "pmid": "39486523",
+      "journal": "Ageing research reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    },
+    {
+      "title": "Observation of Early Social Interactions in Sibling Dyads: A Systematic Review.",
+      "year": "2024",
+      "doi": "10.1007/s10567-023-00461-4",
+      "pmid": "38043094",
+      "journal": "Clinical child and family psychology review",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    },
+    {
+      "title": "SIRT1 in acute lung injury: unraveling its pleiotropic functions and therapeutic development prospects.",
+      "year": "2025",
+      "doi": "10.1007/s11010-024-05111-z",
+      "pmid": "39269678",
+      "journal": "Molecular and cellular biochemistry",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0714,
+      "quality_score": 0.53,
+      "composite_score": 0.4864
+    }
+  ]
+}

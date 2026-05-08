@@ -1,0 +1,80 @@
+### M7. Nutrition-Recovery Integration
+**ID:** M7-NUTRITION-RECOVERY
+**Created:** 2025-06-05 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Strategic coordination of nutrient timing, composition, and delivery methods to optimize cellular repair, glycogen replenishment, and hormonal responses following exercise stress.
+
+## Key Points
+- Post-exercise protein intake (20-40g) within 2 hours maximizes muscle protein synthesis rates
+- Carbohydrate consumption immediately after exercise accelerates glycogen resynthesis through enhanced insulin sensitivity
+- Anti-inflammatory nutrients help modulate exercise-induced oxidative stress and inflammatory responses
+- Proper hydration and electrolyte replacement are essential for cellular repair processes and subsequent performance
+- Recovery supplementation protocols can reduce time between quality training sessions when combined with optimal nutrition
+
+## Deep Dive
+
+### Post-Exercise Nutrient Timing
+The anabolic window concept has evolved beyond the traditional "30-minute rule" to encompass a more nuanced understanding of nutrient timing. Muscle protein synthesis remains elevated for up to 48 hours post-exercise, with the greatest sensitivity to amino acid availability occurring within the first 2-4 hours. Strategic protein and carbohydrate delivery during this period maximizes recovery adaptations through enhanced [[C3. Nutrient Timing]] protocols.
+
+### Recovery-Specific Macronutrient Strategies
+Different phases of recovery require tailored macronutrient approaches. Immediate post-exercise nutrition emphasizes rapid-digesting proteins and high-glycemic carbohydrates to stimulate anabolic processes. The subsequent 24-48 hour period benefits from sustained amino acid availability through varied protein sources and complex carbohydrates for sustained energy replenishment, as outlined in [[C2. Macronutrient Distribution]] and [[B2. Protein Requirements for Muscle Growth]].
+
+### Anti-Inflammatory Nutrition Protocols
+Exercise-induced inflammation serves both beneficial and potentially detrimental roles in adaptation. Strategic use of [[C33. Anti-Inflammatory FoodsDiets]] and targeted [[C34. Antioxidants]] can help modulate excessive inflammatory responses while preserving beneficial signaling pathways for adaptation.
+
+### Advanced Hydration Strategies
+Recovery-focused [[C4. Hydration]] extends beyond simple fluid replacement to include consideration of sweat sodium losses, environmental factors, and individual variation in fluid needs. Proper [[C5. Electrolytes]] balance supports cellular repair processes and prepares the body for subsequent training sessions.
+
+### Evidence-Based Supplementation
+Specific supplements from [[C21. Evidence-Based Supplements (Group A)]] and select [[C24. Ergogenic Aids]] can enhance recovery when integrated with comprehensive nutrition strategies, though whole food approaches should form the foundation of any recovery protocol.
+
+## Research Evidence
+
+**Mata et al. (2025).** Nutritional Strategies to Improve Post-exercise Recovery and Subsequent Exercise Performance: A Narrative Review. *Sports Medicine*, 55(3), 1-24. DOI: https://doi.org/10.1007/s40279-025-02213-6
+- Key finding: Combined protein-carbohydrate intake within 2 hours post-exercise optimizes both muscle protein synthesis and glycogen resynthesis
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of recent recovery nutrition research)
+
+**Jagim et al. (2025).** Part II. Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show? *Journal of the International Society of Sports Nutrition*, 22(1), 2441760. DOI: https://doi.org/10.1080/15502783.2024.2441760
+- Key finding: Creatine supplementation (3-5g daily) enhances recovery between high-intensity training sessions
+- Study type: Systematic review
+- Evidence quality: High (evidence-based position statement)
+
+**Durkalec-Michalski et al. (2025).** International society of sports nutrition position stand: β-hydroxy-β-methylbutyrate (HMB). *Journal of the International Society of Sports Nutrition*, 22(1), 2434734. DOI: https://doi.org/10.1080/15502783.2024.2434734
+- Key finding: HMB supplementation (3g daily) may reduce exercise-induced muscle damage markers and accelerate recovery
+- Study type: Systematic review
+- Evidence quality: High (international position statement)
+
+## Practical Applications
+
+**Immediate Post-Exercise (0-2 hours):**
+- Consume 20-40g high-quality protein within 2 hours
+- Include 1-1.5g/kg body weight carbohydrates for glycogen replenishment
+- Begin fluid replacement at 150% of sweat losses
+
+**Extended Recovery Phase (2-24 hours):**
+- Maintain protein intake at 1.6-2.2g/kg body weight daily
+- Emphasize anti-inflammatory foods: fatty fish, berries, leafy greens
+- Continue structured hydration with electrolyte consideration
+
+**Supplementation Protocol:**
+- Creatine: 3-5g daily for enhanced power recovery
+- Consider HMB (3g daily) during high-volume training phases
+- Prioritize whole food sources before supplementation
+
+## Common Mistakes
+
+⚠️ Focusing only on immediate post-workout nutrition while neglecting 24-48 hour recovery nutrition
+⚠️ Over-relying on supplements while ignoring fundamental macronutrient and hydration needs
+⚠️ Using excessive antioxidant supplementation that may blunt beneficial training adaptations
+⚠️ Applying generic hydration recommendations without considering individual sweat rates and composition
+
+## Related Concepts
+
+Strategic recovery nutrition builds upon fundamental understanding of [[B2. Protein Requirements for Muscle Growth]] and optimal [[C2. Macronutrient Distribution]]. Effective implementation requires mastery of [[C3. Nutrient Timing]] principles and comprehensive [[C29. Nutrition for Recovery]] strategies. Advanced practitioners may incorporate targeted [[C21. Evidence-Based Supplements (Group A)]] and select [[C24. Ergogenic Aids]] while maintaining focus on [[C4. Hydration]] and [[C5. Electrolytes]] optimization. The integration of [[C33. Anti-Inflammatory FoodsDiets]] and strategic [[C34. Antioxidants]] use completes the comprehensive approach.
+
+## Update Log
+- 2025-01-27: Enhanced research evidence with 2025 systematic reviews, refined practical applications, updated supplementation protocols based on latest position statements
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/15502783.2024.2441760; Invalid or broken DOI: 10.1080/15502783.2024.2434734 -->

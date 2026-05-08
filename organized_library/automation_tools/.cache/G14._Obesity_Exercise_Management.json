@@ -1,0 +1,66 @@
+{
+  "note_title": "Obesity Exercise Management",
+  "cached_at": "2026-05-07T21:01:38.107353",
+  "studies": [
+    {
+      "title": "Obesity in children and adolescents: epidemiology, causes, assessment, and management.",
+      "year": "2022",
+      "doi": "10.1016/S2213-8587(22)00047-X",
+      "pmid": "35248172",
+      "journal": "The lancet. Diabetes & endocrinology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2857,
+      "quality_score": 0.85,
+      "composite_score": 0.6407
+    },
+    {
+      "title": "Sarcopenic obesity in older adults: a clinical overview.",
+      "year": "2024",
+      "doi": "10.1038/s41574-023-00943-z",
+      "pmid": "38321142",
+      "journal": "Nature reviews. Endocrinology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.85,
+      "composite_score": 0.6379
+    },
+    {
+      "title": "Diagnosis and Treatment of Type 2 Diabetes in Adults: A Review.",
+      "year": "2025",
+      "doi": "10.1001/jama.2025.5956",
+      "pmid": "40549398",
+      "journal": "JAMA",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Osteoarthritis.",
+      "year": "2025",
+      "doi": "10.1016/S0140-6736(24)02322-5",
+      "pmid": "39755397",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Osteoarthritis.",
+      "year": "2025",
+      "doi": "10.1038/s41572-025-00594-6",
+      "pmid": "39948092",
+      "journal": "Nature reviews. Disease primers",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    }
+  ]
+}

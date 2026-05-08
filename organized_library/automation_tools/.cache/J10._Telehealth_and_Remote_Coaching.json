@@ -1,0 +1,66 @@
+{
+  "note_title": "J10. Telehealth and Remote Coaching",
+  "cached_at": "2026-05-07T21:19:51.157234",
+  "studies": [
+    {
+      "title": "The Relationship Between Running Biomechanics and Running Economy: A Systematic Review and Meta-Analysis of Observational Studies.",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-01997-3",
+      "pmid": "38446400",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "An AI-Powered Lifestyle Intervention vs Human Coaching in the Diabetes Prevention Program: A Randomized Clinical Trial.",
+      "year": "2025",
+      "doi": "10.1001/jama.2025.19563",
+      "pmid": "41144242",
+      "journal": "JAMA",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0714,
+      "quality_score": 0.7,
+      "composite_score": 0.5714
+    },
+    {
+      "title": "Circadian rhythms and disorders of the timing of sleep.",
+      "year": "2022",
+      "doi": "10.1016/S0140-6736(22)00877-7",
+      "pmid": "36115370",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Mobile Health Intervention in Patients With Type 2 Diabetes: A Randomized Clinical Trial.",
+      "year": "2023",
+      "doi": "10.1001/jamanetworkopen.2023.33629",
+      "pmid": "37773498",
+      "journal": "JAMA network open",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    },
+    {
+      "title": "Continuous glucose monitoring: Minimally and non-invasive technologies.",
+      "year": "2025",
+      "doi": "10.1016/j.cca.2025.120358",
+      "pmid": "40379197",
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    }
+  ]
+}

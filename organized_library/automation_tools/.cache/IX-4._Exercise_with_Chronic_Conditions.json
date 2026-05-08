@@ -1,0 +1,66 @@
+{
+  "note_title": "IX-4. Exercise with Chronic Conditions",
+  "cached_at": "2026-05-07T21:12:53.213182",
+  "studies": [
+    {
+      "title": "Exercise and Neuropathy: Systematic Review with Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.1007/s40279-021-01596-6",
+      "pmid": "34964950",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    },
+    {
+      "title": "Non-Cystic Fibrosis Bronchiectasis in Adults: A Review.",
+      "year": "2025",
+      "doi": "10.1001/jama.2025.2680",
+      "pmid": "40293759",
+      "journal": "JAMA",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "A systematic review and meta-analysis of balance training in patients with chronic ankle instability.",
+      "year": "2024",
+      "doi": "10.1186/s13643-024-02455-x",
+      "pmid": "38347564",
+      "journal": "Systematic reviews",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.84,
+      "composite_score": 0.62
+    },
+    {
+      "title": "Effectiveness of exercise therapy on chronic ankle instability: a meta-analysis.",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-95896-w",
+      "pmid": "40188228",
+      "journal": "Scientific reports",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.125,
+      "quality_score": 0.68,
+      "composite_score": 0.5775
+    },
+    {
+      "title": "Practical guidelines for exercise prescription in patients with chronic heart failure.",
+      "year": "2023",
+      "doi": "10.1007/s10741-023-10310-9",
+      "pmid": "37071253",
+      "journal": "Heart failure reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.69,
+      "composite_score": 0.5483
+    }
+  ]
+}

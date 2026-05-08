@@ -1,0 +1,66 @@
+{
+  "note_title": "Cardiovascular Disease Exercise Prescription",
+  "cached_at": "2026-05-07T21:07:02.712697",
+  "studies": [
+    {
+      "title": "Peripheral artery disease.",
+      "year": "2025",
+      "doi": "10.1038/s41572-025-00651-0",
+      "pmid": "40968271",
+      "journal": "Nature reviews. Disease primers",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2,
+      "quality_score": 0.85,
+      "composite_score": 0.685
+    },
+    {
+      "title": "Isometric Exercise Training and Arterial Hypertension: An Updated Review.",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-02036-x",
+      "pmid": "38762832",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Practical guidelines for exercise prescription in patients with chronic heart failure.",
+      "year": "2023",
+      "doi": "10.1007/s10741-023-10310-9",
+      "pmid": "37071253",
+      "journal": "Heart failure reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.69,
+      "composite_score": 0.5483
+    },
+    {
+      "title": "Effectiveness of Using Virtual Reality-Supported Exercise Therapy for Upper Extremity Motor Rehabilitation in Patients With Stroke: Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+      "year": "2022",
+      "doi": "10.2196/24111",
+      "pmid": "35723907",
+      "journal": "Journal of medical Internet research",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.51
+    },
+    {
+      "title": "Resistance Training and Mortality Risk: A Systematic Review and Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.1016/j.amepre.2022.03.020",
+      "pmid": "35599175",
+      "journal": "American journal of preventive medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.51
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "note_title": "B74. Rest-Pause Training Protocols",
+  "cached_at": "2026-05-07T18:39:08.455773",
+  "studies": [
+    {
+      "title": "The Effect of Strength Training on Endurance Performance Determinants in Middle- and Long-Distance Endurance Athletes: An Umbrella Review of Systematic Reviews and Meta-Analysis.",
+      "year": "2025",
+      "doi": "10.1519/JSC.0000000000005056",
+      "pmid": "40153564",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "The Effects of Creatine Supplementation Combined with Resistance Training on Regional Measures of Muscle Hypertrophy: A Systematic Review with Meta-Analysis.",
+      "year": "2023",
+      "doi": "10.3390/nu15092116",
+      "pmid": "37432300",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effect of Strength Training Programs in Middle- and Long-Distance Runners' Economy at Different Running Speeds: A Systematic Review with Meta-analysis.",
+      "year": "2024",
+      "doi": "10.1007/s40279-023-01978-y",
+      "pmid": "38165636",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "The Effect of Carbohydrate Intake on Strength and Resistance Training Performance: A Systematic Review.",
+      "year": "2022",
+      "doi": "10.3390/nu14040856",
+      "pmid": "35215506",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "The Effect of Resistance Training on the Rehabilitation of Elderly Patients with Sarcopenia: A Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.3390/ijerph192315491",
+      "pmid": "36497565",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.51
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "note_title": "X17. Hockey Training",
+  "cached_at": "2026-05-08T16:05:45.834192",
+  "studies": [
+    {
+      "title": "Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1007/s40279-023-01825-0",
+      "pmid": "36906633",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Olympic Weightlifting Training for Sprint Performance in Athletes: A Systematic Review with Meta-analysis.",
+      "year": "2024",
+      "doi": "10.1055/a-2161-4867",
+      "pmid": "37640059",
+      "journal": "International journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Collagen\u00a0Supplementation Augments Strength Training-Induced Gains in Tendon Size and Rate of Force Development in Elite Female Master Field Hockey Athletes.",
+      "year": "2025",
+      "doi": "10.1123/ijsnem.2025-0089",
+      "pmid": "40992424",
+      "journal": "International journal of sport nutrition and exercise metabolism",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0556,
+      "quality_score": 0.7,
+      "composite_score": 0.5667
+    },
+    {
+      "title": "The Impact of a Repeated Sprint Training Program on Performance Measures in Male Field Hockey Players.",
+      "year": "2022",
+      "doi": "10.1519/JSC.0000000000004000",
+      "pmid": "33651730",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0909,
+      "quality_score": 0.7,
+      "composite_score": 0.5073
+    },
+    {
+      "title": "Effects of physical activity and exercise-based interventions in young adults with autism spectrum disorder: A systematic review.",
+      "year": "2024",
+      "doi": "10.1177/13623613231169058",
+      "pmid": "37128159",
+      "journal": "Autism : the international journal of research and practice",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

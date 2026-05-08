@@ -1,0 +1,66 @@
+{
+  "note_title": "K7. Peak Performance Psychology",
+  "cached_at": "2026-05-07T21:29:39.802985",
+  "studies": [
+    {
+      "title": "Systemic Immunomodulatory Treatments for Atopic Dermatitis: Living Systematic Review and Network Meta-Analysis Update.",
+      "year": "2024",
+      "doi": "10.1001/jamadermatol.2024.2192",
+      "pmid": "39018058",
+      "journal": "JAMA dermatology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Exercise-based cardiac rehabilitation for adults with atrial fibrillation.",
+      "year": "2024",
+      "doi": "10.1002/14651858.CD011197.pub3",
+      "pmid": "39287086",
+      "journal": "The Cochrane database of systematic reviews",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "Personalised gait retraining for medial compartment knee osteoarthritis: a randomised controlled trial.",
+      "year": "2025",
+      "doi": "10.1016/S2665-9913(25)00151-1",
+      "pmid": "40816302",
+      "journal": "The Lancet. Rheumatology",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Consensus Statements-Optimizing Performance of the Elite Athlete.",
+      "year": "2025",
+      "doi": "10.1111/sms.70112",
+      "pmid": "40781883",
+      "journal": "Scandinavian journal of medicine & science in sports",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.61,
+      "composite_score": 0.5479
+    },
+    {
+      "title": "A Holistic Focus of Attention Enhances Vertical Jump Performance Among Inexperienced Individuals.",
+      "year": "2025",
+      "doi": "10.1080/00222895.2024.2405532",
+      "pmid": "39351697",
+      "journal": "Journal of motor behavior",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0833,
+      "quality_score": 0.61,
+      "composite_score": 0.53
+    }
+  ]
+}

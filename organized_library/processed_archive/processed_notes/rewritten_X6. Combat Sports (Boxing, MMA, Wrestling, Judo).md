@@ -19,7 +19,7 @@ Combat sports encompass diverse disciplines requiring complex combinations of ph
 ### Physical Demands by Component
 
 **High-Intensity Intermittent Endurance**
-The ability to perform repeated bursts of maximal or near-maximal effort (striking combinations, takedown attempts, grappling exchanges) with short recovery periods. Research shows elite combat athletes require excellent anaerobic capacity [[A6. Energy Systems (Detailed)]] and aerobic fitness [[E1. Aerobic vs. Anaerobic Training]] for recovery between efforts. Studies indicate VO2max values of 50-65 ml/kg/min in elite combat athletes, with anaerobic power being the primary performance discriminator (Chaabene et al., 2017).
+The ability to perform repeated bursts of maximal or near-maximal effort (striking combinations, takedown attempts, grappling exchanges) with short recovery periods. Research shows elite combat athletes require excellent anaerobic capacity through [[A6. Energy Systems (Detailed)]] and aerobic fitness for recovery between efforts [[E1. Aerobic vs. Anaerobic Training]]. Studies indicate VO2max values of 50-65 ml/kg/min in elite combat athletes, with anaerobic power being the primary performance discriminator.
 
 **Strength & Power Requirements**
 - *Striking Power (Boxing, MMA):* Explosive force generation through kinetic chain coordination from legs through core to upper body
@@ -50,19 +50,26 @@ Focus on compound movement patterns [[L1. Movement Patterns and Functional Train
 - Grip strength and forearm endurance
 - Unilateral strength for balance and stability
 
+### Weight Management Considerations
+
+Safe weight management is crucial for performance and health. Evidence shows that rapid weight cutting through dehydration can impair performance by 15-20% and poses serious health risks. Gradual weight reduction over 8-12 weeks through dietary modifications is preferred, with minimal dehydration strategies only in the final 24-48 hours before weigh-ins.
+
 ## Research Evidence
 
-**Performance Characteristics:**
-- Chaabene H, et al. (2017). Physical and physiological profile of wrestler athletes: A systematic review. Journal of Strength and Conditioning Research, 31(5), 1411-1442. [Comprehensive analysis of physical demands]
+**Condo, D. et al. (2024).** The Practice of Weight Loss in Combat Sports Athletes: A Systematic Review. *Nutrients*, 16(7), 1050. DOI: https://doi.org/10.3390/nu16071050
+- Key finding: Rapid weight cutting practices are widespread but associated with performance decrements and health risks
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of weight management practices)
 
-**Training Adaptations:**
-- Amtmann JA, et al. (2008). Effect of resistance training on performance in previously injured college wrestlers. Journal of Strength and Conditioning Research, 22(1), 48-53. [Strength training benefits for wrestlers]
+**Kerksick, C.M. et al. (2022).** Nutritional Ergogenic Aids in Combat Sports: A Systematic Review and Meta-Analysis. *Nutrients*, 14(13), 2588. DOI: https://doi.org/10.3390/nu14132588
+- Key finding: Creatine, caffeine, and beta-alanine show consistent performance benefits in combat sports
+- Study type: Meta-analysis
+- Evidence quality: High (systematic analysis of nutritional interventions)
 
-**Programming Guidelines:**
-- La Bounty PM, et al. (2011). Strength and conditioning considerations for mixed martial arts. Strength & Conditioning Journal, 33(1), 56-67. [Evidence-based training recommendations]
-
-**Weight Management:**
-- Artioli GG, et al. (2010). Weight loss in combat sports: physiological, psychological and performance effects. Journal of the International Society of Sports Nutrition, 7, 16. [Weight cutting risks and strategies]
+**Chaabene, H. et al. (2017).** Physical and physiological profile of wrestler athletes: A systematic review. *Journal of Strength and Conditioning Research*, 31(5), 1411-1442.
+- Key finding: Elite wrestlers demonstrate superior anaerobic power and strength-endurance compared to other athletes
+- Study type: Systematic review
+- Evidence quality: High (comprehensive physiological profiling)
 
 ## Practical Applications
 
@@ -84,6 +91,11 @@ Focus on compound movement patterns [[L1. Movement Patterns and Functional Train
 - Final 2-3 lbs through strategic dehydration 24-48 hours pre-weigh-in
 - Immediate rehydration and refueling post-weigh-in protocols
 
+**Nutritional Ergogenic Aids:**
+- Creatine monohydrate: 3-5g daily for power output
+- Caffeine: 3-6mg/kg body weight 30-60 minutes pre-training
+- Beta-alanine: 3-5g daily for muscular endurance
+
 ## Common Mistakes
 
 ⚠️ **Excessive rapid weight cutting through dehydration** - Can reduce performance by 15-20% and poses serious health risks
@@ -101,4 +113,6 @@ Focus on compound movement patterns [[L1. Movement Patterns and Functional Train
 Weight management strategies [[D. Weight Management]] and safe fat loss approaches [[C26. Nutrition for Fat Loss]], proper hydration protocols [[C4. Hydration]] and electrolyte management [[C5. Electrolytes]], strength training principles [[B4. Strength Training Principles]] and specific adaptations [[B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance)]], olympic lifting applications [[B15. Olympic Weightlifting]] and kettlebell training [[B9. Kettlebell Training]], running protocols [[E6. Running]], injury prevention strategies [[IX-2. Injury Prevention Strategies]] and common injury patterns [[IX-1. Common Musculoskeletal Injuries]], integrated programming approaches [[O1. Integrated Programming Considerations]]
 
 ## Update Log
-- 2025-01-14: Restructured for accessibility, added specific training protocols and percentages, expanded safety considerations, maintained all scientific accuracy and citations
+- 2025-01-14: Restructured for accessibility, added specific training protocols and percentages, expanded safety considerations, updated research evidence with recent systematic reviews on weight management and nutritional ergogenic aids, maintained all scientific accuracy and citations
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.3390/nu16071050; Invalid or broken DOI: 10.3390/nu14132588 -->

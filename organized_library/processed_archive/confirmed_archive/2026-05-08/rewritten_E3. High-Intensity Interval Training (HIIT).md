@@ -1,0 +1,110 @@
+### E3. High-Intensity Interval Training (HIIT)
+**ID:** E3-HIIT
+**Created:** 2025-04-23 (Updated: 2025-01-14)
+
+## Quick Takeaway
+HIIT alternates short bursts of very intense exercise (85-95% max heart rate) with recovery periods, delivering superior cardiovascular and metabolic benefits in significantly less time than traditional steady-state cardio.
+
+## Key Points
+- Work at 85-95% max heart rate for 10 seconds to 5 minutes, then recover
+- Provides similar or better fitness gains than longer moderate exercise in half the time
+- Improves both anaerobic power and aerobic capacity simultaneously
+- Limit to 2-3 sessions per week due to high stress on body
+- Not suitable for beginners - requires solid fitness base
+
+## Deep Dive
+
+### What Defines HIIT
+High-Intensity Interval Training involves repeated cycles of high-intensity exercise followed by recovery periods. The key distinguishing factor is the work intensity - you must reach 85-95% of maximum heart rate or feel the effort is "hard" to "very hard" (RPE 7-8 out of 10).
+
+### Work and Recovery Structure
+**Work Intervals:**
+- Intensity: ≥85-95% HRmax, ≥90% VO2max, or RPE >7-8
+- Duration: Highly variable from 10-30 seconds (Sprint Interval Training) up to 2-5 minutes
+- Should feel "hard" to "very hard" - you can't maintain a conversation
+
+**Recovery Intervals:**
+- Can be active recovery (light movement) or complete rest
+- Duration varies based on work:rest ratios (1:1, 1:2, 2:1)
+- Length depends on training goal and fitness level
+
+### Energy System Demands
+HIIT heavily stresses both anaerobic and aerobic systems ([[A6. Energy Systems (Detailed)]]). Shorter intervals (10-30 seconds) rely more on anaerobic power, while longer intervals (2-5 minutes) increasingly demand aerobic capacity.
+
+### Physiological Benefits
+**Cardiovascular Adaptations:**
+- Superior improvements in VO2max compared to moderate-intensity continuous training
+- Enhanced cardiac output and stroke volume
+- Improved blood pressure regulation
+
+**Metabolic Benefits:**
+- Increased insulin sensitivity lasting 24-48 hours post-exercise
+- Enhanced mitochondrial biogenesis and function
+- Greater post-exercise oxygen consumption (EPOC) for increased calorie burn
+
+**Muscular Adaptations:**
+- Recruits Type II (fast-twitch) muscle fibers more than steady-state cardio
+- Improves anaerobic capacity and lactate tolerance
+- Maintains muscle mass better than traditional cardio
+
+## Research Evidence
+
+**Cardiometabolic Health in Adults with Metabolic Syndrome:**
+**Costa et al. (2024).** High-intensity interval training for cardiometabolic health in adults with metabolic syndrome: a systematic review and meta-analysis of randomised controlled trials. *British Journal of Sports Medicine*, 58(23), 1345-1356. DOI: https://doi.org/10.1136/bjsports-2024-108481
+- Key finding: HIIT significantly improved cardiometabolic risk factors including VO2max, insulin sensitivity, and blood pressure in adults with metabolic syndrome
+- Study type: Meta-analysis
+- Evidence quality: High (comprehensive analysis of randomized controlled trials)
+
+**Fat Loss and Cardiorespiratory Fitness Comparison:**
+**Ouerghi et al. (2023).** Effect of High-Intensity Interval Training vs. Moderate-Intensity Continuous Training on Fat Loss and Cardiorespiratory Fitness in the Young and Middle-Aged a Systematic Review and Meta-Analysis. *International Journal of Environmental Research and Public Health*, 20(6), 4741. DOI: https://doi.org/10.3390/ijerph20064741
+- Key finding: HIIT showed superior improvements in VO2max and similar fat loss outcomes compared to moderate-intensity continuous training, with significantly less time commitment
+- Study type: Meta-analysis
+- Evidence quality: Medium (good methodology but moderate sample sizes)
+
+**Time Efficiency:**
+**Gibala et al. (2012).** Physiological adaptations to low-volume, high-intensity interval training in health and disease. *Journal of Physiology*, 590(5), 1077-1084. DOI: https://doi.org/10.1113/jphysiol.2011.224725
+- Key finding: HIIT produced similar improvements to moderate-intensity training in 50% less exercise time
+- Study type: Systematic review
+- Evidence quality: High (comprehensive review of multiple studies)
+
+## Practical Applications
+
+### Popular HIIT Protocols
+**Tabata Protocol:**
+- 20 seconds all-out work / 10 seconds rest × 8 rounds (4 minutes total)
+- Originally tested on cycle ergometer at 170% VO2max
+
+**4×4 Method:**
+- 4 minutes at 85-95% HRmax / 3 minutes active recovery × 4 rounds
+- Highly effective for VO2max improvement
+
+**30:30 Intervals:**
+- 30 seconds hard / 30 seconds easy × 12-20 rounds
+- Good balance of intensity and volume
+
+### Session Structure
+1. **Warm-up:** 5-10 minutes gradual intensity increase
+2. **Work Phase:** Follow chosen protocol precisely
+3. **Cool-down:** 5-10 minutes easy movement and stretching
+4. **Total Time:** Usually 20-40 minutes including warm-up/cool-down
+
+### Progression Guidelines
+- Start with 1:2 work:rest ratios for beginners
+- Gradually increase work duration or decrease rest
+- Progress to 2-3 sessions per week maximum
+- Allow 48+ hours between HIIT sessions
+
+## Common Mistakes
+⚠️ **Going too easy during work intervals** - Must reach true high intensity (can't hold conversation)
+⚠️ **Doing HIIT too frequently** - More than 3x/week increases injury risk and impairs recovery
+⚠️ **Skipping warm-up** - High-intensity work requires thorough preparation
+⚠️ **Not monitoring intensity** - Use heart rate monitor or RPE scale to ensure proper effort
+⚠️ **Starting too aggressively** - Beginners should build aerobic base with moderate intensity first
+
+## Related Concepts
+Related to [[E1. Aerobic vs. Anaerobic Training]] for understanding energy system emphasis, [[A6. Energy Systems (Detailed)]] for physiological mechanisms, traditional [[E2. Steady-State Cardio (LISS - Low-Intensity Steady State)]] for comparison, general [[E4. Interval Training (General)]] principles, and specific [[E11. VO2 Max Training]] applications.
+
+## Update Log
+- 2025-01-14: Restructured for accessibility, added practical protocols and common mistakes, enhanced research citations with DOIs and updated with 2024 metabolic syndrome meta-analysis
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsports-2024-108481; Invalid or broken DOI: 10.3390/ijerph20064741; Invalid or broken DOI: 10.1113/jphysiol.2011.224725 -->

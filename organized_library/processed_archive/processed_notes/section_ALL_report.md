@@ -1,326 +1,591 @@
 # Section ALL Processing Report
-Generated: 2025-06-03 19:47:42
+Generated: 2026-05-08 16:13:13
 
 ## Summary
-- **Files Processed:** 292
+- **Files Processed:** 33
 - **Files Failed:** 0  
-- **Files Skipped:** 24
+- **Files Skipped:** 548
 - **Success Rate:** 100.0% (of attempted)
 
 ## Detailed Results
-- ⏭️ **.md**: skipped - Too short (0 words)
-- ✅ **A. Foundational Concepts.md**: success
-- ✅ **A1. Energy Balance.md**: success
-- ✅ **A10. Hormonal Responses to Exercise.md**: success
-- ✅ **A11. Biomechanics Levers in the Human Body.md**: success
-- ✅ **A12. Biomechanics Force Vectors.md**: success
-- ✅ **A13. Biomechanics Torque and Movement.md**: success
-- ✅ **A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM).md**: success
-- ✅ **A15. Biomechanics Posture Analysis.md**: success
-- ✅ **A16. Biomechanics Gait Analysis.md**: success
-- ✅ **A17. Movement Screening.md**: success
-- ✅ **A18. Proper Lifting Mechanics.md**: success
-- ✅ **A19. Principle of Overload.md**: success
-- ✅ **A2. Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE).md**: success
-- ✅ **A20. Principle of Specificity (SAID).md**: success
-- ✅ **A21. Principle of Progression.md**: success
-- ✅ **A22. Principle of Reversibility (Detraining).md**: success
-- ✅ **A23. Principle of Individuality.md**: success
-- ✅ **A24. Principle of Diminishing Returns.md**: success
-- ✅ **A25. Principle of Periodization.md**: success
-- ✅ **A26. Principle of Recovery.md**: success
-- ✅ **A27. Thermoregulation During Exercise.md**: success
-- ✅ **A28. Advanced Movement Assessment Methodologies.md**: success
-- ✅ **A29. Tissue Adaptation to Exercise (Molecular & Cellular).md**: success
-- ✅ **A3. Macronutrients.md**: success
-- ✅ **A4. Micronutrients.md**: success
-- ✅ **A5. FITT Principle.md**: success
-- ✅ **A6. Energy Systems (Detailed).md**: success
-- ✅ **A7. Muscle Physiology Fundamentals.md**: success
-- ✅ **A8. Cardiovascular Physiology Fundamentals.md**: success
-- ✅ **A9. Respiratory Physiology Fundamentals.md**: success
+- ⏭️ **.md**: skipped - Auxiliary markdown (not a topic note)
+- ⏭️ **A. Foundational Concepts.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A1. Energy Balance.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A10. Hormonal Responses to Exercise.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A11. Biomechanics Levers in the Human Body.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A12. Biomechanics Force Vectors.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A13. Biomechanics Torque and Movement.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A15. Biomechanics Posture Analysis.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A16. Biomechanics Gait Analysis.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A17. Movement Screening.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A18. Proper Lifting Mechanics.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A19. Principle of Overload.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A2. Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A20. Principle of Specificity (SAID).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A21. Principle of Progression.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A22. Principle of Reversibility (Detraining).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A23. Principle of Individuality.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A24. Principle of Diminishing Returns.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A25. Principle of Periodization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A26. Principle of Recovery.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A27. Thermoregulation During Exercise.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A28. Advanced Movement Assessment Methodologies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A29. Tissue Adaptation to Exercise (Molecular & Cellular).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A3. Macronutrients.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A30. Biomechanics - Stability vs. Mobility.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A31. Force-Velocity Profiling.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A32. Power Profiling and Testing.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A33. Motor Learning and Skill Acquisition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A34. Neural Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A35. Metabolic Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A36. Structural Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A37. Hormonal Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A38. Immune System Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A39. Cardiovascular Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A4. Micronutrients.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A40. Respiratory Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A41. Skeletal Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A42. Connective Tissue Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A43. Muscular Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A44. Neuromuscular Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A45. Metabolic Adaptations to Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A46. Adaptation Monitoring and Assessment.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A47. Training Periodization and Planning.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A48. Training Load Monitoring.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A49. Recovery Monitoring and Assessment.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A5. FITT Principle.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A50. Performance Testing and Evaluation.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A51. Training Adaptation Assessment.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A52. Training Specificity and Transfer.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A53. Training Load Management.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A54. Training Periodization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A55. Training Recovery.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A56. Training Specificity.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A57. Training Adaptation.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A58. Training Monitoring.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A59. Myokine Signaling.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A6. Energy Systems (Detailed).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A60. Vascular Adaptations.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A61. Calcium Signaling in Muscle.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A62. Metabolic Flexibility Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A63. pH Regulation Mechanisms.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A64. Oxygen Sensing Pathways.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A65. Exercise-Induced Neuroplasticity.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A7. Muscle Physiology Fundamentals.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A8. Cardiovascular Physiology Fundamentals.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **A9. Respiratory Physiology Fundamentals.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **Appendix References and Meta-information.md**: skipped - Too short (20 words)
 - ⏭️ **B. Resistance Training.md**: skipped - Too short (80 words)
-- ✅ **B1. Progressive Overload.md**: success
-- ✅ **B10. Machine Training.md**: success
-- ✅ **B11. Resistance Bands.md**: success
-- ✅ **B12. Suspension Training (TRX).md**: success
-- ✅ **B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance).md**: success
-- ✅ **B14. Powerlifting.md**: success
+- ⏭️ **B1. Progressive Overload.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B10. Machine Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B11. Resistance Bands.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B12. Suspension Training (TRX).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B14. Powerlifting.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **B15 Olympic Weightlifting.md**: skipped - Too short (0 words)
-- ✅ **B15. Olympic Weightlifting.md**: success
-- ✅ **B16. Bodybuilding.md**: success
-- ✅ **B17. Strongman Training.md**: success
-- ✅ **B18. Circuit Training.md**: success
-- ✅ **B19. Isometrics.md**: success
-- ✅ **B2. Protein Requirements for Muscle Growth.md**: success
-- ✅ **B20. Eccentric Training.md**: success
-- ✅ **B3. Hypertrophy Training Principles.md**: success
-- ✅ **B4. Strength Training Principles.md**: success
-- ✅ **B5. Training Volume and Frequency.md**: success
-- ✅ **B6. Rest and Recovery for Optimal Adaptation (Resistance Training Focus).md**: success
-- ✅ **B7. Bodyweight Training.md**: success
-- ✅ **B8. Free Weights (Barbells, Dumbbells).md**: success
-- ✅ **B9. Kettlebell Training.md**: success
-- ✅ **C. Nutrition & Diet.md**: success
-- ✅ **C1. Caloric Targets for Different Goals.md**: success
-- ✅ **C10. Mediterranean Diet.md**: success
-- ✅ **C11. Vegetarian & Vegan Diets.md**: success
-- ✅ **C12. Paleo Diet (Paleolithic Diet).md**: success
-- ✅ **C13. Ketogenic Diet.md**: success
-- ✅ **C14. Intermittent Fasting (IF).md**: success
-- ✅ **C15. Low-Carb Diets (General).md**: success
-- ✅ **C16. High-Protein Diets.md**: success
-- ✅ **C17. Carb Cycling.md**: success
-- ✅ **C18. Flexible Dieting (IIFYM - If It Fits Your Macros).md**: success
-- ✅ **C19. Intuitive Eating.md**: success
-- ✅ **C2. Macronutrient Distribution.md**: success
-- ✅ **C20. Supplements (Overview & Framework).md**: success
-- ✅ **C21. Evidence-Based Supplements (Group A).md**: success
-- ✅ **C22. Supplements with LimitedMixed Evidence (Group B).md**: success
-- ✅ **C23. Supplement Safety, Regulation, and Quality Control.md**: success
-- ✅ **C24. Ergogenic Aids.md**: success
-- ✅ **C25. Nutrition for Muscle Gain (Hypertrophy).md**: success
-- ✅ **C26. Nutrition for Fat Loss.md**: success
-- ✅ **C27. Nutrition for Endurance Performance (Carb Loading).md**: success
-- ✅ **C28. Nutrition for Strength Power Athletes.md**: success
-- ✅ **C29. Nutrition for Recovery.md**: success
-- ✅ **C3. Nutrient Timing.md**: success
-- ✅ **C30. Food Quality & Health (Whole vs Processed).md**: success
-- ✅ **C31. Reading Nutrition Labels.md**: success
-- ✅ **C32. Gut Health and Microbiome.md**: success
-- ✅ **C33. Anti-Inflammatory FoodsDiets.md**: success
-- ✅ **C34. Antioxidants.md**: success
-- ✅ **C35. Specialized Nutrition for Performance Demands.md**: success
-- ✅ **C4. Hydration.md**: success
-- ✅ **C5. Electrolytes.md**: success
-- ✅ **C5. Pre, During, and Post-Exercise Nutrition.md**: success
-- ✅ **C6. Micronutrients (Detailed Roles & Considerations).md**: success
-- ✅ **C7. Energy Balance & Nutritional Aspects of Weight Management.md**: success
-- ✅ **C8. Metabolic Adaptation (Adaptive Thermogenesis).md**: success
-- ✅ **C9. Dietary Strategies & Approaches (Overview).md**: success
+- ⏭️ **B15. Olympic Weightlifting.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B16. Bodybuilding.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B17. Strongman Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B18. Circuit Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B19. Isometrics.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B2. Protein Requirements for Muscle Growth.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B20. Eccentric Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B21. Blood Flow Restriction Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B22. Tempo Manipulation Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B23. Cluster Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B24. Accommodating Resistance Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B25. Post-Activation Potentiation (PAP).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B26. Velocity-Based Training (VBT).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B27. Daily Undulating Periodization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B28. Conjugate Method.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B29. French Contrast Method.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B3. Hypertrophy Training Principles.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B30. Triphasic Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B31. Overreaching Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B32. Auto-Regulation.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B33. Minimal Effective Dose Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B38. Aquatic Exercise Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B39. Unstable Surface Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B4. Strength Training Principles.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B40. Vibrational Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B41. Electrical Muscle Stimulation.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B42. Hypoxic Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B43. Heat Training Adaptations.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B44. Cold Exposure Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B45. Breathing Pattern Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B46. Unilateral Training Progressions.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B47. Movement Flow Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B48. Barefoot Training Principles.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B49. Sand Training Methods.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B5. Training Volume and Frequency.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B50. Altitude Training Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B51. Compression Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B52. Mechanical Tension Optimization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B53. Bulgarian Method.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B54. Norwegian Method.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B55. Sheiko Programming.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B56. 5-3-1 Methodology.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B57. Westside Conjugate Analysis.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B6. Rest and Recovery for Optimal Adaptation (Resistance Training Focus).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B61. Intensity Techniques Compendium.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B62. Time-Restricted Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B63. Minimalist Training Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B64. Powerbuilding Methods.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B65. Athletic Performance Pyramids.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B66. Movement Preparation Systems.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B67. Contrast Training Methods.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B7. Bodyweight Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B70. Ballistic Training Systems.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B71. Complex Training Integration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B72. Accommodating Resistance Applications.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B73. Mechanical Drop Sets.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B74. Rest-Pause Training Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B75. Pre-Exhaustion Training Systems.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B76. Forced Repetition Techniques.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B77. Partial Range of Motion Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B78. Advanced Periodization Integration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B8. Free Weights (Barbells, Dumbbells).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B9. Kettlebell Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **B_section_enhanced_completion_report.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C. Nutrition & Diet.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C1. Caloric Targets for Different Goals.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C10. Mediterranean Diet.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C100. Precision Medicine in Sports Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C101. Nutrition Policy for Athletic Programs.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C102. Cost-Effectiveness in Sports Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C103. Nutrition Risk Management.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C104. Regulatory Affairs in Sports Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C105. Global Sports Nutrition Trends.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C11. Vegetarian & Vegan Diets.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C12. Paleo Diet (Paleolithic Diet).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C13. Ketogenic Diet.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C14. Intermittent Fasting (IF).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C15. Low-Carb Diets (General).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C16. High-Protein Diets.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C17. Carb Cycling.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C18. Flexible Dieting (IIFYM - If It Fits Your Macros).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C19. Intuitive Eating.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C2. Macronutrient Distribution.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C20. Supplements (Overview & Framework).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C21. Evidence-Based Supplements (Group A).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C22. Supplements with LimitedMixed Evidence (Group B).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C23. Supplement Safety, Regulation, and Quality Control.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C24. Ergogenic Aids.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C25. Nutrition for Muscle Gain (Hypertrophy).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C26. Nutrition for Fat Loss.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C27. Nutrition for Endurance Performance (Carb Loading).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C28. Nutrition for Strength Power Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C29. Nutrition for Recovery.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C3. Nutrient Timing.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C30. Food Quality & Health (Whole vs Processed).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C31. Reading Nutrition Labels.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C32. Gut Health and Microbiome.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C33. Anti-Inflammatory FoodsDiets.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C34. Antioxidants.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C35. Specialized Nutrition for Performance Demands.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C36. Nutrient Periodization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C37. Sports Nutrition Periodization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C38. Micronutrient Timing.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C39. Supplement Stacking Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C4. Hydration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C40. Nootropics for Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C41. Adaptogens in Sports.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C42. Precision Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C43. Circadian Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C44. Competition Day Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C45. Travel Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C46. Altitude Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C47. Heat Stress Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C48. Cold Weather Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C49. Multi-Day Event Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C5. Electrolytes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C5. Pre, During, and Post-Exercise Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C50. Recovery Nutrition Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C51. Environmental Nutrition Optimization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C52. Genetic-Based Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C53. Periodized Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C54. Precision Nutrition Monitoring.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C55. Nutrient-Exercise Interaction.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C56. Metabolic Profiling for Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C57. Advanced Hydration Strategies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C58. Nutrient Bioavailability Optimization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C59. Exercise-Induced Oxidative Stress Management.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C6. Micronutrients (Detailed Roles & Considerations).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C60. Gastrointestinal Training Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C61. Cognitive Nutrition for Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C62. Sleep-Nutrition Interactions.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C63. Immune-Nutrition Optimization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C64. Body Composition Nutrition Strategies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C65. Youth Athlete Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C66. Masters Athlete Nutrition (45+ years).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C67. Female Athlete Nutrition Considerations.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C68. Plant-Based Athletic Performance.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C69. Injury Recovery Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C7. Energy Balance & Nutritional Aspects of Weight Management.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C70. Travel Nutrition for Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C71. Budget-Conscious Sports Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C72. Meal Preparation for Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C73. Restaurant Navigation for Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C74. Social Eating Strategies for Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C75. Nutrition Education for Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C76. Nutritional Periodization Models.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C77. Metabolic Testing Integration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C78. Advanced Supplement Timing.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C79. Nutrient Density Optimization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C8. Metabolic Adaptation (Adaptive Thermogenesis).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C80. Appetite Regulation for Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C81. Disordered Eating Prevention.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C82. Performance Nutrition Psychology.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C83. Evidence-Based Nutrition Communication.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C84. Nutrition Myth Debunking.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C85. Cultural Nutrition Adaptations.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C86. Competition Nutrition Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C87. Off-Season Nutrition Management.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C88. Injury Prevention Through Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C89. Longevity Nutrition for Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C9. Dietary Strategies & Approaches (Overview).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C90. Micronutrient Testing and Analysis.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C91. Functional Food Integration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C92. Personalized Nutrition Algorithms.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C93. Nutrition-Training Load Coordination.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C94. Athletic Nutrition Technology.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C95. Future of Sports Nutrition.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C96. Nutrition Research Methodology.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C97. Clinical Nutrition for Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C98. Therapeutic Nutrition Interventions.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **C99. Advanced Biomarker Interpretation.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **COMPLETE_REPLACEMENT_REPORT.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **D. Weight Management.md**: skipped - Too short (21 words)
-- ✅ **D1. Evidence-Based Weight Loss Principles.md**: success
-- ✅ **D2. Diet Adherence and Behavior Change.md**: success
-- ✅ **D3. Weight Maintenance After Loss.md**: success
+- ⏭️ **D1. Evidence-Based Weight Loss Principles.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **D2. Diet Adherence and Behavior Change.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **D3. Weight Maintenance After Loss.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **E. Cardiovascular  Endurance Training.md**: skipped - Too short (72 words)
-- ✅ **E1. Aerobic vs. Anaerobic Training.md**: success
-- ✅ **E10. Cross-Training for Endurance Athletes.md**: success
-- ✅ **E11. VO2 Max Training.md**: success
-- ✅ **E12. Lactate Threshold Training.md**: success
-- ✅ **E13. Heart Rate Zone Training.md**: success
-- ✅ **E14. Concurrent Training Updated Protocols & Considerations.md**: success
-- ✅ **E2. Steady-State Cardio (LISS - Low-Intensity Steady State).md**: success
-- ✅ **E3. High-Intensity Interval Training (HIIT).md**: success
+- ⏭️ **E1. Aerobic vs. Anaerobic Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E10. Cross-Training for Endurance Athletes.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E11. VO2 Max Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E12. Lactate Threshold Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E13. Heart Rate Zone Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E14. Concurrent Training Updated Protocols & Considerations.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E2. Steady-State Cardio (LISS - Low-Intensity Steady State).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E3. High-Intensity Interval Training (HIIT).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **E4. Concurrent Training (Interference Effect).md**: skipped - Too short (0 words)
-- ✅ **E4. Interval Training (General).md**: success
-- ✅ **E5. Fartlek Training.md**: success
-- ✅ **E6. Running (Technique, Programming).md**: success
-- ✅ **E7. Cycling (Technique, Programming).md**: success
-- ✅ **E8. Swimming (Technique, Programming).md**: success
-- ✅ **E9. Rowing (Ergometer).md**: success
-- ✅ **EXL-01 Barbell Back Squat (High Bar & Low Bar).md**: success
-- ✅ **EXL-02 Barbell Bench Press (Flat).md**: success
-- ✅ **EXL-03 Barbell Conventional Deadlift.md**: success
-- ✅ **EXL-04 Barbell Sumo Deadlift.md**: success
-- ✅ **EXL-05 Barbell Overhead Press (Standing).md**: success
-- ✅ **EXL-06 Barbell Bent-Over Row (Pronated Grip).md**: success
-- ✅ **EXL-07 Barbell Hip Thrust.md**: success
-- ✅ **EXL-08 Barbell Front Squat.md**: success
-- ✅ **EXL-09 Barbell Romanian Deadlift (RDL).md**: success
-- ✅ **EXL-10 Barbell Good Morning.md**: success
-- ✅ **EXL-100 Assault Bike  Air Bike.md**: success
-- ✅ **EXL-11 Barbell Incline Bench Press.md**: success
-- ✅ **EXL-12 Barbell Floor Press.md**: success
-- ✅ **EXL-13 Barbell Skullcrusher (Lying Triceps Extension).md**: success
-- ✅ **EXL-14 Barbell Bicep Curl.md**: success
-- ✅ **EXL-15 Barbell Lunge.md**: success
-- ✅ **EXL-16 Barbell Shrug.md**: success
-- ✅ **EXL-17 Pendlay Row.md**: success
-- ✅ **EXL-18 Yates Row (Underhand Barbell Row).md**: success
-- ✅ **EXL-19 Zercher Squat.md**: success
-- ✅ **EXL-20 Barbell Calf Raise.md**: success
-- ✅ **EXL-21 Dumbbell Bench Press (Flat).md**: success
-- ✅ **EXL-22 Dumbbell Incline Bench Press.md**: success
-- ✅ **EXL-23 Dumbbell Shoulder Press (Seated).md**: success
-- ✅ **EXL-24 Dumbbell Lateral Raise.md**: success
-- ✅ **EXL-25 Dumbbell Front Raise.md**: success
-- ✅ **EXL-26 Dumbbell Bent-Over Rear Delt Raise.md**: success
-- ✅ **EXL-27 Dumbbell Row (Single Arm).md**: success
-- ✅ **EXL-28 Dumbbell Bench Supported Row (Chest Supported).md**: success
-- ✅ **EXL-29 Dumbbell Pullover.md**: success
-- ✅ **EXL-30 Dumbbell Bicep Curl (Standing, Alternating).md**: success
-- ✅ **EXL-31 Dumbbell Hammer Curl.md**: success
-- ✅ **EXL-32 Dumbbell Concentration Curl.md**: success
-- ✅ **EXL-33 Dumbbell Incline Curl.md**: success
-- ✅ **EXL-34 Dumbbell Triceps Kickback.md**: success
-- ✅ **EXL-35 Dumbbell Overhead Triceps Extension (Single & Double Arm).md**: success
-- ✅ **EXL-36 Dumbbell Lunge (StaticAlternatingWalking).md**: success
-- ✅ **EXL-37 Dumbbell Romanian Deadlift (RDL).md**: success
-- ✅ **EXL-38 Dumbbell Split Squat.md**: success
-- ✅ **EXL-39 Dumbbell Goblet Squat.md**: success
-- ✅ **EXL-40 Dumbbell Step-Up.md**: success
-- ✅ **EXL-41 Dumbbell Shrug.md**: success
-- ✅ **EXL-42 Dumbbell Calf Raise (Standing).md**: success
-- ✅ **EXL-43 Renegade Row.md**: success
-- ✅ **EXL-44 Dumbbell Floor Press.md**: success
-- ✅ **EXL-45 Arnold Press.md**: success
-- ✅ **EXL-46 Leg Press (Machine).md**: success
-- ✅ **EXL-47 Leg Extension (Machine).md**: success
-- ✅ **EXL-48 Seated Leg Curl (Machine).md**: success
-- ✅ **EXL-49 Lying Leg Curl (Machine).md**: success
-- ✅ **EXL-50 Hack Squat (Machine).md**: success
-- ✅ **EXL-51 Chest Press (Machine - Seated).md**: success
-- ✅ **EXL-52 Shoulder Press (Machine - Seated).md**: success
-- ✅ **EXL-53 Lateral Raise (Machine).md**: success
-- ✅ **EXL-54 Pec Deck Fly (Machine).md**: success
-- ✅ **EXL-55 Rear Delt Fly  Reverse Pec Deck (Machine).md**: success
-- ✅ **EXL-56 Lat Pulldown (Machine - Wide Grip).md**: success
-- ✅ **EXL-57 Seated Row (Machine - Close GripNeutral).md**: success
-- ✅ **EXL-58 Chest Supported Row (Machine).md**: success
-- ✅ **EXL-59 Triceps Extension (Machine - Overhead or Pushdown type).md**: success
-- ✅ **EXL-60 Bicep Curl (Machine - Preacher or Seated).md**: success
-- ✅ **EXL-61 Calf Raise (Machine - Standing).md**: success
-- ✅ **EXL-62 Calf Raise (Machine - Seated).md**: success
-- ✅ **EXL-63 Hip Abduction (Machine).md**: success
-- ✅ **EXL-64 Hip Adduction (Machine).md**: success
-- ✅ **EXL-65 Assisted Pull-upDip Machine.md**: success
-- ✅ **EXL-66 Cable Crossover  Fly.md**: success
-- ✅ **EXL-67 Cable Triceps Pushdown (RopeBar).md**: success
-- ✅ **EXL-68 Cable Overhead Triceps Extension (RopeBar).md**: success
-- ✅ **EXL-69 Cable Bicep Curl (BarHandles).md**: success
-- ✅ **EXL-70 Cable Hammer Curl (Rope).md**: success
-- ✅ **EXL-71 Cable Lateral Raise.md**: success
-- ✅ **EXL-72 Cable Front Raise.md**: success
-- ✅ **EXL-73 Cable Face Pull.md**: success
-- ✅ **EXL-74 Cable Seated Row (Various grips).md**: success
-- ✅ **EXL-75 Cable Lat Pulldown (Various grips).md**: success
-- ✅ **EXL-76 Cable Woodchop (High-to-Low  Low-to-High).md**: success
-- ✅ **EXL-77 Cable Pallof Press (Anti-Rotation).md**: success
-- ✅ **EXL-78 Cable Glute Kickback.md**: success
-- ✅ **EXL-79 Cable Pull-Through.md**: success
-- ✅ **EXL-80 Cable Upright Row.md**: success
-- ✅ **EXL-81 Pull-up  Chin-up (Bodyweight).md**: success
-- ✅ **EXL-82 Dip (Parallel Bar).md**: success
-- ✅ **EXL-83 Push-up (Standard & Variations).md**: success
-- ✅ **EXL-84 Plank (Standard & Variations).md**: success
-- ✅ **EXL-85 Side Plank (Standard & Variations).md**: success
-- ✅ **EXL-86 Back Extension  Hyperextension (Bench).md**: success
-- ✅ **EXL-87 Glute-Ham Raise (GHR).md**: success
-- ✅ **EXL-88 Hanging Leg Raise  Knee Raise (Captain's Chair or Pull-up Bar).md**: success
-- ✅ **EXL-89 Abdominal Crunch  Sit-up (Floor or Bench).md**: success
-- ✅ **EXL-90 Russian Twist (Bodyweight or Weighted).md**: success
-- ✅ **EXL-91 Treadmill (WalkingRunning).md**: success
-- ✅ **EXL-92 Elliptical Trainer.md**: success
-- ✅ **EXL-93 Stationary Bike (Upright).md**: success
-- ✅ **EXL-94 Stationary Bike (Recumbent).md**: success
-- ✅ **EXL-95 Spin Bike.md**: success
-- ✅ **EXL-96 Rowing Ergometer (Rower).md**: success
-- ✅ **EXL-97 Stair Climber  Stepmill.md**: success
-- ✅ **EXL-98 Arc Trainer.md**: success
-- ✅ **EXL-99 Ski Ergometer.md**: success
-- ✅ **EXL. Exercise Library.md**: success
+- ⏭️ **E4. Interval Training (General).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E5. Fartlek Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E6. Running (Technique, Programming).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E7. Cycling (Technique, Programming).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E8. Swimming (Technique, Programming).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **E9. Rowing (Ergometer).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-01 Barbell Back Squat (High Bar & Low Bar).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-02 Barbell Bench Press (Flat).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-03 Barbell Conventional Deadlift.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-04 Barbell Sumo Deadlift.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-05 Barbell Overhead Press (Standing).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-06 Barbell Bent-Over Row (Pronated Grip).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-07 Barbell Hip Thrust.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-08 Barbell Front Squat.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-09 Barbell Romanian Deadlift (RDL).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-10 Barbell Good Morning.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-100 Assault Bike  Air Bike.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-11 Barbell Incline Bench Press.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-12 Barbell Floor Press.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-13 Barbell Skullcrusher (Lying Triceps Extension).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-14 Barbell Bicep Curl.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-15 Barbell Lunge.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-16 Barbell Shrug.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-17 Pendlay Row.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-18 Yates Row (Underhand Barbell Row).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-19 Zercher Squat.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-20 Barbell Calf Raise.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-21 Dumbbell Bench Press (Flat).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-22 Dumbbell Incline Bench Press.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-23 Dumbbell Shoulder Press (Seated).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-24 Dumbbell Lateral Raise.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-25 Dumbbell Front Raise.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-26 Dumbbell Bent-Over Rear Delt Raise.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-27 Dumbbell Row (Single Arm).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-28 Dumbbell Bench Supported Row (Chest Supported).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-29 Dumbbell Pullover.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-30 Dumbbell Bicep Curl (Standing, Alternating).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-31 Dumbbell Hammer Curl.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-32 Dumbbell Concentration Curl.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-33 Dumbbell Incline Curl.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-34 Dumbbell Triceps Kickback.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-35 Dumbbell Overhead Triceps Extension (Single & Double Arm).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-36 Dumbbell Lunge (StaticAlternatingWalking).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-37 Dumbbell Romanian Deadlift (RDL).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-38 Dumbbell Split Squat.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-39 Dumbbell Goblet Squat.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-40 Dumbbell Step-Up.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-41 Dumbbell Shrug.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-42 Dumbbell Calf Raise (Standing).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-43 Renegade Row.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-44 Dumbbell Floor Press.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-45 Arnold Press.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-46 Leg Press (Machine).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-47 Leg Extension (Machine).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-48 Seated Leg Curl (Machine).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-49 Lying Leg Curl (Machine).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-50 Hack Squat (Machine).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-51 Chest Press (Machine - Seated).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-52 Shoulder Press (Machine - Seated).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-53 Lateral Raise (Machine).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-54 Pec Deck Fly (Machine).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-55 Rear Delt Fly  Reverse Pec Deck (Machine).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-56 Lat Pulldown (Machine - Wide Grip).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-57 Seated Row (Machine - Close GripNeutral).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-58 Chest Supported Row (Machine).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-59 Triceps Extension (Machine - Overhead or Pushdown type).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-60 Bicep Curl (Machine - Preacher or Seated).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-61 Calf Raise (Machine - Standing).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-62 Calf Raise (Machine - Seated).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-63 Hip Abduction (Machine).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-64 Hip Adduction (Machine).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-65 Assisted Pull-upDip Machine.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-66 Cable Crossover  Fly.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-67 Cable Triceps Pushdown (RopeBar).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-68 Cable Overhead Triceps Extension (RopeBar).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-69 Cable Bicep Curl (BarHandles).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-70 Cable Hammer Curl (Rope).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-71 Cable Lateral Raise.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-72 Cable Front Raise.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-73 Cable Face Pull.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-74 Cable Seated Row (Various grips).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-75 Cable Lat Pulldown (Various grips).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-76 Cable Woodchop (High-to-Low  Low-to-High).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-77 Cable Pallof Press (Anti-Rotation).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-78 Cable Glute Kickback.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-79 Cable Pull-Through.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-80 Cable Upright Row.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-81 Pull-up  Chin-up (Bodyweight).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-82 Dip (Parallel Bar).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-83 Push-up (Standard & Variations).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-84 Plank (Standard & Variations).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-85 Side Plank (Standard & Variations).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-86 Back Extension  Hyperextension (Bench).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-87 Glute-Ham Raise (GHR).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-88 Hanging Leg Raise  Knee Raise (Captain's Chair or Pull-up Bar).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-89 Abdominal Crunch  Sit-up (Floor or Bench).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-90 Russian Twist (Bodyweight or Weighted).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-91 Treadmill (WalkingRunning).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-92 Elliptical Trainer.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-93 Stationary Bike (Upright).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-94 Stationary Bike (Recumbent).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-95 Spin Bike.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-96 Rowing Ergometer (Rower).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-97 Stair Climber  Stepmill.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-98 Arc Trainer.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL-99 Ski Ergometer.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **EXL. Exercise Library.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **F. Optimal Performance Factors.md**: skipped - Too short (19 words)
-- ✅ **F1. Sleep Quality and Quantity.md**: success
-- ✅ **F2. Performance Optimization Factors.md**: success
-- ✅ **F3. Injury Prevention and Management.md**: success
-- ✅ **F4. Behavioral Psychology in Fitness.md**: success
-- ✅ **G-VII-1. Musculoskeletal Anatomy Overview.md**: success
-- ✅ **G-VII-2. Kinesiology Movement Analysis.md**: success
-- ✅ **G-VII-3. Neurophysiology of Movement.md**: success
+- ⏭️ **F1. Sleep Quality and Quantity.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F10. Jump Testing Batteries.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F11. Sprint Testing Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F12. Agility Testing Systems.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F13. Flexibility Assessment Methods.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F14. Balance and Proprioception Testing.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F15. Strength Testing Standardization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F16. Power Testing Methodologies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F17. Endurance Testing Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F18. Recovery Testing Methods.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F19. Fatigue Assessment Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F2. Performance Optimization Factors.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F20. Neuromuscular Testing Systems.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F21. Biomechanical Testing Integration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F22. Field-Based Testing Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F23. Laboratory Testing Standards.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F24. Sport-Specific Testing Design.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F25. Technology Integration in Testing.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F26. Data Analysis and Interpretation.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F27. Normative Data Applications.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F28. Testing Battery Development.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F29. Athlete Monitoring Systems.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F3. Injury Prevention and Management.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F30. Performance Prediction Models.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F31. Testing Reliability and Validity.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F32. Cost-Effective Testing Solutions.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F33. Remote Testing Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F34. Future Testing Technologies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F4. Behavioral Psychology in Fitness.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F5. VO2 Max Testing Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F6. Lactate Threshold Assessment.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F7. Anaerobic Power Testing.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F8. Wingate Test Protocol.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **F9. Force-Velocity Profiling Methods.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **FINAL_PROCESSING_REPORT.md**: skipped - Auxiliary markdown (not a topic note)
+- ⏭️ **G-VII-1. Musculoskeletal Anatomy Overview.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G-VII-2. Kinesiology Movement Analysis.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G-VII-3. Neurophysiology of Movement.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **G-VII. Anatomy, Physiology & Biomechanics (More Applied).md**: skipped - Too short (12 words)
 - ⏭️ **G. Special Populations.md**: skipped - Too short (20 words)
-- ✅ **G1. Exercise During Pregnancy.md**: success
-- ✅ **G2. Age-Specific Exercise Recommendations.md**: success
-- ✅ **G3. Training with Health Limitations  Chronic Conditions.md**: success
+- ⏭️ **G1. Exercise During Pregnancy.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G10. Neurological Condition Exercise Therapy.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G11. Mental Health Exercise Interventions.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G12. Arthritis and Joint Disease Exercise.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G13. Osteoporosis Exercise Programming.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G14. Obesity Exercise Management.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G15. Disability-Inclusive Exercise Programs.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G16. Exercise for Rare Conditions.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G2. Age-Specific Exercise Recommendations.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G3. Training with Health Limitations  Chronic Conditions.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G4. Pediatric Exercise Programming.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G5. Adolescent Training Considerations.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G6. Geriatric Exercise Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G7. Exercise for Diabetes Management.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G8. Cardiovascular Disease Exercise Prescription.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **G9. Cancer Exercise Rehabilitation.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **GOOGLE_AI_STUDIO_PROMPTS.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **GOOGLE_AI_STUDIO_QUICK_REFERENCE.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **GOOGLE_AI_STUDIO_WORKFLOW.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **H. Body Composition.md**: skipped - Too short (18 words)
-- ✅ **H1. Body Composition Assessment.md**: success
-- ✅ **H2. Realistic Muscle Gain Rates.md**: success
-- ✅ **H3. Realistic Fat Loss Rates.md**: success
+- ⏭️ **H1. Body Composition Assessment.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **H2. Realistic Muscle Gain Rates.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **H3. Realistic Fat Loss Rates.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **I. Hormones and Fitness.md**: skipped - Too short (16 words)
-- ✅ **I1. Training and Hormonal Responses.md**: success
-- ✅ **I2. Female-Specific Physiological Considerations.md**: success
-- ✅ **I3. Relative Energy Deficiency in Sport (RED-S).md**: success
-- ✅ **IX-1. Common Musculoskeletal Injuries.md**: success
-- ✅ **IX-2. Injury Prevention Strategies.md**: success
-- ✅ **IX-3. Basic Injury Management (Acute Phase).md**: success
-- ✅ **IX-4. Exercise with Chronic Conditions.md**: success
-- ✅ **IX-5. Introduction to Rehabilitation Principles.md**: success
+- ⏭️ **I1. Training and Hormonal Responses.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **I2. Female-Specific Physiological Considerations.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **I3. Relative Energy Deficiency in Sport (RED-S).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX-1. Common Musculoskeletal Injuries.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX-2. Injury Prevention Strategies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX-3. Basic Injury Management (Acute Phase).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX-4. Exercise with Chronic Conditions.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX-5. Introduction to Rehabilitation Principles.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **IX-6 Exercise Contraindications.md**: skipped - Too short (0 words)
-- ✅ **IX-6. Exercise Contraindications.md**: success
-- ✅ **IX-7. Pain Science in Exercise & Rehabilitation.md**: success
+- ⏭️ **IX-6. Exercise Contraindications.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX-7. Pain Science in Exercise & Rehabilitation.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **IX. Health Conditions, Injuries & Rehabilitation.md**: skipped - Too short (34 words)
-- ⏭️ **J. Technology in Fitness.md**: skipped - Too short (16 words)
-- ✅ **J1. Wearable Technology and Fitness Tracking.md**: success
-- ✅ **J2. Evaluating Scientific Research in Fitness.md**: success
-- ✅ **J3. Misinformation in Fitness.md**: success
+- ⏭️ **IX10. Movement Quality Restoration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX11. Psychological Aspects of Injury Recovery.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX12. Technology in Rehabilitation.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX13. Team-Based Injury Management.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX14. Injury Prevention Screening.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX15. Chronic Injury Management.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX8. Return-to-Play Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **IX9. Load Management in Rehabilitation.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **J. Technology in Fitness.md**: skipped - Too short (50 words)
+- ⏭️ **J1. Wearable Technology and Fitness Tracking.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **J10. Telehealth and Remote Coaching.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **J2. Evaluating Scientific Research in Fitness.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **J3. Misinformation in Fitness.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **J4. Virtual Reality Fitness Applications.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **J5. Artificial Intelligence in Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **J6. Motion Capture Technology.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **J7. Biometric Sensor Integration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **J8. Fitness App Development Standards.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **J9. Data Privacy in Fitness Technology.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **K. Elite Performance.md**: skipped - Too short (26 words)
-- ✅ **K1. Genetic Factors in Athletic Performance.md**: success
-- ✅ **K2. Advanced Periodization Strategies.md**: success
-- ✅ **K3. Psychological Aspects of Elite Performance.md**: success
-- ✅ **K4. Advanced Periodization Models Explored.md**: success
-- ✅ **K5. Advanced Mental Performance Techniques.md**: success
+- ⏭️ **K1. Genetic Factors in Athletic Performance.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **K10. Advanced Training Technologies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **K11. Performance Team Integration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **K12. Career Longevity Management.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **K2. Advanced Periodization Strategies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **K3. Psychological Aspects of Elite Performance.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **K4. Advanced Periodization Models Explored.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **K5. Advanced Mental Performance Techniques.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **K6. Talent Identification Systems.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **K7. Peak Performance Psychology.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **K8. Competition Preparation Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **K9. Elite Recovery Strategies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **L. Cross-Training and Functional Fitness.md**: skipped - Too short (20 words)
-- ✅ **L1. Movement Patterns and Functional Training.md**: success
-- ✅ **L2. Mobility and Flexibility Development.md**: success
-- ✅ **L3. Balance and Coordination Training.md**: success
-- ✅ **L4. Core Stability Training.md**: success
-- ⏭️ **M. Recovery Strategies.md**: skipped - Too short (28 words)
-- ✅ **M1. Recovery Modalities Evidence and Application.md**: success
-- ✅ **M2. Overtraining and Functional Overreaching.md**: success
-- ✅ **M3. Stress Management and Performance.md**: success
+- ⏭️ **L1. Movement Patterns and Functional Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **L2. Mobility and Flexibility Development.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **L3. Balance and Coordination Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **L4. Core Stability Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **M. Recovery Strategies.md**: skipped - Too short (53 words)
+- ⏭️ **M1. Recovery Modalities Evidence and Application.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **M10. Mental Recovery Techniques.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **M2. Overtraining and Functional Overreaching.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **M3. Stress Management and Performance.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **M4. Active Recovery Protocols.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **M5. Passive Recovery Methods.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **M6. Sleep Optimization Strategies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **M7. Nutrition-Recovery Integration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **M8. Technology-Enhanced Recovery.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **M9. Recovery Periodization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **N. Long-Term Development.md**: skipped - Too short (17 words)
-- ✅ **N1. Fitness Across the Lifespan.md**: success
-- ✅ **N2. Training for Longevity (Healthspan & Lifespan).md**: success
-- ✅ **N3. Building Sustainable Fitness Habits.md**: success
+- ⏭️ **N1. Fitness Across the Lifespan.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **N10. Legacy and Mentorship in Fitness.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **N2. Training for Longevity (Healthspan & Lifespan).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **N3. Building Sustainable Fitness Habits.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **N4. Youth Athletic Development Models.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **N5. Adult Fitness Transitions.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **N6. Senior Fitness Programming.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **N7. Career Phase Periodization.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **N8. Skill Development Across Lifespan.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **N9. Motivation and Adherence Strategies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **O. Integrated Approaches.md**: skipped - Too short (13 words)
-- ✅ **O1. Integrated Programming Considerations.md**: success
-- ✅ **O2. Measuring Fitness Progress.md**: success
-- ✅ **O3. Integrating Nutrition and Training.md**: success
+- ⏭️ **O1. Integrated Programming Considerations.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **O2. Measuring Fitness Progress.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **O3. Integrating Nutrition and Training.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **O4. Holistic Fitness Assessment.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **O5. Multi-Modal Training Integration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **O6. Technology-Enhanced Programming.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **O7. Community-Based Fitness Systems.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **O8. Environmental Fitness Integration.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **P. Ethical Considerations.md**: skipped - Too short (23 words)
-- ✅ **P1. Ethical Training and Coaching.md**: success
-- ✅ **P2. Performance Enhancement Ethics.md**: success
-- ✅ **P3. Body Image and Fitness Culture.md**: success
-- ✅ **P4. Evidence-Based Coaching Methodologies.md**: success
+- ⏭️ **P1. Ethical Training and Coaching.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **P10. Inclusive Fitness Environment Design.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **P2. Performance Enhancement Ethics.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **P3. Body Image and Fitness Culture.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **P4. Evidence-Based Coaching Methodologies.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **P5. Informed Consent in Fitness.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **P6. Professional Boundaries and Relationships.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **P7. Confidentiality and Privacy Protection.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **P8. Cultural Competency in Fitness.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **P9. Anti-Doping Ethics and Education.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
 - ⏭️ **Q. Key Topic Overviews.md**: skipped - Too short (44 words)
-- ✅ **Q1. Exercise Progression Principles.md**: success
-- ✅ **Q2. Core Nutrition Principles Overview.md**: success
-- ✅ **Q3. Core Recovery Principles Overview.md**: success
-- ✅ **Q4. Interpreting Biometric & Progress Data.md**: success
-- ✅ **Q5. Exercise Considerations for Health Conditions Overview.md**: success
-- ✅ **Q6. Training Methodologies Overview.md**: success
-- ✅ **Q7. Integrative Health & Lifestyle Medicine Approaches.md**: success
-- ✅ **Q8. Advanced Data Analysis for Self-Quantification.md**: success
-- ✅ **VIII-1. Home Gym Setup.md**: success
-- ✅ **VIII-2. Commercial Gym Equipment.md**: success
-- ✅ **VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs).md**: success
-- ✅ **VIII-4. Fitness Apps.md**: success
-- ✅ **VIII-5. Apparel & Footwear.md**: success
+- ⏭️ **Q1. Exercise Progression Principles.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **Q2. Core Nutrition Principles Overview.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **Q3. Core Recovery Principles Overview.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **Q4. Interpreting Biometric & Progress Data.md**: skipped - Only 0 studies found (minimum=1) | new_studies_found=0 | studies_used_in_revision=0 | unchanged_reason=No meaningful new evidence available
+- ⏭️ **Q5. Exercise Considerations for Health Conditions Overview.md**: skipped - Only 0 studies found (minimum=1) | new_studies_found=0 | studies_used_in_revision=0 | unchanged_reason=No meaningful new evidence available
+- ⏭️ **Q6. Training Methodologies Overview.md**: skipped - Only 0 studies found (minimum=1) | new_studies_found=0 | studies_used_in_revision=0 | unchanged_reason=No meaningful new evidence available
+- ⏭️ **Q7. Integrative Health & Lifestyle Medicine Approaches.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **Q8. Advanced Data Analysis for Self-Quantification.md**: skipped - Only 0 studies found (minimum=1) | new_studies_found=0 | studies_used_in_revision=0 | unchanged_reason=No meaningful new evidence available
+- ⏭️ **QUICK_START_GUIDE.md**: skipped - Only 0 studies found (minimum=1) | new_studies_found=0 | studies_used_in_revision=0 | unchanged_reason=No meaningful new evidence available
+- ⏭️ **README.md**: skipped - Auxiliary markdown (not a topic note)
+- ⏭️ **VIII-1. Home Gym Setup.md**: skipped - Only 0 studies found (minimum=1) | new_studies_found=0 | studies_used_in_revision=0 | unchanged_reason=No meaningful new evidence available
+- ✅ **VIII-2. Commercial Gym Equipment.md**: success | new_studies_found=1 | studies_used_in_revision=1 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 14 | citation_delta=3 | recommendation_delta=14
+- ⏭️ **VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs).md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ⏭️ **VIII-4. Fitness Apps.md**: skipped - Recently refreshed (<1 days) | unchanged_reason=Skipped by stale-note policy
+- ✅ **VIII-5. Apparel & Footwear.md**: success | new_studies_found=3 | studies_used_in_revision=3 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 9 | citation_delta=2 | recommendation_delta=9
 - ⏭️ **VIII. Fitness Equipment & Technology.md**: skipped - Too short (55 words)
 - ⏭️ **X. Sports-Specific Training.md**: skipped - Too short (59 words)
-- ✅ **X1. Running (Track, Road, Trail).md**: success
-- ✅ **X1.1. Strength Training for Runners.md**: success
-- ✅ **X10. CrossFit.md**: success
-- ✅ **X11. Sprinting.md**: success
-- ✅ **X11.1 Sprint Start & Acceleration Technique.md**: success
-- ✅ **X11.2 Maximum Velocity Mechanics.md**: success
-- ✅ **X11.3 Speed Endurance Development.md**: success
-- ✅ **X11.4 Strength Training Programming for Sprinters.md**: success
-- ✅ **X11.5 Plyometric Training for Sprinters.md**: success
-- ✅ **X11.6 Resisted & Assisted Sprint Training Methods.md**: success
-- ✅ **X11.7 Sprinting Biomechanics & Force Analysis.md**: success
-- ✅ **X11.8 Hamstring Injury Prevention in Sprinters.md**: success
-- ✅ **X12. Vertical Jump Training.md**: success
-- ✅ **X2. Cycling (Road, Mountain, Track).md**: success
-- ✅ **X3. Swimming.md**: success
-- ✅ **X3.1. Dry-Land Training for Swimmers.md**: success
-- ✅ **X4. Team Sports - General Considerations.md**: success
-- ✅ **X5. Racquet Sports (Tennis, Squash, Badminton).md**: success
-- ✅ **X6. Combat Sports (Boxing, MMA, Wrestling, Judo).md**: success
-- ✅ **X7. Golf.md**: success
-- ✅ **X8. Climbing (Rock Climbing, Bouldering).md**: success
-- ✅ **X9. Gymnastics  Calisthenics.md**: success
-- ✅ **Z1. Understanding this Zettelkasten.md**: success
-- ✅ **Z2. Practical Implementation Guide.md**: success
-- ✅ **Z3. Cultural & Historical Perspectives on Fitness.md**: success
-- ✅ **fitlib.md**: success
+- ✅ **X1. Running (Track, Road, Trail).md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 26 | citation_delta=3 | recommendation_delta=26
+- ✅ **X1.1. Strength Training for Runners.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 51 | citation_delta=3 | recommendation_delta=51
+- ✅ **X10. CrossFit.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 4 new citation links; Recommendation signals changed: 29 | citation_delta=4 | recommendation_delta=29
+- ✅ **X11. Sprinting.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 34 | citation_delta=3 | recommendation_delta=34
+- ✅ **X11.1 Sprint Start & Acceleration Technique.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 4 new citation links; Recommendation signals changed: 22 | citation_delta=4 | recommendation_delta=22
+- ✅ **X11.2 Maximum Velocity Mechanics.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 33 | citation_delta=3 | recommendation_delta=33
+- ✅ **X11.3 Speed Endurance Development.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 18 | citation_delta=3 | recommendation_delta=18
+- ✅ **X11.4 Strength Training Programming for Sprinters.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 18 | citation_delta=3 | recommendation_delta=18
+- ✅ **X11.5 Plyometric Training for Sprinters.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 7 | citation_delta=2 | recommendation_delta=7
+- ✅ **X11.6 Resisted & Assisted Sprint Training Methods.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 1 new citation links; Recommendation signals changed: 17 | citation_delta=1 | recommendation_delta=17
+- ✅ **X11.7 Sprinting Biomechanics & Force Analysis.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 5 new citation links; Recommendation signals changed: 27 | citation_delta=5 | recommendation_delta=27
+- ✅ **X11.8 Hamstring Injury Prevention in Sprinters.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 59 | citation_delta=3 | recommendation_delta=59
+- ✅ **X12. Vertical Jump Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 20 | citation_delta=3 | recommendation_delta=20
+- ✅ **X13. Baseball_Softball Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 29 | citation_delta=2 | recommendation_delta=29
+- ✅ **X14. Basketball Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 36 | citation_delta=3 | recommendation_delta=36
+- ⏭️ **X15. Extreme Heat Training.md**: skipped - Too short (0 words)
+- ✅ **X15. Soccer_Football Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 35 | citation_delta=3 | recommendation_delta=35
+- ✅ **X16. American Football Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 41 | citation_delta=2 | recommendation_delta=41
+- ✅ **X17. Hockey Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 36 | citation_delta=3 | recommendation_delta=36
+- ✅ **X18. Volleyball Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 44 | citation_delta=2 | recommendation_delta=44
+- ✅ **X19. Track and Field Training.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 33 | citation_delta=2 | recommendation_delta=33
+- ✅ **X2. Cycling (Road, Mountain, Track).md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 5 new citation links; Recommendation signals changed: 24 | citation_delta=5 | recommendation_delta=24
+- ✅ **X20. Swimming Training Integration.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 34 | citation_delta=2 | recommendation_delta=34
+- ✅ **X3. Swimming.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 21 | citation_delta=2 | recommendation_delta=21
+- ✅ **X3.1. Dry-Land Training for Swimmers.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 12 | citation_delta=3 | recommendation_delta=12
+- ✅ **X4. Team Sports - General Considerations.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 26 | citation_delta=3 | recommendation_delta=26
+- ✅ **X5. Racquet Sports (Tennis, Squash, Badminton).md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 14 | citation_delta=3 | recommendation_delta=14
+- ✅ **X6. Combat Sports (Boxing, MMA, Wrestling, Judo).md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 2 new citation links; Recommendation signals changed: 17 | citation_delta=2 | recommendation_delta=17
+- ✅ **X7. Golf.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 94 | citation_delta=3 | recommendation_delta=94
+- ✅ **X8. Climbing (Rock Climbing, Bouldering).md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 33 | citation_delta=3 | recommendation_delta=33
+- ✅ **X9. Gymnastics  Calisthenics.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 22 | citation_delta=3 | recommendation_delta=22
+- ⏭️ **Z1. Understanding this Zettelkasten.md**: skipped - Only 0 studies found (minimum=1) | new_studies_found=0 | studies_used_in_revision=0 | unchanged_reason=No meaningful new evidence available
+- ⏭️ **Z2. Practical Implementation Guide.md**: skipped - Only 0 studies found (minimum=1) | new_studies_found=0 | studies_used_in_revision=0 | unchanged_reason=No meaningful new evidence available
+- ⏭️ **Z3. Cultural & Historical Perspectives on Fitness.md**: skipped - Only 0 studies found (minimum=1) | new_studies_found=0 | studies_used_in_revision=0 | unchanged_reason=No meaningful new evidence available
+- ✅ **citation_validation_report.md**: success | new_studies_found=5 | studies_used_in_revision=5 | major_changes_made=Added 3 new citation links; Recommendation signals changed: 477 | citation_delta=3 | recommendation_delta=477
+- ⏭️ **cost_controlled_report.md**: skipped - Too short (80 words)
+- ⏭️ **fitlib.md**: skipped - Auxiliary markdown (not a topic note)
+- ⏭️ **template.md**: skipped - Only 0 studies found (minimum=1) | new_studies_found=0 | studies_used_in_revision=0 | unchanged_reason=No meaningful new evidence available

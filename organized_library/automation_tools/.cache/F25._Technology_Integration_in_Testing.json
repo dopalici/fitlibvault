@@ -1,0 +1,66 @@
+{
+  "note_title": "Technology Integration in Testing",
+  "cached_at": "2026-05-07T20:46:57.134343",
+  "studies": [
+    {
+      "title": "Magnetic Resonance Imaging in Prostate Cancer Screening: A Systematic Review and Meta-Analysis.",
+      "year": "2024",
+      "doi": "10.1001/jamaoncol.2024.0734",
+      "pmid": "38576242",
+      "journal": "JAMA oncology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Point-of-Care Drug Testing.",
+      "year": "2025",
+      "doi": "10.1016/j.cll.2025.01.005",
+      "pmid": "40348433",
+      "journal": "Clinics in laboratory medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2,
+      "quality_score": 0.53,
+      "composite_score": 0.525
+    },
+    {
+      "title": "Organ-On-A-Chip Devices: Technology Progress and Challenges.",
+      "year": "2024",
+      "doi": "10.1002/cbic.202400580",
+      "pmid": "39183173",
+      "journal": "Chembiochem : a European journal of chemical biology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.61,
+      "composite_score": 0.5179
+    },
+    {
+      "title": "Comprehensive Development in Organ-On-A-Chip Technology.",
+      "year": "2022",
+      "doi": "10.1016/j.xphs.2021.07.014",
+      "pmid": "34324944",
+      "journal": "Journal of pharmaceutical sciences",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 0.61,
+      "composite_score": 0.485
+    },
+    {
+      "title": "Advances in the Application of AI Robots in Critical Care: Scoping Review.",
+      "year": "2024",
+      "doi": "10.2196/54095",
+      "pmid": "38801765",
+      "journal": "Journal of medical Internet research",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

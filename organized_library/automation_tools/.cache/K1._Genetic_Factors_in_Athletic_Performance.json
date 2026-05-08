@@ -1,0 +1,66 @@
+{
+  "note_title": "K1. Genetic Factors in Athletic Performance",
+  "cached_at": "2026-05-07T21:24:46.419151",
+  "studies": [
+    {
+      "title": "Omega-3 Fatty Acid Supplementation on Post-Exercise Inflammation, Muscle Damage, Oxidative Response, and Sports Performance in Physically Healthy Adults-A Systematic Review of Randomized Controlled Trials.",
+      "year": "2024",
+      "doi": "10.3390/nu16132044",
+      "pmid": "38999792",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0435,
+      "quality_score": 0.85,
+      "composite_score": 0.608
+    },
+    {
+      "title": "The genetics of human performance.",
+      "year": "2022",
+      "doi": "10.1038/s41576-021-00400-5",
+      "pmid": "34522035",
+      "journal": "Nature reviews. Genetics",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 0.85,
+      "composite_score": 0.605
+    },
+    {
+      "title": "Towards Precision Sports Nutrition for Endurance Athletes: A Scoping Review of Application of Omics and Wearables Technologies.",
+      "year": "2024",
+      "doi": "10.3390/nu16223943",
+      "pmid": "39599728",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Personalized Nutrition for the Enhancement of Elite Athletic Performance.",
+      "year": "2025",
+      "doi": "10.1111/sms.70044",
+      "pmid": "40164953",
+      "journal": "Scandinavian journal of medicine & science in sports",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.25,
+      "quality_score": 0.61,
+      "composite_score": 0.58
+    },
+    {
+      "title": "Genetics and sports performance: the present and future in the identification of talent for sports based on DNA testing.",
+      "year": "2022",
+      "doi": "10.1007/s00421-022-04945-z",
+      "pmid": "35428907",
+      "journal": "European journal of applied physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0769,
+      "quality_score": 0.85,
+      "composite_score": 0.5781
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "note_title": "J9. Data Privacy in Fitness Technology",
+  "cached_at": "2026-05-07T21:24:15.872665",
+  "studies": [
+    {
+      "title": "The Relationship Between Running Biomechanics and Running Economy: A Systematic Review and Meta-Analysis of Observational Studies.",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-01997-3",
+      "pmid": "38446400",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Wearable activity trackers-advanced technology or advanced marketing?",
+      "year": "2022",
+      "doi": "10.1007/s00421-022-04951-1",
+      "pmid": "35445837",
+      "journal": "European journal of applied physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.85,
+      "composite_score": 0.5883
+    },
+    {
+      "title": "Circadian rhythms and disorders of the timing of sleep.",
+      "year": "2022",
+      "doi": "10.1016/S0140-6736(22)00877-7",
+      "pmid": "36115370",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Wearable privacy.",
+      "year": "2025",
+      "doi": "10.1016/bs.pmbts.2025.06.005",
+      "pmid": "40921537",
+      "journal": "Progress in molecular biology and translational science",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2,
+      "quality_score": 0.53,
+      "composite_score": 0.525
+    },
+    {
+      "title": "AI-driven triage in emergency departments: A review of benefits, challenges, and future directions.",
+      "year": "2025",
+      "doi": "10.1016/j.ijmedinf.2025.105838",
+      "pmid": "39965433",
+      "journal": "International journal of medical informatics",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "note_title": "Exercise for Rare Conditions",
+  "cached_at": "2026-05-07T21:02:45.727822",
+  "studies": [
+    {
+      "title": "Glycogen storage diseases.",
+      "year": "2023",
+      "doi": "10.1038/s41572-023-00456-z",
+      "pmid": "37679331",
+      "journal": "Nature reviews. Disease primers",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Obesity in Adolescents: A Review.",
+      "year": "2024",
+      "doi": "10.1001/jama.2024.11809",
+      "pmid": "39102244",
+      "journal": "JAMA",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Guidelines for the Prevention, Diagnosis, and Management of Urinary Tract Infections in Pediatrics and Adults: A WikiGuidelines Group Consensus Statement.",
+      "year": "2024",
+      "doi": "10.1001/jamanetworkopen.2024.44495",
+      "pmid": "39495518",
+      "journal": "JAMA network open",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Safety and efficacy of COVID-19 vaccines: A systematic review and meta-analysis of controlled and randomized clinical trials.",
+      "year": "2024",
+      "doi": "10.1002/rmv.2507",
+      "pmid": "38282394",
+      "journal": "Reviews in medical virology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "Interstitial lung diseases.",
+      "year": "2022",
+      "doi": "10.1016/S0140-6736(22)01052-2",
+      "pmid": "35964592",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    }
+  ]
+}

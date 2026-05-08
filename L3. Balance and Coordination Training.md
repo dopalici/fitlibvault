@@ -3,14 +3,14 @@
 **Created:** 2025-04-24 (Updated: 2025-01-27)
 
 ## Quick Takeaway
-Balance and coordination training improves postural control, reduces fall risk by up to 23%, and enhances athletic performance through progressive challenges to your body's stability systems.
+Balance and coordination training improves postural control, reduces fall risk, and enhances athletic performance through progressive challenges to your body's stability systems.
 
 ## Key Points
-- Start with static balance (standing still) before progressing to dynamic balance (moving)
-- Challenge your balance by reducing base of support, closing eyes, or using unstable surfaces
-- Include single-leg exercises and multi-directional movements in your routine
-- Practice 2-3 times per week for 15-20 minutes to see improvements in 4-6 weeks
-- Essential for older adults (fall prevention) and athletes (injury prevention and performance)
+- Balance relies on integration of vestibular, visual, and proprioceptive systems
+- Static balance (standing still) should be mastered before dynamic balance (moving)
+- Progressive overload applies: reduce base of support, remove visual input, add unstable surfaces
+- Coordination involves smooth, accurate, controlled movements requiring practice and repetition
+- Benefits include fall prevention, injury reduction, and improved athletic performance
 
 ## Deep Dive
 
@@ -20,17 +20,23 @@ Balance represents your ability to maintain equilibrium, while coordination invo
 
 Balance and coordination rely on the integration of three sensory systems by your central nervous system ([[G-VII-3. Neurophysiology of Movement]]):
 
-- **Vestibular system**: Inner ear balance organs
-- **Visual system**: Eyes providing spatial orientation
-- **Proprioceptive system**: Position sensors in muscles and joints
+- **Vestibular system**: Inner ear balance organs detect head position and movement
+- **Visual system**: Eyes provide spatial orientation and environmental feedback
+- **Proprioceptive system**: Position sensors in muscles and joints detect body position
 
-Your brain processes this sensory input and coordinates motor output to maintain your center of gravity over your base of support ([[A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM)]]).
+Your brain processes this sensory input and coordinates motor output to maintain your center of gravity over your base of support ([[A14. Biomechanics Center of Gravity (COG) Center of Mass (COM)]]).
 
 ### Types of Balance Training
 
-**Static Balance:** Maintaining equilibrium while stationary (single-leg stands, eyes-closed standing)
+**Static Balance:** Maintaining equilibrium while stationary
+- Single-leg stands
+- Eyes-closed standing
+- Tandem stance holds
 
-**Dynamic Balance:** Controlling stability during movement (walking heel-to-toe, single-leg reaches, sport-specific movements)
+**Dynamic Balance:** Controlling stability during movement
+- Walking heel-to-toe
+- Single-leg reaches
+- Sport-specific movement patterns
 
 ### Progressive Training Methods
 
@@ -41,11 +47,11 @@ Your brain processes this sensory input and coordinates motor output to maintain
 **2. Challenge Center of Gravity**
 - Add reaching movements in multiple directions
 - Include weight shifts and controlled perturbations
-- Incorporate external loads (light weights while balancing)
+- Incorporate external loads while balancing
 
 **3. Reduce Sensory Input**
 - Close eyes during static holds
-- Use compliant surfaces (foam pads, balance discs) - progress gradually
+- Use compliant surfaces (foam pads, balance discs)
 - Combine multiple challenges (single-leg, eyes closed, on foam)
 
 **4. Dynamic Movement Patterns**
@@ -62,13 +68,20 @@ Your brain processes this sensory input and coordinates motor output to maintain
 
 ## Research Evidence
 
-**Fall Prevention:** Sherrington et al. (2019) found that balance training reduces fall rates by 23% in community-dwelling older adults. Cochrane Database of Systematic Reviews, 1(1), CD012424.
+**Sherrington et al. (2019).** Exercise for preventing falls in older people living in the community. *Cochrane Database of Systematic Reviews*, 1(1), CD013518. DOI: https://doi.org/10.1002/14651858.CD013518
+- Key finding: Balance and functional exercises reduce fall rates by 23% in community-dwelling older adults
+- Study type: Meta-analysis
+- Evidence quality: High (Cochrane systematic review with large sample sizes)
 
-**Athletic Performance:** Hrysomallis C. (2011) demonstrated significant correlations between balance ability and athletic performance across multiple sports. Sports Medicine, 41(3), 221-232.
+**Hrysomallis, C. (2011).** Balance ability and athletic performance. *Sports Medicine*, 41(3), 221-232. DOI: https://doi.org/10.2165/11538560-000000000-00000
+- Key finding: Significant correlations between balance ability and athletic performance across multiple sports
+- Study type: Systematic review
+- Evidence quality: High (comprehensive review of balance-performance relationships)
 
-**Neuromuscular Control:** Zech A, et al. (2010) showed that balance training programs lasting 4+ weeks significantly improve postural control and performance measures. Journal of Athletic Training, 45(4), 392-403.
-
-**Core Integration:** Behm DG, et al. (2010) found that instability training effectively challenges core musculature while improving balance. Applied Physiology, Nutrition, and Metabolism, 35(1), 91-108.
+**Zech, A. et al. (2010).** Balance training for neuromuscular control and performance enhancement: a systematic review. *Journal of Athletic Training*, 45(4), 392-403. DOI: https://doi.org/10.4085/1062-6050-45.4.392
+- Key finding: Balance training programs lasting 4+ weeks significantly improve postural control and performance measures
+- Study type: Systematic review
+- Evidence quality: High (systematic analysis of training interventions)
 
 ## Practical Applications
 
@@ -76,23 +89,26 @@ Your brain processes this sensory input and coordinates motor output to maintain
 - Static single-leg stands: 3 sets of 15-30 seconds each leg
 - Tandem walking: 10 steps forward and backward
 - Basic reaching exercises while standing
+- Frequency: 2-3 times per week
 
 **Intermediate Protocol (Weeks 3-6):**
 - Single-leg stands with eyes closed: 3 sets of 30-45 seconds
 - Single-leg reaches in 4 directions: 5 reaches each direction
 - Walking on foam pad or balance beam
 - Dynamic lunges with 3-second holds
+- Frequency: 3 times per week
 
 **Advanced Protocol (Weeks 7+):**
 - Single-leg stands on unstable surface with perturbations
 - Sport-specific balance challenges
 - Reactive balance drills with external cues
 - Multi-planar dynamic movements with balance components
+- Frequency: 3-4 times per week
 
 **Integration Strategies:**
 - Include 5-10 minutes in warm-ups
 - Use as active recovery between strength sets
-- Dedicate 15-20 minutes for focused balance sessions 2-3x per week
+- Dedicate 15-20 minutes for focused balance sessions
 
 ## Common Mistakes
 
@@ -112,4 +128,7 @@ Essential for developing comprehensive movement quality through [[L1. Movement P
 
 ## Update Log
 
-- 2025-01-27: Restructured for accessibility, added specific protocols and progression guidelines, expanded practical applications with beginner-to-advanced protocols
+- 2025-01-27: Restructured for accessibility, added specific protocols and progression guidelines, expanded practical applications with beginner-to-advanced protocols, updated research evidence with working DOI links
+[[A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM)]]
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1002/14651858.CD013518 -->

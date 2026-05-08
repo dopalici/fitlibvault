@@ -1,0 +1,66 @@
+{
+  "note_title": "N9. Motivation and Adherence Strategies",
+  "cached_at": "2026-05-07T21:44:18.501666",
+  "studies": [
+    {
+      "title": "Exercise and dietary recommendations to preserve musculoskeletal health during weight loss in adults with obesity: A practical guide.",
+      "year": "2025",
+      "doi": "10.1007/s11154-025-09968-3",
+      "pmid": "40434574",
+      "journal": "Reviews in endocrine & metabolic disorders",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.545
+    },
+    {
+      "title": "Randomized Trial of Early Detection and Treatment of Postpartum Hemorrhage.",
+      "year": "2023",
+      "doi": "10.1056/NEJMoa2303966",
+      "pmid": "37158447",
+      "journal": "The New England journal of medicine",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    },
+    {
+      "title": "Total neoadjuvant therapy in rectal cancer: the evidence and expectations.",
+      "year": "2023",
+      "doi": "10.1016/j.critrevonc.2023.104196",
+      "pmid": "37926376",
+      "journal": "Critical reviews in oncology/hematology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    },
+    {
+      "title": "Barriers and facilitators to exercise adherence in community-dwelling older adults: A mixed-methods systematic review using the COM-B model and Theoretical Domains Framework.",
+      "year": "2024",
+      "doi": "10.1016/j.ijnurstu.2024.104808",
+      "pmid": "38823146",
+      "journal": "International journal of nursing studies",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0588,
+      "quality_score": 0.61,
+      "composite_score": 0.4926
+    },
+    {
+      "title": "[Dietary strategies for cardiovascular disease prevention].",
+      "year": "2024",
+      "doi": "10.20960/nh.05447",
+      "pmid": "39279761",
+      "journal": "Nutricion hospitalaria",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.53,
+      "composite_score": 0.4779
+    }
+  ]
+}

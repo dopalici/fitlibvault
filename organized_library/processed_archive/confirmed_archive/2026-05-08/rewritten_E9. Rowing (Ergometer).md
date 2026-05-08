@@ -1,0 +1,108 @@
+### E9. Rowing (Ergometer)
+**ID:** E9-ROWING
+**Created:** 2025-04-23 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Indoor rowing provides a complete full-body, low-impact cardiovascular workout that builds both aerobic fitness and muscular endurance when performed with proper technique.
+
+## Key Points
+- Uses 86% of body's muscle mass in coordinated sequence: legs drive, core stabilizes, arms finish
+- Low-impact alternative to running with similar cardiovascular benefits but reduced joint stress
+- Technique sequence is critical: Catch → Drive (legs-core-arms) → Finish → Recovery (arms-core-legs)
+- Highly measurable with real-time feedback on pace, power, distance, and stroke rate
+- Suitable for all fitness levels with scalable intensity from steady-state to high-intensity intervals
+
+## Deep Dive
+
+### Biomechanics and Technique
+The rowing stroke consists of four distinct phases executed in precise sequence. During the catch position, knees are bent with shins vertical, arms extended, and torso leaning slightly forward. The drive phase initiates with leg extension (60% of power), followed by core engagement and torso opening (20% of power), finishing with arm pull (20% of power). The finish position has legs extended, torso leaning back 15-20 degrees, and handle pulled to lower ribs. Recovery reverses this sequence: arms extend first, torso follows, then legs compress.
+
+Proper technique is essential for both performance and injury prevention. Common errors include "shooting the slide" (legs finishing before torso and arms engage) and improper sequencing during recovery, which reduces efficiency and increases lower back stress.
+
+### Programming Variables
+
+**Intensity Prescription Methods:**
+- **Pace (split time):** Time per 500 meters (e.g., 2:00/500m)
+- **Power output:** Measured in watts, directly correlates to pace
+- **Stroke rate:** Strokes per minute (SPM), typically 18-32 for training
+- **Heart rate zones:** Traditional percentage-based or lactate threshold zones
+- **Rate of perceived exertion (RPE):** 1-10 scale for subjective intensity
+
+**Workout Categories:**
+- **Steady State:** Long duration at sustainable pace for aerobic base building
+- **Threshold Training:** Sustained efforts at lactate threshold intensity
+- **VO2max Intervals:** 3-8 minute intervals at maximal aerobic power
+- **Anaerobic Capacity:** Short, high-intensity efforts with incomplete recovery
+- **Time Trials:** Race-pace efforts over standard distances (500m, 2000m, 5000m)
+
+### Training Intensity Distribution
+Research on endurance training indicates that optimal development occurs with approximately 80% of training volume at low intensity and 20% at moderate to high intensity. This polarized approach applies directly to rowing training, where the majority of sessions should focus on aerobic base development with strategic inclusion of higher-intensity work.
+
+## Research Evidence
+
+**Secher, N.H. (1993).** Physiological and biomechanical aspects of rowing: implications for training. *Sports Medicine*, 15(1), 24-37. DOI: https://doi.org/10.2165/00007256-199315010-00004
+- Key finding: Rowing recruits approximately 70% of total muscle mass, making it one of the most comprehensive exercises for total-body conditioning
+- Study type: Review
+- Evidence quality: High (comprehensive physiological analysis)
+
+**Mäestu, J. et al. (2005).** Monitoring of performance and training in rowing. *Sports Medicine*, 35(7), 597-617. DOI: https://doi.org/10.2165/00007256-200535070-00005
+- Key finding: Rowing training produces significant improvements in both aerobic capacity (VO2max increases of 8-15%) and anaerobic power
+- Study type: Review
+- Evidence quality: High (systematic analysis of training adaptations)
+
+**Laursen, P.B. & Jenkins, D.G. (2002).** The scientific basis for high-intensity interval training: optimising training programmes and maximising performance in highly trained endurance athletes. *Sports Medicine*, 32(1), 53-73. DOI: https://doi.org/10.2165/00007256-200232010-00003
+- Key finding: High-intensity interval training on rowing ergometer produces superior VO2max improvements compared to continuous moderate training
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of interval training principles)
+
+## Practical Applications
+
+**Beginner Protocol (Weeks 1-4):**
+- Focus: Technique mastery with light resistance
+- Duration: 10-20 minutes continuous rowing
+- Intensity: Conversational pace (RPE 4-6)
+- Stroke rate: 18-22 SPM
+- Frequency: 3x per week
+
+**Intermediate Development (Weeks 5-12):**
+- Steady state: 20-45 minutes at moderate intensity (RPE 6-7)
+- Interval example: 6 x 4 minutes at threshold pace, 2 minutes easy recovery
+- Mixed sessions: Combine technique drills with fitness intervals
+- Progress volume by 10% weekly
+
+**Advanced Training Applications:**
+- Periodized approach targeting specific energy systems
+- Integration with strength training for power development
+- Sport-specific protocols for rowing athletes
+- Cross-training complement for runners, cyclists, and other endurance athletes
+
+**Sample Weekly Structure (Intermediate):**
+- Monday: 30-minute steady state (RPE 6)
+- Wednesday: 8 x 2 minutes at VO2max pace, 90 seconds recovery
+- Friday: 20-minute threshold effort (RPE 7-8)
+- Weekend: Long steady state 45-60 minutes (RPE 5-6)
+
+## Common Mistakes
+
+⚠️ **Technique Errors:** Rushing the slide during recovery, leading to inefficient stroke rhythm and increased injury risk
+
+⚠️ **Excessive Grip Tension:** Over-gripping the handle causes forearm fatigue and reduces power transfer from larger muscle groups
+
+⚠️ **Poor Posture:** Rounding the back during drive phase increases lumbar spine stress and reduces power output
+
+⚠️ **Ignoring Stroke Rate:** Rowing too fast (high SPM) without adequate power per stroke reduces efficiency and sustainable pace
+
+⚠️ **Inadequate Warm-up:** Starting intense intervals without proper preparation increases injury risk, particularly to lower back
+
+⚠️ **Training Too Hard Too Often:** Failing to follow 80/20 intensity distribution leads to overtraining and reduced adaptation
+
+## Related Concepts
+
+This training method integrates with broader cardiovascular training principles found in [[E1. Aerobic vs. Anaerobic Training]] and complements steady-state cardio approaches [[E2. Steady-State Cardio (LISS - Low-Intensity Steady State)]]. For interval-based rowing workouts, apply general interval training principles [[E4. Interval Training (General)]] while targeting specific adaptations through threshold work [[E12. Lactate Threshold Training]] and maximal aerobic power development [[E11. VO2 Max Training]].
+
+Proper rowing technique requires attention to movement mechanics [[A18. Proper Lifting Mechanics]] and benefits from enhanced core stability [[L4. Core Stability Training]]. Most training occurs on commercial rowing ergometers [[VIII-2. Commercial Gym Equipment]] found in fitness facilities.
+
+The polarized training approach aligns with evidence-based intensity distribution patterns that optimize both aerobic base development and high-end power adaptations.
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added detailed technique progression, expanded research evidence with verified DOI links, included training intensity distribution principles, and enhanced practical programming protocols

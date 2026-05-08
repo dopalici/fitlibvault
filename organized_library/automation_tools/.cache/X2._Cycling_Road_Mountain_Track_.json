@@ -1,0 +1,66 @@
+{
+  "note_title": "X2. Cycling (Road, Mountain, Track)",
+  "cached_at": "2026-05-08T15:45:07.796338",
+  "studies": [
+    {
+      "title": "How much does sleep deprivation impair endurance performance? A systematic review and meta-analysis.",
+      "year": "2023",
+      "doi": "10.1080/17461391.2022.2155583",
+      "pmid": "36472094",
+      "journal": "European journal of sport science",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effects of Caffeine Intake on Endurance Running Performance and Time to Exhaustion: A Systematic Review and Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.3390/nu15010148",
+      "pmid": "36615805",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    },
+    {
+      "title": "Nutritional Ergogenic Aids in Cycling: A Systematic Review.",
+      "year": "2024",
+      "doi": "10.3390/nu16111768",
+      "pmid": "38892701",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.85,
+      "composite_score": 0.6283
+    },
+    {
+      "title": "Triathlon: Ergo Nutrition for Training, Competing, and Recovering.",
+      "year": "2025",
+      "doi": "10.3390/nu17111846",
+      "pmid": "40507114",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Critical Power and Maximal Lactate Steady State in Cycling: \"Watts\" the Difference?",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-02075-4",
+      "pmid": "39196486",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0833,
+      "quality_score": 0.85,
+      "composite_score": 0.62
+    }
+  ]
+}

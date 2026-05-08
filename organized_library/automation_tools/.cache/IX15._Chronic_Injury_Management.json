@@ -1,0 +1,66 @@
+{
+  "note_title": "IX15. Chronic Injury Management",
+  "cached_at": "2026-05-07T21:17:45.026819",
+  "studies": [
+    {
+      "title": "Advances in the classification and management of idiopathic inflammatory myopathies.",
+      "year": "2025",
+      "doi": "10.1016/S1474-4422(25)00233-9",
+      "pmid": "40818476",
+      "journal": "The Lancet. Neurology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.85,
+      "composite_score": 0.6583
+    },
+    {
+      "title": "Osteoporosis: A Review.",
+      "year": "2025",
+      "doi": "10.1001/jama.2025.6003",
+      "pmid": "40587168",
+      "journal": "JAMA",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Osteoporosis.",
+      "year": "2025",
+      "doi": "10.1016/S0140-6736(25)01385-6",
+      "pmid": "40946719",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Deltoid ligament injury and repair.",
+      "year": "2023",
+      "doi": "10.1177/10225536231182345",
+      "pmid": "37449811",
+      "journal": "Journal of orthopaedic surgery (Hong Kong)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.61,
+      "composite_score": 0.5179
+    },
+    {
+      "title": "Contemporary Management of Subdural Hematoma.",
+      "year": "2025",
+      "doi": "10.1016/j.ncl.2024.07.003",
+      "pmid": "39547742",
+      "journal": "Neurologic clinics",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.53,
+      "composite_score": 0.5079
+    }
+  ]
+}

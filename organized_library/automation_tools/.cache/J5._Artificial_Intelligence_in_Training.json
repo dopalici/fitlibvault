@@ -1,0 +1,66 @@
+{
+  "note_title": "J5. Artificial Intelligence in Training",
+  "cached_at": "2026-05-07T21:21:55.203595",
+  "studies": [
+    {
+      "title": "Artificial Intelligence in Endodontic Education.",
+      "year": "2024",
+      "doi": "10.1016/j.joen.2024.02.011",
+      "pmid": "38387793",
+      "journal": "Journal of endodontics",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.5,
+      "quality_score": 0.61,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Artificial intelligence in nursing and midwifery: A systematic review.",
+      "year": "2023",
+      "doi": "10.1111/jocn.16478",
+      "pmid": "35908207",
+      "journal": "Journal of clinical nursing",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3333,
+      "quality_score": 0.61,
+      "composite_score": 0.575
+    },
+    {
+      "title": "Applications of Artificial Intelligence in Nursing Care: A Systematic Review.",
+      "year": "2023",
+      "doi": "10.1155/2023/3219127",
+      "pmid": "40225652",
+      "journal": "Journal of nursing management",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2857,
+      "quality_score": 0.61,
+      "composite_score": 0.5607
+    },
+    {
+      "title": "The Role of Artificial Intelligence in Nursing Care: An Umbrella Review.",
+      "year": "2025",
+      "doi": "10.1111/nin.70023",
+      "pmid": "40222025",
+      "journal": "Nursing inquiry",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2857,
+      "quality_score": 0.53,
+      "composite_score": 0.5507
+    },
+    {
+      "title": "An AI-Powered Lifestyle Intervention vs Human Coaching in the Diabetes Prevention Program: A Randomized Clinical Trial.",
+      "year": "2025",
+      "doi": "10.1001/jama.2025.19563",
+      "pmid": "41144242",
+      "journal": "JAMA",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.55
+    }
+  ]
+}

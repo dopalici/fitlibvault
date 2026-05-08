@@ -1,0 +1,66 @@
+{
+  "note_title": "IX10. Movement Quality Restoration",
+  "cached_at": "2026-05-07T21:14:46.100573",
+  "studies": [
+    {
+      "title": "From Tissue to System: What Constitutes an Appropriate Response to Loading?",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02126-w",
+      "pmid": "39527327",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Nutritional Supplements for Muscle Hypertrophy: Mechanisms and Morphology-Focused Evidence.",
+      "year": "2025",
+      "doi": "10.3390/nu17223603",
+      "pmid": "41305653",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Cognitive functional therapy with or without movement sensor biofeedback versus usual care for chronic, disabling low back pain (RESTORE): a randomised, controlled, three-arm, parallel group, phase 3, clinical trial.",
+      "year": "2023",
+      "doi": "10.1016/S0140-6736(23)00441-5",
+      "pmid": "37146623",
+      "journal": "Lancet (London, England)",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.037,
+      "quality_score": 0.7,
+      "composite_score": 0.5311
+    },
+    {
+      "title": "Early Physiotherapy for Post-Total Knee Arthroplasty Recovery: A Systematic Review of Randomized Controlled Trials on Quality of Life, Pain, and Range of Motion Outcomes.",
+      "year": "2025",
+      "doi": "10.1002/msc.70158",
+      "pmid": "40635148",
+      "journal": "Musculoskeletal care",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.05,
+      "quality_score": 0.53,
+      "composite_score": 0.48
+    },
+    {
+      "title": "Exercise sustains the hallmarks of health.",
+      "year": "2023",
+      "doi": "10.1016/j.jshs.2022.10.003",
+      "pmid": "36374766",
+      "journal": "Journal of sport and health science",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

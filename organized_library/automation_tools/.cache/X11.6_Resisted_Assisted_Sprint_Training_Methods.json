@@ -1,0 +1,66 @@
+{
+  "note_title": "X11.6 Resisted & Assisted Sprint Training Methods",
+  "cached_at": "2026-05-08T15:44:58.338926",
+  "studies": [
+    {
+      "title": "Superset Versus Traditional Resistance Training Prescriptions: A Systematic Review and Meta-analysis Exploring Acute and Chronic Effects on Mechanical, Metabolic, and Perceptual Variables.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02176-8",
+      "pmid": "39903375",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Olympic Weightlifting Training for Sprint Performance in Athletes: A Systematic Review with Meta-analysis.",
+      "year": "2024",
+      "doi": "10.1055/a-2161-4867",
+      "pmid": "37640059",
+      "journal": "International journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0833,
+      "quality_score": 1.0,
+      "composite_score": 0.695
+    },
+    {
+      "title": "Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1007/s40279-023-01825-0",
+      "pmid": "36906633",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Global, regional, and national burden of meningitis, its risk factors, and aetiologies, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+      "year": "2026",
+      "doi": "10.1016/S1474-4422(26)00101-8",
+      "pmid": "41911930",
+      "journal": "The Lancet. Neurology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Effects of physical activity and exercise-based interventions in young adults with autism spectrum disorder: A systematic review.",
+      "year": "2024",
+      "doi": "10.1177/13623613231169058",
+      "pmid": "37128159",
+      "journal": "Autism : the international journal of research and practice",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

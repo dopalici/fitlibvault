@@ -1,0 +1,66 @@
+{
+  "note_title": "Q7. Integrative Health & Lifestyle Medicine Approaches",
+  "cached_at": "2026-05-07T21:56:13.336204",
+  "studies": [
+    {
+      "title": "Contemporary medical, device, and surgical therapies for obesity in adults.",
+      "year": "2023",
+      "doi": "10.1016/S0140-6736(22)02403-5",
+      "pmid": "36774932",
+      "journal": "Lancet (London, England)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Metabolic syndrome.",
+      "year": "2024",
+      "doi": "10.1038/s41572-024-00563-5",
+      "pmid": "39420195",
+      "journal": "Nature reviews. Disease primers",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Dietary and Nutritional Interventions for the Management of Endometriosis.",
+      "year": "2024",
+      "doi": "10.3390/nu16233988",
+      "pmid": "39683382",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Global consensus on optimal exercise recommendations for enhancing healthy longevity in older adults (ICFSR).",
+      "year": "2025",
+      "doi": "10.1016/j.jnha.2024.100401",
+      "pmid": "39743381",
+      "journal": "The journal of nutrition, health & aging",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    },
+    {
+      "title": "A 2025 update on treatment strategies for the Alzheimer's disease spectrum.",
+      "year": "2025",
+      "doi": "10.1097/JCMA.0000000000001252",
+      "pmid": "40442885",
+      "journal": "Journal of the Chinese Medical Association : JCMA",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    }
+  ]
+}

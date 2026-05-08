@@ -1,0 +1,66 @@
+{
+  "note_title": "**EXL-21: Dumbbell Bench Press (Flat)**",
+  "cached_at": "2026-05-07T19:49:51.993736",
+  "studies": [
+    {
+      "title": "Effects of Exercise Training on Mitochondrial and Capillary Growth in Human Skeletal Muscle: A Systematic Review and Meta-Regression.",
+      "year": "2025",
+      "doi": "10.1007/s40279-024-02120-2",
+      "pmid": "39390310",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "The Effect of Strength Training on Endurance Performance Determinants in Middle- and Long-Distance Endurance Athletes: An Umbrella Review of Systematic Reviews and Meta-Analysis.",
+      "year": "2025",
+      "doi": "10.1519/JSC.0000000000005056",
+      "pmid": "40153564",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Exercise training and resting blood pressure: a large-scale pairwise and network meta-analysis of randomised controlled trials.",
+      "year": "2023",
+      "doi": "10.1136/bjsports-2022-106503",
+      "pmid": "37491419",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Exercise and Neuropathy: Systematic Review with Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.1007/s40279-021-01596-6",
+      "pmid": "34964950",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    },
+    {
+      "title": "Performance Adaptations to Intensified Training in Top-Level Football.",
+      "year": "2023",
+      "doi": "10.1007/s40279-022-01791-z",
+      "pmid": "36380164",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "note_title": "D3. Weight Maintenance After Loss",
+  "cached_at": "2026-05-07T19:30:31.779485",
+  "studies": [
+    {
+      "title": "Weight Maintenance after Dietary Weight Loss: Systematic Review and Meta-Analysis on the Effectiveness of Behavioural Intensive Intervention.",
+      "year": "2022",
+      "doi": "10.3390/nu14061259",
+      "pmid": "35334917",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3333,
+      "quality_score": 1.0,
+      "composite_score": 0.73
+    },
+    {
+      "title": "Differential mechanisms affecting weight loss and weight loss maintenance.",
+      "year": "2023",
+      "doi": "10.1038/s42255-023-00864-1",
+      "pmid": "37612402",
+      "journal": "Nature metabolism",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.4286,
+      "quality_score": 0.85,
+      "composite_score": 0.7236
+    },
+    {
+      "title": "Discontinuing glucagon-like peptide-1 receptor agonists and body habitus: A systematic review and meta-analysis.",
+      "year": "2025",
+      "doi": "10.1111/obr.13929",
+      "pmid": "40186344",
+      "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.62
+    },
+    {
+      "title": "Physical activity and exercise for weight loss and maintenance in people living with obesity.",
+      "year": "2023",
+      "doi": "10.1007/s11154-023-09805-5",
+      "pmid": "37142892",
+      "journal": "Reviews in endocrine & metabolic disorders",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3333,
+      "quality_score": 0.69,
+      "composite_score": 0.615
+    },
+    {
+      "title": "Intermittent Fasting: Does It Affect Sports Performance? A Systematic Review.",
+      "year": "2024",
+      "doi": "10.3390/nu16010168",
+      "pmid": "38201996",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    }
+  ]
+}

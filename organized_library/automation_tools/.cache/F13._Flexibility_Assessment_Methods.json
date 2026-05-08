@@ -1,0 +1,66 @@
+{
+  "note_title": "F13. Flexibility Assessment Methods",
+  "cached_at": "2026-05-07T20:39:33.972887",
+  "studies": [
+    {
+      "title": "Evidence-Based Hamstring Injury Prevention and Risk Factor Management: A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+      "year": "2023",
+      "doi": "10.1177/03635465221083998",
+      "pmid": "35384731",
+      "journal": "The American journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effects of physical exercise on physical function in older adults in residential care: a systematic review and network meta-analysis of randomised controlled trials.",
+      "year": "2023",
+      "doi": "10.1016/S2666-7568(23)00057-0",
+      "pmid": "37182530",
+      "journal": "The lancet. Healthy longevity",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Physical exercise for people with Parkinson's disease: a systematic review and network meta-analysis.",
+      "year": "2023",
+      "doi": "10.1002/14651858.CD013856.pub2",
+      "pmid": "36602886",
+      "journal": "The Cochrane database of systematic reviews",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "Physical exercise for people with Parkinson's disease: a systematic review and network meta-analysis.",
+      "year": "2024",
+      "doi": "10.1002/14651858.CD013856.pub3",
+      "pmid": "38588457",
+      "journal": "The Cochrane database of systematic reviews",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "There is more to the knee joint than just the quadriceps: A systematic review with meta-analysis and evidence gap map of hamstring strength, flexibility, and morphology in individuals with gradual-onset knee disorders.",
+      "year": "2024",
+      "doi": "10.1016/j.jshs.2023.08.004",
+      "pmid": "37669706",
+      "journal": "Journal of sport and health science",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0435,
+      "quality_score": 0.76,
+      "composite_score": 0.5631
+    }
+  ]
+}

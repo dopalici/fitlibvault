@@ -1,0 +1,66 @@
+{
+  "note_title": "C4. Hydration",
+  "cached_at": "2026-05-07T19:01:11.246739",
+  "studies": [
+    {
+      "title": "Efficacy of dietary interventions in irritable bowel syndrome: a systematic review and network meta-analysis.",
+      "year": "2025",
+      "doi": "10.1016/S2468-1253(25)00054-8",
+      "pmid": "40258374",
+      "journal": "The lancet. Gastroenterology & hepatology",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Effects of Oral Collagen for Skin Anti-Aging: A Systematic Review and Meta-Analysis.",
+      "year": "2023",
+      "doi": "10.3390/nu15092080",
+      "pmid": "37432180",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effects of Creatine Supplementation and Resistance Training on Muscle Strength Gains in Adults <50 Years of Age: A Systematic Review and Meta-Analysis.",
+      "year": "2024",
+      "doi": "10.3390/nu16213665",
+      "pmid": "39519498",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "The Role of Diet in Prognosis among Cancer Survivors: A Systematic Review and Meta-Analysis of Dietary Patterns and Diet Interventions.",
+      "year": "2022",
+      "doi": "10.3390/nu14020348",
+      "pmid": "35057525",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    },
+    {
+      "title": "Nutritional Strategies in the Rehabilitation of Musculoskeletal Injuries in Athletes: A Systematic Integrative Review.",
+      "year": "2023",
+      "doi": "10.3390/nu15040819",
+      "pmid": "36839176",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    }
+  ]
+}

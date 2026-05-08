@@ -1,0 +1,66 @@
+{
+  "note_title": "K5. Advanced Mental Performance Techniques",
+  "cached_at": "2026-05-07T21:28:37.030215",
+  "studies": [
+    {
+      "title": "Cognitive Behavior Therapy for Mental Disorders in Adults: A Unified Series of Meta-Analyses.",
+      "year": "2025",
+      "doi": "10.1001/jamapsychiatry.2025.0482",
+      "pmid": "40238104",
+      "journal": "JAMA psychiatry",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0833,
+      "quality_score": 1.0,
+      "composite_score": 0.725
+    },
+    {
+      "title": "Treatment of Locally Advanced Rectal Cancer in the Era of Total Neoadjuvant Therapy: A Systematic Review and Network Meta-Analysis.",
+      "year": "2024",
+      "doi": "10.1001/jamanetworkopen.2024.14702",
+      "pmid": "38833249",
+      "journal": "JAMA network open",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0625,
+      "quality_score": 1.0,
+      "composite_score": 0.6888
+    },
+    {
+      "title": "Consensus Statements-Optimizing Performance of the Elite Athlete.",
+      "year": "2025",
+      "doi": "10.1111/sms.70112",
+      "pmid": "40781883",
+      "journal": "Scandinavian journal of medicine & science in sports",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.125,
+      "quality_score": 0.61,
+      "composite_score": 0.5425
+    },
+    {
+      "title": "Transcutaneous Auricular Vagus Nerve Stimulation for Chronic Insomnia Disorder: A Randomized Clinical Trial.",
+      "year": "2024",
+      "doi": "10.1001/jamanetworkopen.2024.51217",
+      "pmid": "39680406",
+      "journal": "JAMA network open",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    },
+    {
+      "title": "Moving toward precision and personalized treatment strategies in psychiatry.",
+      "year": "2025",
+      "doi": "10.1093/ijnp/pyaf025",
+      "pmid": "40255203",
+      "journal": "The international journal of neuropsychopharmacology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    }
+  ]
+}

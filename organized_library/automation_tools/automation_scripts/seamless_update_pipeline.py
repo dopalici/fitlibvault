@@ -30,6 +30,8 @@ PROCESS_SCRIPT = AUTOMATION_ROOT / "processing_scripts" / "process_fitness_libra
 AUDIT_SCRIPT = AUTOMATION_ROOT / "utility_scripts" / "citation_validation_audit.py"
 DOI_FIX_SCRIPT = AUTOMATION_ROOT / "utility_scripts" / "citation_doi_fixer.py"
 PROMOTE_SCRIPT = AUTOMATION_ROOT / "automation_scripts" / "promote_rewritten_to_og.py"
+INTERLINK_SCRIPT = AUTOMATION_ROOT / "utility_scripts" / "interlink_validator.py"
+STAGED_PROMOTE_SCRIPT = AUTOMATION_ROOT / "automation_scripts" / "staged_promotion.py"
 
 
 def run_cmd(
@@ -88,6 +90,68 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Continue later steps even if an earlier step fails",
     )
+    parser.add_argument(
+        "--validate-interlinks",
+        action="store_true",
+        help="Run interlink_validator.py before promotion to catch broken / stub wikilinks",
+    )
+    parser.add_argument(
+        "--interlink-fail-on",
+        choices=["never", "broken", "any"],
+        default="never",
+        help="Treat interlink-validator findings as a pipeline failure",
+    )
+    parser.add_argument(
+        "--staged-apply",
+        action="store_true",
+        help=(
+            "Use staged_promotion.py (per-file confirm + date stamping + history) "
+            "instead of the all-or-nothing promote_rewritten_to_og.py. "
+            "Requires a TTY for interactive prompts; pair with --staged-auto-yes for headless."
+        ),
+    )
+    parser.add_argument(
+        "--staged-auto-yes",
+        action="store_true",
+        help="When using --staged-apply, accept every file that passes validation",
+    )
+    parser.add_argument(
+        "--min-relevance",
+        type=float,
+        default=0.0,
+        help="PubMed relevance gate forwarded to the rewrite phase",
+    )
+    parser.add_argument(
+        "--min-quality",
+        type=float,
+        default=0.0,
+        help="PubMed quality gate forwarded to the rewrite phase",
+    )
+    parser.add_argument(
+        "--top-studies",
+        type=int,
+        default=5,
+        help="Number of top-ranked studies forwarded to Claude per note",
+    )
+    parser.add_argument(
+        "--lookback-years",
+        type=int,
+        default=4,
+        help="PubMed publication-date lookback window forwarded to the rewrite phase",
+    )
+    parser.add_argument(
+        "--exclude-name-prefix",
+        action="append",
+        default=[],
+        metavar="PREFIX",
+        help="Forwarded to process_fitness_library.py (repeatable)",
+    )
+    parser.add_argument(
+        "--resume-from-name",
+        default=None,
+        metavar="NAME",
+        help="Forwarded to process_fitness_library.py",
+    )
     return parser.parse_args()
 
 
@@ -131,6 +195,14 @@ def main() -> int:
             str(args.evidence_cache_max_age_days),
             "--stale-days",
             str(args.stale_days),
+            "--min-relevance",
+            str(args.min_relevance),
+            "--min-quality",
+            str(args.min_quality),
+            "--top-studies",
+            str(args.top_studies),
+            "--lookback-years",
+            str(args.lookback_years),
         ]
         if args.start_num is not None:
             rewrite_cmd.extend(["--start-num", str(args.start_num)])
@@ -138,6 +210,11 @@ def main() -> int:
             rewrite_cmd.extend(["--end-num", str(args.end_num)])
         if args.refresh_only_stale:
             rewrite_cmd.append("--refresh-only-stale")
+
+        for prefix in args.exclude_name_prefix:
+            rewrite_cmd.extend(["--exclude-name-prefix", prefix])
+        if args.resume_from_name:
+            rewrite_cmd.extend(["--resume-from-name", args.resume_from_name])
 
         rewrite_rc = run_cmd(rewrite_cmd, cwd=REPO_ROOT, env=env, step_name="Rewrite Notes")
         if rewrite_rc != 0:
@@ -179,6 +256,27 @@ def main() -> int:
         if not args.continue_on_error:
             return doi_rc
 
+    if args.validate_interlinks:
+        interlink_cmd = [
+            sys.executable,
+            str(INTERLINK_SCRIPT),
+            "--vault-root",
+            str(REPO_ROOT),
+            "--scope",
+            "rewritten",
+            "--output-dir",
+            str(notes_dir),
+            "--fail-on",
+            args.interlink_fail_on,
+        ]
+        interlink_rc = run_cmd(
+            interlink_cmd, cwd=REPO_ROOT, env=env, step_name="Interlink Validation"
+        )
+        if interlink_rc != 0:
+            failures.append("interlink_validation")
+            if not args.continue_on_error:
+                return interlink_rc
+
     validate_cmd = [
         sys.executable,
         str(PROMOTE_SCRIPT),
@@ -196,8 +294,25 @@ def main() -> int:
             return validate_rc
 
     if args.apply and validate_rc == 0:
-        apply_cmd = validate_cmd + ["--apply"]
-        apply_rc = run_cmd(apply_cmd, cwd=REPO_ROOT, env=env, step_name="Promotion Apply")
+        if args.staged_apply:
+            staged_cmd = [
+                sys.executable,
+                str(STAGED_PROMOTE_SCRIPT),
+                "--vault-root",
+                str(REPO_ROOT),
+                "--rewritten-dir",
+                str(notes_dir),
+            ]
+            if args.staged_auto_yes:
+                staged_cmd.append("--auto-yes")
+            else:
+                staged_cmd.append("--interactive")
+            apply_rc = run_cmd(
+                staged_cmd, cwd=REPO_ROOT, env=env, step_name="Promotion Apply (Staged)"
+            )
+        else:
+            apply_cmd = validate_cmd + ["--apply"]
+            apply_rc = run_cmd(apply_cmd, cwd=REPO_ROOT, env=env, step_name="Promotion Apply")
         if apply_rc != 0:
             failures.append("promotion_apply")
             if not args.continue_on_error:

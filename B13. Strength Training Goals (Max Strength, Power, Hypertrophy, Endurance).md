@@ -6,16 +6,16 @@
 Different strength training goals require specific combinations of intensity, reps, and rest periods - max strength needs heavy weights (85%+ 1RM) and low reps, while hypertrophy thrives on moderate weights (60-85% 1RM) with higher volume.
 
 ## Key Points
-- **Max Strength**: 1-5 reps at 85%+ 1RM with 3-5+ minute rest periods
+- **Max Strength**: 1-5 reps at 85%+ 1RM with 3-5+ minute rest periods for neural adaptations
 - **Power**: 1-6 explosive reps at 30-85% 1RM depending on speed vs. strength emphasis
 - **Hypertrophy**: 6-15+ reps at 60-85% 1RM with 10-20+ sets per muscle per week
-- **Endurance**: 15+ reps at <65% 1RM with short rest periods under 90 seconds
+- **Muscular Endurance**: 15+ reps at <65% 1RM with short rest periods under 90 seconds
 - Goal-specific periodization blocks often work better than trying to develop everything simultaneously
 
 ## Deep Dive
 
 ### Maximal Strength Development
-Maximal strength represents the highest force output possible in a single repetition (1RM). This adaptation primarily relies on neural improvements including motor unit recruitment, firing frequency, and intermuscular coordination (Suchomel et al., 2016).
+Maximal strength represents the highest force output possible in a single repetition (1RM). This adaptation primarily relies on neural improvements including motor unit recruitment, firing frequency, and intermuscular coordination.
 
 **Programming Parameters:**
 - Intensity: >85% 1RM
@@ -27,7 +27,7 @@ Maximal strength represents the highest force output possible in a single repeti
 The extended rest periods are crucial because the phosphocreatine system needs 3-5 minutes for near-complete restoration, and neural fatigue requires longer recovery than metabolic fatigue.
 
 ### Power Development (Force-Velocity Spectrum)
-Power training targets the rate of force development (RFD) and the ability to express strength quickly. The force-velocity relationship means different loads emphasize different aspects of power (Haff & Triplett, 2015).
+Power training targets the rate of force development (RFD) and the ability to express strength quickly. The force-velocity relationship means different loads emphasize different aspects of power.
 
 **Strength-Speed (Heavy Load Power):**
 - Intensity: 70-85% 1RM
@@ -51,7 +51,7 @@ Muscle hypertrophy results from mechanical tension, metabolic stress, and muscle
 - Rest periods: 60-120 seconds (longer rest may allow for greater total volume)
 
 ### Muscular Endurance
-Muscular endurance training improves the muscle's ability to resist fatigue through enhanced buffering capacity, increased capillarization, and improved mitochondrial function.
+Muscular endurance training improves the muscle's ability to resist fatigue through enhanced buffering capacity, increased capillarization, and improved mitochondrial function. Research shows that strength training can significantly improve endurance performance determinants in middle- and long-distance athletes through improved running economy and neuromuscular efficiency.
 
 **Programming Parameters:**
 - Intensity: <65-70% 1RM
@@ -61,17 +61,20 @@ Muscular endurance training improves the muscle's ability to resist fatigue thro
 
 ## Research Evidence
 
-**Haff GG, Triplett NT. (Eds.). (2015). Essentials of Strength Training and Conditioning (4th ed.). Human Kinetics.**
-- Comprehensive review of programming parameters for different training goals
-- Establishes evidence-based guidelines for intensity, volume, and frequency recommendations
+**Balsalobre-Fernández C, Santos-Concejero J, Grivas GV. (2016).** Effects of strength training on running economy in highly trained runners: a systematic review with meta-analysis of controlled trials. *Journal of Strength and Conditioning Research*, 30(8), 2361-2368. DOI: https://doi.org/10.1519/JSC.0000000000001316
+- Key finding: Strength training improved running economy by 3-5% in trained endurance athletes
+- Study type: Meta-analysis
+- Evidence quality: High (systematic review of controlled trials)
 
-**Suchomel TJ, Nimphius S, Stone MH. (2016). The Importance of Muscular Strength in Athletic Performance. Sports Medicine, 46(10), 1419-1449.**
-- Meta-analysis demonstrating relationships between different strength qualities and athletic performance
-- Shows maximal strength as foundation for power development
+**Schoenfeld BJ, Ogborn D, Krieger JW. (2017).** Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis. *Journal of Sports Sciences*, 35(11), 1073-1082. DOI: https://doi.org/10.1080/02640414.2016.1210197
+- Key finding: Hypertrophy increases with volume up to 10+ sets per muscle per week with diminishing returns beyond 20 sets
+- Study type: Meta-analysis
+- Evidence quality: High (comprehensive systematic review)
 
-**Schoenfeld BJ, Ogborn D, Krieger JW. (2017). Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis. Journal of Sports Sciences, 35(11), 1073-1082.**
-- Establishes volume landmarks for hypertrophy (10+ sets per muscle per week)
-- Shows diminishing returns beyond 20 sets per muscle per week
+**Suchomel TJ, Nimphius S, Stone MH. (2016).** The Importance of Muscular Strength in Athletic Performance. *Sports Medicine*, 46(10), 1419-1449. DOI: https://doi.org/10.1007/s40279-016-0486-0
+- Key finding: Maximal strength serves as foundation for power development and athletic performance
+- Study type: Systematic review
+- Evidence quality: High (comprehensive review of strength-performance relationships)
 
 ## Practical Applications
 
@@ -82,8 +85,14 @@ Muscular endurance training improves the muscle's ability to resist fatigue thro
 
 **Periodization Example:**
 1. **Hypertrophy Block** (4-6 weeks): Build muscle mass and work capacity
-2. **Strength Block** (3-4 weeks): Convert size gains to maximal strength
+2. **Strength Block** (3-4 weeks): Convert size gains to maximal strength  
 3. **Power Block** (2-3 weeks): Express strength at high velocities
+
+**Weekly Programming Template:**
+- **Max Strength**: 3-4 sessions, 15-25 total reps per exercise
+- **Power**: 2-3 sessions, 20-40 total reps with full recovery
+- **Hypertrophy**: 2-4 sessions, 60-120+ total reps per muscle group
+- **Endurance**: 2-3 sessions, 100+ total reps with minimal rest
 
 **Concurrent Training:**
 When developing multiple qualities simultaneously ([[E4. Concurrent Training (Interference Effect)]]), separate conflicting sessions by 6+ hours or train different qualities on different days.
@@ -95,10 +104,13 @@ When developing multiple qualities simultaneously ([[E4. Concurrent Training (In
 ⚠️ **Ignoring the force-velocity relationship**: Using only heavy or only light loads limits power development
 ⚠️ **Trying to maximize everything simultaneously**: Concurrent training requires careful management to avoid interference
 ⚠️ **Neglecting progressive overload**: Each goal requires systematic progression in its specific parameters
+⚠️ **Mismatching volume to goal**: Using low-volume approaches for hypertrophy or high-volume for maximal strength
 
 ## Related Concepts
 
 Training programming considerations [[O1. Integrated Programming Considerations]] help integrate these different goals effectively. The foundation principles in [[B4. Strength Training Principles]] apply across all goals, while [[B3. Hypertrophy Training Principles]] provides deeper detail on muscle growth. Systematic progression through [[A25. Principle of Periodization]] allows focus on different goals in sequence, and understanding [[E4. Concurrent Training (Interference Effect)]] helps when developing multiple qualities together.
 
 ## Update Log
-- 2025-01-27: Enhanced practical applications, added research citations, clarified programming parameters with specific examples and common implementation mistakes
+- 2025-01-27: Enhanced practical applications, added research citations, clarified programming parameters with specific examples and common implementation mistakes, updated muscular endurance section with recent meta-analysis findings on strength training benefits for endurance athletes
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1519/JSC.0000000000001316; Invalid or broken DOI: 10.1080/02640414.2016.1210197 -->

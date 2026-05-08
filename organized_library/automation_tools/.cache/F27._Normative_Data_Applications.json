@@ -1,0 +1,66 @@
+{
+  "note_title": "Normative Data Applications",
+  "cached_at": "2026-05-07T20:48:05.758420",
+  "studies": [
+    {
+      "title": "Fat-Free Mass Index in Sport: Normative Profiles and Applications for Collegiate Athletes.",
+      "year": "2024",
+      "doi": "10.1519/JSC.0000000000004864",
+      "pmid": "39074219",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2,
+      "quality_score": 0.85,
+      "composite_score": 0.655
+    },
+    {
+      "title": "Assessment of Aerobic Fitness and Repeated Sprint Ability in Elite Male Soccer: A Systematic Review of Test Protocols Used in Practice and Research.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02188-4",
+      "pmid": "40220211",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Power profiling and the power-duration relationship in cycling: a narrative review.",
+      "year": "2022",
+      "doi": "10.1007/s00421-021-04833-y",
+      "pmid": "34708276",
+      "journal": "European journal of applied physiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Occupational accidents and the use of PPE: a global meta-analysis.",
+      "year": "2024",
+      "doi": "10.3389/fpubh.2024.1368991",
+      "pmid": "38975359",
+      "journal": "Frontiers in public health",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.51
+    },
+    {
+      "title": "Using Twitter-Based Data for Sexual Violence Research: Scoping Review.",
+      "year": "2023",
+      "doi": "10.2196/46084",
+      "pmid": "37184899",
+      "journal": "Journal of medical Internet research",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "note_title": "N5. Adult Fitness Transitions",
+  "cached_at": "2026-05-07T21:41:43.712439",
+  "studies": [
+    {
+      "title": "Optimal exercise modalities for post-intervention motor function changes in stroke survivors: a pairwise and network meta-analysis.",
+      "year": "2025",
+      "doi": "10.1186/s12984-025-01756-z",
+      "pmid": "41163210",
+      "journal": "Journal of neuroengineering and rehabilitation",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.58
+    },
+    {
+      "title": "Physiology of sedentary behavior.",
+      "year": "2023",
+      "doi": "10.1152/physrev.00022.2022",
+      "pmid": "37326297",
+      "journal": "Physiological reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    },
+    {
+      "title": "Effect of Hb conformational changes on oxygen transport physiology.",
+      "year": "2024",
+      "doi": "10.11817/j.issn.1672-7347.2024.230199",
+      "pmid": "38970521",
+      "journal": "Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "Axilla lymph node dissection can be safely omitted in patients with 1-2 positive sentinel nodes receiving mastectomy: a large multi-institutional study and a systemic meta-analysis.",
+      "year": "2022",
+      "doi": "10.1007/s10549-022-06727-9",
+      "pmid": "36076127",
+      "journal": "Breast cancer research and treatment",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.47
+    },
+    {
+      "title": "SIRT1 in acute lung injury: unraveling its pleiotropic functions and therapeutic development prospects.",
+      "year": "2025",
+      "doi": "10.1007/s11010-024-05111-z",
+      "pmid": "39269678",
+      "journal": "Molecular and cellular biochemistry",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.465
+    }
+  ]
+}

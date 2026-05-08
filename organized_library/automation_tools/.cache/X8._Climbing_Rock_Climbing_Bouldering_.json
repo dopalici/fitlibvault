@@ -1,0 +1,66 @@
+{
+  "note_title": "X8. Climbing (Rock Climbing, Bouldering)",
+  "cached_at": "2026-05-08T15:45:13.257905",
+  "studies": [
+    {
+      "title": "A Guide to Indoor Rock Climbing Injuries.",
+      "year": "2023",
+      "doi": "10.1249/JSR.0000000000001036",
+      "pmid": "36757124",
+      "journal": "Current sports medicine reports",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.3333,
+      "quality_score": 0.85,
+      "composite_score": 0.695
+    },
+    {
+      "title": "Strength Training in Climbing: A Systematic Review.",
+      "year": "2023",
+      "doi": "10.1519/JSC.0000000000004286",
+      "pmid": "36820707",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 0.85,
+      "composite_score": 0.645
+    },
+    {
+      "title": "Infectious disease in an era of global change.",
+      "year": "2022",
+      "doi": "10.1038/s41579-021-00639-z",
+      "pmid": "34646006",
+      "journal": "Nature reviews. Microbiology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Safety and efficacy of givinostat in boys with Duchenne muscular dystrophy (EPIDYS): a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial.",
+      "year": "2024",
+      "doi": "10.1016/S1474-4422(24)00036-X",
+      "pmid": "38508835",
+      "journal": "The Lancet. Neurology",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    },
+    {
+      "title": "Steatotic Liver Diseases (SLDs): A Review.",
+      "year": "2025",
+      "doi": "10.17849/insm-52-3-1-9.2",
+      "pmid": "40983332",
+      "journal": "Journal of insurance medicine (New York, N.Y.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    }
+  ]
+}

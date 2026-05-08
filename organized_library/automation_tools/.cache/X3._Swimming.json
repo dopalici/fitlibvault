@@ -1,0 +1,66 @@
+{
+  "note_title": "X3. Swimming",
+  "cached_at": "2026-05-08T15:45:09.689572",
+  "studies": [
+    {
+      "title": "Effects of Creatine Supplementation and Resistance Training on Muscle Strength Gains in Adults <50 Years of Age: A Systematic Review and Meta-Analysis.",
+      "year": "2024",
+      "doi": "10.3390/nu16213665",
+      "pmid": "39519498",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Effects of Caffeine Intake on Endurance Running Performance and Time to Exhaustion: A Systematic Review and Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.3390/nu15010148",
+      "pmid": "36615805",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.63
+    },
+    {
+      "title": "Strength Training in Swimming.",
+      "year": "2022",
+      "doi": "10.3390/ijerph19095369",
+      "pmid": "35564764",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.5,
+      "quality_score": 0.61,
+      "composite_score": 0.585
+    },
+    {
+      "title": "Aerobic Exercise Prescription for Pain Reduction in Fibromyalgia: A Systematic Review and Meta-Analysis.",
+      "year": "2025",
+      "doi": "10.1002/ejp.4783",
+      "pmid": "39805734",
+      "journal": "European journal of pain (London, England)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.58
+    },
+    {
+      "title": "Oxy-Inflammation in Humans during Underwater Activities.",
+      "year": "2024",
+      "doi": "10.3390/ijms25053060",
+      "pmid": "38474303",
+      "journal": "International journal of molecular sciences",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

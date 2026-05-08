@@ -1,0 +1,66 @@
+{
+  "note_title": "N6. Senior Fitness Programming",
+  "cached_at": "2026-05-07T21:42:23.522577",
+  "studies": [
+    {
+      "title": "Acute evaluation of sport-related concussion and implications for the Sport Concussion Assessment Tool (SCAT6) for adults, adolescents and children: a systematic review.",
+      "year": "2023",
+      "doi": "10.1136/bjsports-2022-106661",
+      "pmid": "37316213",
+      "journal": "British journal of sports medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Online Exercise Programming Among Older Adults: A Scoping Review.",
+      "year": "2023",
+      "doi": "10.1123/japa.2021-0417",
+      "pmid": "36087933",
+      "journal": "Journal of aging and physical activity",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.61,
+      "composite_score": 0.5083
+    },
+    {
+      "title": "Fitness assessment in acute myeloid leukemia: recommendations from an expert panel on behalf of the European LeukemiaNet.",
+      "year": "2025",
+      "doi": "10.1182/bloodadvances.2024013744",
+      "pmid": "39913928",
+      "journal": "Blood advances",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0769,
+      "quality_score": 0.53,
+      "composite_score": 0.4881
+    },
+    {
+      "title": "Effect of Hb conformational changes on oxygen transport physiology.",
+      "year": "2024",
+      "doi": "10.11817/j.issn.1672-7347.2024.230199",
+      "pmid": "38970521",
+      "journal": "Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "SIRT1 in acute lung injury: unraveling its pleiotropic functions and therapeutic development prospects.",
+      "year": "2025",
+      "doi": "10.1007/s11010-024-05111-z",
+      "pmid": "39269678",
+      "journal": "Molecular and cellular biochemistry",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.465
+    }
+  ]
+}

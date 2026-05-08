@@ -1,0 +1,66 @@
+{
+  "note_title": "K3. Psychological Aspects of Elite Performance",
+  "cached_at": "2026-05-07T21:27:41.089917",
+  "studies": [
+    {
+      "title": "A Review of Carbohydrate Supplementation Approaches and Strategies for Optimizing Performance in Elite Long-Distance Endurance.",
+      "year": "2025",
+      "doi": "10.3390/nu17050918",
+      "pmid": "40077786",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1667,
+      "quality_score": 0.85,
+      "composite_score": 0.675
+    },
+    {
+      "title": "Work Demands, Responses, and Coping Strategies for Staff in High-Performance Sport: A Scoping Review.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02324-0",
+      "pmid": "41028555",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Effects of Long-Haul Travel on Recovery and Performance in Elite Athletes: A Systematic Review.",
+      "year": "2022",
+      "doi": "10.1519/JSC.0000000000004021",
+      "pmid": "36287181",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1818,
+      "quality_score": 0.85,
+      "composite_score": 0.6095
+    },
+    {
+      "title": "Making a Splash: A Closer Look at Early Specialization in Competitive Diving.",
+      "year": "2024",
+      "doi": "10.1249/JSR.0000000000001206",
+      "pmid": "39499006",
+      "journal": "Current sports medicine reports",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Consensus Statements-Optimizing Performance of the Elite Athlete.",
+      "year": "2025",
+      "doi": "10.1111/sms.70112",
+      "pmid": "40781883",
+      "journal": "Scandinavian journal of medicine & science in sports",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2857,
+      "quality_score": 0.61,
+      "composite_score": 0.5907
+    }
+  ]
+}

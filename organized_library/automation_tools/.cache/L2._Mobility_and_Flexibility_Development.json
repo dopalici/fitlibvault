@@ -1,0 +1,66 @@
+{
+  "note_title": "L2. Mobility and Flexibility Development",
+  "cached_at": "2026-05-07T21:31:55.949035",
+  "studies": [
+    {
+      "title": "There is more to the knee joint than just the quadriceps: A systematic review with meta-analysis and evidence gap map of hamstring strength, flexibility, and morphology in individuals with gradual-onset knee disorders.",
+      "year": "2024",
+      "doi": "10.1016/j.jshs.2023.08.004",
+      "pmid": "37669706",
+      "journal": "Journal of sport and health science",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0455,
+      "quality_score": 0.76,
+      "composite_score": 0.5636
+    },
+    {
+      "title": "Does the addition of manual therapy to exercise therapy improve pain and disability outcomes in chronic low back pain: A systematic review.",
+      "year": "2025",
+      "doi": "10.1016/j.jbmt.2024.12.004",
+      "pmid": "40325660",
+      "journal": "Journal of bodywork and movement therapies",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    },
+    {
+      "title": "Reasons for disengagement from antiretroviral care in the era of \"Treat All\" in low- or middle-income countries: a systematic review.",
+      "year": "2024",
+      "doi": "10.1002/jia2.26230",
+      "pmid": "38494657",
+      "journal": "Journal of the International AIDS Society",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "Neuroplastic periodization in tendinopathy.",
+      "year": "2025",
+      "doi": "10.1093/bmb/ldaf006",
+      "pmid": "40455651",
+      "journal": "British medical bulletin",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.465
+    },
+    {
+      "title": "A review evaluating the design and standardisation of rollators and smart-walkers to improve future products.",
+      "year": "2025",
+      "doi": "10.1080/17483107.2025.2547040",
+      "pmid": "40839541",
+      "journal": "Disability and rehabilitation. Assistive technology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.53,
+      "composite_score": 0.465
+    }
+  ]
+}

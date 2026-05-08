@@ -1,0 +1,66 @@
+{
+  "note_title": "X11.2 Maximum Velocity Mechanics",
+  "cached_at": "2026-05-08T16:00:01.182364",
+  "studies": [
+    {
+      "title": "Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1007/s40279-023-01825-0",
+      "pmid": "36906633",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Face Masks at the Gymnasium: Physiological Responses and Mechanical Performance Are Not Compromised by Wearing Surgical or Filtering Facepiece 2 Masks in Healthy Subjects.",
+      "year": "2023",
+      "doi": "10.1519/JSC.0000000000004401",
+      "pmid": "37347944",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.52
+    },
+    {
+      "title": "Mechanical Characteristics of Heavy vs. Light Load Ballistic Resistance Training in Older Adults.",
+      "year": "2022",
+      "doi": "10.1519/JSC.0000000000003826",
+      "pmid": "32947572",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.48
+    },
+    {
+      "title": "Effects of physical activity and exercise-based interventions in young adults with autism spectrum disorder: A systematic review.",
+      "year": "2024",
+      "doi": "10.1177/13623613231169058",
+      "pmid": "37128159",
+      "journal": "Autism : the international journal of research and practice",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "The shoulder joint complex in the throwing motion.",
+      "year": "2024",
+      "doi": "10.1016/j.jse.2023.06.031",
+      "pmid": "37499784",
+      "journal": "Journal of shoulder and elbow surgery",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

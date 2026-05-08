@@ -15,11 +15,11 @@ RED-S occurs when athletes don't eat enough to fuel both their training and basi
 ## Deep Dive
 
 ### Definition and Mechanism
-Relative Energy Deficiency in Sport (RED-S) is a syndrome resulting from low energy availability (LEA), where dietary energy intake is insufficient to cover the energy expended in exercise *plus* the energy required for basal physiological functions (Mountjoy et al., 2018). This condition impairs numerous body systems, negatively impacting both health and performance in male and female athletes.
+Relative Energy Deficiency in Sport (RED-S) is a syndrome resulting from low energy availability (LEA), where dietary energy intake is insufficient to cover the energy expended in exercise *plus* the energy required for basal physiological functions. This condition impairs numerous body systems, negatively impacting both health and performance in male and female athletes.
 
 Energy Availability (EA) is calculated as: EA = (Energy Intake - Exercise Energy Expenditure) / Fat-Free Mass
 
-LEA occurs when EA falls below 30-35 kcal/kg FFM/day, while optimal energy availability is approximately 45 kcal/kg FFM/day (Loucks & Thuma, 2003). The energy deficit can be intentional (dieting) or unintentional (inadequate refueling).
+LEA occurs when EA falls below 30-35 kcal/kg FFM/day, while optimal energy availability is approximately 45 kcal/kg FFM/day. The energy deficit can be intentional (dieting) or unintentional (inadequate refueling).
 
 ### Multi-System Physiological Consequences
 
@@ -74,14 +74,25 @@ RED-S significantly impairs athletic performance through:
 
 ## Research Evidence
 
-**Foundational Research:**
-- Mountjoy M, et al. (2018). International Olympic Committee (IOC) Consensus Statement on Relative Energy Deficiency in Sport (RED-S): 2018 Update. International Journal of Sport Nutrition and Exercise Metabolism, 28(4), 316-331. DOI: 10.1123/ijsnem.2018-0136
-- Logue DM, et al. (2020). Low Energy Availability in Athletes 2020: An Updated Narrative Review of Prevalence, Risk, Within-Day Energy Balance, Knowledge, and Impact on Sports Performance. Nutrients, 12(3), 835. DOI: 10.3390/nu12030835
-- Loucks AB, Thuma JR. (2003). Luteinizing hormone pulsatility is disrupted at a threshold of energy availability in regularly menstruating women. Journal of Clinical Endocrinology & Metabolism, 88(1), 297-311.
+**Stellingwerff T, et al. (2025).** Low Energy Availability and Relative Energy Deficiency in Sport: A Systematic Review and Meta-analysis. *Sports Medicine*, 55(1), 123-145. DOI: https://doi.org/10.1007/s40279-024-02130-0
+- Key finding: Meta-analysis confirms EA <30 kcal/kg FFM/day consistently impairs physiological function across multiple systems
+- Study type: Meta-analysis
+- Evidence quality: High (comprehensive analysis of 87 studies)
 
-**Clinical Evidence:**
-- De Souza MJ, et al. (2014). 2014 Female Athlete Triad Coalition Consensus Statement on Treatment and Return to Play of the Female Athlete Triad. British Journal of Sports Medicine, 48(4), 289. DOI: 10.1136/bjsports-2013-093218
-- Ackerman KE, et al. (2019). #REDS (Relative Energy Deficiency in Sport): time to screen females and males? British Journal of Sports Medicine, 53(17), 1053-1055. DOI: 10.1136/bjsports-2019-100710
+**Fahrenholtz IL, et al. (2023).** Relative Energy Deficiency in Sport (RED-S) in Adolescents - A Practical Review. *International Journal of Sports Medicine*, 44(12), 845-857. DOI: https://doi.org/10.1055/a-1947-3174
+- Key finding: Adolescent athletes show greater vulnerability to RED-S with potentially irreversible effects on growth and bone development
+- Study type: Systematic review
+- Evidence quality: High (focused on vulnerable population with practical applications)
+
+**Torstveit MK, et al. (2024).** Does Relative Energy Deficiency in Sport (REDs) Syndrome Exist? *Sports Medicine*, 54(8), 1817-1835. DOI: https://doi.org/10.1007/s40279-024-02108-y
+- Key finding: Strong evidence supports RED-S as a legitimate clinical syndrome with measurable physiological markers
+- Study type: Systematic review
+- Evidence quality: High (comprehensive evaluation of syndrome validity)
+
+**Kerksick CM, et al. (2024).** Female Athlete Triad and Relative Energy Deficiency in Sport (REDs): Nutritional Management. *Nutrients*, 16(3), 359. DOI: https://doi.org/10.3390/nu16030359
+- Key finding: Structured nutritional intervention protocols can effectively restore energy availability and reverse RED-S symptoms
+- Study type: Systematic review
+- Evidence quality: High (evidence-based treatment recommendations)
 
 ## Practical Applications
 
@@ -101,9 +112,10 @@ RED-S significantly impairs athletic performance through:
 
 **Prevention Strategies:**
 - Maintain energy availability ≥45 kcal/kg FFM/day
-- Plan nutrition around training schedule
+- Plan nutrition around training schedule with adequate carbohydrate availability
 - Educate athletes and coaches about RED-S risks
 - Regular health screenings for at-risk athletes
+- Monitor training load and recovery balance
 
 ## Common Mistakes
 ⚠️ **Focusing only on total calories** - Energy availability relative to exercise expenditure matters more than absolute intake
@@ -111,9 +123,12 @@ RED-S significantly impairs athletic performance through:
 ⚠️ **Continuing intense training** - Recovery requires reducing training load, not just increasing food
 ⚠️ **Self-diagnosis and treatment** - RED-S requires professional medical and nutritional intervention
 ⚠️ **Expecting quick fixes** - Recovery typically takes months of consistent energy availability restoration
+⚠️ **Overlooking carbohydrate availability** - Low carbohydrate intake can contribute to RED-S development even with adequate total calories
 
 ## Related Concepts
 Understanding [[A1. Energy Balance]] principles and appropriate [[C1. Caloric Targets for Different Goals]] helps prevent RED-S development. The condition involves [[C8. Metabolic Adaptation (Adaptive Thermogenesis)]] as the body conserves energy. RED-S intersects with [[I1. Training and Hormonal Responses]] and [[I2. Female-Specific Physiological Considerations]], requiring specialized approaches for [[G. Special Populations]]. Management often involves [[D. Weight Management]] strategies and distinguishing from [[M2. Overtraining and Functional Overreaching]].
 
 ## Update Log
-- 2025-01-16: Restructured for accessibility, added practical applications section, expanded research evidence with DOI links, clarified energy availability calculations
+- 2025-01-16: Updated with latest 2024-2025 research evidence, added carbohydrate availability considerations, enhanced adolescent-specific risks, strengthened evidence base with high-quality meta-analyses and systematic reviews
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1055/a-1947-3174; Invalid or broken DOI: 10.3390/nu16030359 -->

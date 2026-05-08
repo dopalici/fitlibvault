@@ -1,0 +1,66 @@
+{
+  "note_title": "I1. Training and Hormonal Responses",
+  "cached_at": "2026-05-07T21:10:09.335405",
+  "studies": [
+    {
+      "title": "Menstrual cycle hormones and oral contraceptives: a multimethod systems physiology-based review of their impact on key aspects of female physiology.",
+      "year": "2023",
+      "doi": "10.1152/japplphysiol.00346.2023",
+      "pmid": "37823207",
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "The Biological Basis of Sex Differences in Athletic Performance: Consensus Statement for the American College of Sports Medicine.",
+      "year": "2023",
+      "doi": "10.1249/MSS.0000000000003300",
+      "pmid": "37772882",
+      "journal": "Medicine and science in sports and exercise",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Endocrine responses of the stress system to different types of exercise.",
+      "year": "2023",
+      "doi": "10.1007/s11154-022-09758-1",
+      "pmid": "36242699",
+      "journal": "Reviews in endocrine & metabolic disorders",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.69,
+      "composite_score": 0.5579
+    },
+    {
+      "title": "Is Melatonin the \"Next Vitamin D\"?: A Review of Emerging Science, Clinical Uses, Safety, and Dietary Supplements.",
+      "year": "2022",
+      "doi": "10.3390/nu14193934",
+      "pmid": "36235587",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Semaglutide and walking capacity in people with symptomatic peripheral artery disease and type 2 diabetes (STRIDE): a phase 3b, double-blind, randomised, placebo-controlled trial.",
+      "year": "2025",
+      "doi": "10.1016/S0140-6736(25)00509-4",
+      "pmid": "40169145",
+      "journal": "Lancet (London, England)",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.55
+    }
+  ]
+}

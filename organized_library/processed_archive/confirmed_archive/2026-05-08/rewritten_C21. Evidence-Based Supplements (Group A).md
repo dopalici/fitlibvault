@@ -1,0 +1,140 @@
+### C21-EVIDENCE-BASED-SUPPLEMENTS
+**ID:** C21-EVIDENCE-BASED-SUPPLEMENTS
+**Created:** 2025-04-26 (Updated: 2025-01-10)
+
+## Quick Takeaway
+These supplements have robust scientific evidence for improving exercise performance and are considered safe when used appropriately - including creatine for power, caffeine for endurance, and beta-alanine for sustained high-intensity efforts.
+
+## Key Points
+- **Creatine monohydrate** (3-5g daily) is the gold standard for strength and power athletes
+- **Caffeine** (3-6 mg/kg body weight) enhances both endurance and high-intensity performance
+- **Beta-alanine** requires 4+ weeks of loading (4-6g daily) to improve performance in 1-10 minute efforts
+- **Timing matters** - most work best with specific pre-exercise windows (30-180 minutes)
+- **Individual response varies** - test during training, not competition
+
+## Deep Dive
+
+This category includes supplements with strong scientific backing for efficacy and relative safety in specific sport/exercise contexts, as recognized by major sports nutrition bodies like the ISSN and IOC.
+
+### Creatine Monohydrate
+**Mechanism:** Increases intramuscular phosphocreatine (PCr) stores, enhancing ATP regeneration during short, high-intensity bursts as part of the [[A6. Energy Systems (Detailed)]] phosphocreatine system. Also acts as an osmolyte, drawing water into muscle cells.
+
+**Effects:** Robust evidence shows improved performance in high-intensity, intermittent exercise (strength, power, sprint performance); increases training capacity leading to greater long-term gains in lean mass and strength.
+
+**Dosage:** Loading phase (optional): ~20g/day (e.g., 4 x 5g) for 5-7 days. Maintenance: 3-5g/day.
+
+**Safety:** Extensively studied and considered safe for healthy individuals at recommended doses.
+
+### Caffeine
+**Mechanism:** Central nervous system stimulant (adenosine receptor antagonist); reduces perception of effort (RPE); increases alertness; may enhance calcium release in muscle.
+
+**Effects:** Proven ergogenic aid for endurance performance, high-intensity exercise (including team sports), and potentially strength/power (effect size more variable).
+
+**Dosage:** Effective dose typically 3-6 mg/kg body weight consumed ~60 minutes pre-exercise. Higher doses increase side effect risk (anxiety, insomnia, GI upset) without further performance benefit. Genetics influence response.
+
+### Beta-Alanine
+**Mechanism:** Precursor to muscle carnosine synthesis. Carnosine acts as an intracellular buffer against hydrogen ion (H+) accumulation during intense exercise.
+
+**Effects:** Improves performance in sustained high-intensity exercise lasting ~1-10 minutes by delaying fatigue. Benefits activities limited by acidosis.
+
+**Dosage:** Requires chronic loading: 4-6 g/day (typically split into doses of ≤2g to manage paresthesia - tingling) for at least 4 weeks.
+
+### Sodium Bicarbonate
+**Mechanism:** Extracellular buffer; increases blood bicarbonate levels, enhancing H+ removal from muscle during intense exercise.
+
+**Effects:** Improves performance in short-duration (~1-10 min), high-intensity activities limited by acidosis (e.g., sprints, middle-distance events, repeated high-intensity bouts).
+
+**Dosage:** 0.2-0.4 g/kg body weight consumed 60-180 minutes pre-exercise. High potential for GI distress (bloating, nausea, diarrhea); requires careful individual testing, often using split doses or enteric-coated forms.
+
+### Nitrate (Beetroot Juice and Supplements)
+**Mechanism:** Converted to Nitric Oxide (NO), which improves blood flow, mitochondrial efficiency (reduces oxygen cost of exercise), and muscle contractility.
+
+**Effects:** Improves endurance performance (particularly in events ~4-30 minutes), intermittent high-intensity exercise tolerance. Effects potentially more pronounced in less-trained individuals.
+
+**Dosage:** ~5-9 mmol nitrate (300-600 mg) consumed 2-3 hours pre-exercise. Chronic loading (3-7 days) may also be effective. Beetroot juice is a common source.
+
+### Protein Supplements
+**Mechanism:** Convenient source to help meet daily [[B2. Protein Requirements for Muscle Growth]]. Not inherently superior to high-quality whole food protein.
+
+**Effects:** Supports muscle repair, recovery, and hypertrophy when overall daily protein intake is adequate. Can aid in achieving optimal protein distribution through [[C3. Nutrient Timing]].
+
+**Dosage:** As needed to supplement diet, typically 20-40g per serving.
+
+### Carbohydrate Supplements
+**Mechanism:** Provide exogenous carbohydrate fuel during exercise.
+
+**Effects:** Maintain blood glucose and spare muscle glycogen during prolonged (>60-90 min) or intense exercise, improving endurance performance as detailed in [[C27. Nutrition for Endurance Performance (Carb Loading)]].
+
+**Dosage:** 30-90 g/hour depending on duration/intensity and tolerance, following [[C3. Nutrient Timing]] principles.
+
+### Targeted Deficiency Correction
+Supplements like **Iron** and **Vitamin D** fall into this category when used appropriately under guidance to correct diagnosed deficiencies that could impair performance or health, as covered in [[C6. Micronutrients (Detailed Roles & Considerations)]].
+
+## Research Evidence
+
+**Kreider, R.B., et al. (2017).** International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. *Journal of the International Society of Sports Nutrition*, 14, 18. DOI: https://doi.org/10.1186/s12970-017-0173-z
+- Key finding: Creatine monohydrate supplementation (3-5g/day) consistently improves high-intensity, intermittent exercise performance and training adaptations
+- Study type: Systematic review/Position statement
+- Evidence quality: High (comprehensive review of decades of research)
+
+**Guest, N.S., et al. (2021).** International society of sports nutrition position stand: caffeine and exercise performance. *Journal of the International Society of Sports Nutrition*, 18(1), 1. DOI: https://doi.org/10.1186/s12970-020-00383-4
+- Key finding: Caffeine (3-6 mg/kg) enhances endurance performance, high-intensity exercise, and cognitive function with minimal side effects
+- Study type: Systematic review/Position statement  
+- Evidence quality: High (extensive meta-analytic evidence base)
+
+**Trexler, E.T., et al. (2015).** International society of sports nutrition position stand: Beta-Alanine. *Journal of the International Society of Sports Nutrition*, 12, 30. DOI: https://doi.org/10.1186/s12970-015-0090-y
+- Key finding: Beta-alanine supplementation (4-6g/day for ≥4 weeks) improves performance in 1-4 minute high-intensity exercise bouts
+- Study type: Systematic review/Position statement
+- Evidence quality: High (consistent findings across multiple studies)
+
+**Maughan, R.J., et al. (2018).** IOC consensus statement: dietary supplements and the high-performance athlete. *British Journal of Sports Medicine*, 52(7), 439-455. DOI: https://doi.org/10.1136/bjsports-2018-099199
+- Key finding: Only a small number of supplements have strong evidence for performance enhancement, with creatine, caffeine, and beta-alanine having the strongest support
+- Study type: Consensus statement
+- Evidence quality: High (International Olympic Committee expert panel review)
+
+**Jones, A.M., et al. (2021).** Dietary Nitrate and Physical Performance. *Annual Review of Nutrition*, 41, 305-338. DOI: https://doi.org/10.1146/annurev-nutr-082018-124043
+- Key finding: Nitrate supplementation (5-9 mmol) reduces oxygen cost of exercise and improves performance in events lasting 4-30 minutes
+- Study type: Comprehensive review
+- Evidence quality: High (systematic analysis of mechanistic and performance studies)
+
+## Practical Applications
+
+**For Strength/Power Athletes:**
+- Creatine: 3-5g daily with any meal (timing doesn't matter)
+- Caffeine: 200-400mg (for 70kg athlete) 45-60 minutes before training
+
+**For Endurance Athletes:**
+- Caffeine: Same dosing as above
+- Nitrate: 500ml beetroot juice 2-3 hours pre-competition
+- Carbohydrate: 60-90g/hour during events >90 minutes
+
+**For Team Sport Athletes:**
+- Beta-alanine: 1.5-2g taken 4x daily for 4+ weeks
+- Creatine: Standard 3-5g daily protocol
+- Caffeine: Pre-game or halftime supplementation
+
+**General Implementation:**
+- Start supplementation during training phases, never during competition
+- Test individual tolerance for GI-sensitive supplements (sodium bicarbonate, nitrate)
+- Maintain consistent timing and dosing for chronic supplements (creatine, beta-alanine)
+
+## Common Mistakes
+
+⚠️ **Expecting immediate results** - Beta-alanine and creatine require weeks of consistent use to saturate muscle stores
+
+⚠️ **Overdosing caffeine** - More than 6mg/kg increases side effects without additional performance benefits
+
+⚠️ **Ignoring individual response** - Genetic variations significantly affect caffeine metabolism and supplement effectiveness
+
+⚠️ **Poor timing** - Taking sodium bicarbonate too close to exercise increases GI distress risk
+
+⚠️ **Replacing food with supplements** - Protein powders and other supplements should complement, not replace, a well-planned diet
+
+## Related Concepts
+
+Understanding supplement evidence quality through the [[C20. Supplements (Overview & Framework)]] helps contextualize these recommendations. Compare with [[C22. Supplements with LimitedMixed Evidence (Group B)]] to understand why these specific supplements are prioritized. Always consider [[C23. Supplement Safety, Regulation, and Quality Control]] when selecting products. These supplements work by enhancing the [[A6. Energy Systems (Detailed)]] and supporting adequate [[B2. Protein Requirements for Muscle Growth]] and optimal [[C3. Nutrient Timing]]. For sport-specific applications, see [[C27. Nutrition for Endurance Performance (Carb Loading)]] and [[C6. Micronutrients (Detailed Roles & Considerations)]].
+
+## Update Log
+- 2025-01-10: Restructured for accessibility, added practical applications and common mistakes, enhanced research citations with DOIs, clarified dosing protocols and timing recommendations
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1186/s12970-017-0173-z; Invalid or broken DOI: 10.1186/s12970-020-00383-4; Invalid or broken DOI: 10.1186/s12970-015-0090-y; Invalid or broken DOI: 10.1136/bjsports-2018-099199; Invalid or broken DOI: 10.1146/annurev-nutr-082018-124043 -->

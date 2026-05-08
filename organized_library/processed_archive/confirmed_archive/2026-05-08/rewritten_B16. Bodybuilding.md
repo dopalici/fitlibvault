@@ -1,0 +1,106 @@
+### B16. Bodybuilding
+**ID:** B16-BODYBUILDING
+**Created:** 2025-04-23 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Bodybuilding focuses on maximizing muscle size and definition through high-volume training (6-15+ reps at 60-85% 1RM), strategic nutrition phases (bulking and cutting), and competition-specific practices like posing.
+
+## Key Points
+- Train with moderate loads (60-85% 1RM) for 6-15+ reps, emphasizing volume over maximum strength
+- Use body part splits or push/pull/legs routines with both compound and isolation exercises
+- Cycle between bulking phases (caloric surplus for muscle gain) and cutting phases (caloric deficit for fat loss)
+- Practice posing regularly if competing - it's a skill that requires dedicated training time
+- Focus on mind-muscle connection and training close to muscular failure for hypertrophy
+
+## Deep Dive
+
+Bodybuilding is a discipline focused primarily on developing muscular size (hypertrophy), symmetry, and definition (low body fat) for aesthetic competition or personal goals. Unlike powerlifting or weightlifting, success is measured by visual appearance rather than performance metrics.
+
+### Training Methodology
+
+**Hypertrophy-Focused Approach**
+The primary goal is maximizing muscle growth through [[B3. Hypertrophy Training Principles]]. Training emphasizes three key mechanisms: mechanical tension, metabolic stress, and potentially muscle damage. This approach differs from strength training by prioritizing volume accumulation over maximal load progression.
+
+**Volume and Intensity Parameters**
+Bodybuilding generally utilizes higher training volumes compared to strength-focused training [[B5. Training Volume and Frequency]]. The typical approach involves moderate loads (60-85% 1RM) for moderate repetition ranges (6-15+ reps), often training close to muscular failure to maximize hypertrophic stimulus. Weekly volume typically ranges from 12-20+ sets per muscle group.
+
+**Exercise Selection and Programming**
+- **Compound movements** form the foundation (squats, deadlifts, bench press, rows) for overall mass development
+- **Isolation exercises** target specific muscle groups for complete development and aesthetic refinement
+- **Training splits** are commonly employed (body part splits, push/pull/legs, upper/lower) to allow sufficient volume and recovery per muscle group
+- **Exercise variety** incorporates different angles and movement patterns to stimulate all muscle fibers and prevent adaptation plateaus
+
+### Nutritional Strategies
+
+**Periodized Nutrition Phases**
+Bodybuilders typically cycle between distinct nutritional phases to optimize body composition:
+- **Bulking phases:** Caloric surplus (200-500 calories above maintenance) to maximize muscle growth [[C25. Nutrition for Muscle Gain (Hypertrophy)]]
+- **Cutting phases:** Caloric deficit (300-500 calories below maintenance) to reduce body fat while preserving muscle [[C26. Nutrition for Fat Loss]]
+
+**Protein Requirements**
+Very high protein intake is commonly utilized (1.6-2.2g/kg bodyweight or higher), often exceeding general recommendations to ensure maximum muscle protein synthesis [[B2. Protein Requirements for Muscle Growth]] and muscle preservation during cutting phases.
+
+**Competition Preparation**
+Pre-competition strategies include specific dietary manipulations, water and electrolyte management, and carbohydrate loading to achieve maximum muscle definition and fullness. This typically involves a 12-20 week structured approach with gradual calorie reduction.
+
+### Posing and Presentation
+
+**Technical Skill Development**
+Posing is a distinct skill requiring dedicated practice. Competitors must master mandatory poses (front double bicep, front lat spread, side chest, back double bicep, rear lat spread, side tricep, abdominals and thighs) and develop individual routines that showcase their physique's strengths.
+
+## Research Evidence
+
+**Schoenfeld, B.J. (2010).** The mechanisms of muscle hypertrophy and their application to resistance training. *Journal of Strength and Conditioning Research*, 24(10), 2857-2872. DOI: https://doi.org/10.1519/JSC.0b013e3181e840f3
+- Key finding: Identified mechanical tension, metabolic stress, and muscle damage as primary mechanisms driving hypertrophy
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of hypertrophy mechanisms)
+
+**Helms, E.R., et al. (2014).** Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. *Journal of the International Society of Sports Nutrition*, 11, 20. DOI: https://doi.org/10.1186/1550-2783-11-20
+- Key finding: Structured 2-4 month contest preparation with gradual calorie reduction and high protein intake preserves muscle mass during fat loss
+- Study type: Systematic review
+- Evidence quality: High (evidence-based guidelines for competition preparation)
+
+**Hackett, D.A., Johnson, N.A., & Chow, C.M. (2013).** Training practices and ergogenic aids used by male bodybuilders. *Journal of Strength and Conditioning Research*, 27(6), 1609-1617. DOI: https://doi.org/10.1519/JSC.0b013e318271272a
+- Key finding: Bodybuilders typically train 5-6 days per week with moderate loads (67-85% 1RM) and higher volume than strength athletes
+- Study type: Observational
+- Evidence quality: Medium (descriptive analysis of training practices)
+
+## Practical Applications
+
+**Training Structure Example:**
+- 4-6 training days per week with split routines
+- 12-20+ sets per muscle group per week
+- 6-15 reps per set at 60-85% 1RM
+- 2-3 minutes rest between sets for compound movements
+- 1-2 minutes rest for isolation exercises
+- Train within 1-3 reps of failure for most sets
+
+**Nutrition Implementation:**
+- Bulking: 200-500 calorie surplus with adequate protein intake [[C1. Caloric Targets for Different Goals]]
+- Cutting: 300-500 calorie deficit while maintaining high protein (2.0-2.5g/kg during deficit)
+- Meal timing: Distribute protein intake throughout the day (20-40g per meal)
+- Contest prep: Begin 12-20 weeks out with gradual calorie reduction
+
+**Posing Practice Schedule:**
+- Off-season: 2-3 posing sessions per week (15-20 minutes)
+- Contest prep: Daily posing sessions (30-45 minutes)
+- Focus on mandatory poses first, then individual routine development
+- Practice under stage lights when possible during final weeks
+
+## Common Mistakes
+
+⚠️ **Neglecting compound movements** - Isolation exercises alone won't build maximum muscle mass; compounds provide the foundation
+⚠️ **Extreme bulking or cutting** - Excessive calorie swings (>500 calories) lead to unnecessary fat gain or muscle loss
+⚠️ **Ignoring proper form** - Poor lifting mechanics [[A18. Proper Lifting Mechanics]] increase injury risk and reduce muscle activation
+⚠️ **Inadequate recovery** - Training the same muscle groups on consecutive days without sufficient recovery (48-72 hours)
+⚠️ **Last-minute contest prep** - Rushing preparation (less than 12 weeks) leads to muscle loss and poor conditioning
+⚠️ **Neglecting posing practice** - Treating posing as an afterthought rather than a skill requiring dedicated training
+
+## Related Concepts
+
+Understanding optimal training volume and frequency [[B5. Training Volume and Frequency]] is crucial for program design. Proper nutrition planning requires knowledge of caloric targets for different goals [[C1. Caloric Targets for Different Goals]] and specific nutritional strategies for muscle gain [[C25. Nutrition for Muscle Gain (Hypertrophy)]] and fat loss [[C26. Nutrition for Fat Loss]]. Success requires integrated programming considerations [[O1. Integrated Programming Considerations]] that balance training, nutrition, and recovery demands. Proper lifting mechanics [[A18. Proper Lifting Mechanics]] ensure safe and effective training execution.
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical applications and common mistakes, enhanced research citations with DOI links, expanded posing section and training parameters
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1519/JSC.0b013e3181e840f3; Invalid or broken DOI: 10.1186/1550-2783-11-20; Invalid or broken DOI: 10.1519/JSC.0b013e318271272a -->

@@ -1,0 +1,66 @@
+{
+  "note_title": "N2. Training for Longevity (Healthspan & Lifespan)",
+  "cached_at": "2026-05-07T21:40:05.345787",
+  "studies": [
+    {
+      "title": "Genomics yields biological and phenotypic insights into bipolar disorder.",
+      "year": "2025",
+      "doi": "10.1038/s41586-024-08468-9",
+      "pmid": "39843750",
+      "journal": "Nature",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.7
+    },
+    {
+      "title": "Much Ado About Zone 2: A Narrative Review Assessing the Efficacy of Zone 2 Training for Improving Mitochondrial Capacity and Cardiorespiratory Fitness in the General Population.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02261-y",
+      "pmid": "40560504",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Resistance training effectiveness on body composition and body weight outcomes in individuals with overweight and obesity across the lifespan: A systematic review and meta-analysis.",
+      "year": "2022",
+      "doi": "10.1111/obr.13428",
+      "pmid": "35191588",
+      "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0625,
+      "quality_score": 0.84,
+      "composite_score": 0.5687
+    },
+    {
+      "title": "Global consensus on optimal exercise recommendations for enhancing healthy longevity in older adults (ICFSR).",
+      "year": "2025",
+      "doi": "10.1016/j.jnha.2024.100401",
+      "pmid": "39743381",
+      "journal": "The journal of nutrition, health & aging",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0833,
+      "quality_score": 0.61,
+      "composite_score": 0.53
+    },
+    {
+      "title": "Immunology of Aging: the Birth of Inflammaging.",
+      "year": "2023",
+      "doi": "10.1007/s12016-021-08899-6",
+      "pmid": "34536213",
+      "journal": "Clinical reviews in allergy & immunology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    }
+  ]
+}

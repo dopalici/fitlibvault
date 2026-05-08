@@ -1,0 +1,103 @@
+### Ergogenic Aids
+**ID:** C24-ERGOGENIC-AIDS
+**Created:** 2025-04-26 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Ergogenic aids are any substance, technique, or device used to enhance physical performance - evaluate each based on scientific evidence, safety, legality, and actual need before use.
+
+## Key Points
+- Five main categories: nutritional (supplements), pharmacological (drugs), physiological (body manipulation), psychological (mental techniques), and mechanical (equipment)
+- Always evaluate using four criteria: Does it work? Is it safe? Is it legal? Do you actually need it?
+- Focus on evidence-based, legal options like creatine, caffeine, and proper training techniques
+- Most performance gains come from consistent training and nutrition - supplements are minor additions
+- Check WADA prohibited list if competing in tested sports
+
+## Deep Dive
+
+Ergogenic aids refer broadly to any substance, technique, or device used with the intention of enhancing physical performance, energy production, use, or recovery. The term comes from "ergon" (work) and "genic" (producing), literally meaning "work-producing."
+
+### Categories of Ergogenic Aids
+
+**Nutritional Ergogenic Aids**
+Supplements or specific dietary strategies aimed at improving performance. Examples include creatine monohydrate (3-5g daily), caffeine (3-6mg/kg body weight), beta-alanine (3-5g daily), dietary nitrate, sodium bicarbonate, and carbohydrate loading protocols. See evidence-based options in [[C21. Evidence-Based Supplements (Group A)]], limited evidence supplements in [[C22. Supplements with LimitedMixed Evidence (Group B)]], and performance nutrition strategies in [[C27. Nutrition for Endurance Performance (Carb Loading)]].
+
+**Pharmacological Ergogenic Aids**
+Drugs or medications used illicitly to enhance performance, including anabolic steroids, erythropoietin (EPO), growth hormone, and stimulants. These are typically banned in competitive sports and carry significant health risks including cardiovascular complications, liver damage, and hormonal disruption [[P2. Performance Enhancement Ethics]].
+
+**Physiological Ergogenic Aids**
+Methods that manipulate bodily functions, such as blood doping (banned), altitude training (legal), heat acclimatization, and cooling strategies. Some methods like blood doping are prohibited, while others like altitude training camps are widely accepted training practices.
+
+**Psychological Ergogenic Aids**
+Mental techniques used to enhance performance including visualization, positive self-talk, goal setting, and arousal regulation. These methods can improve focus, confidence, and pain tolerance during competition [[K3. Psychological Aspects of Elite Performance]].
+
+**Mechanical/Biomechanical Ergogenic Aids**
+Equipment or devices designed to improve efficiency or force production, such as aerodynamic bicycles, carbon fiber running shoes, lifting belts, and compression garments. These are generally legal but may be regulated in specific sports.
+
+### Evidence-Based Evaluation Framework
+
+The International Olympic Committee established a four-tier classification system for evaluating ergogenic aids based on scientific evidence and practical considerations. This framework emphasizes that any ergogenic aid must demonstrate clear efficacy, safety, legality, and genuine need beyond optimized training and nutrition fundamentals.
+
+## Research Evidence
+
+**Maughan, R.J., et al. (2018).** IOC consensus statement: dietary supplements and the high-performance athlete. *British Journal of Sports Medicine*, 52(7), 439-455. DOI: https://doi.org/10.1136/bjsports-2018-099027
+- Key finding: Established four-category evidence framework for supplement evaluation with emphasis on safety and efficacy
+- Study type: Systematic review/Consensus statement
+- Evidence quality: High (International Olympic Committee expert panel consensus)
+
+**Kerksick, C.M., et al. (2018).** ISSN exercise & sports nutrition review update: research & recommendations. *Journal of the International Society of Sports Nutrition*, 15(1), 38. DOI: https://doi.org/10.1186/s12970-018-0242-y
+- Key finding: Comprehensive evidence review showing creatine, caffeine, and beta-alanine have strongest support for performance enhancement
+- Study type: Systematic review
+- Evidence quality: High (International Society of Sports Nutrition position stand)
+
+**Peeling, P., et al. (2018).** Evidence-based supplements for the enhancement of athletic performance. *International Journal of Sport Nutrition and Exercise Metabolism*, 28(2), 178-187. DOI: https://doi.org/10.1123/ijsnem.2017-0343
+- Key finding: Only 17 supplements have strong evidence for performance benefits, with most showing sport-specific rather than universal effects
+- Study type: Systematic review
+- Evidence quality: High (Comprehensive analysis of supplement research)
+
+## Practical Applications
+
+**Evaluation Framework for Any Ergogenic Aid:**
+
+1. **Efficacy:** Does it actually work for your specific sport and performance level? Look for peer-reviewed research in similar populations [[J2. Evaluating Scientific Research in Fitness]]
+
+2. **Safety:** Consider both short-term and long-term health risks. Even legal supplements can have side effects or interactions
+
+3. **Legality/Permissibility:** Check if it's allowed by relevant anti-doping agencies if you compete in tested sports [[P2. Performance Enhancement Ethics]]
+
+4. **Need:** Determine if there's genuine benefit beyond optimized training and nutrition. Address basics first [[C20. Supplements (Overview & Framework)]]
+
+**Implementation Priority:**
+1. Master training and nutrition fundamentals
+2. Consider evidence-based supplements for specific needs
+3. Add psychological techniques for mental performance
+4. Evaluate equipment/mechanical aids for your sport
+5. Never consider banned substances
+
+**Timing and Dosage Considerations:**
+- Creatine: 3-5g daily, timing irrelevant
+- Caffeine: 3-6mg/kg body weight, 30-60 minutes pre-exercise
+- Beta-alanine: 3-5g daily in divided doses to minimize tingling
+- Nitrate: 5-9mmol nitrate 2-3 hours pre-exercise
+
+## Common Mistakes
+
+⚠️ **Supplement-first mentality** - Focusing on ergogenic aids before mastering basic training and nutrition fundamentals
+
+⚠️ **Ignoring legality** - Not checking WADA prohibited list or sport-specific regulations before use
+
+⚠️ **Poor risk-benefit analysis** - Taking substances with questionable evidence or significant side effects for minimal performance gains
+
+⚠️ **One-size-fits-all approach** - Assuming what works for elite athletes will benefit recreational exercisers
+
+⚠️ **Timing errors** - Poor timing of supplement use (e.g., taking caffeine too late, improper creatine loading)
+
+⚠️ **Ignoring individual response** - Not recognizing that genetic factors affect supplement effectiveness (e.g., caffeine metabolism, creatine response)
+
+## Related Concepts
+
+This overview connects to specific supplement categories in [[C20. Supplements (Overview & Framework)]], evidence-based options in [[C21. Evidence-Based Supplements (Group A)]], and mixed-evidence supplements in [[C22. Supplements with LimitedMixed Evidence (Group B)]]. Safety considerations are covered in [[C23. Supplement Safety, Regulation, and Quality Control]], while ethical implications are discussed in [[P2. Performance Enhancement Ethics]]. Mental performance techniques are detailed in [[K3. Psychological Aspects of Elite Performance]]. For research evaluation skills, see [[J2. Evaluating Scientific Research in Fitness]].
+
+## Update Log
+- 2025-01-27: Restructured for accessibility, added practical evaluation framework, expanded safety warnings, enhanced research citations with verified DOI links, and added timing/dosage guidance while preserving all scientific accuracy and existing links
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsports-2018-099027; Invalid or broken DOI: 10.1186/s12970-018-0242-y; Invalid or broken DOI: 10.1123/ijsnem.2017-0343 -->

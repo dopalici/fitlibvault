@@ -1,0 +1,66 @@
+{
+  "note_title": "Future Testing Technologies",
+  "cached_at": "2026-05-07T20:52:45.355401",
+  "studies": [
+    {
+      "title": "Effects of virtual reality rehabilitation after spinal cord injury: a systematic review and meta-analysis.",
+      "year": "2024",
+      "doi": "10.1186/s12984-024-01492-w",
+      "pmid": "39468617",
+      "journal": "Journal of neuroengineering and rehabilitation",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Liquid biopsies: the future of cancer early detection.",
+      "year": "2023",
+      "doi": "10.1186/s12967-023-03960-8",
+      "pmid": "36774504",
+      "journal": "Journal of translational medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.125,
+      "quality_score": 0.61,
+      "composite_score": 0.5125
+    },
+    {
+      "title": "Frequency of food allergy in Europe: An updated systematic review and meta-analysis.",
+      "year": "2023",
+      "doi": "10.1111/all.15560",
+      "pmid": "36271775",
+      "journal": "Allergy",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.51
+    },
+    {
+      "title": "Antidepressants for pain management in adults with chronic pain: a network meta-analysis.",
+      "year": "2024",
+      "doi": "10.3310/MKRT2948",
+      "pmid": "39367772",
+      "journal": "Health technology assessment (Winchester, England)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.51
+    },
+    {
+      "title": "Evidence of rTMS for Motor or Cognitive Stroke Recovery: Hype or Hope?",
+      "year": "2023",
+      "doi": "10.1161/STROKEAHA.123.043159",
+      "pmid": "37747964",
+      "journal": "Stroke",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.51
+    }
+  ]
+}

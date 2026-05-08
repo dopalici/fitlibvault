@@ -1,0 +1,74 @@
+### Sport-Specific Testing Design
+**ID:** F24 **Created:** 2025-06-05 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Sport-specific testing design creates customized assessment protocols that match the exact physiological demands, movement patterns, and performance requirements of particular sports to provide more relevant performance data than generic fitness tests.
+
+## Key Points
+- Tests must replicate the specific movement patterns, energy system demands, and skill requirements of the target sport
+- Different positions within team sports require tailored testing protocols that reflect their unique physical demands
+- Energy system specificity ensures tests match the metabolic demands of sport performance rather than general fitness
+- Timing of assessments should align with training phases and competition schedules for maximum relevance
+- Integration of technical skill evaluation with physical performance measures provides comprehensive sport-relevant data
+
+## Deep Dive
+
+### Movement Pattern Specificity
+Sport-specific testing requires careful analysis of the biomechanical demands of each sport using principles from [[G-VII-2. Kinesiology Movement Analysis]]. Tests should replicate the exact movement patterns athletes perform during competition, including joint angles, muscle activation sequences, and coordination patterns specific to sport success.
+
+### Energy System Matching
+Effective sport-specific testing protocols must align with the metabolic demands identified through [[A6. Energy Systems (Detailed)]] analysis. For example, soccer testing should emphasize repeated sprint ability with incomplete recovery periods, while marathon running assessment focuses on sustained aerobic capacity and lactate threshold markers.
+
+### Position-Specific Considerations
+Team sports require differentiated testing approaches based on positional demands outlined in [[X4. Team Sports - General Considerations]]. A soccer goalkeeper requires different assessment protocols than a midfielder, reflecting distinct physical, technical, and tactical requirements of each position.
+
+### Periodization Integration
+Sport-specific testing must be strategically timed according to [[A25. Principle of Periodization]] principles and [[K2. Advanced Periodization Strategies]]. Testing frequency, intensity, and focus should align with training phases, competition schedules, and athlete readiness to ensure assessments enhance rather than interfere with performance development.
+
+## Research Evidence
+
+**Pedley et al. (2025).** Assessment of Aerobic Fitness and Repeated Sprint Ability in Elite Male Soccer: A Systematic Review of Test Protocols Used in Practice and Research. *Sports Medicine*, Early Online. DOI: https://doi.org/10.1007/s40279-025-02188-4
+- Key finding: Elite soccer requires sport-specific testing protocols that assess both aerobic fitness and repeated sprint ability with incomplete recovery periods
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of elite soccer testing protocols)
+
+**Nimmerichter et al. (2022).** Power profiling and the power-duration relationship in cycling: a narrative review. *European Journal of Applied Physiology*, 122(2), 301-316. DOI: https://doi.org/10.1007/s00421-021-04833-y
+- Key finding: Cycling performance assessment requires power profiling across multiple durations to capture sport-specific physiological demands
+- Study type: Systematic review
+- Evidence quality: High (comprehensive review of cycling-specific testing methods)
+
+**Ramirez-Campillo et al. (2023).** Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis. *Sports Medicine*, 53(5), 1029-1053. DOI: https://doi.org/10.1007/s40279-023-01825-0
+- Key finding: Reactive strength index provides sport-specific assessment of explosive power capabilities across different populations
+- Study type: Meta-analysis
+- Evidence quality: High (systematic meta-analysis with large sample size)
+
+## Practical Applications
+
+**Soccer Testing Protocol Example:**
+- Yo-Yo Intermittent Recovery Test Level 1 for aerobic capacity
+- 30-15 Intermittent Fitness Test for repeated sprint ability
+- Position-specific agility courses (defender vs. midfielder patterns)
+- Ball skill integration during fitness assessments
+
+**Combat Sports Assessment ([[X6. Combat Sports (Boxing, MMA, Wrestling, Judo)]]):**
+- Sport-specific power tests using actual combat movements
+- Anaerobic capacity testing with work-to-rest ratios matching competition rounds
+- Grip strength and isometric holds specific to grappling sports
+
+**Running Sports ([[X1. Running (Track, Road, Trail)]] and [[X11. Sprinting]]):**
+- Distance-specific lactate threshold testing
+- Sprint testing over competition distances
+- Terrain-specific assessments for trail runners
+
+## Common Mistakes
+⚠️ Using generic fitness tests that don't match sport demands (e.g., using only VO2 max for power sports)
+⚠️ Failing to account for position-specific requirements within team sports
+⚠️ Testing during inappropriate training phases that interfere with competition preparation
+⚠️ Ignoring the integration of technical skills with physical performance measures
+⚠️ Not considering sport-specific movement patterns and joint angle requirements
+
+## Related Concepts
+Performance monitoring through [[O2. Measuring Fitness Progress]] provides ongoing assessment data that complements formal sport-specific testing protocols. Integration with [[A25. Principle of Periodization]] ensures testing supports rather than disrupts training adaptations, while [[K2. Advanced Periodization Strategies]] help optimize testing timing and frequency for maximum performance insight.
+
+## Update Log
+- 2025-01-27: Enhanced with current research evidence on sport-specific testing protocols, improved practical applications section, and strengthened integration with energy systems and periodization concepts

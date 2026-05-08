@@ -1,0 +1,66 @@
+{
+  "note_title": "IX-2. Injury Prevention Strategies",
+  "cached_at": "2026-05-07T21:12:01.249287",
+  "studies": [
+    {
+      "title": "Prevention strategies and modifiable risk factors for sport-related concussions and head impacts: a systematic review and meta-analysis.",
+      "year": "2023",
+      "doi": "10.1136/bjsports-2022-106656",
+      "pmid": "37316182",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 1.0,
+      "composite_score": 0.7129
+    },
+    {
+      "title": "Evidence-Based Hamstring Injury Prevention and Risk Factor Management: A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+      "year": "2023",
+      "doi": "10.1177/03635465221083998",
+      "pmid": "35384731",
+      "journal": "The American journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1333,
+      "quality_score": 1.0,
+      "composite_score": 0.71
+    },
+    {
+      "title": "Strategies to prevent and manage running-related knee injuries: a systematic review of randomised controlled trials.",
+      "year": "2022",
+      "doi": "10.1136/bjsports-2022-105553",
+      "pmid": "36150753",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0714,
+      "quality_score": 1.0,
+      "composite_score": 0.6514
+    },
+    {
+      "title": "The effect of pressure injury prevention care bundles on pressure injuries in hospital patients: A complex intervention systematic review and meta-analysis.",
+      "year": "2024",
+      "doi": "10.1016/j.ijnurstu.2024.104768",
+      "pmid": "38642429",
+      "journal": "International journal of nursing studies",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.125,
+      "quality_score": 0.76,
+      "composite_score": 0.5875
+    },
+    {
+      "title": "Ankle Injury Prevention Programs for Youth Sports: A Systematic Review and Meta-analysis.",
+      "year": "2024",
+      "doi": "10.1177/19417381241231588",
+      "pmid": "38406839",
+      "journal": "Sports health",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1818,
+      "quality_score": 0.68,
+      "composite_score": 0.5645
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "note_title": "X7. Golf",
+  "cached_at": "2026-05-08T16:10:44.444878",
+  "studies": [
+    {
+      "title": "Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis.",
+      "year": "2023",
+      "doi": "10.1007/s40279-023-01825-0",
+      "pmid": "36906633",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Obstacles to Biosimilar Acceptance and Uptake in Oncology: A Review.",
+      "year": "2024",
+      "doi": "10.1001/jamaoncol.2024.1447",
+      "pmid": "38814582",
+      "journal": "JAMA oncology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "PD-1/PD-L1 inhibitor-induced immune thrombocytopenia: A pharmacovigilance study and systematic review.",
+      "year": "2024",
+      "doi": "10.1016/j.intimp.2024.111606",
+      "pmid": "38359661",
+      "journal": "International immunopharmacology",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "Return to Sport After First Metatarsophalangeal Arthrodesis: A Systematic Review.",
+      "year": "2023",
+      "doi": "10.1177/10711007231198817",
+      "pmid": "37750390",
+      "journal": "Foot & ankle international",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "Monkeypox (hMPXV Infection): A Practical Review.",
+      "year": "2023",
+      "doi": "10.1016/j.amjmed.2022.10.023",
+      "pmid": "36495937",
+      "journal": "The American journal of medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

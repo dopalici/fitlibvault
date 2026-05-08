@@ -1,0 +1,66 @@
+{
+  "note_title": "L3. Balance and Coordination Training",
+  "cached_at": "2026-05-07T21:32:23.970509",
+  "studies": [
+    {
+      "title": "Optimizing Resistance Training for Sprint and Endurance Athletes: Balancing Positive and Negative Adaptations.",
+      "year": "2024",
+      "doi": "10.1007/s40279-024-02110-4",
+      "pmid": "39373864",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "Acute evaluation of sport-related concussion and implications for the Sport Concussion Assessment Tool (SCAT6) for adults, adolescents and children: a systematic review.",
+      "year": "2023",
+      "doi": "10.1136/bjsports-2022-106661",
+      "pmid": "37316213",
+      "journal": "British journal of sports medicine",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.595
+    },
+    {
+      "title": "How robot-assisted gait training affects gait ability, balance and kinematic parameters after stroke: a systematic review and meta-analysis.",
+      "year": "2024",
+      "doi": "10.23736/S1973-9087.24.08354-0",
+      "pmid": "38647534",
+      "journal": "European journal of physical and rehabilitation medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0714,
+      "quality_score": 0.76,
+      "composite_score": 0.5714
+    },
+    {
+      "title": "Nutritional Strategies for Enhancing Performance and Training Adaptation in Weightlifters.",
+      "year": "2024",
+      "doi": "10.3390/ijms26010240",
+      "pmid": "39796095",
+      "journal": "International journal of molecular sciences",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    },
+    {
+      "title": "Strengthening exercise and motor control among football players with ankle sprain: A scoping review.",
+      "year": "2024",
+      "doi": null,
+      "pmid": "38555905",
+      "journal": "The Medical journal of Malaysia",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.475
+    }
+  ]
+}

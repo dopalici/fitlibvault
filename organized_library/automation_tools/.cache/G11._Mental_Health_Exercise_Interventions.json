@@ -1,0 +1,66 @@
+{
+  "note_title": "Mental Health Exercise Interventions",
+  "cached_at": "2026-05-07T20:59:44.549356",
+  "studies": [
+    {
+      "title": "Exercise Interventions for Depression, Anxiety, and Quality of Life in Older Adults With Cancer: A Systematic Review and Meta-Analysis.",
+      "year": "2025",
+      "doi": "10.1001/jamanetworkopen.2024.57859",
+      "pmid": "39903465",
+      "journal": "JAMA network open",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0769,
+      "quality_score": 1.0,
+      "composite_score": 0.7231
+    },
+    {
+      "title": "Exercise as medicine for depressive symptoms? A systematic review and meta-analysis with meta-regression.",
+      "year": "2023",
+      "doi": "10.1136/bjsports-2022-106282",
+      "pmid": "36731907",
+      "journal": "British journal of sports medicine",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "The Effects of Aerobic and Resistance Exercise on Depression and Anxiety: Systematic Review With Meta-Analysis.",
+      "year": "2025",
+      "doi": "10.1111/inm.70054",
+      "pmid": "40432290",
+      "journal": "International journal of mental health nursing",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.58
+    },
+    {
+      "title": "Exercise and Nutrition in the Mental Health of the Older Adult Population: A Randomized Controlled Clinical Trial.",
+      "year": "2024",
+      "doi": "10.3390/nu16111741",
+      "pmid": "38892674",
+      "journal": "Nutrients",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1818,
+      "quality_score": 0.7,
+      "composite_score": 0.5745
+    },
+    {
+      "title": "Effects of an Exercise Program on Cardiometabolic and Mental Health in Children With Overweight or Obesity: A Secondary Analysis of a Randomized Clinical Trial.",
+      "year": "2023",
+      "doi": "10.1001/jamanetworkopen.2023.24839",
+      "pmid": "37498603",
+      "journal": "JAMA network open",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1429,
+      "quality_score": 0.7,
+      "composite_score": 0.5629
+    }
+  ]
+}

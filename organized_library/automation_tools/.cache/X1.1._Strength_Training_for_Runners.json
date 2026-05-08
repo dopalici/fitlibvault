@@ -1,0 +1,66 @@
+{
+  "note_title": "X1.1. Strength Training for Runners",
+  "cached_at": "2026-05-08T15:44:51.568523",
+  "studies": [
+    {
+      "title": "The Effect of Strength Training on Endurance Performance Determinants in Middle- and Long-Distance Endurance Athletes: An Umbrella Review of Systematic Reviews and Meta-Analysis.",
+      "year": "2025",
+      "doi": "10.1519/JSC.0000000000005056",
+      "pmid": "40153564",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0714,
+      "quality_score": 1.0,
+      "composite_score": 0.7214
+    },
+    {
+      "title": "Effect of Strength Training Programs in Middle- and Long-Distance Runners' Economy at Different Running Speeds: A Systematic Review with Meta-analysis.",
+      "year": "2024",
+      "doi": "10.1007/s40279-023-01978-y",
+      "pmid": "38165636",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1538,
+      "quality_score": 1.0,
+      "composite_score": 0.7161
+    },
+    {
+      "title": "The Effects of Creatine Supplementation Combined with Resistance Training on Regional Measures of Muscle Hypertrophy: A Systematic Review with Meta-Analysis.",
+      "year": "2023",
+      "doi": "10.3390/nu15092116",
+      "pmid": "37432300",
+      "journal": "Nutrients",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 1.0,
+      "composite_score": 0.67
+    },
+    {
+      "title": "Strength training for arterial hypertension treatment: a systematic review and meta-analysis of randomized clinical trials.",
+      "year": "2023",
+      "doi": "10.1038/s41598-022-26583-3",
+      "pmid": "36604479",
+      "journal": "Scientific reports",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0909,
+      "quality_score": 0.68,
+      "composite_score": 0.5373
+    },
+    {
+      "title": "Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials.",
+      "year": "2024",
+      "doi": "10.1136/bmj-2023-075847",
+      "pmid": "38355154",
+      "journal": "BMJ (Clinical research ed.)",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.68,
+      "composite_score": 0.51
+    }
+  ]
+}

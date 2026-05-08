@@ -1,0 +1,135 @@
+### C37. Sports Nutrition Periodization
+**ID:** C37-SPORTS-NUTRITION-PERIODIZATION
+**Created:** 2025-06-05 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Sports nutrition periodization systematically aligns nutritional strategies with training phases to optimize performance adaptations, recovery, and competitive outcomes throughout the athletic season.
+
+## Key Points
+- Nutritional periodization matches macronutrient intake and timing to specific training phases (base, build, peak, competition)
+- Carbohydrate periodization involves strategic manipulation of intake to enhance metabolic flexibility and training adaptations
+- Protein requirements remain relatively stable but timing becomes more critical during high-volume training phases
+- Energy availability must be carefully managed to prevent low energy availability (LEA) while supporting training demands
+- Recovery nutrition strategies are periodized to match training load and competition schedules
+
+## Deep Dive
+
+### Theoretical Framework
+Sports nutrition periodization extends the principle of [[A25. Principle of Periodization]] to nutritional planning, creating systematic variation in dietary strategies that complement training stimuli. This approach recognizes that nutritional needs change dramatically across different training phases and competitive periods.
+
+The foundation rests on matching energy and macronutrient availability to training demands while considering the timing of nutritional interventions to maximize [[A36. Structural Adaptations to Training]]. Unlike static nutritional approaches, periodization creates planned variation that supports both immediate performance needs and long-term adaptations.
+
+### Macronutrient Periodization Strategies
+
+**Carbohydrate Periodization**
+Carbohydrate intake varies significantly across training phases, from strategic restriction during base phases to maximize fat oxidation capacity, to high availability during intense training blocks. This approach, known as "train low, compete high," enhances metabolic flexibility while ensuring adequate fuel for high-intensity work.
+
+Base phase carbohydrate intake typically ranges from 3-5 g/kg body weight, increasing to 6-10 g/kg during high-volume training phases. Competition phases may require [[C27. Nutrition for Endurance Performance (Carb Loading)]] protocols reaching 10-12 g/kg for endurance events.
+
+**Protein Periodization**
+While protein requirements remain relatively stable at 1.6-2.2 g/kg body weight for athletes, the timing and distribution become more critical during different phases. High-volume training phases may require the upper end of this range to support [[C25. Nutrition for Muscle Gain (Hypertrophy)]] and recovery processes.
+
+**Fat Periodization**
+Fat intake typically comprises 20-35% of total energy intake, with higher percentages during base phases when training at lower intensities. This supports enhanced fat oxidation capacity and metabolic flexibility.
+
+### Phase-Specific Applications
+
+**Base Phase Nutrition**
+The base phase emphasizes building aerobic capacity and metabolic flexibility. Nutritional strategies include:
+- Moderate carbohydrate availability (3-5 g/kg)
+- Strategic fasted training sessions
+- Emphasis on nutrient density and anti-inflammatory foods
+- Focus on establishing consistent eating patterns
+
+**Build Phase Nutrition**
+As training intensity and volume increase, nutritional support becomes more aggressive:
+- Increased carbohydrate availability (5-7 g/kg)
+- Enhanced focus on [[C29. Nutrition for Recovery]]
+- Strategic nutrient timing around key training sessions
+- Careful monitoring of [[A48. Training Load Monitoring]] to adjust intake
+
+**Peak Phase Nutrition**
+The peak phase requires precise nutritional timing to support high-intensity training while beginning competition preparation:
+- Optimized carbohydrate availability (6-8 g/kg)
+- Refined meal timing strategies
+- Practice of competition nutrition protocols
+- Emphasis on maintaining energy availability
+
+**Competition Phase Nutrition**
+Competition nutrition represents the culmination of periodized planning:
+- Implementation of [[C44. Competition Day Nutrition]] strategies
+- Maintenance of established routines
+- Strategic carbohydrate loading when appropriate
+- Focus on hydration and electrolyte balance
+
+### Sport-Specific Considerations
+
+**Endurance Sports**
+Endurance athletes require extensive carbohydrate periodization to support high training volumes while developing metabolic flexibility. The periodization may span months, with careful attention to preventing low energy availability.
+
+**Strength and Power Sports**
+Athletes in strength and power sports ([[C28. Nutrition for Strength Power Athletes]]) focus more on protein periodization and strategic nutrient timing around training sessions. Carbohydrate periodization may be less dramatic but still important for supporting high-intensity training.
+
+**Team Sports**
+Team sport athletes require flexible periodization approaches that account for variable training loads, travel schedules, and competition frequencies. The periodization often operates on shorter cycles.
+
+## Research Evidence
+
+**Stellingwerff, T., & Cox, G. R. (2014).** Systematic review: Carbohydrate supplementation on exercise performance or capacity of varying durations. *Applied Physiology, Nutrition, and Metabolism*, 39(9), 998-1011. DOI: https://doi.org/10.1139/apnm-2014-0027
+- Key finding: Carbohydrate periodization enhances metabolic flexibility and endurance performance when strategically implemented
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of periodization strategies)
+
+**Impey, S. G., et al. (2018).** Fuel for the work required: a theoretical framework for carbohydrate periodization and the glycogen threshold hypothesis. *Sports Medicine*, 48(5), 1031-1048. DOI: https://doi.org/10.1007/s40279-018-0867-7
+- Key finding: Strategic carbohydrate restriction during specific training phases enhances training adaptations without compromising performance
+- Study type: Theoretical framework with supporting evidence
+- Evidence quality: High (well-supported theoretical model)
+
+**Areta, J. L., et al. (2013).** Timing and distribution of protein ingestion during prolonged recovery from resistance exercise alters myofibrillar protein synthesis. *Journal of Nutrition*, 143(6), 890-898. DOI: https://doi.org/10.3945/jn.112.168757
+- Key finding: Protein timing and distribution significantly impacts training adaptations during different periodization phases
+- Study type: RCT
+- Evidence quality: High (controlled intervention study)
+
+## Practical Applications
+
+**Annual Periodization Planning**
+- Map training phases to nutritional strategies 6-12 months in advance
+- Identify key competition dates and work backward to establish periodization timeline
+- Build in flexibility for adjustments based on training response and performance data
+
+**Weekly Periodization Implementation**
+- Align high-carbohydrate days with high-intensity training sessions
+- Schedule lower-carbohydrate days during recovery or low-intensity training
+- Maintain consistent protein intake and timing throughout the week
+
+**Daily Periodization Tactics**
+- Time carbohydrate intake around key training sessions
+- Implement strategic fasting periods during base phases
+- Use nutrient timing to support circadian rhythm optimization
+
+**Monitoring and Adjustment Protocols**
+- Track training load using [[A48. Training Load Monitoring]] tools
+- Monitor body composition changes throughout periodization cycles
+- Adjust [[C1. Caloric Targets for Different Goals]] based on phase-specific needs
+- Use biomarkers to assess adaptation and recovery status
+
+## Common Mistakes
+⚠️ Implementing too aggressive carbohydrate restriction without adequate base fitness
+⚠️ Failing to practice competition nutrition strategies during training phases
+⚠️ Ignoring individual responses and rigidly following predetermined protocols
+⚠️ Neglecting micronutrient needs during restrictive phases
+⚠️ Not allowing adequate time for metabolic adaptations between phases
+
+## Related Concepts
+Understanding training periodization principles [[A25. Principle of Periodization]] provides the foundation for nutritional periodization. Effective implementation requires integration with [[K2. Advanced Periodization Strategies]] and careful attention to [[A36. Structural Adaptations to Training]]. 
+
+Specific nutritional applications include [[C25. Nutrition for Muscle Gain (Hypertrophy)]] during strength phases, [[C27. Nutrition for Endurance Performance (Carb Loading)]] before key competitions, and [[C28. Nutrition for Strength Power Athletes]] protocols for power-focused training blocks.
+
+Recovery periodization integrates [[C29. Nutrition for Recovery]] strategies with [[M1. Recovery Modalities Evidence and Application]] to optimize adaptation between training phases. Competition preparation culminates in [[C44. Competition Day Nutrition]] protocols that have been refined throughout the periodization cycle.
+
+Sport-specific applications may require integration with [[X. Sports-Specific Training]] demands and careful monitoring through [[A48. Training Load Monitoring]] systems to ensure appropriate [[C1. Caloric Targets for Different Goals]] are maintained throughout each phase.
+
+## Update Log
+- 2025-01-27: Enhanced structure with phase-specific applications, improved research evidence with working DOI links, added comprehensive practical applications and common mistakes sections
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1139/apnm-2014-0027 -->

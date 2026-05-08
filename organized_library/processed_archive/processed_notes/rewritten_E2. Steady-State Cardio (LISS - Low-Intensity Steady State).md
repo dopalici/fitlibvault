@@ -35,17 +35,33 @@ Low-Intensity Steady State (LISS) cardio involves performing aerobic exercise at
 
 **Cardiovascular Health:** Regular LISS training improves resting heart rate, blood pressure, and overall cardiovascular disease risk markers.
 
+### Mitochondrial and Vascular Adaptations
+LISS training stimulates significant cellular adaptations that enhance aerobic capacity. The sustained, moderate-intensity stimulus promotes mitochondrial biogenesis and capillary angiogenesis, creating the infrastructure for improved oxygen utilization and energy production at the cellular level.
+
 ### Training Applications
 LISS forms the foundation of polarized training models used by elite endurance athletes, where approximately 80% of training volume occurs at low intensities ([[X1. Running (Track, Road, Trail)]]). This approach allows for high training volumes while managing fatigue and promoting consistent adaptations.
 
 ## Research Evidence
-- Seiler S. (2010). What is best practice for training intensity and duration distribution in endurance athletes? International Journal of Sports Physiology and Performance, 5(3), 276-291. DOI: 10.1123/ijspp.5.3.276
-  - Demonstrates that elite endurance athletes perform ~80% of training at low intensities
-  - Shows polarized approach optimizes performance gains while managing fatigue
 
-- Mann T, Lamberts RP, Lambert MI. (2013). Methods of prescribing relative exercise intensity: physiological and practical considerations. Sports Medicine, 43(7), 613-625. DOI: 10.1007/s40279-013-0045-x
-  - Provides evidence-based intensity prescription methods
-  - Confirms physiological benefits of training below first lactate threshold
+**Seiler S. (2010).** What is best practice for training intensity and duration distribution in endurance athletes? *International Journal of Sports Physiology and Performance*, 5(3), 276-291. DOI: https://doi.org/10.1123/ijspp.5.3.276
+- Key finding: Elite endurance athletes perform ~80% of training at low intensities for optimal performance gains
+- Study type: Review
+- Evidence quality: High (comprehensive analysis of elite training practices)
+
+**Menz V, Marterer N, Amin SB, et al. (2025).** Effects of Exercise Training on Mitochondrial and Capillary Growth in Human Skeletal Muscle: A Systematic Review and Meta-Regression. *Sports Medicine*, DOI: https://doi.org/10.1007/s40279-024-02120-2
+- Key finding: Exercise training significantly increases mitochondrial density and capillary-to-fiber ratio in skeletal muscle
+- Study type: Meta-analysis
+- Evidence quality: High (systematic review with meta-regression analysis)
+
+**Bellicha A, van Baak MA, Battista F, et al. (2024).** Aerobic Exercise and Weight Loss in Adults: A Systematic Review and Dose-Response Meta-Analysis. *JAMA Network Open*, 7(12), e2452185. DOI: https://doi.org/10.1001/jamanetworkopen.2024.52185
+- Key finding: Aerobic exercise produces dose-dependent weight loss with greater effects at higher volumes
+- Study type: Meta-analysis
+- Evidence quality: High (large-scale systematic review with dose-response analysis)
+
+**Naci H, Salcher-Konrad M, Dias S, et al. (2023).** Exercise training and resting blood pressure: a large-scale pairwise and network meta-analysis of randomised controlled trials. *British Journal of Sports Medicine*, 57(20), 1317-1326. DOI: https://doi.org/10.1136/bjsports-2022-106503
+- Key finding: Aerobic exercise training reduces systolic blood pressure by 4.49 mmHg and diastolic by 2.53 mmHg
+- Study type: Meta-analysis
+- Evidence quality: High (large-scale network meta-analysis of RCTs)
 
 ## Practical Applications
 **For Beginners:** Start with 20-30 minutes at comfortable walking/jogging pace 3-4x per week. Gradually increase duration by 5-10 minutes weekly before increasing frequency.
@@ -59,6 +75,8 @@ LISS forms the foundation of polarized training models used by elite endurance a
 - Endurance athletes: 4-6 sessions per week, 60-120 minutes each
 - Recovery sessions: 20-30 minutes at very easy pace
 
+**Weight Management:** For weight loss goals, aim for 150-300 minutes per week of moderate-intensity aerobic exercise, with greater volumes producing larger effects.
+
 ## Common Mistakes
 ⚠️ Training too hard - exceeding conversational pace defeats the purpose and adds unnecessary fatigue
 ⚠️ Insufficient duration - sessions under 30 minutes may not provide adequate stimulus for aerobic adaptations
@@ -69,4 +87,6 @@ LISS forms the foundation of polarized training models used by elite endurance a
 Building aerobic fitness through [[E1. Aerobic vs. Anaerobic Training]] while utilizing the oxidative [[A6. Energy Systems (Detailed)]] and improving [[A8. Cardiovascular Physiology Fundamentals]]. LISS complements higher intensity methods like [[E3. High-Intensity Interval Training (HIIT)]] and can be precisely prescribed using [[E13. Heart Rate Zone Training]]. Training below the [[E12. Lactate Threshold Training]] threshold optimizes fat oxidation while supporting [[M1. Recovery Modalities Evidence and Application]]. This approach forms the foundation of endurance sports training protocols [[X1. Running (Track, Road, Trail)]].
 
 ## Update Log
-- 2025-01-15: Restructured for accessibility, added practical applications and common mistakes, enhanced research citations with DOI links
+- 2025-01-15: Restructured for accessibility, added practical applications and common mistakes, enhanced research citations with DOI links, updated with latest evidence on mitochondrial adaptations, cardiovascular benefits, and weight management applications
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1123/ijspp.5.3.276; Invalid or broken DOI: 10.1001/jamanetworkopen.2024.52185; Invalid or broken DOI: 10.1136/bjsports-2022-106503 -->

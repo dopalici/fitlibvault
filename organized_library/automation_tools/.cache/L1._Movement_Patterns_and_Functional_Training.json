@@ -1,0 +1,66 @@
+{
+  "note_title": "L1. Movement Patterns and Functional Training",
+  "cached_at": "2026-05-07T21:31:28.357047",
+  "studies": [
+    {
+      "title": "Dietary Patterns, Gut Microbiota and Sports Performance in Athletes: A Narrative Review.",
+      "year": "2024",
+      "doi": "10.3390/nu16111634",
+      "pmid": "38892567",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0909,
+      "quality_score": 0.85,
+      "composite_score": 0.6223
+    },
+    {
+      "title": "Minimal-Dose Resistance Training for Improving Muscle Mass, Strength, and Function: A Narrative Review of Current Evidence and Practical Considerations.",
+      "year": "2022",
+      "doi": "10.1007/s40279-021-01605-8",
+      "pmid": "34822137",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Structured vs Self-Guided Multidomain Lifestyle Interventions for Global Cognitive Function: The US POINTER Randomized Clinical Trial.",
+      "year": "2025",
+      "doi": "10.1001/jama.2025.12923",
+      "pmid": "40720610",
+      "journal": "JAMA",
+      "study_type": "RCT",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.7,
+      "composite_score": 0.55
+    },
+    {
+      "title": "Sleep hygiene - What do we mean? A bibliographic review.",
+      "year": "2024",
+      "doi": "10.1016/j.smrv.2024.101930",
+      "pmid": "38761649",
+      "journal": "Sleep medicine reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.69,
+      "composite_score": 0.515
+    },
+    {
+      "title": "Effects of Physical Exercise on Executive Function in Adults with Depression: A Systematic Review and Meta-Analysis.",
+      "year": "2022",
+      "doi": "10.3390/ijerph192215270",
+      "pmid": "36429985",
+      "journal": "International journal of environmental research and public health",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.76,
+      "composite_score": 0.51
+    }
+  ]
+}

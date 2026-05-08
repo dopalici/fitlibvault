@@ -1,0 +1,79 @@
+### X3.1. Dry-Land Training for Swimmers
+**ID:** X3.1-SWIMMING-DRYLAND
+**Created:** 2025-04-24 (Updated: 2025-01-27)
+
+## Quick Takeaway
+Dry-land strength training 1-3 times per week significantly improves swimming performance by increasing propulsive force, core stability, and shoulder health while preventing injuries.
+
+## Key Points
+- Combine pulling and pressing exercises to balance shoulder strength and prevent injury
+- Focus on core stability training to improve body position and stroke efficiency
+- Train 1-3 times per week during off-season, reduce to 1-2 times during competition phase
+- Emphasize rotator cuff strengthening and shoulder mobility to maintain healthy stroke mechanics
+- Include explosive movements for improved starts and turns
+
+## Deep Dive
+
+### Performance Benefits
+Dry-land training enhances multiple aspects of swimming performance through targeted strength development. The combination of strength and endurance training creates superior adaptations compared to swimming alone, particularly for power development and injury prevention. Sprint performance is especially responsive to dry-land training, with multiple factors contributing to enhanced speed including improved propulsive force generation and enhanced neuromuscular coordination.
+
+### Key Training Areas
+
+**Pulling Strength Development**
+The latissimus dorsi and posterior deltoids are primary propulsive muscles requiring targeted strengthening. Pull-ups, lat pulldowns, and rowing variations directly transfer to improved catch and pull phases of all strokes. These exercises develop the posterior chain strength essential for effective propulsion.
+
+**Pressing Strength Balance**
+Balanced shoulder development through pressing movements prevents the forward shoulder posture common in swimmers. Push-ups, overhead pressing, and horizontal pressing exercises maintain optimal shoulder mechanics and reduce injury risk from muscular imbalances.
+
+**Shoulder Stability and Health**
+Rotator cuff strengthening is critical for maintaining healthy shoulder function throughout high-volume training. External rotation exercises, band work, and stability drills address the repetitive stress of swimming strokes and maintain joint integrity.
+
+**Core Strength Integration**
+Enhanced stability from targeted [[L4. Core Stability Training]] improves body position, reduces drag, and increases force transfer from arms to propulsion. Anti-rotation and anti-extension exercises are particularly beneficial for maintaining streamlined body position.
+
+**Leg Power Development**
+While legs contribute less to propulsion in distance events, explosive leg strength significantly improves starts, turns, and sprint performance. Plyometric training and Olympic lifting variations can enhance these explosive capabilities.
+
+### Periodization Considerations
+Training frequency should align with swimming periodization, emphasizing strength development during base phases and maintaining strength during competition periods. Integration with [[O1. Integrated Programming Considerations]] ensures optimal adaptation without interference effects between training modalities.
+
+## Research Evidence
+
+**Sammoud et al. (2025).** Factors Relating to Sprint Swimming Performance: A Systematic Review. *Sports Medicine*, 55(3), 567-589. DOI: https://doi.org/10.1007/s40279-024-02172-4
+- Key finding: Multiple physiological and biomechanical factors contribute to sprint swimming performance, with strength training being a key modifiable factor
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of performance determinants)
+
+**Girold et al. (2012).** Effects of dry-land vs. resisted- and assisted-sprint exercises on swimming sprint performances. *Journal of Strength and Conditioning Research*, 26(9), 2604-2611. DOI: https://doi.org/10.1519/JSC.0b013e31823f8b0e
+- Key finding: Dry-land strength training produced significant improvements in 50m sprint performance compared to control groups
+- Study type: RCT
+- Evidence quality: High (randomized controlled design with performance outcomes)
+
+**Aspenes & Karlsen (2012).** Exercise-training intervention studies in competitive swimming. *Sports Medicine*, 42(6), 527-543. DOI: https://doi.org/10.2165/11630760-000000000-00000
+- Key finding: Combined strength and endurance training produces superior adaptations compared to swimming training alone
+- Study type: Systematic review
+- Evidence quality: High (comprehensive review of training interventions)
+
+## Practical Applications
+- **Off-season:** 3x/week strength training with moderate swimming volume
+- **Pre-competition:** 2x/week maintenance strength with high swimming volume  
+- **Competition phase:** 1x/week strength maintenance, focus on mobility
+- **Exercise selection:** 60% pulling exercises, 40% pressing/stability work
+- **Rep ranges:** 6-12 reps for strength, 3-6 reps for power development
+- **Session timing:** Minimum 6 hours between high-intensity swim and strength sessions
+- **Plyometric integration:** 2-3 explosive exercises per session for start/turn improvement
+
+## Common Mistakes
+⚠️ Overemphasizing pressing exercises, creating shoulder imbalances
+⚠️ Training too close to important swim sessions, causing fatigue interference
+⚠️ Neglecting rotator cuff and mobility work, leading to shoulder problems
+⚠️ Using excessive volume during competition periods, reducing swim performance
+⚠️ Focusing only on upper body while ignoring core and leg strength
+
+## Related Concepts
+Sport-specific training approaches [[X3. Swimming]] require careful integration with broader [[B. Resistance Training]] principles. Shoulder health maintenance [[IX-2. Injury Prevention Strategies]] is critical for long-term success. Enhanced mobility [[L2. Mobility and Flexibility Development]] supports healthy movement patterns. Training goals must align with specific adaptations [[B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance)]] while considering overall program integration [[O1. Integrated Programming Considerations]].
+
+## Update Log
+- 2025-01-27: Enhanced structure, added practical applications and periodization guidelines, updated research evidence with current systematic reviews and meta-analyses, added plyometric training considerations
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1519/JSC.0b013e31823f8b0e -->

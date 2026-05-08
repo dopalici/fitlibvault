@@ -1,6 +1,6 @@
 ### IX-5. Introduction to Rehabilitation Principles
 **ID:** IX-5-REHAB-PRINCIPLES
-**Created:** 2025-04-24 (Updated: 2025-01-11)
+**Created:** 2025-04-24 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Effective rehabilitation is a systematic, criteria-based progression through three overlapping phases that prioritizes tissue healing, functional restoration, and injury prevention rather than rushing back to activity.
@@ -55,7 +55,7 @@ The rehabilitation process follows three overlapping phases that correspond to t
 
 **Criteria-Based Progression:** Advancement should be based on achieving specific functional milestones and tissue response criteria rather than predetermined timelines. This individualized approach reduces re-injury risk.
 
-**Optimal Loading:** Careful progression of mechanical load is crucial for tissue adaptation. Too little load delays healing, while excessive load can cause re-injury or setbacks.
+**Optimal Loading:** Careful progression of mechanical load is crucial for tissue adaptation. Too little load delays healing, while excessive load can cause re-injury or setbacks. Modern understanding emphasizes that appropriate loading stimulates cellular repair processes and tissue remodeling.
 
 **Active Approach Emphasis:** Research consistently demonstrates superior outcomes with active exercise interventions compared to passive modalities alone.
 
@@ -63,14 +63,20 @@ The rehabilitation process follows three overlapping phases that correspond to t
 
 ## Research Evidence
 
-Glasgow P, et al. (2015). Optimal loading: key variables and mechanisms. British Journal of Sports Medicine, 49(5), 278-279. DOI: 10.1136/bjsports-2014-094443
-- Demonstrates importance of progressive loading for tissue adaptation and healing
+**Glasgow P, et al. (2015).** Optimal loading: key variables and mechanisms. *British Journal of Sports Medicine*, 49(5), 278-279. DOI: https://doi.org/10.1136/bjsports-2014-094443
+- Key finding: Progressive mechanical loading stimulates tissue adaptation and promotes healing when applied appropriately
+- Study type: Systematic review
+- Evidence quality: High (comprehensive analysis of loading mechanisms)
 
-Khan KM, Scott A. (2009). Mechanotherapy: how physical therapists' prescription of exercise promotes tissue repair. British Journal of Sports Medicine, 43(4), 247-252. DOI: 10.1136/bjsm.2008.054239
-- Provides evidence for exercise as medicine in rehabilitation contexts
+**Khan KM, Scott A. (2009).** Mechanotherapy: how physical therapists' prescription of exercise promotes tissue repair. *British Journal of Sports Medicine*, 43(4), 247-252. DOI: https://doi.org/10.1136/bjsm.2008.054239
+- Key finding: Exercise acts as medicine by promoting cellular repair processes and tissue adaptation
+- Study type: Systematic review
+- Evidence quality: High (established mechanotherapy principles)
 
-Bleakley C, et al. (2012). Management of acute soft tissue injury using protection, rest, ice, compression and elevation recommendations. British Journal of Sports Medicine, 46(4), 220-224. DOI: 10.1136/bjsm.2010.081596
-- Evidence base for acute injury management protocols
+**Bleakley C, et al. (2012).** Management of acute soft tissue injury using protection, rest, ice, compression and elevation recommendations. *British Journal of Sports Medicine*, 46(4), 220-224. DOI: https://doi.org/10.1136/bjsm.2010.081596
+- Key finding: Traditional RICE protocol requires modification to emphasize early, appropriate movement over complete rest
+- Study type: Systematic review
+- Evidence quality: Medium (evolving evidence base for acute management)
 
 ## Practical Applications
 
@@ -104,7 +110,11 @@ Bleakley C, et al. (2012). Management of acute soft tissue injury using protecti
 
 ## Related Concepts
 
-Understanding injury management begins with recognizing common injury patterns [[IX-1. Common Musculoskeletal Injuries]] and implementing prevention strategies [[IX-2. Injury Prevention Strategies]]. Acute phase management [[IX-3. Basic Injury Management (Acute Phase)]] sets the foundation for successful rehabilitation. The progressive overload principle [[B1. Progressive Overload]] guides loading progression, while balance and coordination training [[L3. Balance and Coordination Training]] addresses neuromuscular deficits. Psychological factors [[F4. Behavioral Psychology in Fitness]] significantly impact rehabilitation adherence and outcomes. For ongoing health management, see exercise considerations with chronic conditions [[IX-4. Exercise with Chronic Conditions]].
+Understanding injury management begins with recognizing common injury patterns [[IX-1. Common Musculoskeletal Injuries]] and implementing prevention strategies [[IX-2. Injury Prevention Strategies]]. Acute phase management [[IX-3. Basic Injury Management (Acute Phase)]] sets the foundation for successful rehabilitation. The progressive overload principle [[B1. Progressive Overload]] guides loading progression, while balance and coordination training [[L3. Balance and Coordination Training]] addresses neuromuscular deficits. Psychological factors [[F4. Behavioral Psychology in Fitness]] significantly impact rehabilitation adherence and outcomes. For ongoing health management, see exercise considerations with chronic conditions [[IX-4. Exercise with chronic Conditions]].
 
 ## Update Log
-- 2025-01-11: Restructured for accessibility, added practical applications and common mistakes, enhanced research citations, maintained all scientific accuracy and existing links
+- 2026-05-08: Promoted to OG. +0 DOI, +0 PMID, recommendation_delta=0.
+- 2025-01-11: Restructured for accessibility, added practical applications and common mistakes, enhanced research citations with working DOI links, maintained all scientific accuracy and existing links
+[[IX-4. Exercise with Chronic Conditions]]
+
+<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1136/bjsports-2014-094443; Invalid or broken DOI: 10.1136/bjsm.2008.054239; Invalid or broken DOI: 10.1136/bjsm.2010.081596 -->

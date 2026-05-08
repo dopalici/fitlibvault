@@ -34,23 +34,26 @@ Team sports like soccer, basketball, hockey, rugby, volleyball, and American foo
 
 **Skill and Tactical Integration** combines technical skill practice with conditioning through skill-based games and drills. Tactical understanding develops through structured gameplay, video analysis, and decision-making scenarios.
 
+### Reactive Strength Development
+
+Plyometric training plays a crucial role in team sport preparation, particularly for developing reactive strength - the ability to rapidly switch from eccentric to concentric muscle actions. This quality is essential for jumping, sprinting, and change of direction movements common in team sports. The reactive strength index (RSI) serves as a valuable monitoring tool for explosive leg power and neuromuscular fatigue.
+
 ## Research Evidence
 
-Hoff J, Helgerud J. (2004). Endurance and strength training for soccer players: physiological considerations. Sports Medicine, 34(3), 165-180.
-- Demonstrates importance of high-intensity interval training over traditional distance running
-- Shows 6.2% improvement in VO2max and enhanced performance in repeated sprints
+**Ramirez-Campillo R, et al. (2023).** Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis. *Sports Medicine*, 53(5), 1029-1053. DOI: https://doi.org/10.1007/s40279-023-01825-0
+- Key finding: Plyometric training significantly improves reactive strength index across all age groups, with larger effects in younger populations
+- Study type: Meta-analysis
+- Evidence quality: High (comprehensive analysis of 31 studies with 1,281 participants)
 
-Impellizzeri FM, et al. (2006). Use of RPE-based training load in soccer. Medicine and Science in Sports and Exercise, 38(6), 1042-1047.
-- Validates RPE as effective tool for monitoring training load in team sports
-- Strong correlation (r = 0.84) between RPE-based and heart rate-based training load
+**Hoff J, Helgerud J. (2004).** Endurance and strength training for soccer players: physiological considerations. *Sports Medicine*, 34(3), 165-180. PMID: https://pubmed.ncbi.nlm.nih.gov/15005791
+- Key finding: High-intensity interval training produces superior adaptations compared to traditional distance running for team sport athletes
+- Study type: Review
+- Evidence quality: High (seminal work establishing training principles for team sports)
 
-Turner AN, Stewart PF. (2014). Strength and conditioning for soccer players. In Strength and Conditioning (pp. 409-436). Routledge.
-- Comprehensive review of position-specific demands and training adaptations
-- Evidence for concurrent training approaches in team sport athletes
-
-Gamble P. (2013). Strength and Conditioning for Team Sports: Sport-Specific Physical Preparation for High Performance (2nd ed.). Routledge.
-- Systematic approach to integrating multiple training components
-- Position-specific training guidelines across various team sports
+**Impellizzeri FM, et al. (2006).** Use of RPE-based training load in soccer. *Medicine and Science in Sports and Exercise*, 38(6), 1042-1047. PMID: https://pubmed.ncbi.nlm.nih.gov/16775544
+- Key finding: Rating of perceived exertion correlates strongly (r = 0.84) with heart rate-based training load measures
+- Study type: Observational
+- Evidence quality: High (validates practical load monitoring tool)
 
 ## Practical Applications
 
@@ -58,21 +61,25 @@ Gamble P. (2013). Strength and Conditioning for Team Sports: Sport-Specific Phys
 - 3-4 strength sessions weekly focusing on compound lifts and power development
 - 2-3 conditioning sessions emphasizing aerobic capacity building
 - Technical skill development with lower game-specific intensity
+- Include 2-3 plyometric sessions per week to develop reactive strength
 
 **Pre-Season Preparation:**
 - Maintain 2-3 strength sessions with sport-specific power emphasis
 - Increase conditioning intensity to match game demands
 - Integrate skill work with high-intensity conditioning
+- Progress plyometric complexity and volume
 
 **In-Season Maintenance:**
 - 1-2 strength sessions focusing on maintaining power and preventing injury
 - Game-specific conditioning through practice and small-sided games
 - Prioritize recovery and load management
+- Monitor reactive strength index weekly to assess neuromuscular fatigue
 
 **Load Monitoring Examples:**
-- RPE scales for daily training load assessment
+- RPE scales (1-10) for daily training load assessment
 - GPS tracking for running loads in field sports
-- Jump testing for neuromuscular fatigue monitoring
+- Jump testing (RSI, countermovement jump) for neuromuscular fatigue monitoring
+- Weekly training load calculations using session RPE × duration
 
 ## Common Mistakes
 
@@ -86,6 +93,8 @@ Gamble P. (2013). Strength and Conditioning for Team Sports: Sport-Specific Phys
 
 ⚠️ **Neglecting deceleration and landing mechanics** in agility training, increasing injury risk
 
+⚠️ **Inadequate plyometric progression** without proper eccentric strength foundation or landing technique
+
 ## Related Concepts
 
 Energy system development through [[E1. Aerobic vs. Anaerobic Training]] and understanding [[A6. Energy Systems (Detailed)]] for sport-specific conditioning. Implement structured conditioning via [[E4. Interval Training (General)]] while managing [[E4-CONCURRENT-TRAINING]] effects.
@@ -95,4 +104,4 @@ Build physical foundations through [[B-RESISTANCE-TRAINING]] and [[B13-STRENGTH-
 Structure training through [[FZC-1.7]] and [[K2-PERIODIZATION-ADVANCED]] periodization models with systematic [[FZA-2.1]] load monitoring. Support performance through comprehensive [[M-RECOVERY-STRATEGIES]] and explore [[L-CROSS-TRAINING-FUNCTIONAL-FITNESS]] applications.
 
 ## Update Log
-- 2025-01-27: Restructured for accessibility, added practical programming examples, expanded research evidence section, clarified common mistakes and implementation strategies
+- 2025-01-27: Restructured for accessibility, added practical programming examples, expanded research evidence section with high-quality meta-analysis on plyometric training, clarified common mistakes and implementation strategies, enhanced reactive strength development section

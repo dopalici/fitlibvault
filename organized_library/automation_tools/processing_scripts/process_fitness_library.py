@@ -29,6 +29,19 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# Vault-root markdown that should never go through the rewriter (reports, placeholders).
+_AUXILIARY_ROOT_MARKDOWN = frozenset({".md", "README.md", "fitlib.md"})
+
+
+def _is_auxiliary_root_note(path: Path) -> bool:
+    name = path.name
+    if name in _AUXILIARY_ROOT_MARKDOWN:
+        return True
+    if name.startswith("FINAL_"):
+        return True
+    return False
+
+
 @dataclass
 class NoteMetadata:
     """Store metadata about a fitness note"""
@@ -52,6 +65,9 @@ class StudyEvidence:
     journal: str
     study_type: str
     summary: str
+    relevance_score: float = 0.0
+    quality_score: float = 0.0
+    composite_score: float = 0.0
 
 class FitnessLibraryProcessor:
     """Main class for processing fitness library notes"""
@@ -294,15 +310,72 @@ Here's the note to rewrite:
         except:
             return False
 
+    SECTION_DOMAIN_HINTS = {
+        "A": ["exercise physiology", "training adaptation"],
+        "B": ["resistance training", "strength training"],
+        "C": ["sports nutrition", "dietary intervention"],
+        "D": ["cardiorespiratory training", "aerobic adaptation"],
+        "E": ["endurance training", "interval training"],
+        "F": ["performance testing", "fitness assessment"],
+        "G": ["special populations", "clinical exercise"],
+        "I": ["exercise endocrinology", "training stress"],
+        "J": ["wearable technology", "sport technology"],
+        "K": ["elite athlete performance", "high performance training"],
+        "M": ["exercise recovery", "sleep recovery"],
+        "N": ["long term athlete development", "youth training"],
+        "O": ["integrated training", "concurrent training"],
+        "P": ["exercise ethics", "doping policy"],
+        "X": ["sport specific training", "tactical conditioning"],
+    }
+
+    STOPWORDS = {
+        "the", "and", "with", "from", "into", "this", "that", "these", "those",
+        "a", "an", "of", "for", "to", "in", "on", "by", "or", "is", "are",
+        "training", "exercise",
+    }
+
+    def _tokenize_title(self, title: str) -> Set[str]:
+        clean = re.sub(r"[^a-zA-Z0-9\s\-]", " ", title.lower())
+        return {tok for tok in clean.split() if len(tok) > 2 and tok not in self.STOPWORDS}
+
     def _extract_search_terms(self, metadata: NoteMetadata) -> List[str]:
         """Build focused PubMed search terms from note metadata."""
-        clean_title = re.sub(r"^[A-Z]\d+\.\s*", "", metadata.title).strip()
-        base_terms = [clean_title, "exercise science", "training adaptation"]
-        if "nutrition" in clean_title.lower():
-            base_terms.append("sports nutrition")
-        if "recovery" in clean_title.lower():
-            base_terms.append("exercise recovery")
-        return base_terms[:3]
+        clean_title = re.sub(r"^[A-Z]+[\dIVX\-]*\.\s*", "", metadata.title).strip()
+        clean_title = re.sub(r"\s*\([^)]*\)", "", clean_title).strip()
+        base_terms: List[str] = []
+        if clean_title:
+            base_terms.append(clean_title)
+
+        domain_hints = self.SECTION_DOMAIN_HINTS.get(metadata.section.upper(), [])
+        base_terms.extend(domain_hints[:2])
+
+        lower_title = clean_title.lower()
+        keyword_map = {
+            "nutrition": "sports nutrition",
+            "protein": "protein intake athletes",
+            "carbohydrate": "carbohydrate periodization",
+            "recovery": "exercise recovery",
+            "sleep": "athlete sleep",
+            "hormone": "exercise endocrinology",
+            "muscle": "skeletal muscle adaptation",
+            "cardio": "aerobic exercise",
+            "endurance": "endurance performance",
+            "strength": "strength training",
+            "hypertrophy": "muscle hypertrophy",
+            "biomechanic": "biomechanics",
+            "injury": "injury prevention",
+            "vo2": "vo2max training",
+            "lactate": "lactate threshold",
+        }
+        for needle, term in keyword_map.items():
+            if needle in lower_title and term not in base_terms:
+                base_terms.append(term)
+
+        deduped: List[str] = []
+        for term in base_terms:
+            if term and term not in deduped:
+                deduped.append(term)
+        return deduped[:5]
 
     def _cache_path_for_note(self, metadata: NoteMetadata) -> Path:
         safe_name = re.sub(r"[^a-zA-Z0-9._-]+", "_", Path(metadata.file_path).stem)
@@ -361,11 +434,97 @@ Here's the note to rewrite:
             return 2
         return 1
 
-    def _rank_studies(self, studies: List[StudyEvidence], top_n: int = 5) -> List[StudyEvidence]:
-        """Sort by evidence quality then recency and keep the best subset."""
+    HIGH_IMPACT_JOURNAL_HINTS = (
+        "lancet", "nejm", "new england journal", "nature", "jama",
+        "british journal of sports medicine", "bjsm",
+        "medicine and science in sports", "med sci sports exerc",
+        "sports medicine", "journal of strength and conditioning",
+        "international journal of sport nutrition",
+        "european journal of sport science",
+        "journal of applied physiology",
+        "european journal of applied physiology",
+        "frontiers in physiology", "nutrients",
+        "american journal of clinical nutrition",
+    )
+
+    def _journal_score(self, journal: str) -> float:
+        if not journal:
+            return 0.0
+        lower = journal.lower()
+        if any(hint in lower for hint in self.HIGH_IMPACT_JOURNAL_HINTS):
+            return 1.0
+        if "review" in lower:
+            return 0.6
+        if "journal" in lower or "international" in lower:
+            return 0.4
+        return 0.2
+
+    def _recency_score(self, year_str: str) -> float:
+        try:
+            year = int(year_str)
+        except (TypeError, ValueError):
+            return 0.0
+        gap = max(self.current_year - year, 0)
+        if gap <= 1:
+            return 1.0
+        if gap <= 3:
+            return 0.85
+        if gap <= 5:
+            return 0.65
+        if gap <= 8:
+            return 0.4
+        return 0.15
+
+    def _relevance_score(self, study_title: str, note_tokens: Set[str]) -> float:
+        if not note_tokens:
+            return 0.0
+        study_tokens = self._tokenize_title(study_title)
+        if not study_tokens:
+            return 0.0
+        overlap = note_tokens & study_tokens
+        union = note_tokens | study_tokens
+        return len(overlap) / len(union)
+
+    def _quality_score(self, study: StudyEvidence) -> float:
+        """0-1 score combining design strength + journal weight."""
+        priority = self._study_priority(study)
+        type_score = (priority - 1) / 4  # 0..1
+        return round(0.6 * type_score + 0.4 * self._journal_score(study.journal), 4)
+
+    def _score_studies(
+        self,
+        studies: List[StudyEvidence],
+        note_tokens: Set[str],
+    ) -> List[StudyEvidence]:
+        for study in studies:
+            study.relevance_score = round(self._relevance_score(study.title, note_tokens), 4)
+            study.quality_score = self._quality_score(study)
+            recency = self._recency_score(study.year)
+            study.composite_score = round(
+                0.5 * study.quality_score
+                + 0.3 * study.relevance_score
+                + 0.2 * recency,
+                4,
+            )
+        return studies
+
+    def _rank_studies(
+        self,
+        studies: List[StudyEvidence],
+        top_n: int = 5,
+        min_relevance: float = 0.0,
+        min_quality: float = 0.0,
+    ) -> List[StudyEvidence]:
+        """Sort by composite score, gate on minimum relevance/quality, keep top_n."""
+        filtered = [
+            s for s in studies
+            if s.relevance_score >= min_relevance and s.quality_score >= min_quality
+        ]
+        if not filtered:
+            filtered = studies  # fall back so we don't starve the rewrite
         ranked = sorted(
-            studies,
-            key=lambda s: (self._study_priority(s), int(s.year) if str(s.year).isdigit() else 0),
+            filtered,
+            key=lambda s: (s.composite_score, s.quality_score, s.relevance_score),
             reverse=True,
         )
         return ranked[:top_n]
@@ -379,27 +538,69 @@ Here's the note to rewrite:
                 return match.group(0)
         return "Unknown"
 
-    def discover_recent_evidence(self, metadata: NoteMetadata, max_results: int = 6, cache_max_age_days: int = 7) -> List[StudyEvidence]:
-        """Discover recent studies from PubMed and cache them."""
+    def _build_pubmed_query(self, search_terms: List[str], lookback_years: int) -> str:
+        """Build a PubMed query that prioritises strong designs in humans."""
+        quoted_terms = [f"\"{term}\"" if " " in term else term for term in search_terms]
+        topic_clause = "(" + " OR ".join(quoted_terms) + ")"
+        design_clause = (
+            "(\"Randomized Controlled Trial\"[Publication Type] OR "
+            "\"Meta-Analysis\"[Publication Type] OR "
+            "\"Systematic Review\"[Publication Type] OR "
+            "\"Clinical Trial\"[Publication Type] OR "
+            "\"Review\"[Publication Type])"
+        )
+        species_clause = "humans[mh]"
+        date_clause = f"{self.current_year - lookback_years}:{self.current_year}[pdat]"
+        return f"{topic_clause} AND {design_clause} AND {species_clause} AND {date_clause}"
+
+    def discover_recent_evidence(
+        self,
+        metadata: NoteMetadata,
+        max_results: int = 12,
+        cache_max_age_days: int = 7,
+        min_relevance: float = 0.0,
+        min_quality: float = 0.0,
+        top_n: int = 5,
+        lookback_years: int = 4,
+    ) -> List[StudyEvidence]:
+        """Discover and rank PubMed studies relevant to this note."""
         cached = self._load_cached_evidence(metadata, max_age_days=cache_max_age_days)
         if cached is not None:
             return cached
 
         search_terms = self._extract_search_terms(metadata)
-        query = "(" + " OR ".join(search_terms) + f") AND {self.current_year - 2}:{self.current_year}[pdat]"
+        if not search_terms:
+            return []
+
+        primary_query = self._build_pubmed_query(search_terms, lookback_years)
+        # Looser fallback if the strict query returns nothing.
+        loose_query = (
+            "(" + " OR ".join(search_terms) + f") AND humans[mh] AND "
+            f"{self.current_year - lookback_years}:{self.current_year}[pdat]"
+        )
+
+        note_tokens = self._tokenize_title(metadata.title)
 
         try:
             search_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
-            search_params = {
-                "db": "pubmed",
-                "term": query,
-                "retmode": "json",
-                "retmax": str(max_results),
-                "sort": "pub date",
-            }
-            search_res = requests.get(search_url, params=search_params, timeout=15)
-            search_res.raise_for_status()
-            id_list = search_res.json().get("esearchresult", {}).get("idlist", [])
+            id_list: List[str] = []
+            for query in (primary_query, loose_query):
+                search_params = {
+                    "db": "pubmed",
+                    "term": query,
+                    "retmode": "json",
+                    "retmax": str(max_results),
+                    "sort": "relevance",
+                }
+                search_res = requests.get(search_url, params=search_params, timeout=15)
+                search_res.raise_for_status()
+                id_list = search_res.json().get("esearchresult", {}).get("idlist", [])
+                if id_list:
+                    logger.debug(
+                        "PubMed query returned %d ids for %s", len(id_list), metadata.title
+                    )
+                    break
+
             if not id_list:
                 return []
 
@@ -433,7 +634,13 @@ Here's the note to rewrite:
                 )
                 studies.append(study)
 
-            ranked = self._rank_studies(studies, top_n=5)
+            self._score_studies(studies, note_tokens)
+            ranked = self._rank_studies(
+                studies,
+                top_n=top_n,
+                min_relevance=min_relevance,
+                min_quality=min_quality,
+            )
             self._save_cached_evidence(metadata, ranked)
             return ranked
         except Exception as exc:
@@ -441,14 +648,24 @@ Here's the note to rewrite:
             return []
 
     def _build_evidence_brief(self, studies: List[StudyEvidence]) -> str:
-        """Create structured evidence context for Claude."""
+        """Create structured evidence context for Claude (highest score first)."""
         if not studies:
             return "No recent studies were found from PubMed in this run."
-        lines = ["Recent evidence packet (prioritize these where relevant):"]
+        lines = [
+            "Recent evidence packet (sorted by composite score). Prefer the top entries; "
+            "skip any whose quality_score < 0.4 or relevance_score < 0.05 unless you have "
+            "no better source."
+        ]
         for idx, study in enumerate(studies, start=1):
-            ref_link = f"DOI: https://doi.org/{study.doi}" if study.doi else f"PMID: https://pubmed.ncbi.nlm.nih.gov/{study.pmid}"
+            ref_link = (
+                f"DOI: https://doi.org/{study.doi}" if study.doi
+                else f"PMID: https://pubmed.ncbi.nlm.nih.gov/{study.pmid}"
+            )
             lines.append(
-                f"{idx}. {study.title} ({study.year}) | {study.journal} | {study.study_type} | {ref_link}"
+                f"{idx}. {study.title} ({study.year}) | {study.journal} | "
+                f"{study.study_type} | quality={study.quality_score:.2f} "
+                f"relevance={study.relevance_score:.2f} composite={study.composite_score:.2f} "
+                f"| {ref_link}"
             )
         return "\n".join(lines)
 
@@ -585,6 +802,12 @@ Here's the note to rewrite:
         evidence_cache_max_age_days: int = 7,
         refresh_only_stale: bool = False,
         stale_days: int = 30,
+        min_relevance: float = 0.0,
+        min_quality: float = 0.0,
+        top_studies: int = 5,
+        lookback_years: int = 4,
+        exclude_name_prefixes: Optional[List[str]] = None,
+        resume_from_name: Optional[str] = None,
     ) -> Dict:
         """Process all notes in a specific section (e.g., 'A', 'B', 'C')"""
         
@@ -599,17 +822,39 @@ Here's the note to rewrite:
         
         files = list(input_dir.glob(pattern))
         
-        # Filter files by number range if start_num and end_num are provided
-        if start_num is not None and end_num is not None:
+        # Filter files by number range if start_num and end_num are provided (single-letter sections).
+        if section != "ALL" and start_num is not None and end_num is not None:
             filtered_files = []
             for file_path in files:
                 # Extract the number from the filename (e.g., A30. Biomechanics.md -> 30)
-                match = re.match(rf"{section}(\d+)[\.\s].*\.md", file_path.name)
+                match = re.match(rf"{re.escape(section)}(\d+)[\.\s].*\.md", file_path.name)
                 if match:
                     file_num = int(match.group(1))
                     if start_num <= file_num <= end_num:
                         filtered_files.append(file_path)
             files = filtered_files
+
+        files = sorted(files)
+
+        if exclude_name_prefixes:
+            prefixes = tuple(exclude_name_prefixes)
+            before_ct = len(files)
+            files = [f for f in files if not any(f.name.startswith(p) for p in prefixes)]
+            logger.info(
+                "After --exclude-name-prefix: %s files (%s dropped)",
+                len(files),
+                before_ct - len(files),
+            )
+
+        if resume_from_name:
+            before_ct = len(files)
+            files = [f for f in files if f.name >= resume_from_name]
+            logger.info(
+                "After --resume-from-name (>=%r): %s files (%s dropped)",
+                resume_from_name,
+                len(files),
+                before_ct - len(files),
+            )
 
         if not files:
             logger.warning(f"No files found for section {section}")
@@ -619,9 +864,17 @@ Here's the note to rewrite:
         
         results = {"processed": 0, "failed": 0, "skipped": 0, "details": []}
         
-        for file_path in sorted(files):
+        for file_path in files:
             # Skip files in processed_notes directory
             if "processed_notes" in str(file_path):
+                continue
+
+            if _is_auxiliary_root_note(file_path):
+                logger.info(f"  Skipping auxiliary/root file: {file_path.name}")
+                results["skipped"] += 1
+                results["details"].append(
+                    {"file": file_path.name, "status": "skipped", "reason": "Auxiliary markdown (not a topic note)"}
+                )
                 continue
                 
             logger.info(f"Processing: {file_path.name}")
@@ -660,6 +913,10 @@ Here's the note to rewrite:
                 studies = self.discover_recent_evidence(
                     metadata,
                     cache_max_age_days=evidence_cache_max_age_days,
+                    min_relevance=min_relevance,
+                    min_quality=min_quality,
+                    top_n=top_studies,
+                    lookback_years=lookback_years,
                 )
                 evidence_brief = self._build_evidence_brief(studies)
 
@@ -816,6 +1073,31 @@ def main():
     parser.add_argument("--evidence-cache-max-age-days", type=int, default=7, help="Max cache age before PubMed refresh")
     parser.add_argument("--refresh-only-stale", action="store_true", help="Only refresh notes whose rewritten outputs are older than --stale-days")
     parser.add_argument("--stale-days", type=int, default=30, help="Staleness threshold for rewritten notes")
+    parser.add_argument("--min-relevance", type=float, default=0.0,
+                        help="Drop studies whose Jaccard relevance to note title is below this (0..1)")
+    parser.add_argument("--min-quality", type=float, default=0.0,
+                        help="Drop studies whose composite quality score is below this (0..1)")
+    parser.add_argument("--top-studies", type=int, default=5,
+                        help="Number of top-ranked studies to forward to Claude")
+    parser.add_argument("--lookback-years", type=int, default=4,
+                        help="PubMed publication-date lookback window (years)")
+    parser.add_argument(
+        "--exclude-name-prefix",
+        action="append",
+        default=[],
+        metavar="PREFIX",
+        help="Skip vault-root notes whose filename starts with PREFIX (repeatable). Example: EXL",
+    )
+    parser.add_argument(
+        "--resume-from-name",
+        default=None,
+        metavar="NAME",
+        help=(
+            "Only process notes whose filename sorts >= NAME (same order as the rewriter loop). "
+            "Example: F1. skips EXL… and starts at F1. Sleep…. "
+            "Use F. to include section overview files such as F. Optimal Performance…."
+        ),
+    )
     
     args = parser.parse_args()
     
@@ -854,6 +1136,12 @@ def main():
         args.evidence_cache_max_age_days,
         args.refresh_only_stale,
         args.stale_days,
+        min_relevance=args.min_relevance,
+        min_quality=args.min_quality,
+        top_studies=args.top_studies,
+        lookback_years=args.lookback_years,
+        exclude_name_prefixes=args.exclude_name_prefix or None,
+        resume_from_name=args.resume_from_name,
     )
     
     # Generate report

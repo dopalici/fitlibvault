@@ -13,16 +13,26 @@ Status legend:
 - `automation_scripts/seamless_update_pipeline.py`
   - path-stable end-to-end orchestrator
   - enforces sequence + promotion validation gate before apply
+  - `--validate-interlinks` runs `interlink_validator.py` before promotion
+  - `--staged-apply` switches the apply step to the per-file confirmed flow
 - `processing_scripts/process_fitness_library.py`
   - CLI works (`--help` verified)
-  - core rewrite engine
+  - core rewrite engine; now ranks PubMed studies by composite quality +
+    relevance + recency, exposes `--min-relevance`, `--min-quality`,
+    `--top-studies`, `--lookback-years` gates
 - `automation_scripts/promote_rewritten_to_og.py`
   - CLI works (`--help` verified)
-  - safe OG replacement workflow
+  - bulk OG replacement workflow; preserved as a fallback
+- `automation_scripts/staged_promotion.py`
+  - per-file y/s/d/q promotion with date stamping, atomic write, link
+    integrity gate, JSONL history, dated confirmed-archive move
 - `utility_scripts/citation_validation_audit.py`
   - scans rewritten notes (`rewritten_*.md` by default) and validates DOI/PMID links in one run
 - `utility_scripts/citation_doi_fixer.py`
   - reads audit output and proposes DOI keep/normalize/remove actions
+- `utility_scripts/interlink_validator.py`
+  - validates every `[[wikilink]]` against the vault, flags broken / stub
+    / duplicate targets and emits JSON + Markdown + optional CSV reports
 
 ## Conditional
 

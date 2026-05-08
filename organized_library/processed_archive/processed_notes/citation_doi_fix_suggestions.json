@@ -1,4 +1,336 @@
 {
+  "rewritten_A22. Principle of Reversibility (Detraining).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s00421-014-2983-7",
+      "candidate": "10.1007/s00421-014-2983-7",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_A23. Principle of Individuality.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-016-0599-1",
+      "candidate": "10.1007/s40279-016-0599-1",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_A28. Advanced Movement Assessment Methodologies.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1123/jsr.2012-0134",
+      "candidate": "10.1123/jsr.2012-0134",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_A29. Tissue Adaptation to Exercise (Molecular & Cellular).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-014-0263-0",
+      "candidate": "10.1007/s40279-014-0263-0",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_A42. Connective Tissue Adaptations to Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-013-0070-x",
+      "candidate": "10.1007/s40279-013-0070-x",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_A49. Recovery Monitoring and Assessment.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-018-0892-2",
+      "candidate": "10.1007/s40279-018-0892-2",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_A51. Training Adaptation Assessment.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.4161/auto.7.12.18077",
+      "candidate": "10.4161/auto.7.12.18077",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_A55. Training Recovery.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1186/s13073-017-0492-2",
+      "candidate": "10.1186/s13073-017-0492-2",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_A61. Calcium Signaling in Muscle.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1152/jappl.2000.88.4.1422",
+      "candidate": "10.1152/jappl.2000.88.4.1422",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_A7. Muscle Physiology Fundamentals.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1002/1097-4598(200011)23:11",
+      "candidate": "10.1002/1097-4598(200011)23:11",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B11. Resistance Bands.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e3181634ffe",
+      "candidate": "10.1519/JSC.0b013e3181634ffe",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B14. Powerlifting.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/SSC.0b013e3181e5e6d5",
+      "candidate": "10.1519/SSC.0b013e3181e5e6d5",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B17. Strongman Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e3181a76c91",
+      "candidate": "10.1519/JSC.0b013e3181a76c91",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B18. Circuit Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40520-013-0034-3",
+      "candidate": "10.1007/s40520-013-0034-3",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e318201a914",
+      "candidate": "10.1519/JSC.0b013e318201a914",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B2. Protein Requirements for Muscle Growth.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.3945/ajcn.114.103333",
+      "candidate": "10.3945/ajcn.114.103333",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B20. Eccentric Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-016-0628-x",
+      "candidate": "10.1007/s40279-016-0628-x",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B23. Cluster Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s00421-013-2672-6",
+      "candidate": "10.1007/s00421-013-2672-6",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B24. Accommodating Resistance Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/R-18585.1",
+      "candidate": "10.1519/R-18585.1",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B40. Vibrational Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1097/PHM.0b013e3181d3e4b4",
+      "candidate": "10.1097/PHM.0b013e3181d3e4b4",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B41. Electrical Muscle Stimulation.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s00421-013-2636-2",
+      "candidate": "10.1007/s00421-013-2636-2",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1249/MSS.0b013e3182125e5c",
+      "candidate": "10.1249/MSS.0b013e3182125e5c",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B43. Heat Training Adaptations.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s00421-011-2095-5",
+      "candidate": "10.1007/s00421-011-2095-5",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B47. Movement Flow Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.4085/1062-6050-216-18",
+      "candidate": "10.4085/1062-6050-216-18",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B49. Sand Training Methods.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s00421-008-0718-2",
+      "candidate": "10.1007/s00421-008-0718-2",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B50. Altitude Training Protocols.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1123/ijspp.8.3.238",
+      "candidate": "10.1123/ijspp.8.3.238",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B53. Bulgarian Method.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-018-01019-9",
+      "candidate": "10.1007/s40279-018-01019-9",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B57. Westside Conjugate Analysis.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/1533-4287(2002)016",
+      "candidate": "10.1519/1533-4287(2002)016",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B62. Time-Restricted Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s00421-016-3383-z",
+      "candidate": "10.1007/s00421-016-3383-z",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1123/ijspp.2013-0441",
+      "candidate": "10.1123/ijspp.2013-0441",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B63. Minimalist Training Protocols.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1136/bjsports-2021-104365",
+      "candidate": "10.1136/bjsports-2021-104365",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B70. Ballistic Training Systems.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s00421-006-0297-z",
+      "candidate": "10.1007/s00421-006-0297-z",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/1533-4287(2002)016",
+      "candidate": "10.1519/1533-4287(2002)016",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B72. Accommodating Resistance Applications.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-015-0374-x",
+      "candidate": "10.1007/s40279-015-0374-x",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e3181634ffe",
+      "candidate": "10.1519/JSC.0b013e3181634ffe",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B75. Pre-Exhaustion Training Systems.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/1533-4287(2003)017",
+      "candidate": "10.1519/1533-4287(2003)017",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B76. Forced Repetition Techniques.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1249/01.MSS.0000170470.98084.39",
+      "candidate": "10.1249/01.MSS.0000170470.98084.39",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_B9. Kettlebell Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e318258f5eb",
+      "candidate": "10.1519/JSC.0b013e318258f5eb",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
   "rewritten_C10. Mediterranean Diet.md": [
     {
       "action": "remove_or_replace",
@@ -8,11 +340,11 @@
       "final_url": ""
     }
   ],
-  "rewritten_C104. Regulatory Affairs in Sports Nutrition.md": [
+  "rewritten_C19. Intuitive Eating.md": [
     {
       "action": "remove_or_replace",
-      "original": "10.1123/ijsnem.16.2.142",
-      "candidate": "10.1123/ijsnem.16.2.142",
+      "original": "10.1007/s40519-018-0609-6",
+      "candidate": "10.1007/s40519-018-0609-6",
       "status": "404",
       "final_url": ""
     }
@@ -29,8 +361,26 @@
   "rewritten_C23. Supplement Safety, Regulation, and Quality Control.md": [
     {
       "action": "remove_or_replace",
-      "original": "10.1001/jamanetworkopen.2022.23388",
-      "candidate": "10.1001/jamanetworkopen.2022.23388",
+      "original": "10.3109/15563650.2014.965204",
+      "candidate": "10.3109/15563650.2014.965204",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C28. Nutrition for Strength Power Athletes.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1186/s12970-018-0243-y",
+      "candidate": "10.1186/s12970-018-0243-y",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C3. Nutrient Timing.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1186/s12970-018-0246-y",
+      "candidate": "10.1186/s12970-018-0246-y",
       "status": "404",
       "final_url": ""
     }
@@ -38,8 +388,8 @@
   "rewritten_C33. Anti-Inflammatory FoodsDiets.md": [
     {
       "action": "remove_or_replace",
-      "original": "10.3945/ajcn.113.076679",
-      "candidate": "10.3945/ajcn.113.076679",
+      "original": "10.3945/ajcn.113.076893",
+      "candidate": "10.3945/ajcn.113.076893",
       "status": "404",
       "final_url": ""
     }
@@ -47,24 +397,26 @@
   "rewritten_C35. Specialized Nutrition for Performance Demands.md": [
     {
       "action": "remove_or_replace",
-      "original": "10.1007/s40279-019-01188-8",
-      "candidate": "10.1007/s40279-019-01188-8",
-      "status": "404",
-      "final_url": ""
-    },
-    {
-      "action": "remove_or_replace",
-      "original": "10.1093/nutritionreviews/article/83/3/e1068/7712679",
-      "candidate": "10.1093/nutritionreviews/article/83/3/e1068/7712679",
+      "original": "10.1007/s40279-019-01160-x",
+      "candidate": "10.1007/s40279-019-01160-x",
       "status": "404",
       "final_url": ""
     }
   ],
-  "rewritten_C46. Altitude Nutrition.md": [
+  "rewritten_C38. Micronutrient Timing.md": [
     {
       "action": "remove_or_replace",
-      "original": "10.1123/ijsnem.16.1.35",
-      "candidate": "10.1123/ijsnem.16.1.35",
+      "original": "10.1186/s12970-018-0246-y",
+      "candidate": "10.1186/s12970-018-0246-y",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C42. Precision Nutrition.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s13668-021-00348-4",
+      "candidate": "10.1007/s13668-021-00348-4",
       "status": "404",
       "final_url": ""
     }
@@ -72,58 +424,35 @@
   "rewritten_C47. Heat Stress Nutrition.md": [
     {
       "action": "remove_or_replace",
-      "original": "10.1249/MSS.0b013e3181b9b04b",
-      "candidate": "10.1249/MSS.0b013e3181b9b04b",
+      "original": "10.1249/mss.0b013e3181b9b04b",
+      "candidate": "10.1249/mss.0b013e3181b9b04b",
       "status": "404",
       "final_url": ""
     }
   ],
-  "rewritten_C48. Cold Weather Nutrition.md": [
+  "rewritten_C5. Electrolytes.md": [
     {
       "action": "remove_or_replace",
-      "original": "10.1152/jappl.2000.88.6.2069",
-      "candidate": "10.1152/jappl.2000.88.6.2069",
-      "status": "404",
-      "final_url": ""
-    },
-    {
-      "action": "remove_or_replace",
-      "original": "10.1249/01.mss.0000235355.96427.ed",
-      "candidate": "10.1249/01.mss.0000235355.96427.ed",
+      "original": "10.4085/1062-6050-45.2.212",
+      "candidate": "10.4085/1062-6050-45.2.212",
       "status": "404",
       "final_url": ""
     }
   ],
-  "rewritten_C50. Recovery Nutrition Protocols.md": [
+  "rewritten_C60. Gastrointestinal Training Protocols.md": [
     {
       "action": "remove_or_replace",
-      "original": "10.1123/ijsnem.2017-0232",
-      "candidate": "10.1123/ijsnem.2017-0232",
+      "original": "10.1007/s40279-017-0712-3",
+      "candidate": "10.1007/s40279-017-0712-3",
       "status": "404",
       "final_url": ""
     }
   ],
-  "rewritten_C55. Nutrient-Exercise Interaction.md": [
+  "rewritten_C73. Restaurant Navigation for Athletes.md": [
     {
       "action": "remove_or_replace",
-      "original": "10.1007/s40279-014-0268-2",
-      "candidate": "10.1007/s40279-014-0268-2",
-      "status": "404",
-      "final_url": ""
-    }
-  ],
-  "rewritten_C57. Advanced Hydration Strategies.md": [
-    {
-      "action": "remove_or_replace",
-      "original": "10.1007/s40279-016-0608-2",
-      "candidate": "10.1007/s40279-016-0608-2",
-      "status": "404",
-      "final_url": ""
-    },
-    {
-      "action": "remove_or_replace",
-      "original": "10.1136/bjsports-2011-090114",
-      "candidate": "10.1136/bjsports-2011-090114",
+      "original": "10.1186/s12889-018-6107-z",
+      "candidate": "10.1186/s12889-018-6107-z",
       "status": "404",
       "final_url": ""
     }
@@ -133,6 +462,15 @@
       "action": "remove_or_replace",
       "original": "10.1002/(SICI)1098-108X(199907)26:1",
       "candidate": "10.1002/(SICI)1098-108X(199907)26:1",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_C77. Metabolic Testing Integration.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1152/jappl.1991.71.6.2294",
+      "candidate": "10.1152/jappl.1991.71.6.2294",
       "status": "404",
       "final_url": ""
     }
@@ -155,6 +493,15 @@
       "final_url": ""
     }
   ],
+  "rewritten_C84. Nutrition Myth Debunking.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1186/s12970-018-0246-y",
+      "candidate": "10.1186/s12970-018-0246-y",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
   "rewritten_C95. Future of Sports Nutrition.md": [
     {
       "action": "remove_or_replace",
@@ -164,11 +511,705 @@
       "final_url": ""
     }
   ],
-  "rewritten_C98. Therapeutic Nutrition Interventions.md": [
+  "rewritten_E10. Cross-Training for Endurance Athletes.md": [
     {
       "action": "remove_or_replace",
-      "original": "10.1186/s12970-018-0239-4",
-      "candidate": "10.1186/s12970-018-0239-4",
+      "original": "10.2165/00007256-199418050-00007",
+      "candidate": "10.2165/00007256-199418050-00007",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_E12. Lactate Threshold Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-009-0043-9",
+      "candidate": "10.1007/s40279-009-0043-9",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_E14. Concurrent Training Updated Protocols & Considerations.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-013-0131-7",
+      "candidate": "10.1007/s40279-013-0131-7",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_E5. Fartlek Training.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.5040/9781492584551",
+      "candidate": "10.5040/9781492584551",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-01 Barbell Back Squat (High Bar & Low Bar).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-015-0349-4",
+      "candidate": "10.1007/s40279-015-0349-4",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-02 Barbell Bench Press (Flat).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1249/MSS.0b013e31829b2696",
+      "candidate": "10.1249/MSS.0b013e31829b2696",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/1533-4287(2005)19",
+      "candidate": "10.1519/1533-4287(2005)19",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-11 Barbell Incline Bench Press.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/1533-4287(2005)19",
+      "candidate": "10.1519/1533-4287(2005)19",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-15 Barbell Lunge.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/15334.1",
+      "candidate": "10.1519/15334.1",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-17 Pendlay Row.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1186/1476-5918-3-7",
+      "candidate": "10.1186/1476-5918-3-7",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-21 Dumbbell Bench Press (Flat).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.2478/v10078-011-0054-7",
+      "candidate": "10.2478/v10078-011-0054-7",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-22 Dumbbell Incline Bench Press.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1080/17461391.2016.1252793",
+      "candidate": "10.1080/17461391.2016.1252793",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/1533-4287(2005)19",
+      "candidate": "10.1519/1533-4287(2005)19",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-23 Dumbbell Shoulder Press (Seated).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e3181ceaab8",
+      "candidate": "10.1519/JSC.0b013e3181ceaab8",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-24 Dumbbell Lateral Raise.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.23736/S0022-4707.17.07108-0",
+      "candidate": "10.23736/S0022-4707.17.07108-0",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-27 Dumbbell Row (Single Arm).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/R-13293.1",
+      "candidate": "10.1519/R-13293.1",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-36 Dumbbell Lunge (StaticAlternatingWalking).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e3181b3dd64",
+      "candidate": "10.1519/JSC.0b013e3181b3dd64",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-37 Dumbbell Romanian Deadlift (RDL).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-015-0334-x",
+      "candidate": "10.1007/s40279-015-0334-x",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-018-0946-1",
+      "candidate": "10.1007/s40279-018-0946-1",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-38 Dumbbell Split Squat.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e3181ec86a5",
+      "candidate": "10.1519/JSC.0b013e3181ec86a5",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-39 Dumbbell Goblet Squat.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e31828d2042",
+      "candidate": "10.1519/JSC.0b013e31828d2042",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-40 Dumbbell Step-Up.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.4085/1062-6050-46.2.190",
+      "candidate": "10.4085/1062-6050-46.2.190",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-43 Renegade Row.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e3181cc61b0",
+      "candidate": "10.1519/JSC.0b013e3181cc61b0",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-49 Lying Leg Curl (Machine).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-019-01239-0",
+      "candidate": "10.1007/s40279-019-01239-0",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1038/s41598-021-84467-6",
+      "candidate": "10.1038/s41598-021-84467-6",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-52 Shoulder Press (Machine - Seated).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.23736/S0022-4707.14.04026-3",
+      "candidate": "10.23736/S0022-4707.14.04026-3",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-56 Lat Pulldown (Machine - Wide Grip).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/1533-4287(2002)016",
+      "candidate": "10.1519/1533-4287(2002)016",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-57 Seated Row (Machine - Close GripNeutral).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/R-13723.1",
+      "candidate": "10.1519/R-13723.1",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-58 Chest Supported Row (Machine).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/1533-4287(2004)18",
+      "candidate": "10.1519/1533-4287(2004)18",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-59 Triceps Extension (Machine - Overhead or Pushdown type).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0000000000000232",
+      "candidate": "10.1519/JSC.0000000000000232",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-60 Bicep Curl (Machine - Preacher or Seated).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.23736/S0022-4707.19.09497-5",
+      "candidate": "10.23736/S0022-4707.19.09497-5",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-62 Calf Raise (Machine - Seated).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0000000000000448",
+      "candidate": "10.1519/JSC.0000000000000448",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-64 Hip Adduction (Machine).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1016/S0140-6736(98)06146-X",
+      "candidate": "10.1016/S0140-6736(98)06146-X",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-65 Assisted Pull-upDip Machine.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e31827367bb",
+      "candidate": "10.1519/JSC.0b013e31827367bb",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-68 Cable Overhead Triceps Extension (RopeBar).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1080/17461391.2020.1803016",
+      "candidate": "10.1080/17461391.2020.1803016",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.23736/S0022-4707.21.12619-0",
+      "candidate": "10.23736/S0022-4707.21.12619-0",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-70 Cable Hammer Curl (Rope).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0000000000000232",
+      "candidate": "10.1519/JSC.0000000000000232",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-74 Cable Seated Row (Various grips).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/R-13723.1",
+      "candidate": "10.1519/R-13723.1",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-75 Cable Lat Pulldown (Various grips).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.2522/ptj.20130167",
+      "candidate": "10.2522/ptj.20130167",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-77 Cable Pallof Press (Anti-Rotation).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1016/s0003-9993(02)04811-0",
+      "candidate": "10.1016/s0003-9993(02)04811-0",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-81 Pull-up  Chin-up (Bodyweight).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1080/02640414.2010.492849",
+      "candidate": "10.1080/02640414.2010.492849",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-86 Back Extension  Hyperextension (Bench).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1123/jab.29.6.672",
+      "candidate": "10.1123/jab.29.6.672",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_EXL-88 Hanging Leg Raise  Knee Raise (Captain's Chair or Pull-up Bar).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e3181e7c2c8",
+      "candidate": "10.1519/JSC.0b013e3181e7c2c8",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.2519/jospt.2006.2140",
+      "candidate": "10.2519/jospt.2006.2140",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_F11. Sprint Testing Protocols.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.23736/S0022-4707.16.06320-5",
+      "candidate": "10.23736/S0022-4707.16.06320-5",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_F14. Balance and Proprioception Testing.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.2519/jospt.2009.3146",
+      "candidate": "10.2519/jospt.2009.3146",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_F16. Power Testing Methodologies.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/1533-4287(2004)18",
+      "candidate": "10.1519/1533-4287(2004)18",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.2165/00007256-198604060-00001",
+      "candidate": "10.2165/00007256-198604060-00001",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_F20. Neuromuscular Testing Systems.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1123/jab.2014-0091",
+      "candidate": "10.1123/jab.2014-0091",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_F23. Laboratory Testing Standards.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1123/ijspp.2019-0063",
+      "candidate": "10.1123/ijspp.2019-0063",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_F33. Remote Testing Protocols.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.3343/alm.2023.43.5.401",
+      "candidate": "10.3343/alm.2023.43.5.401",
+      "status": "0",
+      "final_url": ""
+    }
+  ],
+  "rewritten_F6. Lactate Threshold Assessment.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.58727/jshr.30072",
+      "candidate": "10.58727/jshr.30072",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_G-VII-3. Neurophysiology of Movement.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1113/jphysiol.2006.107987",
+      "candidate": "10.1113/jphysiol.2006.107987",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/R-20526.1",
+      "candidate": "10.1519/R-20526.1",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_G6. Geriatric Exercise Protocols.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1139/apnm-2017-0415",
+      "candidate": "10.1139/apnm-2017-0415",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_H2. Realistic Muscle Gain Rates.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s00421-015-3121-4",
+      "candidate": "10.1007/s00421-015-3121-4",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1249/01.mss.0000170469.90461.5f",
+      "candidate": "10.1249/01.mss.0000170469.90461.5f",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_I2. Female-Specific Physiological Considerations.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1249/MSS.0b013e31816570b9",
+      "candidate": "10.1249/MSS.0b013e31816570b9",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_IX-5. Introduction to Rehabilitation Principles.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1136/bjsm.2010.081596",
+      "candidate": "10.1136/bjsm.2010.081596",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_IX15. Chronic Injury Management.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1080/14728222.2019.1581926",
+      "candidate": "10.1080/14728222.2019.1581926",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_K1. Genetic Factors in Athletic Performance.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-019-01102-9",
+      "candidate": "10.1007/s40279-019-01102-9",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_K11. Performance Team Integration.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1080/02640414.2023.2198765",
+      "candidate": "10.1080/02640414.2023.2198765",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1123/ijspp.2023-0456",
+      "candidate": "10.1123/ijspp.2023-0456",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_M4. Active Recovery Protocols.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s00421-018-3809-y",
+      "candidate": "10.1007/s00421-018-3809-y",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_M8. Technology-Enhanced Recovery.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s00421-012-2540-2",
+      "candidate": "10.1007/s00421-012-2540-2",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1155/2017/3985342",
+      "candidate": "10.1155/2017/3985342",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_N5. Adult Fitness Transitions.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1186/1479-5868-3-45",
+      "candidate": "10.1186/1479-5868-3-45",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_N9. Motivation and Adherence Strategies.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.3399/bjgp16X687629",
+      "candidate": "10.3399/bjgp16X687629",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_O2. Measuring Fitness Progress.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s00421-013-2580-5",
+      "candidate": "10.1007/s00421-013-2580-5",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_O7. Community-Based Fitness Systems.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1186/s12877-018-0784-8",
+      "candidate": "10.1186/s12877-018-0784-8",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_P2. Performance Enhancement Ethics.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s12152-012-9165-8",
+      "candidate": "10.1007/s12152-012-9165-8",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1080/00948705.2018.1474077",
+      "candidate": "10.1080/00948705.2018.1474077",
+      "status": "404",
+      "final_url": ""
+    },
+    {
+      "action": "remove_or_replace",
+      "original": "10.1136/bjsm.2004.014597",
+      "candidate": "10.1136/bjsm.2004.014597",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_P4. Evidence-Based Coaching Methodologies.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1007/s40279-019-01139-6",
+      "candidate": "10.1007/s40279-019-01139-6",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_Q3. Core Recovery Principles Overview.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1093/sleep/34.7.943",
+      "candidate": "10.1093/sleep/34.7.943",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.2196/jmir.4151",
+      "candidate": "10.2196/jmir.4151",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_X3. Swimming.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1136/bjsm.2009.060087",
+      "candidate": "10.1136/bjsm.2009.060087",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_X3.1. Dry-Land Training for Swimmers.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0b013e31823f8b0e",
+      "candidate": "10.1519/JSC.0b013e31823f8b0e",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_X5. Racquet Sports (Tennis, Squash, Badminton).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1519/JSC.0000000000001",
+      "candidate": "10.1519/JSC.0000000000001",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_X8. Climbing (Rock Climbing, Bouldering).md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1016/S0021-9290(00)00179-7",
+      "candidate": "10.1016/S0021-9290(00)00179-7",
+      "status": "404",
+      "final_url": ""
+    }
+  ],
+  "rewritten_citation_validation_report.md": [
+    {
+      "action": "remove_or_replace",
+      "original": "10.1152/japplphysiol.00014.2017",
+      "candidate": "10.1152/japplphysiol.00014.2017",
       "status": "404",
       "final_url": ""
     }

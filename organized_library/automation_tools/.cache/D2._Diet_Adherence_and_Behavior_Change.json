@@ -1,0 +1,66 @@
+{
+  "note_title": "D2. Diet Adherence and Behavior Change",
+  "cached_at": "2026-05-07T19:30:02.737652",
+  "studies": [
+    {
+      "title": "Diet quality and depression risk: A systematic review and meta-analysis of prospective studies.",
+      "year": "2025",
+      "doi": "10.1016/j.jad.2025.03.162",
+      "pmid": "40158860",
+      "journal": "Journal of affective disorders",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0833,
+      "quality_score": 0.76,
+      "composite_score": 0.605
+    },
+    {
+      "title": "Education programmes for people with chronic kidney disease and diabetes.",
+      "year": "2024",
+      "doi": "10.1002/14651858.CD007374.pub3",
+      "pmid": "39171639",
+      "journal": "The Cochrane database of systematic reviews",
+      "study_type": "Meta-analysis",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.84,
+      "composite_score": 0.59
+    },
+    {
+      "title": "Mediterranean Diet and Mental Health in Children and Adolescents: A Systematic Review.",
+      "year": "2025",
+      "doi": "10.1093/nutrit/nuae053",
+      "pmid": "38758659",
+      "journal": "Nutrition reviews",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0909,
+      "quality_score": 0.69,
+      "composite_score": 0.5723
+    },
+    {
+      "title": "Barriers and facilitators to diet, physical activity and lifestyle behavior intervention adherence: a qualitative systematic review of the literature.",
+      "year": "2023",
+      "doi": "10.1186/s12966-023-01424-2",
+      "pmid": "36782207",
+      "journal": "The international journal of behavioral nutrition and physical activity",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.2143,
+      "quality_score": 0.61,
+      "composite_score": 0.5393
+    },
+    {
+      "title": "Diet interventions for depression: Review and recommendations for practice.",
+      "year": "2025",
+      "doi": "10.1177/00048674241289010",
+      "pmid": "39628343",
+      "journal": "The Australian and New Zealand journal of psychiatry",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1111,
+      "quality_score": 0.61,
+      "composite_score": 0.5383
+    }
+  ]
+}

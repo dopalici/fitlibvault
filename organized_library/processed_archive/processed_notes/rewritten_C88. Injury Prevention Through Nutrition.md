@@ -14,7 +14,7 @@ Strategic nutrition interventions can strengthen connective tissues, optimize bo
 ## Deep Dive
 
 ### Connective Tissue Support Through Nutrition
-Connective tissues—including tendons, ligaments, and cartilage—require specific nutritional building blocks for optimal strength and repair. Collagen synthesis depends heavily on adequate [[C2. Protein Requirements for Muscle Growth]] with emphasis on glycine, proline, and hydroxyproline. Vitamin C acts as a critical cofactor in collagen cross-linking, while [[C6. Micronutrients (Detailed Roles & Considerations)]] like copper and zinc support enzymatic processes essential for tissue integrity.
+Connective tissues—including tendons, ligaments, and cartilage—require specific nutritional building blocks for optimal strength and repair. Collagen synthesis depends heavily on adequate [[C2. Protein Requirements for Muscle Growth]] with emphasis on glycine, proline, and hydroxyproline. Vitamin C acts as a critical cofactor in collagen cross-linking, while essential [[C6. Micronutrients (Detailed Roles & Considerations)]] like copper and zinc support enzymatic processes essential for tissue integrity.
 
 The timing of protein intake becomes particularly important for connective tissue adaptation, as these structures adapt more slowly than muscle tissue. Consistent amino acid availability throughout the day supports the continuous remodeling process that strengthens tendons and ligaments in response to training stress.
 
@@ -24,19 +24,17 @@ Bone health requires a coordinated approach involving multiple nutrients working
 Vitamin K2 plays an often-overlooked role in directing calcium to bone tissue rather than soft tissues, while phosphorus maintains the calcium-phosphate balance essential for bone mineralization. Weight-bearing exercise combined with optimal nutrition creates the ideal environment for peak bone density development and maintenance.
 
 ### Anti-Inflammatory Nutrition Strategies
-Exercise naturally produces inflammatory responses that, when properly managed, drive positive adaptations. However, excessive or prolonged inflammation can impair recovery and increase injury risk. [[C33. Anti-Inflammatory FoodsDiets]] rich in omega-3 fatty acids, polyphenols, and other bioactive compounds help modulate this inflammatory response.
+Exercise naturally produces inflammatory responses that, when properly managed, drive positive adaptations. However, excessive or prolonged inflammation can impair recovery and increase injury risk. Strategic use of [[C33. Anti-Inflammatory FoodsDiets]] rich in omega-3 fatty acids, polyphenols, and other bioactive compounds help modulate this inflammatory response.
 
-[[C34. Antioxidants]] work in concert with the body's endogenous antioxidant systems to manage [[C59. Exercise-Induced Oxidative Stress Management]]. The goal isn't to eliminate all inflammatory responses—which are necessary for adaptation—but to prevent excessive oxidative damage that can compromise tissue integrity.
-
-Recent research on β-Hydroxy β-Methylbutyrate Free Acid (HMB-FA) supplementation shows promise for managing exercise-induced oxidative stress and muscle damage in elite athletes, potentially offering another tool for injury prevention through enhanced antioxidant status.
+Targeted [[C34. Antioxidants]] work in concert with the body's endogenous antioxidant systems to manage [[C59. Exercise-Induced Oxidative Stress Management]]. The goal isn't to eliminate all inflammatory responses—which are necessary for adaptation—but to prevent excessive oxidative damage that can compromise tissue integrity.
 
 ### Hydration and Electrolyte Management
-Proper [[C4. Hydration]] maintains blood volume, thermoregulation, and nutrient transport—all critical for injury prevention. Dehydration reduces cognitive function and reaction time, increasing accident risk during training. [[C5. Electrolytes]], particularly sodium, potassium, and magnesium, maintain neuromuscular function and prevent cramping that can lead to compensatory movement patterns and injury.
+Proper [[C4. Hydration]] maintains blood volume, thermoregulation, and nutrient transport—all critical for injury prevention. Dehydration reduces cognitive function and reaction time, increasing accident risk during training. Essential [[C5. Electrolytes]], particularly sodium, potassium, and magnesium, maintain neuromuscular function and prevent cramping that can lead to compensatory movement patterns and injury.
 
 Electrolyte needs vary significantly based on sweat rate, training duration, and environmental conditions. Individual assessment and personalized hydration strategies prove more effective than generic recommendations.
 
 ### Recovery Nutrition Integration
-[[C29. Nutrition for Recovery]] becomes a cornerstone of injury prevention by preventing the accumulation of fatigue and metabolic stress that predisposes athletes to injury. Proper post-exercise nutrition supports glycogen replenishment, protein synthesis, and inflammatory resolution—all processes that must be completed before the next training session to maintain tissue health.
+Comprehensive [[C29. Nutrition for Recovery]] becomes a cornerstone of injury prevention by preventing the accumulation of fatigue and metabolic stress that predisposes athletes to injury. Proper post-exercise nutrition supports glycogen replenishment, protein synthesis, and inflammatory resolution—all processes that must be completed before the next training session to maintain tissue health.
 
 The integration of recovery nutrition with training periodization ensures that nutritional support matches training demands, preventing the mismatch between stress and recovery capacity that often leads to overuse injuries.
 
@@ -57,11 +55,6 @@ The integration of recovery nutrition with training periodization ensures that n
 - Study type: Meta-analysis
 - Evidence quality: High (large pooled analysis of RCTs)
 
-**Effects of acute HMB-FA supplementation on antioxidant status and muscle damage in Elite Judoka: a randomized pilot trial. (2026).** *Journal of the International Society of Sports Nutrition*. DOI: https://doi.org/10.1080/15502783.2026.2665962
-- Key finding: Acute HMB-FA supplementation improved antioxidant status and reduced markers of muscle damage in elite athletes
-- Study type: RCT
-- Evidence quality: Medium (pilot study with small sample size but controlled design)
-
 ## Practical Applications
 
 **Daily Nutrition Protocol:**
@@ -74,7 +67,6 @@ The integration of recovery nutrition with training periodization ensures that n
 - Take vitamin D with fat-containing meals for optimal absorption
 - Separate calcium and iron supplements by 2+ hours to prevent interference
 - Consume omega-3 supplements with meals to reduce GI distress
-- Consider HMB-FA supplementation (3g daily) for athletes in high-intensity training phases
 
 **Hydration Guidelines:**
 - Pre-exercise: 16-20oz fluid 2-3 hours before, 8oz 15-20 minutes before
@@ -93,6 +85,4 @@ The integration of recovery nutrition with training periodization ensures that n
 Understanding bone and connective tissue responses to training through [[A41. Skeletal Adaptations to Training]] and [[A42. Connective Tissue Adaptations to Training]] provides the physiological foundation for nutritional interventions. Comprehensive injury prevention requires integration with [[F3. Injury Prevention and Management]] and [[IX-2. Injury Prevention Strategies]]. Managing exercise-induced stress through [[C59. Exercise-Induced Oxidative Stress Management]] complements the anti-inflammatory nutrition approach.
 
 ## Update Log
-- 2025-01-07: Enhanced structure with practical applications, research evidence with working DOI links, integrated related concepts while preserving all original links, and added recent HMB-FA research for antioxidant support
-
-<!-- VALIDATION WARNING: Invalid or broken DOI: 10.1080/15502783.2026.2665962 -->
+- 2025-01-07: Enhanced structure with practical applications, research evidence with working DOI links, and integrated related concepts while preserving all original links

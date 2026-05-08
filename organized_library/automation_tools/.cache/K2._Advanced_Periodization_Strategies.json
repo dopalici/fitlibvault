@@ -1,0 +1,66 @@
+{
+  "note_title": "K2. Advanced Periodization Strategies",
+  "cached_at": "2026-05-07T21:27:13.636686",
+  "studies": [
+    {
+      "title": "Consensus Document of the Spanish Nutrition Society (SE\u00d1) on Nutritional Strategies in Sports.",
+      "year": "2025",
+      "doi": "10.3390/nu17243862",
+      "pmid": "41470807",
+      "journal": "Nutrients",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.1,
+      "quality_score": 0.85,
+      "composite_score": 0.655
+    },
+    {
+      "title": "Does a low-carbohydrate diet impede endurance sports performance? Debate Consensus.",
+      "year": "2026",
+      "doi": "10.1016/j.ajcnut.2026.101271",
+      "pmid": "42070893",
+      "journal": "The American journal of clinical nutrition",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Periodizing Exercise Medicine Prescription for Patients with Cancer: A Narrative Opinion.",
+      "year": "2025",
+      "doi": "10.1007/s40279-025-02311-5",
+      "pmid": "41102590",
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.625
+    },
+    {
+      "title": "Effects of Long-Haul Travel on Recovery and Performance in Elite Athletes: A Systematic Review.",
+      "year": "2022",
+      "doi": "10.1519/JSC.0000000000004021",
+      "pmid": "36287181",
+      "journal": "Journal of strength and conditioning research",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.85,
+      "composite_score": 0.555
+    },
+    {
+      "title": "Consensus Statements-Optimizing Performance of the Elite Athlete.",
+      "year": "2025",
+      "doi": "10.1111/sms.70112",
+      "pmid": "40781883",
+      "journal": "Scandinavian journal of medicine & science in sports",
+      "study_type": "Systematic review",
+      "summary": "Recent study surfaced for evidence refresh.",
+      "relevance_score": 0.0,
+      "quality_score": 0.61,
+      "composite_score": 0.505
+    }
+  ]
+}
