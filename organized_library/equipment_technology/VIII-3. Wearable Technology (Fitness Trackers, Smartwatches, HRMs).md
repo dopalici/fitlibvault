@@ -1,6 +1,10 @@
+---
+id: VIII-3-WEARABLE-TECHNOLOGY
+created: '2025-04-24'
+updated: '2025-01-15'
+section: VIII
+---
 ### VIII-3. Wearable Technology (Fitness Trackers, Smartwatches, HRMs)
-
-**ID:** VIII-3-WEARABLE-TECHNOLOGY **Created:** 2025-04-24 (Updated: 2025-01-15)
 
 ## Quick Takeaway
 Wearable devices excel at tracking trends and motivating activity but have significant accuracy limitations - use them as supplementary tools for patterns rather than precise measurements.

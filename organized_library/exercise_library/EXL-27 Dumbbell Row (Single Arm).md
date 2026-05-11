@@ -1,6 +1,12 @@
-### **EXL-27: Dumbbell Row (Single Arm)**
+---
+id: EXL-27-DB-ROW-SA
+created: '2025-04-29
 
-**ID:** EXL-27-DB-ROW-SA **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-27: Dumbbell Row (Single Arm)**
 
 **(Brief Description):** A unilateral upper-body pulling exercise performed typically with one knee and hand supporting the body on a bench, while rowing a dumbbell towards the torso with the opposite arm. Effectively targets back musculature (lats, rhomboids, traps) and promotes core anti-rotational stability.
 

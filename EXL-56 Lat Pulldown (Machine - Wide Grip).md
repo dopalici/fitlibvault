@@ -1,6 +1,12 @@
-### **EXL-56: Lat Pulldown (Machine - Wide Grip)**
+---
+id: EXL-56-MEX-LATPD-WIDE
+created: '2025-04-30
 
-**ID:** EXL-56-MEX-LATPD-WIDE **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-56: Lat Pulldown (Machine - Wide Grip)**
 
 **(Brief Description):** A machine-based exercise [[B10. Machine Training]] simulating a wide-grip pull-up, involving pulling a wide bar down towards the upper chest while seated. Primarily targets the latissimus dorsi, promoting back width.
 

@@ -1,6 +1,10 @@
+---
+id: EXL-00
+created: '[Original date]'
+updated: '2024-12-19'
+section: EXL
+---
 ### Exercise Library Index
-**ID:** EXL-00
-**Created:** [Original date] (Updated: 2024-12-19)
 
 ## Quick Takeaway
 A comprehensive index of 100 evidence-based exercises covering barbell movements, dumbbell exercises, machine training, cables, bodyweight movements, and cardiovascular equipment for complete fitness programming.

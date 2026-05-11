@@ -1,6 +1,12 @@
-### **EXL-51: Chest Press (Machine - Seated)**
+---
+id: EXL-51-MEX-CHESTPRESS
+created: '2025-04-30
 
-**ID:** EXL-51-MEX-CHESTPRESS **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-51: Chest Press (Machine - Seated)**
 
 **(Brief Description):** A machine-based exercise [[B10. Machine Training]] simulating a bench press, performed seated, involving pushing handles forward against resistance. Provides stability and isolates the chest, shoulders, and triceps.
 

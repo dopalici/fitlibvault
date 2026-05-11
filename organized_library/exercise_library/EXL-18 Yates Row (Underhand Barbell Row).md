@@ -1,6 +1,12 @@
-### **EXL-18: Yates Row (Underhand Barbell Row)**
+---
+id: EXL-18-BB-YATESROW
+created: '2025-04-29
 
-**ID:** EXL-18-BB-YATESROW **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-18: Yates Row (Underhand Barbell Row)**
 
 **(Brief Description):** A barbell bent-over row variation popularized by bodybuilder Dorian Yates, characterized by a more upright torso angle (typically ~45-70 degrees) and an underhand (supinated) grip. Allows for potentially heavier loads and greater biceps involvement compared to pronated grip rows.
 

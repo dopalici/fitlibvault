@@ -1,6 +1,12 @@
-### **EXL-65: Assisted Pull-up/Dip Machine**
+---
+id: EXL-65-MEX-ASSISTPULLDIP
+created: '2025-04-30
 
-**ID:** EXL-65-MEX-ASSISTPULLDIP **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-65: Assisted Pull-up/Dip Machine**
 
 **(Brief Description):** A machine [[../resistance_training/B10. Machine Training]] that provides adjustable counterweight assistance to reduce the effective bodyweight lifted during pull-ups/chin-ups or dips, making these challenging bodyweight exercises accessible to individuals not yet strong enough to perform them unassisted.
 

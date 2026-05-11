@@ -1,6 +1,12 @@
-### **EXL-45: Arnold Press**
+---
+id: EXL-45-DB-ARNOLDPRESS
+created: '2025-04-29
 
-**ID:** EXL-45-DB-ARNOLDPRESS **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-45: Arnold Press**
 
 **(Brief Description):** A variation of the dumbbell shoulder press [[EXL-23 Dumbbell Shoulder Press (Seated)]] popularized by Arnold Schwarzenegger. It involves starting with palms facing the body and rotating the palms forward during the upward pressing motion, increasing the range of motion and potentially involving more muscle fibers.
 

@@ -1,5 +1,10 @@
+---
+id: IX8-RETURN-TO-PLAY
+created: '2025-06-05'
+updated: '2026-05-08'
+section: IX
+---
 ### IX8. Return-to-Play Protocols
-**ID:** IX8-RETURN-TO-PLAY **Created:** 2025-06-05 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Return-to-play protocols are systematic, evidence-based frameworks that use objective criteria and progressive phases to safely transition athletes from injury rehabilitation back to full sport participation while minimizing re-injury risk.

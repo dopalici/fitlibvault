@@ -1,6 +1,12 @@
-### **EXL-90: Russian Twist (Bodyweight or Weighted)**
+---
+id: EXL-90-BW-RUSSITWIST
+created: '2025-05-01
 
-**ID:** EXL-90-BW-RUSSITWIST **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-90: Russian Twist (Bodyweight or Weighted)**
 
 **(Brief Description):** A core exercise targeting the obliques and rectus abdominis through trunk rotation. Performed seated on the floor, often leaning back with feet elevated or anchored, involving twisting the torso from side to side, sometimes holding a weight.
 

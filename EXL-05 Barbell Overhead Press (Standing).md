@@ -1,6 +1,10 @@
+---
+id: EXL-05-BB-OHP
+created: '2025-04-28'
+updated: '2025-01-11'
+section: EXL
+---
 ### **EXL-05: Barbell Overhead Press (Standing)**
-**ID:** EXL-05-BB-OHP  
-**Created:** 2025-04-28 (Updated: 2025-01-11)
 
 ## Quick Takeaway
 The standing barbell overhead press is a fundamental compound movement that develops vertical pushing strength and shoulder stability while requiring full-body coordination and core control.

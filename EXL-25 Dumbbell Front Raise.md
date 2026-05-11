@@ -1,6 +1,12 @@
-### **EXL-25: Dumbbell Front Raise**
+---
+id: EXL-25-DB-FRONTRAISE
+created: '2025-04-29
 
-**ID:** EXL-25-DB-FRONTRAISE **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-25: Dumbbell Front Raise**
 
 **(Brief Description):** An isolation exercise involving raising dumbbells straight forward to shoulder height. Primarily targets the anterior (front) head of the deltoid muscle.
 

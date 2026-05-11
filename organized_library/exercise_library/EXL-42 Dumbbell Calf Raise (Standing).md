@@ -1,6 +1,12 @@
-### **EXL-42: Dumbbell Calf Raise (Standing)**
+---
+id: EXL-42-DB-CALFRAISE-STAND
+created: '2025-04-29
 
-**ID:** EXL-42-DB-CALFRAISE-STAND **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-42: Dumbbell Calf Raise (Standing)**
 
 **(Brief Description):** An exercise targeting the calf muscles (gastrocnemius and soleus) through ankle plantarflexion while standing and holding dumbbells. Allows for independent loading of each leg's stabilizers compared to machine or barbell versions.
 

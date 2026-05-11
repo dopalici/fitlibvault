@@ -1,6 +1,10 @@
+---
+id: EXL-22-DB-INCLINEBENCH
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-22: Dumbbell Incline Bench Press**
-
-**ID:** EXL-22-DB-INCLINEBENCH **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The dumbbell incline bench press targets the upper chest and front shoulders more effectively than flat pressing while allowing greater range of motion and natural arm movement compared to barbell variations.

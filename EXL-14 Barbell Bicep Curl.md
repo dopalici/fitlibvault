@@ -1,6 +1,10 @@
+---
+id: EXL-14-BB-BICEPCURL
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-14: Barbell Bicep Curl**
-
-**ID:** EXL-14-BB-BICEPCURL **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A fundamental isolation exercise using a barbell to target the biceps brachii through elbow flexion, allowing for heavier loads than dumbbell variations while requiring strict form to prevent momentum-based cheating.

@@ -1,6 +1,12 @@
-### **EXL-34: Dumbbell Triceps Kickback**
+---
+id: EXL-34-DB-TRICKICKBACK
+created: '2025-04-29
 
-**ID:** EXL-34-DB-TRICKICKBACK **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-34: Dumbbell Triceps Kickback**
 
 **(Brief Description):** An isolation exercise targeting the triceps brachii, performed typically in a bent-over position (often supported), involving extending the elbow against gravity with a dumbbell.
 

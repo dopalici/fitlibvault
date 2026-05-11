@@ -1,6 +1,12 @@
-### **EXL-11: Barbell Incline Bench Press**
+---
+id: EXL-11-BB-INCLINEBENCH
+created: '2025-04-29
 
-**ID:** EXL-11-BB-INCLINEBENCH **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-11: Barbell Incline Bench Press**
 
 **(Brief Description):** An upper-body compound exercise performed lying on an incline bench (typically 15-45 degrees), involving lowering a barbell to the upper chest and pressing it back up. Emphasizes the clavicular (upper) head of the pectoralis major and anterior deltoids more than the flat bench press.
 

@@ -1,6 +1,13 @@
-### **EXL-67: Cable Triceps Pushdown (Rope/Bar)**
+---
+id: 'EXL-67-CEX-TRIPUSHDOWN _(Note: This is the same exercise as EXL-12 from the list,
+  consolidating)_'
+created: '2025-04-30
 
-**ID:** EXL-67-CEX-TRIPUSHDOWN _(Note: This is the same exercise as EXL-12 from the list, consolidating)_ **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-67: Cable Triceps Pushdown (Rope/Bar)**
 
 **(Brief Description):** An isolation exercise using a high pulley cable machine [[../resistance_training/B10. Machine Training]] to target the triceps brachii muscle through elbow extension. Various attachments (rope, straight bar, V-bar) can be used, offering slightly different feel and emphasis.
 

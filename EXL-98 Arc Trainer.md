@@ -1,6 +1,10 @@
+---
+id: EXL-98-CARDIO-ARCTRAINER
+created: '2025-05-01'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-98: Arc Trainer**
-
-**ID:** EXL-98-CARDIO-ARCTRAINER **Created:** 2025-05-01 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The Arc Trainer is a low-impact cardiovascular machine with a unique curved footplate motion that provides weight-bearing exercise while minimizing joint stress, suitable for all fitness levels.

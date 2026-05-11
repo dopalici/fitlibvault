@@ -1,6 +1,12 @@
-### **EXL-02: Barbell Bench Press (Flat)**
+---
+id: EXL-02-BB-BENCH
+created: '2025-04-28
 
-**ID:** EXL-02-BB-BENCH **Created:** 2025-04-28
+
+  **'
+section: EXL
+---
+### **EXL-02: Barbell Bench Press (Flat)**
 
 **(Brief Description):** A fundamental upper-body compound exercise performed lying supine on a bench, involving lowering a barbell to the chest and pressing it back up. Primarily develops pushing strength and hypertrophy in the chest, shoulders, and triceps.
 

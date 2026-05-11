@@ -1,6 +1,10 @@
+---
+id: EXL-80-CEX-UPRIGHTROW
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-80: Cable Upright Row**
-
-**ID:** EXL-80-CEX-UPRIGHTROW **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Cable upright rows target the side deltoids and upper traps but carry significant shoulder impingement risk - use wider grip and stop at chest height for safer execution.

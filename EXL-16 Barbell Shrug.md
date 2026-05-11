@@ -1,6 +1,10 @@
+---
+id: EXL-16-BB-SHRUG
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-16: Barbell Shrug**
-**ID:** EXL-16-BB-SHRUG  
-**Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The barbell shrug is a beginner-friendly isolation exercise that targets the upper trapezius muscles through shoulder elevation, making it effective for developing trap strength and size.

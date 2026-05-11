@@ -1,6 +1,10 @@
+---
+id: EXL-02-BB-BENCH
+created: '2025-04-28'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-02: Barbell Bench Press (Flat)**
-
-**ID:** EXL-02-BB-BENCH **Created:** 2025-04-28 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The barbell bench press is a fundamental compound exercise that develops pressing strength and muscle mass in the chest, shoulders, and triceps through horizontal pushing movement.

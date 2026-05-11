@@ -1,6 +1,12 @@
-### **EXL-49: Lying Leg Curl (Machine)**
+---
+id: EXL-49-MEX-LEGCURL-LYING
+created: '2025-04-30
 
-**ID:** EXL-49-MEX-LEGCURL-LYING **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-49: Lying Leg Curl (Machine)**
 
 **(Brief Description):** An isolation exercise performed lying prone on a machine [[../resistance_training/B10. Machine Training]], involving flexing the knees against resistance provided by a lever arm. Primarily targets the hamstring muscles, potentially allowing for greater hip extension compared to the seated version.
 

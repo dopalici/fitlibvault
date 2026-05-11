@@ -1,6 +1,12 @@
-### **EXL-95: Spin Bike**
+---
+id: EXL-95-CARDIO-SPINBIKE
+created: '2025-05-01
 
-**ID:** EXL-95-CARDIO-SPINBIKE **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-95: Spin Bike**
 
 **(Brief Description):** A type of indoor stationary bike [[../equipment_technology/VIII-2. Commercial Gym Equipment]] designed to more closely mimic the feel and geometry of a road bicycle [[../sports_specific/X2. Cycling (Road, Mountain, Track)]]. Features a weighted flywheel, adjustable resistance (often manual friction or magnetic), and allows riders to stand up while pedaling. Commonly used in group fitness classes ("Spinning").
 

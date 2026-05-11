@@ -1,6 +1,10 @@
+---
+id: EXL-64-MEX-HIPADD
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-64: Hip Adduction (Machine)**
-
-**ID:** EXL-64-MEX-HIPADD **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Hip adduction machines provide isolated strengthening of inner thigh muscles through controlled leg squeezing movements, making them ideal for beginners and rehabilitation settings.

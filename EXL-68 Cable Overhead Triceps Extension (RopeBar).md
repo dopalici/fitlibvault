@@ -1,6 +1,12 @@
-### **EXL-68: Cable Overhead Triceps Extension (Rope/Bar)**
+---
+id: EXL-68-CEX-OHTRIEXT
+created: '2025-04-30
 
-**ID:** EXL-68-CEX-OHTRIEXT **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-68: Cable Overhead Triceps Extension (Rope/Bar)**
 
 **(Brief Description):** An isolation exercise using a low pulley cable machine [[B10. Machine Training]] to target the triceps, specifically emphasizing the long head due to the overhead position. The cable provides constant tension throughout the range of motion.
 

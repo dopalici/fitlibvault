@@ -1,6 +1,10 @@
+---
+id: EXL-71-CEX-LATRAISE
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-71: Cable Lateral Raise**
-
-**ID:** EXL-71-CEX-LATRAISE **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Cable lateral raises provide constant tension throughout the movement to isolate the medial deltoids, offering a controlled alternative to free weight lateral raises with consistent resistance at all joint angles.

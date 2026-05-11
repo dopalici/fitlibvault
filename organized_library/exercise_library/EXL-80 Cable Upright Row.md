@@ -1,6 +1,12 @@
-### **EXL-80: Cable Upright Row**
+---
+id: EXL-80-CEX-UPRIGHTROW
+created: '2025-04-30
 
-**ID:** EXL-80-CEX-UPRIGHTROW **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-80: Cable Upright Row**
 
 **(Brief Description):** An exercise using a low pulley cable machine [[../resistance_training/B10. Machine Training]] and typically a straight bar or EZ-bar attachment, involving pulling the bar vertically upwards towards the chin. Primarily targets the side deltoids and upper trapezius. _Note: Can be controversial due to potential shoulder impingement risk._
 

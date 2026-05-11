@@ -1,6 +1,12 @@
-### **EXL-09: Barbell Romanian Deadlift (RDL)**
+---
+id: EXL-09-BB-RDL
+created: '2025-04-29
 
-**ID:** EXL-09-BB-RDL **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-09: Barbell Romanian Deadlift (RDL)**
 
 **(Brief Description):** A hip hinge exercise involving lowering a barbell towards the floor by pushing the hips back while maintaining a nearly straight leg position (slight knee bend) and a neutral spine. Primarily targets the hamstrings and glutes eccentrically and isometrically.
 

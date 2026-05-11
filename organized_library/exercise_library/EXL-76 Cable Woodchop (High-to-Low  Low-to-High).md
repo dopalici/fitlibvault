@@ -1,6 +1,12 @@
-### **EXL-76: Cable Woodchop (High-to-Low / Low-to-High)**
+---
+id: EXL-76-CEX-WOODCHOP
+created: '2025-04-30
 
-**ID:** EXL-76-CEX-WOODCHOP **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-76: Cable Woodchop (High-to-Low / Low-to-High)**
 
 **(Brief Description):** A rotational core exercise using a cable machine [[../resistance_training/B10. Machine Training]], involving pulling a handle diagonally across the body, either from a high anchor point downwards (high-to-low) or a low anchor point upwards (low-to-high). Targets the obliques and other core muscles involved in rotation and anti-rotation [[../cross_training/L4. Core Stability Training]].
 

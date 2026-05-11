@@ -1,6 +1,12 @@
-### **EXL-69: Cable Bicep Curl (Bar/Handles)**
+---
+id: EXL-69-CEX-BICEPCURL
+created: '2025-04-30
 
-**ID:** EXL-69-CEX-BICEPCURL **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-69: Cable Bicep Curl (Bar/Handles)**
 
 **(Brief Description):** An isolation exercise using a low pulley cable machine [[../resistance_training/B10. Machine Training]] to target the elbow flexors (biceps, brachialis). Cables provide constant tension throughout the range of motion, differing from the varying resistance curve of free weights.
 

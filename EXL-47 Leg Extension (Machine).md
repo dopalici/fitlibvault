@@ -1,6 +1,10 @@
+---
+id: EXL-47-MEX-LEGEXT
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### EXL-47: Leg Extension (Machine)
-**ID:** EXL-47-MEX-LEGEXT
-**Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A seated machine exercise that isolates the quadriceps muscles through knee extension, ideal for beginners and targeted quadriceps development.

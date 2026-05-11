@@ -1,6 +1,12 @@
-### **EXL-91: Treadmill (Walking/Running)**
+---
+id: EXL-91-CARDIO-TREADMILL
+created: '2025-05-01
 
-**ID:** EXL-91-CARDIO-TREADMILL **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-91: Treadmill (Walking/Running)**
 
 **(Brief Description):** A common cardiovascular exercise machine [[../equipment_technology/VIII-2. Commercial Gym Equipment]] that allows users to walk, jog, or run indoors on a moving belt. Offers control over speed and incline.
 

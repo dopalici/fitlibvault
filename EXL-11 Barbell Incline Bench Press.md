@@ -1,6 +1,10 @@
+---
+id: EXL-11-BB-INCLINEBENCH
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-11: Barbell Incline Bench Press**
-
-**ID:** EXL-11-BB-INCLINEBENCH **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The barbell incline bench press is an intermediate compound exercise that targets the upper chest and shoulders more than flat bench pressing, requiring proper shoulder stability and technique.

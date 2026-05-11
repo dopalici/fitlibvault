@@ -1,6 +1,13 @@
-### **EXL-86: Back Extension / Hyperextension (Bench)**
+---
+id: 'EXL-86-BW-BACKEXT _(Note: This duplicates EXL-19 from the list, confirming placement
+  here)_'
+created: '2025-05-01
 
-**ID:** EXL-86-BW-BACKEXT _(Note: This duplicates EXL-19 from the list, confirming placement here)_ **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-86: Back Extension / Hyperextension (Bench)**
 
 **(Brief Description):** An exercise targeting the spinal erectors, glutes, and hamstrings, typically performed on a 45-degree hyperextension bench or a glute-ham raise (GHR) apparatus [[../equipment_technology/VIII-2. Commercial Gym Equipment]]. Involves hinging at the hips [[../cross_training/L1. Movement Patterns and Functional Training]] to lower the torso and extending the hips/spine to return to the start.
 

@@ -1,6 +1,12 @@
-### **EXL-61: Calf Raise (Machine - Standing)**
+---
+id: EXL-61-MEX-CALFRAISE-STAND
+created: '2025-04-30
 
-**ID:** EXL-61-MEX-CALFRAISE-STAND **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-61: Calf Raise (Machine - Standing)**
 
 **(Brief Description):** An isolation exercise targeting the calf muscles (gastrocnemius and soleus) through ankle plantarflexion, performed on a standing calf raise machine [[../resistance_training/B10. Machine Training]] which provides stability via shoulder pads.
 

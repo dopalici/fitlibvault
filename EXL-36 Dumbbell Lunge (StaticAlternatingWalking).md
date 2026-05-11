@@ -1,7 +1,10 @@
+---
+id: 'EXL-36-DB-LUNGE _(Note: This duplicates EXL-24 from the list, consolidating variations)_'
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-36: Dumbbell Lunge (Static/Alternating/Walking)**
-
-**ID:** EXL-36-DB-LUNGE _(Note: This duplicates EXL-24 from the list, consolidating variations)_ 
-**Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A unilateral lower-body exercise that develops single-leg strength, stability, and balance by stepping forward, backward, or remaining static while lowering the hips with dumbbells held at the sides.

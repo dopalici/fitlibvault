@@ -1,6 +1,12 @@
-### **EXL-36: Dumbbell Lunge (Static/Alternating/Walking)**
+---
+id: 'EXL-36-DB-LUNGE _(Note: This duplicates EXL-24 from the list, consolidating variations)_'
+created: '2025-04-29
 
-**ID:** EXL-36-DB-LUNGE _(Note: This duplicates EXL-24 from the list, consolidating variations)_ **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-36: Dumbbell Lunge (Static/Alternating/Walking)**
 
 **(Brief Description):** A unilateral lower-body exercise involving stepping (or remaining static) and lowering the hips until both knees are bent near 90 degrees, while holding dumbbells. Develops single-leg strength, stability, balance, and hypertrophy. Includes variations like static (split squat), forward, reverse, and walking lunges.
 

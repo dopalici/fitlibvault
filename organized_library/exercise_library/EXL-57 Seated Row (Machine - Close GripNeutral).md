@@ -1,6 +1,12 @@
-### **EXL-57: Seated Row (Machine - Close Grip/Neutral)**
+---
+id: EXL-57-MEX-ROW-SEATEDCLOSE
+created: '2025-04-30
 
-**ID:** EXL-57-MEX-ROW-SEATEDCLOSE **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-57: Seated Row (Machine - Close Grip/Neutral)**
 
 **(Brief Description):** A machine-based exercise [[../resistance_training/B10. Machine Training]], typically performed seated with chest support, involving pulling a close-grip or neutral-grip handle towards the torso. Emphasizes the mid-back muscles (rhomboids, mid-traps) and lats.
 

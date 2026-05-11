@@ -1,6 +1,12 @@
-### **EXL-87: Glute-Ham Raise (GHR)**
+---
+id: EXL-87-BW-GHR
+created: '2025-05-01
 
-**ID:** EXL-87-BW-GHR **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-87: Glute-Ham Raise (GHR)**
 
 **(Brief Description):** An advanced bodyweight exercise [[../resistance_training/B7. Bodyweight Training]] performed on a dedicated Glute-Ham Raise apparatus [[../equipment_technology/VIII-2. Commercial Gym Equipment]]. It involves lowering the torso towards parallel by extending the knees, followed by pulling back up using primarily the hamstrings and glutes. Excellent for posterior chain development.
 

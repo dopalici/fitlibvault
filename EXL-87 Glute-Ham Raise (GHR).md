@@ -1,6 +1,10 @@
+---
+id: EXL-87-BW-GHR
+created: '2025-05-01'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-87: Glute-Ham Raise (GHR)**
-
-**ID:** EXL-87-BW-GHR **Created:** 2025-05-01 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 An advanced bodyweight exercise that targets hamstrings and glutes through knee flexion and hip extension, requiring specialized equipment and significant posterior chain strength.

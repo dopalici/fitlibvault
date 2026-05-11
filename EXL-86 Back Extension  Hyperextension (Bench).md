@@ -1,7 +1,11 @@
+---
+id: 'EXL-86-BW-BACKEXT _(Note: This duplicates EXL-19 from the list, confirming placement
+  here)_'
+created: '2025-05-01'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-86: Back Extension / Hyperextension (Bench)**
-
-**ID:** EXL-86-BW-BACKEXT _(Note: This duplicates EXL-19 from the list, confirming placement here)_
-**Created:** 2025-05-01 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A hip-hinge movement performed on a hyperextension bench that strengthens the posterior chain (spinal erectors, glutes, hamstrings) while teaching proper hip-hinge mechanics essential for deadlifting patterns.

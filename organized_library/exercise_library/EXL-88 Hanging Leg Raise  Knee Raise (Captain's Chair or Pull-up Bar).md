@@ -1,6 +1,12 @@
-### **EXL-88: Hanging Leg Raise / Knee Raise (Captain's Chair or Pull-up Bar)**
+---
+id: EXL-88-BW-LEGRAISE-HANGING
+created: '2025-05-01
 
-**ID:** EXL-88-BW-LEGRAISE-HANGING **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-88: Hanging Leg Raise / Knee Raise (Captain's Chair or Pull-up Bar)**
 
 **(Brief Description):** A challenging core exercise [[../cross_training/L4. Core Stability Training]] targeting the lower rectus abdominis and hip flexors. Performed by hanging from a pull-up bar [[EXL-81 Pull-up  Chin-up (Bodyweight)]] or supported by forearms in a Captain's Chair apparatus [[../equipment_technology/VIII-2. Commercial Gym Equipment]], involving raising the knees or straight legs towards the torso.
 

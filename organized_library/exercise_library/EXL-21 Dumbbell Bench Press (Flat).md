@@ -1,6 +1,12 @@
-### **EXL-21: Dumbbell Bench Press (Flat)**
+---
+id: EXL-21-DB-BENCH
+created: '2025-04-29
 
-**ID:** EXL-21-DB-BENCH **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-21: Dumbbell Bench Press (Flat)**
 
 **(Brief Description):** An upper-body compound exercise performed lying supine on a bench, pressing two dumbbells upwards from chest level. Develops pushing strength and hypertrophy, similar to the barbell bench press but requiring greater stabilization.
 

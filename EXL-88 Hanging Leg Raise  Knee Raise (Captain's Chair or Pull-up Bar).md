@@ -1,6 +1,10 @@
+---
+id: EXL-88-BW-LEGRAISE-HANGING
+created: '2025-05-01'
+updated: '2025-01-08'
+section: EXL
+---
 ### **EXL-88: Hanging Leg Raise / Knee Raise (Captain's Chair or Pull-up Bar)**
-
-**ID:** EXL-88-BW-LEGRAISE-HANGING **Created:** 2025-05-01 (Updated: 2025-01-08)
 
 ## Quick Takeaway
 A challenging bodyweight exercise that targets the lower abdominals and hip flexors by raising the knees or legs while hanging from a bar or supported in a Captain's Chair.

@@ -1,6 +1,10 @@
+---
+id: EXL-96-CARDIO-ROWER
+created: '2025-05-01'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-96: Rowing Ergometer (Rower)**
-
-**ID:** EXL-96-CARDIO-ROWER **Created:** 2025-05-01 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The rowing ergometer provides a full-body, low-impact cardiovascular workout that engages legs, core, and back muscles through a sequential movement pattern requiring proper technique for safety and effectiveness.

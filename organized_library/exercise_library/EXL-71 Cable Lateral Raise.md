@@ -1,6 +1,12 @@
-### **EXL-71: Cable Lateral Raise**
+---
+id: EXL-71-CEX-LATRAISE
+created: '2025-04-30
 
-**ID:** EXL-71-CEX-LATRAISE **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-71: Cable Lateral Raise**
 
 **(Brief Description):** An isolation exercise using a low pulley cable machine [[../resistance_training/B10. Machine Training]] to target the medial (side) deltoids. Involves abducting the arm out to the side against the constant tension of the cable. Typically performed one arm at a time.
 

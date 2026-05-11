@@ -1,6 +1,10 @@
+---
+id: EXL-65-MEX-ASSISTPULLDIP
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-65: Assisted Pull-up/Dip Machine**
-
-**ID:** EXL-65-MEX-ASSISTPULLDIP **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A counterweight-assisted machine that reduces effective bodyweight during pull-ups and dips, providing a progressive pathway from assisted to unassisted bodyweight movements.

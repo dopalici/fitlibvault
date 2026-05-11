@@ -1,6 +1,12 @@
-### **EXL-26: Dumbbell Bent-Over Rear Delt Raise**
+---
+id: EXL-26-DB-REARDELTRAISE
+created: '2025-04-29
 
-**ID:** EXL-26-DB-REARDELTRAISE **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-26: Dumbbell Bent-Over Rear Delt Raise**
 
 **(Brief Description):** An isolation exercise targeting the posterior (rear) deltoids and upper back muscles. It involves hinging at the hips and raising dumbbells out to the sides with arms nearly straight while maintaining a stable torso position.
 

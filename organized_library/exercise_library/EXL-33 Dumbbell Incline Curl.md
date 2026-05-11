@@ -1,6 +1,12 @@
-### **EXL-33: Dumbbell Incline Curl**
+---
+id: EXL-33-DB-INCLINECURL
+created: '2025-04-29
 
-**ID:** EXL-33-DB-INCLINECURL **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-33: Dumbbell Incline Curl**
 
 **(Brief Description):** An isolation exercise for the biceps performed seated on an incline bench. The inclined position places the shoulder in extension, putting a greater stretch on the long head of the biceps brachii, potentially enhancing its activation and stimulus.
 

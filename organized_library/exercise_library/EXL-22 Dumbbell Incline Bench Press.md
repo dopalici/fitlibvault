@@ -1,6 +1,12 @@
-### **EXL-22: Dumbbell Incline Bench Press**
+---
+id: EXL-22-DB-INCLINEBENCH
+created: '2025-04-29
 
-**ID:** EXL-22-DB-INCLINEBENCH **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-22: Dumbbell Incline Bench Press**
 
 **(Brief Description):** An upper-body compound exercise performed lying on an incline bench (typically 15-45 degrees), pressing two dumbbells upwards from the upper chest. Emphasizes the clavicular (upper) head of the pectoralis major and anterior deltoids more than the flat dumbbell press [[EXL-21 Dumbbell Bench Press (Flat)]].
 

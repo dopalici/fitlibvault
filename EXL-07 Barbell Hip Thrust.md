@@ -1,6 +1,10 @@
+---
+id: EXL-07-BB-HIPTHRUST
+created: '2025-04-29'
+updated: '2025-01-20'
+section: EXL
+---
 ### **EXL-07: Barbell Hip Thrust**
-
-**ID:** EXL-07-BB-HIPTHRUST **Created:** 2025-04-29 (Updated: 2025-01-20)
 
 ## Quick Takeaway
 The barbell hip thrust is a compound exercise that primarily targets the gluteus maximus through hip extension while the upper back is supported on a bench.

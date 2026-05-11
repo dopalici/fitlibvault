@@ -1,6 +1,10 @@
+---
+id: EXL-78-CEX-GLUTEKICKBACK
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-78: Cable Glute Kickback**
-
-**ID:** EXL-78-CEX-GLUTEKICKBACK **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 An isolation exercise using cable resistance to target the gluteus maximus through controlled hip extension while maintaining core stability.

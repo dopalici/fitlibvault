@@ -1,6 +1,10 @@
+---
+id: EXL-41-DB-SHRUG
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-41: Dumbbell Shrug**
-
-**ID:** EXL-41-DB-SHRUG **Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A beginner-friendly isolation exercise that targets the upper trapezius muscles by elevating the shoulders while holding dumbbells, offering more natural arm positioning than barbell variations.

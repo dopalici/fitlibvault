@@ -1,6 +1,10 @@
+---
+id: EXL-24-DB-LATRAISE
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-24: Dumbbell Lateral Raise**
-
-**ID:** EXL-24-DB-LATRAISE **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The dumbbell lateral raise is an isolation exercise that primarily targets the medial deltoid through shoulder abduction, building shoulder width and roundness when performed with controlled form.

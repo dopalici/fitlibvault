@@ -1,5 +1,10 @@
+---
+id: EXL-01-BB-SQUAT
+created: '2025-04-28'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-01: Barbell Back Squat (High Bar & Low Bar)**
-**ID:** EXL-01-BB-SQUAT **Created:** 2025-04-28 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The barbell back squat is a fundamental compound exercise that develops lower body strength and muscle mass by positioning a barbell across the upper back and performing a squatting movement pattern.

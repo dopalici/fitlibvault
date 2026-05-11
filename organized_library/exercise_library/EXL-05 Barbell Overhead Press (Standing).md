@@ -1,6 +1,13 @@
-### **EXL-05: Barbell Overhead Press (Standing)**
+---
+id: 'EXL-05-BB-OHP _(Note: This was previously EXL-06 in sequential generation, adjusted
+  to match list)_'
+created: '2025-04-28
 
-**ID:** EXL-05-BB-OHP _(Note: This was previously EXL-06 in sequential generation, adjusted to match list)_ **Created:** 2025-04-28
+
+  **'
+section: EXL
+---
+### **EXL-05: Barbell Overhead Press (Standing)**
 
 **(Brief Description):** A fundamental upper-body compound exercise involving pressing a barbell from the front rack position (shoulders) to an overhead locked-out position while standing. Develops vertical pushing strength and hypertrophy, primarily targeting the shoulders and triceps.
 

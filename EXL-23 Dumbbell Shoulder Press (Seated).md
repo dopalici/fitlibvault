@@ -1,6 +1,10 @@
+---
+id: EXL-23-DB-SHOULDERPRESS
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-23: Dumbbell Shoulder Press (Seated)**
-
-**ID:** EXL-23-DB-SHOULDERPRESS **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A seated compound exercise that builds shoulder and tricep strength using dumbbells pressed overhead, offering more stability than standing variations while allowing natural movement patterns.

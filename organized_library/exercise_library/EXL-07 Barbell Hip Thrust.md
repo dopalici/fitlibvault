@@ -1,6 +1,12 @@
-### **EXL-07: Barbell Hip Thrust**
+---
+id: EXL-07-BB-HIPTHRUST
+created: '2025-04-29
 
-**ID:** EXL-07-BB-HIPTHRUST **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-07: Barbell Hip Thrust**
 
 **(Brief Description):** A compound exercise performed with the upper back supported on a bench, involving lifting a barbell placed across the hips by driving through the heels and extending the hips. Primarily targets the gluteus maximus.
 

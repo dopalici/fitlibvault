@@ -1,6 +1,10 @@
+---
+id: EXL-03-BB-DEADLIFT
+created: '2025-04-28'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-03: Barbell Conventional Deadlift**
-
-**ID:** EXL-03-BB-DEADLIFT **Created:** 2025-04-28 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The conventional deadlift is a fundamental compound movement that develops total-body strength by lifting a barbell from the floor to standing position, requiring proper hip hinge mechanics and spinal stability.

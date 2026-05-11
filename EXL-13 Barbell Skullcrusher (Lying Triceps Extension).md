@@ -1,6 +1,12 @@
-### **EXL-13: Barbell Skullcrusher (Lying Triceps Extension)**
+---
+id: EXL-13-BB-SKULLCRUSHER
+created: '2025-04-29
 
-**ID:** EXL-13-BB-SKULLCRUSHER **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-13: Barbell Skullcrusher (Lying Triceps Extension)**
 
 **(Brief Description):** An isolation exercise for the triceps performed lying on a bench, involving lowering a barbell towards the forehead by bending the elbows and extending them back up.
 

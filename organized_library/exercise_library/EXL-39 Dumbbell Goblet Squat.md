@@ -1,6 +1,12 @@
-### **EXL-39: Dumbbell Goblet Squat**
+---
+id: EXL-39-DB-GOBLETSQUAT
+created: '2025-04-29
 
-**ID:** EXL-39-DB-GOBLETSQUAT **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-39: Dumbbell Goblet Squat**
 
 **(Brief Description):** A squat variation where a single dumbbell (or kettlebell [[../resistance_training/B9. Kettlebell Training]]) is held vertically against the chest with both hands. This anterior load acts as a counterbalance, promoting a more upright torso and making it an excellent tool for learning proper squat mechanics.
 

@@ -1,6 +1,10 @@
+---
+id: IX9-LOAD-MANAGEMENT-REHAB
+created: '2025-06-05'
+updated: '2026-05-08'
+section: IX
+---
 ### IX9. Load Management in Rehabilitation
-**ID:** IX9-LOAD-MANAGEMENT-REHAB
-**Created:** 2025-06-05 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Load management in rehabilitation systematically applies and progresses mechanical stress to promote tissue healing and adaptation while preventing re-injury through careful monitoring of load tolerance and recovery.

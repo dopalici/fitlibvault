@@ -1,6 +1,12 @@
-### **EXL-92: Elliptical Trainer**
+---
+id: EXL-92-CARDIO-ELLIPTICAL
+created: '2025-05-01
 
-**ID:** EXL-92-CARDIO-ELLIPTICAL **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-92: Elliptical Trainer**
 
 **(Brief Description):** A cardiovascular exercise machine [[../equipment_technology/VIII-2. Commercial Gym Equipment]] providing a low-impact, weight-bearing workout simulating walking, running, and stair climbing via elliptical foot pedal paths. Often includes moving handlebars for upper body involvement.
 

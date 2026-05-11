@@ -1,6 +1,12 @@
-### **EXL-85: Side Plank (Standard & Variations)**
+---
+id: EXL-85-BW-SIDEPLANK
+created: '2025-05-01
 
-**ID:** EXL-85-BW-SIDEPLANK **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-85: Side Plank (Standard & Variations)**
 
 **(Brief Description):** An isometric core stability exercise [[../resistance_training/B19. Isometrics]] performed lying on one side, supporting the body on the forearm/hand and feet. Primarily targets the obliques and other lateral core stabilizers [[../cross_training/L4. Core Stability Training]], resisting lateral flexion of the spine.
 

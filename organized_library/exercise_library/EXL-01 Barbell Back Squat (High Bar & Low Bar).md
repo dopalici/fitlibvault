@@ -1,6 +1,12 @@
-### **EXL-01: Barbell Back Squat (High Bar & Low Bar)**
+---
+id: EXL-01-BB-SQUAT
+created: '2025-04-28
 
-**ID:** EXL-01-BB-SQUAT **Created:** 2025-04-28
+
+  **'
+section: EXL
+---
+### **EXL-01: Barbell Back Squat (High Bar & Low Bar)**
 
 **(Brief Description):** A fundamental compound exercise involving squatting down and standing back up with a barbell positioned across the upper back (either high on the traps or lower across the rear deltoids). Develops lower body strength, hypertrophy, core stability, and is a cornerstone of many strength programs.
 

@@ -1,6 +1,10 @@
+---
+id: EXL-28-DB-ROW-CHESTSUP
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-28: Dumbbell Bench Supported Row (Chest Supported)**
-
-**ID:** EXL-28-DB-ROW-CHESTSUP **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A chest-supported dumbbell row that eliminates momentum and lower back stress while effectively targeting the upper back muscles with better isolation than unsupported variations.

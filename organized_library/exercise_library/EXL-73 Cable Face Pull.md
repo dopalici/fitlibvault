@@ -1,6 +1,12 @@
-### **EXL-73: Cable Face Pull**
+---
+id: EXL-73-CEX-FACEPULL
+created: '2025-04-30
 
-**ID:** EXL-73-CEX-FACEPULL **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-73: Cable Face Pull**
 
 **(Brief Description):** An exercise using a high pulley cable machine [[../resistance_training/B10. Machine Training]] with a rope attachment, involving pulling the rope towards the face while externally rotating the shoulders. Primarily targets the rear deltoids, rotator cuff muscles, and upper back scapular retractors, promoting shoulder health and posture.
 

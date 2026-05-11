@@ -1,6 +1,12 @@
-### **EXL-89: Abdominal Crunch / Sit-up (Floor or Bench)**
+---
+id: EXL-89-BW-CRUNCH
+created: '2025-05-01
 
-**ID:** EXL-89-BW-CRUNCH **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-89: Abdominal Crunch / Sit-up (Floor or Bench)**
 
 **(Brief Description):** A common bodyweight exercise [[../resistance_training/B7. Bodyweight Training]] involving flexing the spine to lift the head and shoulders (crunch) or the entire torso (sit-up) off the floor or a bench, primarily targeting the rectus abdominis.
 

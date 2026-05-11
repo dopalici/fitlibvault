@@ -1,6 +1,12 @@
-### **EXL-32: Dumbbell Concentration Curl**
+---
+id: EXL-32-DB-CONCENTRATIONCURL
+created: '2025-04-29
 
-**ID:** EXL-32-DB-CONCENTRATIONCURL **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-32: Dumbbell Concentration Curl**
 
 **(Brief Description):** A highly isolated bicep curl variation performed seated, with the back of the upper arm braced against the inner thigh. This minimizes momentum and maximizes focus on the biceps contraction.
 

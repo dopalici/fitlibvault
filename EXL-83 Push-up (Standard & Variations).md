@@ -1,6 +1,10 @@
+---
+id: EXL-83-BW-PUSHUP
+created: '2025-05-01'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-83: Push-up (Standard & Variations)**
-
-**ID:** EXL-83-BW-PUSHUP **Created:** 2025-05-01 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Push-ups are a fundamental bodyweight exercise that effectively targets the chest, shoulders, and triceps while building core stability and can be modified for all fitness levels.

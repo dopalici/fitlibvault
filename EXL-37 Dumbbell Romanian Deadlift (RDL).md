@@ -1,6 +1,10 @@
+---
+id: EXL-37-DB-RDL
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-37: Dumbbell Romanian Deadlift (RDL)**
-
-**ID:** EXL-37-DB-RDL **Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The dumbbell Romanian deadlift is a hip hinge movement that primarily targets the hamstrings through eccentric loading and glutes through concentric hip extension, offering a more natural grip position than barbell variations.

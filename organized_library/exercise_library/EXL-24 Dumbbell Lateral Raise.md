@@ -1,6 +1,12 @@
-### **EXL-24: Dumbbell Lateral Raise**
+---
+id: EXL-24-DB-LATRAISE
+created: '2025-04-29
 
-**ID:** EXL-24-DB-LATRAISE **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-24: Dumbbell Lateral Raise**
 
 **(Brief Description):** An isolation exercise involving raising dumbbells out to the sides, primarily targeting the medial (side) head of the deltoid muscle to increase shoulder width and roundness.
 

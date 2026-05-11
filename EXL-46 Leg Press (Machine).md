@@ -1,6 +1,10 @@
+---
+id: EXL-46-MEX-LEGPRESS
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-46: Leg Press (Machine)**
-
-**ID:** EXL-46-MEX-LEGPRESS **Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The leg press is a machine-based compound exercise that allows safe, controlled loading of the quadriceps, glutes, and hamstrings while providing stability for beginners and heavy loading for advanced trainees.

@@ -1,6 +1,12 @@
-### **EXL-06: Barbell Bent-Over Row (Pronated Grip)**
+---
+id: EXL-06-BB-ROW-PRONATED
+created: '2025-04-29
 
-**ID:** EXL-06-BB-ROW-PRONATED **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-06: Barbell Bent-Over Row (Pronated Grip)**
 
 **(Brief Description):** A compound free weight exercise involving pulling a barbell towards the torso while maintaining a bent-over, hip-hinged position with a neutral spine, using an overhand (pronated) grip. Effectively builds strength and hypertrophy in the upper and mid-back musculature, lats, and biceps.
 

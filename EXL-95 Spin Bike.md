@@ -1,6 +1,10 @@
+---
+id: EXL-95-CARDIO-SPINBIKE
+created: '2025-05-01'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-95: Spin Bike**
-
-**ID:** EXL-95-CARDIO-SPINBIKE **Created:** 2025-05-01 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 Spin bikes are weighted flywheel stationary bikes that closely mimic road cycling geometry, allowing for both seated and standing workouts with adjustable resistance for all fitness levels.

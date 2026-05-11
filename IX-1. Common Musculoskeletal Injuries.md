@@ -1,6 +1,10 @@
+---
+id: IX-1-COMMON-MSK-INJURIES
+created: '2025-04-24'
+updated: '2026-05-08'
+section: IX
+---
 ### IX-1. Common Musculoskeletal Injuries
-**ID:** IX-1-COMMON-MSK-INJURIES
-**Created:** 2025-04-24 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Most exercise-related injuries fall into predictable patterns (strains, sprains, tendinopathies, stress fractures) that are largely preventable through proper training progression, technique, and recovery practices.

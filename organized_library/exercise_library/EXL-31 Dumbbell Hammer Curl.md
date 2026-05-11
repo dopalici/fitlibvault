@@ -1,6 +1,12 @@
-### **EXL-31: Dumbbell Hammer Curl**
+---
+id: EXL-31-DB-HAMMERCURL
+created: '2025-04-29
 
-**ID:** EXL-31-DB-HAMMERCURL **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-31: Dumbbell Hammer Curl**
 
 **(Brief Description):** An elbow flexion exercise similar to a standard bicep curl, but performed with a neutral (palms facing torso) grip throughout the movement. This grip emphasizes the brachialis and brachioradialis muscles more than the biceps brachii.
 

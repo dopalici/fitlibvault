@@ -1,6 +1,12 @@
-### **EXL-58: Chest Supported Row (Machine)**
+---
+id: EXL-58-MEX-ROW-CHESTSUP
+created: '2025-04-30
 
-**ID:** EXL-58-MEX-ROW-CHESTSUP **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-58: Chest Supported Row (Machine)**
 
 **(Brief Description):** A machine-based row variation [[../resistance_training/B10. Machine Training]] where the chest is supported against a pad, isolating the back muscles (lats, rhomboids, traps) by minimizing torso involvement and momentum. Various grip options are often available.
 

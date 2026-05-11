@@ -1,6 +1,12 @@
-### **EXL-52: Shoulder Press (Machine - Seated)**
+---
+id: EXL-52-MEX-SHOULDERPRESS
+created: '2025-04-30
 
-**ID:** EXL-52-MEX-SHOULDERPRESS **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-52: Shoulder Press (Machine - Seated)**
 
 **(Brief Description):** A machine-based exercise [[../resistance_training/B10. Machine Training]] simulating an overhead press, performed seated, involving pressing handles vertically upwards. Provides stability and targets the deltoids and triceps.
 

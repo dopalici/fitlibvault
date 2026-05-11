@@ -1,7 +1,10 @@
+---
+id: 'EXL-84-BW-PLANK _(Note: This duplicates EXL-25 from the list, consolidating variations)_'
+created: '2025-05-01'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-84: Plank (Standard & Variations)**
-
-**ID:** EXL-84-BW-PLANK _(Note: This duplicates EXL-25 from the list, consolidating variations)_ 
-**Created:** 2025-05-01 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The plank is an isometric exercise that develops core stability by maintaining a rigid body position, primarily targeting anterior core muscles while engaging the entire kinetic chain as stabilizers.

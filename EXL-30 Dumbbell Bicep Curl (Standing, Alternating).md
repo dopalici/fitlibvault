@@ -1,6 +1,10 @@
+---
+id: EXL-30-DB-BICEPCURL-ALT
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-30: Dumbbell Bicep Curl (Standing, Alternating)**
-
-**ID:** EXL-30-DB-BICEPCURL-ALT **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A foundational isolation exercise that targets the biceps brachii and brachialis muscles using dumbbells in an alternating pattern, allowing focused development of each arm individually.

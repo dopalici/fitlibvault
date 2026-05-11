@@ -1,6 +1,10 @@
+---
+id: EXL-69-CEX-BICEPCURL
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-69: Cable Bicep Curl (Bar/Handles)**
-
-**ID:** EXL-69-CEX-BICEPCURL **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Cable bicep curls provide constant tension throughout the full range of motion, making them an effective isolation exercise for targeting the biceps brachii and brachialis muscles.

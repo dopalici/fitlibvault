@@ -1,6 +1,12 @@
-### **EXL-40: Dumbbell Step-Up**
+---
+id: EXL-40-DB-STEPUP
+created: '2025-04-29
 
-**ID:** EXL-40-DB-STEPUP **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-40: Dumbbell Step-Up**
 
 **(Brief Description):** A unilateral lower-body exercise involving stepping up onto an elevated surface (box or bench) while holding dumbbells, then stepping back down. Primarily targets the quadriceps and glutes of the stepping leg, also improves balance and stability.
 

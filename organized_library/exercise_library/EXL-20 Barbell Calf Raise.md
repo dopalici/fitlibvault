@@ -1,6 +1,12 @@
-### **EXL-20: Barbell Calf Raise**
+---
+id: EXL-20-BB-CALFRAISE
+created: '2025-04-29
 
-**ID:** EXL-20-BB-CALFRAISE **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-20: Barbell Calf Raise**
 
 **(Brief Description):** An exercise targeting the calf muscles (gastrocnemius and soleus) through ankle plantarflexion while standing and supporting a barbell across the upper back.
 

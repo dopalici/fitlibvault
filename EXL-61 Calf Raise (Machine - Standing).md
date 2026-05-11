@@ -1,6 +1,10 @@
+---
+id: EXL-61-MEX-CALFRAISE-STAND
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-61: Calf Raise (Machine - Standing)**
-
-**ID:** EXL-61-MEX-CALFRAISE-STAND **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A machine-based isolation exercise that targets the calf muscles through controlled ankle plantarflexion, providing stability for focused muscle development.

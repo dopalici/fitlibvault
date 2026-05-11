@@ -1,5 +1,10 @@
+---
+id: EXL-09-BB-RDL
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-09: Barbell Romanian Deadlift (RDL)**
-**ID:** EXL-09-BB-RDL **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The barbell Romanian deadlift is a hip hinge movement that primarily targets the hamstrings eccentrically and glutes concentrically while teaching proper posterior chain mechanics.

@@ -1,6 +1,12 @@
-### **EXL-96: Rowing Ergometer (Rower)**
+---
+id: EXL-96-CARDIO-ROWER
+created: '2025-05-01
 
-**ID:** EXL-96-CARDIO-ROWER **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-96: Rowing Ergometer (Rower)**
 
 **(Brief Description):** An indoor exercise machine [[../equipment_technology/VIII-2. Commercial Gym Equipment]] that simulates the motion of on-water rowing [[../cardiovascular_training/E9. Rowing (Ergometer)]]. Provides a full-body, low-impact workout engaging legs, core, and back, excellent for cardiovascular and muscular endurance.
 

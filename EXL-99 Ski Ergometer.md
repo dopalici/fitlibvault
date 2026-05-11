@@ -1,6 +1,10 @@
+---
+id: EXL-99-CARDIO-SKIERG
+created: '2025-05-01'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-99: Ski Ergometer**
-
-**ID:** EXL-99-CARDIO-SKIERG **Created:** 2025-05-01 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The ski ergometer provides a full-body cardiovascular workout that emphasizes upper body and core muscles while simulating Nordic skiing movements through air resistance.

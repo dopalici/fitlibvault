@@ -1,6 +1,10 @@
+---
+id: EXL-50-MEX-HACKSQUAT
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-50: Hack Squat (Machine)**
-
-**ID:** EXL-50-MEX-HACKSQUAT **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The hack squat is a machine-based squat variation that provides back support and a fixed movement path, making it safer for beginners while effectively targeting the quadriceps and glutes.

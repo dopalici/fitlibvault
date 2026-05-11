@@ -1,6 +1,12 @@
-### **EXL-74: Cable Seated Row (Various grips)**
+---
+id: EXL-74-CEX-ROW-SEATEDVARIOUS
+created: '2025-04-30
 
-**ID:** EXL-74-CEX-ROW-SEATEDVARIOUS **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-74: Cable Seated Row (Various grips)**
 
 **(Brief Description):** A machine-based exercise [[../resistance_training/B10. Machine Training]] using a low pulley cable station, performed seated with feet braced, involving pulling a handle attachment towards the torso. Targets the back muscles, with different grip attachments emphasizing different areas. Provides constant tension.
 

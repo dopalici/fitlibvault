@@ -1,6 +1,12 @@
-### **EXL-97: Stair Climber / Stepmill**
+---
+id: EXL-97-CARDIO-STAIRCLIMBER
+created: '2025-05-01
 
-**ID:** EXL-97-CARDIO-STAIRCLIMBER **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-97: Stair Climber / Stepmill**
 
 **(Brief Description):** A cardiovascular machine [[../equipment_technology/VIII-2. Commercial Gym Equipment]] simulating climbing stairs. Stepmills have revolving steps, while stair steppers have independent pedals. Provides a high-intensity, low-impact (compared to running) workout targeting the lower body and cardiovascular system.
 

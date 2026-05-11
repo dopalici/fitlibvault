@@ -1,6 +1,12 @@
-### **EXL-28: Dumbbell Bench Supported Row (Chest Supported)**
+---
+id: EXL-28-DB-ROW-CHESTSUP
+created: '2025-04-29
 
-**ID:** EXL-28-DB-ROW-CHESTSUP **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-28: Dumbbell Bench Supported Row (Chest Supported)**
 
 **(Brief Description):** A dumbbell row variation performed lying prone on an incline bench. The chest support minimizes momentum and isolates the upper back muscles more effectively than unsupported rows.
 

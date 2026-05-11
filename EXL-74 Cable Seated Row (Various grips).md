@@ -1,6 +1,10 @@
+---
+id: EXL-74-CEX-ROW-SEATEDVARIOUS
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-74: Cable Seated Row (Various grips)**
-
-**ID:** EXL-74-CEX-ROW-SEATEDVARIOUS **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A versatile cable machine exercise that targets the entire posterior chain with different grip options to emphasize specific back muscle groups while providing constant tension throughout the movement.

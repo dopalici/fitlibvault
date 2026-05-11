@@ -1,6 +1,12 @@
-### **EXL-62: Calf Raise (Machine - Seated)**
+---
+id: EXL-62-MEX-CALFRAISE-SEATED
+created: '2025-04-30
 
-**ID:** EXL-62-MEX-CALFRAISE-SEATED **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-62: Calf Raise (Machine - Seated)**
 
 **(Brief Description):** An isolation exercise performed on a machine [[../resistance_training/B10. Machine Training]] targeting the calf muscles, specifically the soleus, through ankle plantarflexion while the knees are bent (seated).
 

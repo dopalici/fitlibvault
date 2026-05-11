@@ -1,6 +1,12 @@
-### **EXL-19: Zercher Squat**
+---
+id: EXL-19-BB-ZERCHERSQUAT
+created: '2025-04-29
 
-**ID:** EXL-19-BB-ZERCHERSQUAT **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-19: Zercher Squat**
 
 **(Brief Description):** A squat variation where the barbell is held in the crook of the elbows, rather than on the back or front shoulders. This unique loading position places high demand on the upper back, core, and biceps, while allowing for a very upright torso.
 

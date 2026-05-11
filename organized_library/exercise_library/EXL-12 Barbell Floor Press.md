@@ -1,6 +1,12 @@
-### **EXL-12: Barbell Floor Press**
+---
+id: EXL-12-BB-FLOORPRESS
+created: '2025-04-29
 
-**ID:** EXL-12-BB-FLOORPRESS **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-12: Barbell Floor Press**
 
 **(Brief Description):** A bench press variation performed lying on the floor. The limited range of motion (upper arms stop at floor) reduces shoulder stress and emphasizes lockout strength, primarily targeting the triceps and chest.
 

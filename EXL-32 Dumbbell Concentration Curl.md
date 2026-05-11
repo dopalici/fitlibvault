@@ -1,6 +1,10 @@
+---
+id: EXL-32-DB-CONCENTRATIONCURL
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-32: Dumbbell Concentration Curl**
-
-**ID:** EXL-32-DB-CONCENTRATIONCURL **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The dumbbell concentration curl is a seated bicep isolation exercise that uses thigh bracing to eliminate momentum and maximize bicep activation through strict form.

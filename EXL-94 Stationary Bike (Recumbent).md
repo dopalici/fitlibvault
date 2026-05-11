@@ -1,6 +1,10 @@
+---
+id: EXL-94-CARDIO-BIKERECUMBENT
+created: '2025-05-01'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-94: Stationary Bike (Recumbent)**
-
-**ID:** EXL-94-CARDIO-BIKERECUMBENT **Created:** 2025-05-01 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A recumbent stationary bike provides low-impact cardiovascular exercise with back support, making it ideal for beginners, those with back issues, or anyone seeking comfortable steady-state cardio training.

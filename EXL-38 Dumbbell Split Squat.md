@@ -1,6 +1,10 @@
+---
+id: EXL-38-DB-SPLITSQUAT
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-38: Dumbbell Split Squat**
-
-**ID:** EXL-38-DB-SPLITSQUAT **Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A unilateral lower-body exercise performed in a static staggered stance that primarily targets the quadriceps and glutes of the front leg while enhancing stability and balance.

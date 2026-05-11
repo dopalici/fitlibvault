@@ -1,6 +1,10 @@
+---
+id: EXL-100-CARDIO-AIRBIKE
+created: '2025-05-01'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-100: Assault Bike / Air Bike**
-
-**ID:** EXL-100-CARDIO-AIRBIKE **Created:** 2025-05-01 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The assault bike uses fan-based air resistance that increases with effort, providing a demanding full-body cardiovascular workout that simultaneously engages both upper and lower body muscle groups.

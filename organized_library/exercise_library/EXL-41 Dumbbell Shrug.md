@@ -1,6 +1,12 @@
-### **EXL-41: Dumbbell Shrug**
+---
+id: EXL-41-DB-SHRUG
+created: '2025-04-29
 
-**ID:** EXL-41-DB-SHRUG **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-41: Dumbbell Shrug**
 
 **(Brief Description):** An isolation exercise targeting the upper trapezius muscles, involving elevating the shoulders (shrugging) while holding dumbbells at the sides. Allows for a potentially more natural arm path than the barbell version.
 

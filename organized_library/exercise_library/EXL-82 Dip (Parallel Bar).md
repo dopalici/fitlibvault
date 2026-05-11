@@ -1,6 +1,12 @@
-### **EXL-82: Dip (Parallel Bar)**
+---
+id: EXL-82-BW-DIP
+created: '2025-04-30
 
-**ID:** EXL-82-BW-DIP **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-82: Dip (Parallel Bar)**
 
 **(Brief Description):** A fundamental bodyweight upper-body pressing exercise [[../resistance_training/B7. Bodyweight Training]] performed between parallel bars, involving lowering the body by bending the elbows and pressing back up. Primarily targets the triceps, chest, and anterior shoulders.
 

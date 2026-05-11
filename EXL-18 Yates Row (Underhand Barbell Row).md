@@ -1,6 +1,10 @@
+---
+id: EXL-18-BB-YATESROW
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-18: Yates Row (Underhand Barbell Row)**
-
-**ID:** EXL-18-BB-YATESROW **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The Yates Row is an underhand barbell row performed with a more upright torso (~45-70°) that allows heavier loads and greater biceps involvement compared to traditional pronated grip rows.
