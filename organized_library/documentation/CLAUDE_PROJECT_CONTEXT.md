@@ -1,3 +1,9 @@
+---
+id: '[UNIQUE-ID]'
+created: "YYYY-MM-DD\n**Updated:** YYYY-MM-DD\n\n## Quick Takeaway\n\u2026\n\n## Key\
+  \ Points\n- \u2026\n\n## Deep Dive\n\u2026\n\n## Research Evidence\n**Author."
+section: C
+---
 # Claude Project Context — FitLib
 
 Last refreshed: 2026-05-08
@@ -116,9 +122,6 @@ Every published note follows this seven-section schema, parsed by `web app fitli
 
 ```
 ### [ID]. [Title]
-**ID:** [UNIQUE-ID]
-**Created:** YYYY-MM-DD
-**Updated:** YYYY-MM-DD
 
 ## Quick Takeaway
 …

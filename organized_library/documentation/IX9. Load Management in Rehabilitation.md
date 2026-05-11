@@ -1,5 +1,23 @@
+---
+id: IX9-LOAD-MANAGEMENT-REHAB
+created: '2025-06-05
+
+
+  Load management in rehabilitation involves the systematic application and progression
+  of mechanical stress to promote optimal tissue adaptation while avoiding overload
+  that could delay healing or cause re-injury. This approach balances the need for
+  sufficient stimulus to drive adaptation with appropriate recovery to prevent tissue
+  breakdown.
+
+
+  **Core Components:**
+
+  - **Tissue-Specific Loading Parameters:** Understanding load tolerance and adaptation
+  timelines for different tissues using [[../foundation/A29. Tissue Adaptation to
+  Exercise'
+section: IX
+---
 ### IX9. Load Management in Rehabilitation
-**ID:** IX9-LOAD-MANAGEMENT-REHAB **Created:** 2025-06-05
 
 Load management in rehabilitation involves the systematic application and progression of mechanical stress to promote optimal tissue adaptation while avoiding overload that could delay healing or cause re-injury. This approach balances the need for sufficient stimulus to drive adaptation with appropriate recovery to prevent tissue breakdown.
 

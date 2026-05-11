@@ -1,6 +1,10 @@
+---
+id: IX-6-CONTRAINDICATIONS
+created: '2025-04-24'
+updated: '2025-01-27'
+section: IX
+---
 ### IX-6. Exercise Contraindications
-**ID:** IX-6-CONTRAINDICATIONS
-**Created:** 2025-04-24 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 Exercise contraindications are medical conditions where exercise risks outweigh benefits - absolute contraindications require medical clearance before any exercise, while relative contraindications allow modified exercise with proper supervision.

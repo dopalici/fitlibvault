@@ -1,6 +1,10 @@
+---
+id: G-VII-1-MSK-ANATOMY
+created: '2025-04-24'
+updated: '2025-01-09'
+section: G
+---
 ### G-VII-1. Musculoskeletal Anatomy Overview
-**ID:** G-VII-1-MSK-ANATOMY
-**Created:** 2025-04-24 (Updated: 2025-01-09)
 
 ## Quick Takeaway
 Understanding the musculoskeletal system's structure (bones, joints, muscles, connective tissues) is essential for safe, effective exercise programming and movement analysis.
