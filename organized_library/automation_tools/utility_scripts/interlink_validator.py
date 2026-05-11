@@ -125,8 +125,10 @@ def normalize_target(raw_link: str) -> Tuple[str, str]:
     text = raw_link.split("|", 1)[0].strip()
     if "#" in text:
         base, _, anchor = text.partition("#")
-        return base.strip(), anchor.strip()
-    return text, ""
+        canonical_base = re.sub(r"\.md$", "", base.strip(), flags=re.IGNORECASE)
+        return canonical_base, anchor.strip()
+    canonical_text = re.sub(r"\.md$", "", text, flags=re.IGNORECASE)
+    return canonical_text, ""
 
 
 def is_excluded_dir(rel_dir: Path, extra_exclude: Set[str]) -> bool:
@@ -216,6 +218,8 @@ def resolve_link(
     all_basenames: List[str],
     suggestion_cutoff: float,
 ) -> WikilinkOccurrence:
+    raw_target = occurrence.raw.split("|", 1)[0].split("#", 1)[0].strip()
+    used_md_suffix = raw_target.lower().endswith(".md")
     candidates = index.get(occurrence.target_basename, [])
 
     if not candidates:
@@ -252,6 +256,9 @@ def resolve_link(
     if target.is_stub:
         occurrence.status = "stub"
         occurrence.detail = target.stub_reason
+    elif used_md_suffix:
+        occurrence.suggestion = occurrence.target_basename
+        occurrence.detail = "non-canonical wikilink target includes .md suffix"
     return occurrence
 
 

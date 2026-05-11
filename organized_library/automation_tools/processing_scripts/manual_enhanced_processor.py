@@ -6,8 +6,15 @@ Process fitness files using enhanced template without API calls
 
 import os
 import re
+import sys
 from pathlib import Path
 from typing import Dict, List
+
+AUTOMATION_ROOT = Path(__file__).resolve().parents[1]
+if str(AUTOMATION_ROOT) not in sys.path:
+    sys.path.append(str(AUTOMATION_ROOT))
+
+from utility_scripts.note_metadata import read_metadata
 
 class ManualEnhancedProcessor:
     """Process files using enhanced template structure"""
@@ -56,21 +63,21 @@ class ManualEnhancedProcessor:
         title = title_match.group(1).strip() if title_match else filename.replace('.md', '')
         
         # Extract ID
-        id_match = re.search(r'\*\*ID:\*\*\s*(.+)', content)
-        if id_match:
-            id_value = id_match.group(1).strip()
+        metadata = read_metadata(content)
+        if metadata.note_id:
+            id_value = metadata.note_id
         else:
             # Generate ID from title
             id_value = title.upper().replace(' ', '-').replace('(', '').replace(')', '').replace(',', '')
         
         # Extract created date
-        created_match = re.search(r'\*\*Created:\*\*\s*(.+)', content)
-        created = created_match.group(1).strip() if created_match else "2025-06-05"
+        created = metadata.created or "2025-06-05"
         
         # Extract main content (everything after the ID line)
         main_content = content
-        if id_match:
-            main_content = content.split(id_match.group(0))[-1].strip()
+        id_line_match = re.search(r'^\s*\*\*ID:\*\*.*$', content, re.MULTILINE)
+        if id_line_match:
+            main_content = content.split(id_line_match.group(0), 1)[-1].strip()
         
         # Extract links section
         links_match = re.search(r'\*\*Links:\*\*\s*(.+)', content)

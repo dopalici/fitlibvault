@@ -11,11 +11,18 @@ Workflow:
 from __future__ import annotations
 
 import argparse
-import re
 import shutil
+import sys
 from dataclasses import dataclass
 from pathlib import Path
 from typing import List
+
+
+AUTOMATION_ROOT = Path(__file__).resolve().parents[2]
+if str(AUTOMATION_ROOT) not in sys.path:
+    sys.path.append(str(AUTOMATION_ROOT))
+
+from utility_scripts.note_metadata import read_metadata
 
 
 REQUIRED_SECTIONS = [
@@ -38,8 +45,7 @@ class PromotionResult:
 
 
 def extract_id(markdown: str) -> str:
-    match = re.search(r"\*\*ID:\*\*\s*([^\n*]+?)(?:\s+\*\*Created:|\s*$)", markdown, flags=re.MULTILINE)
-    return match.group(1).strip() if match else ""
+    return read_metadata(markdown).note_id
 
 
 def validate_structure(markdown: str) -> List[str]:

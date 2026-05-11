@@ -20,6 +20,8 @@ export interface NodeData {
   id: string;
   title: string;
   series: 'A' | 'B' | 'C' | 'E' | 'Other';
+  created?: string;
+  updated?: string;
   content: string;
   credibilityScore: number;
   citationCount: number;
@@ -32,6 +34,8 @@ export interface NodeSummary {
   id: string;
   title: string;
   series: 'A' | 'B' | 'C' | 'E' | 'Other';
+  created?: string;
+  updated?: string;
   credibilityScore: number;
   citationCount: number;
   links: string[];

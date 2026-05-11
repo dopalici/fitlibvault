@@ -19,6 +19,7 @@ interface MarkdownCandidate {
   content: string;
   title: string;
   id: string;
+  frontmatter: NoteFrontmatter;
 }
 
 export interface VaultMetadata {
@@ -40,15 +41,37 @@ export interface ExportData {
   };
 }
 
-function extractFrontmatter(content: string): { [key: string]: string } {
+interface NoteFrontmatter {
+  id?: string;
+  created?: string;
+  updated?: string;
+  section?: string;
+  tags?: string[];
+}
+
+function extractFrontmatter(content: string): NoteFrontmatter {
   const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
   if (!frontmatterMatch) return {};
   
-  const frontmatter: { [key: string]: string } = {};
+  const frontmatter: NoteFrontmatter = {};
   frontmatterMatch[1].split('\n').forEach(line => {
     const [key, ...valueParts] = line.split(':');
     if (key && valueParts.length > 0) {
-      frontmatter[key.trim()] = valueParts.join(':').trim();
+      const normalizedKey = key.trim().toLowerCase();
+      const rawValue = valueParts.join(':').trim();
+      if (!rawValue) return;
+      if (normalizedKey === 'tags') {
+        const cleaned = rawValue.replace(/^\[/, '').replace(/\]$/, '');
+        frontmatter.tags = cleaned
+          .split(',')
+          .map((item) => item.trim().replace(/^['"]|['"]$/g, ''))
+          .filter(Boolean);
+        return;
+      }
+      if (normalizedKey === 'id') frontmatter.id = rawValue;
+      if (normalizedKey === 'created') frontmatter.created = rawValue;
+      if (normalizedKey === 'updated') frontmatter.updated = rawValue;
+      if (normalizedKey === 'section') frontmatter.section = rawValue;
     }
   });
   return frontmatter;
@@ -60,17 +83,27 @@ function extractSectionContent(content: string, sectionName: string): string {
   return match ? match[1].trim() : '';
 }
 
-function extractExplicitId(content: string): string | null {
-  const idMatch = content.match(/\*\*ID:\*\*\s*([^\n*]+?)(?:\s+\*\*Created:|\s*$)/i);
-  if (!idMatch?.[1]) return null;
-  const normalized = idMatch[1]
+function normalizeId(rawId: string): string {
+  return rawId
     .trim()
     .replace(/\s+/g, '-')
     .replace(/[^A-Za-z0-9-]/g, '-')
     .replace(/-+/g, '-')
     .replace(/^-+|-+$/g, '')
     .toUpperCase();
+}
+
+function extractExplicitId(content: string): string | null {
+  const idMatch = content.match(/\*\*ID:\*\*\s*([^\n*]+?)(?:\s+\*\*Created:|\s*$)/i);
+  if (!idMatch?.[1]) return null;
+  const normalized = normalizeId(idMatch[1]);
   return normalized || null;
+}
+
+function extractExplicitDates(content: string): { created?: string; updated?: string } {
+  const created = content.match(/\*\*Created:\*\*\s*([^(]+?)(?:\s*\(Updated:|\s*$)/im)?.[1]?.trim();
+  const updated = content.match(/\(Updated:\s*([^)]+)\)/i)?.[1]?.trim();
+  return { created, updated };
 }
 
 function extractCitations(content: string): Citation[] {
@@ -159,7 +192,11 @@ function collectMarkdownFiles(dir: string, baseDir = dir): string[] {
   return files;
 }
 
-function deriveNodeId(relativePath: string, title: string, content?: string): string {
+function deriveNodeId(relativePath: string, title: string, frontmatter?: NoteFrontmatter, content?: string): string {
+  const frontmatterId = frontmatter?.id ? normalizeId(frontmatter.id) : null;
+  if (frontmatterId) {
+    return frontmatterId;
+  }
   const explicitId = content ? extractExplicitId(content) : null;
   if (explicitId) {
     return explicitId;
@@ -306,12 +343,13 @@ export async function extractVault(): Promise<ExportData> {
     // for the title — otherwise an `## Quick Takeaway` ends up as the note's
     // displayed name. Look only at the highest-level heading present (#, then
     // ###) and reject section names explicitly.
-    const explicitId = extractExplicitId(content);
+    const frontmatter = extractFrontmatter(content);
+    const explicitId = frontmatter.id ? normalizeId(frontmatter.id) : extractExplicitId(content);
     const structuredTitle = explicitId ? findStructuredTitle(content) : null;
     const heading = content.match(/^#\s+(.+)$/m)?.[1]?.trim();
     const title = structuredTitle || heading || filename;
-    const id = deriveNodeId(relativePath, title, content);
-    candidates.push({ filePath, relativePath, content, title, id });
+    const id = deriveNodeId(relativePath, title, frontmatter, content);
+    candidates.push({ filePath, relativePath, content, title, id, frontmatter });
   });
 
   const preferredDocsById = new Map<string, MarkdownCandidate>();
@@ -356,8 +394,8 @@ export async function extractVault(): Promise<ExportData> {
       docsByTitle.set(titleKey, candidate);
       return;
     }
-    const existingHasId = Boolean(extractExplicitId(existing.content));
-    const candidateHasId = Boolean(extractExplicitId(candidate.content));
+    const existingHasId = Boolean(existing.frontmatter.id || extractExplicitId(existing.content));
+    const candidateHasId = Boolean(candidate.frontmatter.id || extractExplicitId(candidate.content));
     if (candidateHasId && !existingHasId) {
       titleAliasFallback.push(existing);
       docsByTitle.set(titleKey, candidate);
@@ -407,10 +445,12 @@ export async function extractVault(): Promise<ExportData> {
   // Second pass: extract content.
   selectedDocs.forEach((doc) => {
     const content = doc.content;
-    const frontmatter = extractFrontmatter(content);
+    const frontmatter = doc.frontmatter;
+    const fallbackDates = extractExplicitDates(content);
     const id = doc.id;
     const title = doc.title;
-    const seriesCandidate = (id.match(/^([A-Z])/i)?.[1] || 'Other').toUpperCase();
+    const sectionFromMetadata = frontmatter.section?.trim().toUpperCase();
+    const seriesCandidate = (sectionFromMetadata?.[0] || id.match(/^([A-Z])/i)?.[1] || 'Other').toUpperCase();
     const series = ['A', 'B', 'C', 'E'].includes(seriesCandidate)
       ? (seriesCandidate as 'A' | 'B' | 'C' | 'E')
       : 'Other';
@@ -440,6 +480,8 @@ export async function extractVault(): Promise<ExportData> {
       id,
       title,
       series: ['A', 'B', 'C', 'E'].includes(series) ? series : 'Other',
+      created: frontmatter.created || fallbackDates.created,
+      updated: frontmatter.updated || fallbackDates.updated,
       content: fullContent,
       credibilityScore: citations.length > 0 
         ? citations.reduce((sum, c) => sum + c.credibilityScore, 0) / citations.length 
@@ -448,12 +490,13 @@ export async function extractVault(): Promise<ExportData> {
       citations,
       links: [...new Set(resolvedLinks)],
       tags: [
-        ...new Set(
-          extractSectionContent(content, 'Related Concepts')
+        ...new Set([
+          ...(frontmatter.tags || []).map((tag) => tag.toLowerCase()),
+          ...extractSectionContent(content, 'Related Concepts')
             .split('[[')
             .filter(t => t.includes(']]'))
-            .map(t => t.split(']]')[0].toLowerCase())
-        ),
+            .map(t => t.split(']]')[0].toLowerCase()),
+        ]),
       ],
     };
 

@@ -9,6 +9,7 @@ import os
 import re
 import json
 import time
+import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
 from dataclasses import dataclass
@@ -17,6 +18,12 @@ from datetime import datetime
 import argparse
 import logging
 import requests
+
+TOOLS_ROOT = Path(__file__).resolve().parents[1]
+if str(TOOLS_ROOT) not in sys.path:
+    sys.path.append(str(TOOLS_ROOT))
+
+from utility_scripts.note_metadata import read_metadata
 
 # Configure logging
 logging.basicConfig(
@@ -94,6 +101,7 @@ class FitnessLibraryProcessor:
 CRITICAL REQUIREMENTS:
 1. NEVER change the note title - this breaks links across the entire library
 2. PRESERVE all existing [[links]] exactly as written - do not modify anything inside [[ ]]
+2a. If an existing link target ends with `.md`, remove only the `.md` suffix (keep target, anchor, and alias unchanged)
 3. MAINTAIN all scientific accuracy and citations
 4. ADD practical applications if missing
 5. ENSURE all key claims are backed by research citations
@@ -101,9 +109,14 @@ CRITICAL REQUIREMENTS:
 
 STANDARD NOTE STRUCTURE:
 ```markdown
+---
+id: [Keep original ID exactly as is]
+created: [Original date]
+updated: [Current date]
+section: [Section letter/roman numeral]
+tags: [optional, comma-separated topical tags]
+---
 ### [Original Title - NEVER CHANGE]
-**ID:** [Keep original ID exactly as is]
-**Created:** [Original date] (Updated: [Current date])
 
 ## Quick Takeaway
 [Single sentence bottom line - what users need to know immediately]
@@ -165,6 +178,7 @@ STANDARD NOTE STRUCTURE:
 
 LINKING PRESERVATION RULES:
 - Keep all [[Note Name]] links exactly as they appear
+- Canonicalize malformed links by stripping a trailing `.md` from the target only
 - You can add descriptive text around links: "adequate protein intake [[B2. Protein Requirements]]"
 - Never modify what's inside the [[ ]] brackets
 - Never change link destinations
@@ -199,18 +213,21 @@ Here's the note to rewrite:
             title = title_match.group(1).strip() if title_match else file_path.stem
             logger.debug(f"Extracted title: {title}")
             
+            metadata = read_metadata(content)
+
             # Extract ID
-            id_match = re.search(r'\*\*ID:\*\*\s*(.+)$', content, re.MULTILINE)
-            note_id = id_match.group(1).strip() if id_match else "NO-ID"
+            note_id = metadata.note_id or "NO-ID"
             logger.debug(f"Extracted ID: {note_id}")
             
             # Extract creation date
-            date_match = re.search(r'\*\*Created:\*\*\s*([^(]+)', content, re.MULTILINE)
-            created_date = date_match.group(1).strip() if date_match else "Unknown"
+            created_date = metadata.created or "Unknown"
             logger.debug(f"Extracted date: {created_date}")
             
             # Extract section from filename or ID
-            section = file_path.stem[0] if file_path.stem and file_path.stem[0].isalpha() else "Unknown"
+            section = (
+                metadata.section
+                or (file_path.stem[0] if file_path.stem and file_path.stem[0].isalpha() else "Unknown")
+            )
             logger.debug(f"Extracted section: {section}")
             
             # Count words

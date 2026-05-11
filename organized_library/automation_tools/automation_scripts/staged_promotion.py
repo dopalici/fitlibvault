@@ -49,6 +49,15 @@ from typing import Dict, List, Optional, Tuple
 
 REPO_ROOT = Path(__file__).resolve().parents[3]
 AUTOMATION_ROOT = REPO_ROOT / "organized_library" / "automation_tools"
+if str(AUTOMATION_ROOT) not in sys.path:
+    sys.path.append(str(AUTOMATION_ROOT))
+
+from utility_scripts.note_metadata import (
+    parse_frontmatter,
+    read_metadata,
+    replace_or_insert_frontmatter,
+)
+
 DEFAULT_NOTES_DIR = REPO_ROOT / "organized_library" / "processed_archive" / "processed_notes"
 DEFAULT_HISTORY = AUTOMATION_ROOT / "promotion_history.jsonl"
 DEFAULT_CONFIRMED_ARCHIVE = (
@@ -92,8 +101,7 @@ class CandidateReview:
 
 
 def extract_id(markdown: str) -> str:
-    match = re.search(r"\*\*ID:\*\*\s*([^\n*]+?)(?:\s+\*\*Created:|\s*$)", markdown, flags=re.MULTILINE)
-    return match.group(1).strip() if match else ""
+    return read_metadata(markdown).note_id
 
 
 def extract_title(markdown: str) -> str:
@@ -123,6 +131,7 @@ def check_wikilinks(rewritten: str, target_index: Dict[str, List[Path]], stub_pa
     for match in WIKILINK_RE.finditer(rewritten):
         raw = match.group(1)
         base = raw.split("|", 1)[0].split("#", 1)[0].strip()
+        base = re.sub(r"\.md$", "", base, flags=re.IGNORECASE)
         if not base or base in seen:
             continue
         seen.add(base)
@@ -207,7 +216,10 @@ def build_diff_preview(og: str, rewritten: str, max_lines: int = 80) -> str:
 
 def stamp_metadata(rewritten_text: str, promotion_date: str, summary: str) -> str:
     """Insert/refresh the Updated tag and append an Update Log entry."""
-    if UPDATED_TAG_RE.search(rewritten_text):
+    frontmatter, _ = parse_frontmatter(rewritten_text)
+    if frontmatter:
+        new_text = replace_or_insert_frontmatter(rewritten_text, {"updated": promotion_date})
+    elif UPDATED_TAG_RE.search(rewritten_text):
         new_text = UPDATED_TAG_RE.sub(f"(Updated: {promotion_date})", rewritten_text, count=1)
     else:
         new_text = re.sub(

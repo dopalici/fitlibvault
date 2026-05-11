@@ -29,21 +29,21 @@ Recent activity: **354 promotions on 2026-05-08** (see `promotion_history.jsonl`
 
 1. **Recommended one-command run** (rewrite → audit → DOI fix → interlink check
    → dry-run promotion validation → per-file confirmed promotion → website
-   rebuild). The interactive `--staged-apply` mode pauses on each file for
+   rebuild). Staged apply is the default mode and pauses on each file for
    y / s / d / q so you can inspect each change before it touches the OG file:
 
    ```bash
    python3 "organized_library/automation_tools/automation_scripts/seamless_update_pipeline.py" \
      --section A --start-num 1 --end-num 65 \
      --validate-interlinks --interlink-fail-on broken \
-     --apply --staged-apply \
+     --apply \
      --build-content
    ```
 
    Headless variant (no prompts, accept everything that passes validation):
 
    ```bash
-   ... --apply --staged-apply --staged-auto-yes
+   ... --apply --staged-auto-yes
    ```
 
 2. **Granular mode** (manual per phase):
@@ -86,15 +86,11 @@ it replaces the OG file, and I want a real timestamp on every push":
 - Web app integration + learning system wiring: `web app fitlib/INTEGRATION.md`
 - Reader/admin/FSRS owner SOP: `web app fitlib/docs/SOP_KNOWLEDGE_READER_SYSTEMS.md`
 
-## File Format Optimisation Proposal (optional, not yet applied)
+## File Format Optimisation (implemented)
 
-Things that would make the file format even more seamless without breaking
-existing Obsidian behaviour. None of the current scripts depend on these,
-they're suggestions for when you want to tighten things further:
+The format hardening work is now active across the toolchain:
 
-- **YAML frontmatter** for metadata. Replace the trio
-  `**ID:** ...` / `**Created:** ...` / `**Updated:** ...` with a single
-  YAML block at the top of the file:
+- **YAML frontmatter is the metadata source of truth** for notes:
 
   ```yaml
   ---
@@ -106,31 +102,28 @@ they're suggestions for when you want to tighten things further:
   ---
   ```
 
-  Obsidian renders this as a clean Properties panel; every script in this
-  folder already parses both the YAML form and the bold-inline form, so
-  migration can be incremental.
+  Parsers in automation scripts now read YAML first with bold-inline fallback.
+  The migration utility (`utility_scripts/migrate_to_yaml_frontmatter.py`)
+  converted existing notes in one pass.
 
-- **Single canonical wikilink format** — drop the `.md` suffix inside
-  brackets (`[[VIII-2. Commercial Gym Equipment.md]]` is invalid Obsidian
-  syntax, the validator flags 200+ of these). The validator's
-  `interlink_audit.md` lists every offender with a suggested rewrite.
+- **Canonical wikilinks are enforced** by stripping `.md` from link targets.
+  Use `utility_scripts/wikilink_md_strip.py` (dry-run by default) to clean any
+  regressions. The validator also normalizes `.md` targets and reports them as
+  non-canonical instead of hard-broken when resolvable.
 
-- **Stop shipping section-index stubs** like `D. Weight Management.md`
-  (16 body words, just a title and a link list). They're Obsidian
-  shadow-risks: if a wikilink names them ambiguously, Obsidian or the
-  website builder may resolve to the stub instead of the real OG. Either
-  fill them with at least 40 body words or rename them to
-  `_index/D. Weight Management.md` so they stop competing for basenames.
+- **Section-index stubs were remediated** by adding real overview content to
+  low-word root index notes and removing duplicate basename mirrors in
+  `organized_library/<topic>/` for the affected sections.
 
-- **Promote `confirmed_archive/<date>/` over `processed_archive/`**.
-  Once a rewrite is promoted, it should live in `confirmed_archive/`, not
-  alongside still-pending rewrites. `staged_promotion.py` does this
-  automatically; switching to it as the default removes the staging clutter
-  that was producing zero-byte stubs in `processed_notes/`.
+- **Staged promotion is the default apply path** in
+  `automation_scripts/seamless_update_pipeline.py`. Accepted rewrites are moved
+  into `organized_library/processed_archive/confirmed_archive/<YYYY-MM-DD>/`
+  by `staged_promotion.py`, preventing re-promotion clutter.
 
 ## Notes
 
-- The website exporter prefers explicit `**ID:**` metadata and ignores
-  rewritten/backup artefacts.
+- The website exporter now prefers frontmatter `id` and carries `created` /
+  `updated` into the content bridge payload (with explicit bold metadata
+  fallback for legacy notes).
 - Keep OG filenames stable to preserve Obsidian interlinks. Promotion never
   renames files, only rewrites their content.

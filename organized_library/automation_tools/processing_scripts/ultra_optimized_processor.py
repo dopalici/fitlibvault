@@ -8,12 +8,19 @@ Maintains quality while minimizing API usage
 import os
 import re
 import json
+import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 import logging
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+AUTOMATION_ROOT = Path(__file__).resolve().parents[1]
+if str(AUTOMATION_ROOT) not in sys.path:
+    sys.path.append(str(AUTOMATION_ROOT))
+
+from utility_scripts.note_metadata import read_metadata
 
 class UltraOptimizedProcessor:
     """Ultra-optimized processor for maximum token savings"""
@@ -67,8 +74,7 @@ class UltraOptimizedProcessor:
     
     def _extract_id(self, content: str) -> str:
         """Extract ID"""
-        match = re.search(r'\*\*ID:\*\*\s*(.+)$', content, re.MULTILINE)
-        return match.group(1).strip() if match else ""
+        return read_metadata(content).note_id
     
     def _extract_ultra_minimal_content(self, content: str) -> str:
         """Extract only the core 1-2 sentences that describe the concept"""
