@@ -134,7 +134,7 @@ railway up
 
 ### 1. **Interactive Knowledge Graph**
 - Nodes = Your 2000+ topics
-- Edges = All [[internal links]]
+- Edges = All `[[internal links]]`
 - Click to explore, hover for previews
 - Search highlights relevant nodes
 - **This is your killer feature!**

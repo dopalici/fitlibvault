@@ -4,53 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "219810dbf87c1253",
+        "id": "46745b453e725cbd",
         "type": "tabs",
         "children": [
           {
-            "id": "dc03d789346089b6",
+            "id": "77bfced0189f78cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A16. Biomechanics Gait Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A16. Biomechanics Gait Analysis"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "f0e6fb67e9cb0e1f",
+            "id": "a11fa1c1805ef78c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM).md",
+                "file": "A. Foundational Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM)"
+              "title": "A. Foundational Concepts"
             }
           },
           {
-            "id": "f566b8df83184e23",
+            "id": "51fb42ef35ee4060",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C61. Cognitive Nutrition for Athletes.md",
+                "file": "organized_library/cardiovascular_training/E3. High-Intensity Interval Training (HIIT).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C61. Cognitive Nutrition for Athletes"
+              "title": "E3. High-Intensity Interval Training (HIIT)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,11 +78,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "x17",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -123,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance).md",
+                "file": "organized_library/sports_specific/X17. Hockey Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance)"
+              "title": "Backlinks for X17. Hockey Training"
             }
           },
           {
@@ -142,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ftilib.docx.md",
+                "file": "A. Foundational Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ftilib.docx"
+              "title": "Outgoing links from A. Foundational Concepts"
             }
           },
           {
@@ -171,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "organized_library/sports_specific/X17. Hockey Training.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of X17. Hockey Training"
             }
           },
           {
@@ -190,12 +187,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,44 +204,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f566b8df83184e23",
+  "active": "a11fa1c1805ef78c",
   "lastOpenFiles": [
-    "A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM).md",
-    "organized_library/automation_tools/CHANGELOG-2026-05-07.md",
-    "organized_library/automation_tools/automation_scripts/staged_promotion.py",
-    "organized_library/automation_tools/utility_scripts/interlink_validator.py",
-    "A13. Biomechanics Torque and Movement.md",
-    "A12. Biomechanics Force Vectors.md",
-    "A11. Biomechanics Levers in the Human Body.md",
-    "A10. Hormonal Responses to Exercise.md",
-    "A9. Respiratory Physiology Fundamentals.md",
-    "A5. FITT Principle.md",
+    "web app fitlib/public/content/nodes/A11-BIOMECH-LEVERS.json",
+    "web app fitlib/public/content/nodes/A10-HORMONAL-RESPONSES.json",
+    "web app fitlib/public/content/nodes/A1-ENERGY-BALANCE.json",
+    "web app fitlib/public/content/cards/changelog-broken-links-2026-05-12.json",
+    "web app fitlib/public/content/nodes/changelog-broken-links-2026-05-12.json",
+    "web app fitlib/public/content/nodes/A15-BIOMECH-POSTURE.json",
+    "web app fitlib/public/content/nodes/A14-BIOMECH-COG.json",
+    "web app fitlib/public/content/nodes/A13-BIOMECH-TORQUE.json",
+    "web app fitlib/public/content/nodes/A12-BIOMECH-FORCE.json",
+    "organized_library/sports_specific/X17. Hockey Training.md",
+    "organized_library/cardiovascular_training/E3. High-Intensity Interval Training (HIIT).md",
+    "organized_library/nutrition_diet/C22. Supplements with LimitedMixed Evidence (Group B).md",
+    "web app fitlib/public/content/nodes/FZC-1-7.json",
+    "organized_library/sports_specific/X7. Golf.md",
+    "G-VII-2-KINESIOLOGY-MOVEMENT.md",
+    "organized_library/sports_specific/X6. Combat Sports (Boxing, MMA, Wrestling, Judo).md",
+    "X6. Combat Sports (Boxing, MMA, Wrestling, Judo).md",
+    "B49. Sand Training Methods.md",
+    "organized_library/frontend/node_modules/coa/node_modules/color-convert/README.md",
     "A16. Biomechanics Gait Analysis.md",
-    "A15. Biomechanics Posture Analysis.md",
-    "A14. Biomechanics Center of Gravity (COG) Center of Mass (COM).md",
-    "L3. Balance and Coordination Training.md",
-    "A8. Cardiovascular Physiology Fundamentals.md",
-    "A7. Muscle Physiology Fundamentals.md",
-    "A6. Energy Systems (Detailed).md",
-    "A4. Micronutrients.md",
-    "A3. Macronutrients.md",
-    "A2. Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE).md",
-    "A1. Energy Balance.md",
-    "C1. Caloric Targets for Different Goals.md",
-    "A. Foundational Concepts.md",
-    "organized_library/processed_archive/processed_notes/rewritten_A3. Macronutrients.md",
-    "web app fitlib/vite.config.ts",
-    "web app fitlib/vercel.json",
-    "web app fitlib/tsconfig.json",
-    "web app fitlib/src/pages/Library.tsx",
-    "web app fitlib/src/pages/Landing.tsx",
-    "web app fitlib/src/pages/Dashboard.tsx",
-    "web app fitlib/src/pages/About.tsx",
-    "web app fitlib/src/services/nodeService.ts",
-    "web app fitlib/docs/WEEKLY_STANDUP_TEMPLATE.md",
-    "web app fitlib/docs/VISION.md",
-    "web app fitlib/docs/VERCEL_DEPLOYMENT_CHECKLIST.md",
-    "web app fitlib/docs/SOP_KNOWLEDGE_READER_SYSTEMS.md",
+    "A14. Biomechanics Center of Gravity (COG)  Center of Mass (COM).md",
+    "organized_library/sports_specific/X4. Team Sports - General Considerations.md",
+    "organized_library/cross_training/L2. Mobility and Flexibility Development.md",
+    "C32. Gut Health and Microbiome.md",
+    "organized_library/exercise_library/EXL-76 Cable Woodchop (High-to-Low  Low-to-High).md",
+    "organized_library/resistance_training/B. Resistance Training.md",
+    "organized_library/foundation/A17. Movement Screening.md",
+    "L. Cross-Training and Functional Fitness.md",
+    "l.ROSS-TRAINING-FUNCTIONAL-FITNESS.md",
+    "F15. Load Monitoring Systems.md",
+    "FZC-1.7.md",
+    "L4-CORE-STABILITY.md",
+    "organized_library/processed_archive/processed_notes/rewritten_X4. Team Sports - General Considerations.md",
+    "E4-CONCURRENT-TRAINING.md",
+    "B-RESISTANCE-TRAINING.md",
+    "organized_library/automation_tools/automation_scripts/staged_promotion.py",
     "organized_library/frontend/node_modules/serve-index/public/icons/page_world.png",
     "organized_library/frontend/node_modules/serve-index/public/icons/page_word.png",
     "organized_library/frontend/node_modules/serve-index/public/icons/page_white_zip.png",

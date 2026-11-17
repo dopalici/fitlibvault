@@ -22,13 +22,13 @@ Team sports like soccer, basketball, hockey, rugby, volleyball, and American foo
 
 **Movement Quality Requirements** include agility and change of direction (COD) - the ability to rapidly decelerate, change direction, and accelerate. This demands integrated strength, power, coordination, and reactive ability. Linear speed over short distances (5-40 meters typically) and explosive power for jumping, throwing, tackling, and sport-specific actions are equally critical.
 
-**Strength and Endurance Foundations** encompass maximal strength for power production and force absorption, strength endurance for repeated high-intensity actions, and contact tolerance in collision sports. Adequate mobility and joint stability [[L2-MOBILITY-FLEXIBILITY]], [[L4-CORE-STABILITY]] support efficient movement patterns and injury resilience.
+**Strength and Endurance Foundations** encompass maximal strength for power production and force absorption, strength endurance for repeated high-intensity actions, and contact tolerance in collision sports. Adequate mobility and joint stability [[organized_library/cross_training/L2. Mobility and Flexibility Development|L2. Mobility and Flexibility Development]], [[organized_library/cross_training/L4. Core Stability Training|L4. Core Stability Training]] support efficient movement patterns and injury resilience.
 
 ### Training Component Integration
 
-**Conditioning Approaches** should match sport demands through interval training [[E4. Interval Training (General)]], small-sided games, and repeated sprint ability (RSA) protocols. Aerobic base work supports recovery, but excessive long slow distance may interfere with power and speed development [[E4-CONCURRENT-TRAINING]].
+**Conditioning Approaches** should match sport demands through interval training [[E4. Interval Training (General)]], small-sided games, and repeated sprint ability (RSA) protocols. Aerobic base work supports recovery, but excessive long slow distance may interfere with power and speed development [[organized_library/cardiovascular_training/E14. Concurrent Training Updated Protocols & Considerations|E14. Concurrent Training Updated Protocols & Considerations]].
 
-**Strength and Power Development** requires periodized resistance training [[B-RESISTANCE-TRAINING]], [[B13-STRENGTH-TRAINING-GOALS]] emphasizing compound movements, Olympic lift variations when appropriate, plyometrics, and medicine ball exercises. Programming must account for in-season versus off-season priorities.
+**Strength and Power Development** requires periodized resistance training [[organized_library/resistance_training/B. Resistance Training|B. Resistance Training]]], [[organized_library/resistance_training/B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance)|B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance)]] emphasizing compound movements, Olympic lift variations when appropriate, plyometrics, and medicine ball exercises. Programming must account for in-season versus off-season priorities.
 
 **Speed and Agility Training** focuses on acceleration mechanics, maximal velocity development (sport-dependent), change of direction technique including deceleration and cutting angles, and reactive agility under game-like conditions.
 
@@ -97,9 +97,9 @@ Plyometric training plays a crucial role in team sport preparation, particularly
 
 ## Related Concepts
 
-Energy system development through [[E1. Aerobic vs. Anaerobic Training]] and understanding [[A6. Energy Systems (Detailed)]] for sport-specific conditioning. Implement structured conditioning via [[E4. Interval Training (General)]] while managing [[E4-CONCURRENT-TRAINING]] effects.
+Energy system development through [[E1. Aerobic vs. Anaerobic Training]] and understanding [[A6. Energy Systems (Detailed)]] for sport-specific conditioning. Implement structured conditioning via [[E4. Interval Training (General)]] while managing [[organized_library/cardiovascular_training/E14. Concurrent Training Updated Protocols & Considerations|E14. Concurrent Training Updated Protocols & Considerations]] effects.
 
-Build physical foundations through [[B-RESISTANCE-TRAINING]] and [[B13-STRENGTH-TRAINING-GOALS]] while maintaining movement quality via [[L2-MOBILITY-FLEXIBILITY]] and [[L4-CORE-STABILITY]].
+Build physical foundations through [[organized_library/resistance_training/B. Resistance Training|B. Resistance Training]] and [[B13-STRENGTH-TRAINING-GOALS]] while maintaining movement quality via [[organized_library/cross_training/L2. Mobility and Flexibility Development|L2. Mobility and Flexibility Development]] and [[L4-CORE-STABILITY]].
 
 Structure training through [[FZC-1.7]] and [[K2-PERIODIZATION-ADVANCED]] periodization models with systematic [[FZA-2.1]] load monitoring. Support performance through comprehensive [[M-RECOVERY-STRATEGIES]] and explore [[L-CROSS-TRAINING-FUNCTIONAL-FITNESS]] applications.
 

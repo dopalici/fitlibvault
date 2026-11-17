@@ -150,6 +150,20 @@ cd "web app fitlib"
 npm run content:build
 ```
 
+Guardrail check (recommended before deploy/commit):
+
+```bash
+cd "web app fitlib"
+npm run content:check:wikilinks
+```
+
+Combined command (this is what `npm run build` now uses internally):
+
+```bash
+cd "web app fitlib"
+npm run content:verify
+```
+
 Local preview:
 
 ```bash

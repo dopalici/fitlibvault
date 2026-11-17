@@ -125,7 +125,9 @@ STRIPE_WEBHOOK_SECRET=whsec_...
 |---|---|
 | `npm run dev` | Express + Vite dev server (hot reload) |
 | `npm run content:build` | Regenerate `public/content/` from the vault |
-| `npm run build` | `content:build` then `vite build` |
+| `npm run content:check:wikilinks` | Fail if `wikilink_unresolved_report.json` has unresolved links |
+| `npm run content:verify` | `content:build` + unresolved wikilink guardrail |
+| `npm run build` | `content:verify` then `vite build` |
 | `npm run preview` | Serve the production build locally |
 | `npm start` / `npm run start:prod` | Node (tsx) server in prod mode |
 | `npm run lint` | `tsc --noEmit` — type check only |
