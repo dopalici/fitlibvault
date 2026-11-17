@@ -1,6 +1,10 @@
+---
+id: EXL-54-MEX-PECDECK
+created: '2025-04-30'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-54: Pec Deck Fly (Machine)**
-
-**ID:** EXL-54-MEX-PECDECK **Created:** 2025-04-30 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The pec deck fly is a beginner-friendly machine exercise that isolates the pectoralis major through horizontal shoulder adduction with controlled resistance and reduced stabilization demands.

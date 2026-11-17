@@ -1,6 +1,12 @@
-### **EXL-43: Renegade Row**
+---
+id: EXL-43-DB-RENEGADEROW
+created: '2025-04-29
 
-**ID:** EXL-43-DB-RENEGADEROW **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-43: Renegade Row**
 
 **(Brief Description):** A challenging compound exercise performed in a plank position with hands on dumbbells, involving rowing one dumbbell towards the chest while stabilizing the torso with the other arm and core. Develops back strength, core anti-rotational stability, and shoulder stability.
 

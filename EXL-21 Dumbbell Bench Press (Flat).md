@@ -1,6 +1,10 @@
+---
+id: EXL-21-DB-BENCH
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-21: Dumbbell Bench Press (Flat)**
-
-**ID:** EXL-21-DB-BENCH **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A compound upper-body exercise that develops chest, shoulder, and tricep strength while requiring greater stabilization than barbell variations due to independent arm movement.

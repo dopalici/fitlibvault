@@ -1,6 +1,12 @@
-### **EXL-98: Arc Trainer**
+---
+id: EXL-98-CARDIO-ARCTRAINER
+created: '2025-05-01
 
-**ID:** EXL-98-CARDIO-ARCTRAINER **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-98: Arc Trainer**
 
 **(Brief Description):** A cardiovascular exercise machine [[../equipment_technology/VIII-2. Commercial Gym Equipment]] characterized by an arcuate (curved) footplate motion, differing from the more oval path of an elliptical [[EXL-92 Elliptical Trainer]]. It provides a low-impact, weight-bearing workout, often allowing adjustments to resistance and incline/stride pattern.
 

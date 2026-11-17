@@ -1,6 +1,10 @@
+---
+id: IX-7
+created: '[Original date]'
+updated: December 2024
+section: IX
+---
 ### IX-7. Pain Science in Exercise & Rehabilitation
-**ID:** IX-7
-**Created:** [Original date] (Updated: December 2024)
 
 ## Quick Takeaway
 Pain is a complex brain output influenced by biological, psychological, and social factors—not just tissue damage—making education about pain neuroscience combined with graded movement often more effective than focusing solely on structural problems.

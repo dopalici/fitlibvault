@@ -1,6 +1,10 @@
+---
+id: EXL-77-CEX-PALLOFPRESS
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-77: Cable Pallof Press (Anti-Rotation)**
-
-**ID:** EXL-77-CEX-PALLOFPRESS **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The Cable Pallof Press is an anti-rotation core exercise that builds stability by resisting the rotational force of a cable while maintaining a neutral spine position.

@@ -1,6 +1,10 @@
+---
+id: EXL-00
+created: '[Original date]'
+updated: '2024-12-19'
+section: EXL
+---
 ### Exercise Library Index
-**ID:** EXL-00
-**Created:** [Original date] (Updated: 2024-12-19)
 
 ## Quick Takeaway
 A comprehensive index of 100 evidence-based exercises covering barbell movements, dumbbell exercises, machine training, cables, bodyweight movements, and cardiovascular equipment for complete fitness programming.
@@ -60,7 +64,7 @@ Cable systems provide constant tension throughout the range of motion and allow 
 
 **Cable Training Benefits:**
 - [[EXL-73 Cable Face Pull]] - Posterior deltoid and rhomboid strengthening
-- [[EXL-76 Cable Woodchop (High-to-Low & Low-to-High)]] - Rotational core training
+- [[EXL-76 Cable Woodchop (High-to-Low Low-to-High)]] - Rotational core training
 - [[EXL-77 Cable Pallof Press (Anti-Rotation)]] - Anti-rotation core stability
 - [[EXL-79 Cable Pull-Through]] - Hip-hinge pattern with constant tension
 
@@ -68,13 +72,13 @@ Cable systems provide constant tension throughout the range of motion and allow 
 Bodyweight movements provide functional strength development and require no equipment, making them accessible for all training environments.
 
 **Upper Body Bodyweight:**
-- [[EXL-81 Pull-up & Chin-up (Bodyweight)]] - Vertical pulling with body load
+- [[EXL-81 Pull-up Chin-up (Bodyweight)]] - Vertical pulling with body load
 - [[EXL-82 Dip (Parallel Bar)]] - Vertical pushing movement
 - [[EXL-83 Push-up (Standard & Variations)]] - Horizontal pushing with core stability demands
 
 **Core and Posterior Chain:**
 - [[EXL-84 Plank (Standard & Variations)]] and [[EXL-85 Side Plank (Standard & Variations)]] - Isometric core stability
-- [[EXL-86 Back Extension & Hyperextension (Bench)]] - Posterior chain strengthening
+- [[EXL-86 Back Extension Hyperextension (Bench)]] - Posterior chain strengthening
 
 ### Cardiovascular Equipment (EXL-91 to EXL-100)
 Cardio equipment provides controlled environments for aerobic conditioning and metabolic training.
@@ -86,7 +90,7 @@ Cardio equipment provides controlled environments for aerobic conditioning and m
 
 **Specialized Equipment:**
 - [[EXL-96 Rowing Ergometer (Rower)]] - Full-body pulling pattern with cardio benefits
-- [[EXL-100 Assault Bike & Air Bike]] - High-intensity interval training equipment
+- [[EXL-100 Assault Bike Air Bike]] - High-intensity interval training equipment
 
 ## Research Evidence
 
@@ -136,64 +140,3 @@ This exercise library supports comprehensive program design through [[A1. Traini
 
 ## Update Log
 - 2024-12-19: Enhanced organization by equipment type, added research evidence for exercise selection principles, improved practical applications for program integration
-[[Missing links: {\]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, \]]
-[[, "EXL-88 Hanging Leg Raise  Knee Raise (Captain\]]
-[[EXL-71 Cable Lateral Raise\]]
-[[EXL-72 Cable Front Raise\]]
-[[EXL-78 Cable Glute Kickback\]]
-[[EXL-28 Dumbbell Bench Supported Row (Chest Supported)\]]
-[[EXL-45 Arnold Press\]]
-[[EXL-80 Cable Upright Row\]]
-[[EXL-86 Back Extension  Hyperextension (Bench)\]]
-[[EXL-68 Cable Overhead Triceps Extension (RopeBar)\]]
-[[EXL-49 Lying Leg Curl (Machine)\]]
-[[EXL-16 Barbell Shrug\]]

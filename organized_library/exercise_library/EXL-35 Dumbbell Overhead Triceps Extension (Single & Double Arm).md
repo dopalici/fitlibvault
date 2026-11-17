@@ -1,6 +1,12 @@
-### **EXL-35: Dumbbell Overhead Triceps Extension (Single & Double Arm)**
+---
+id: EXL-35-DB-OHTRIEXT
+created: '2025-04-29
 
-**ID:** EXL-35-DB-OHTRIEXT **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-35: Dumbbell Overhead Triceps Extension (Single & Double Arm)**
 
 **(Brief Description):** An isolation exercise targeting the triceps, performed seated or standing, involving extending the elbow(s) from a flexed position behind the head while holding a dumbbell overhead. The overhead position places a significant stretch on the long head of the triceps.
 

@@ -7,10 +7,17 @@ Analyze progress, validate files, generate statistics
 import os
 import re
 import json
+import sys
 from pathlib import Path
 from typing import Dict, List, Optional
 from datetime import datetime
 import argparse
+
+AUTOMATION_ROOT = Path(__file__).resolve().parent
+if str(AUTOMATION_ROOT) not in sys.path:
+    sys.path.append(str(AUTOMATION_ROOT))
+
+from utility_scripts.note_metadata import read_metadata
 
 class FitnessLibraryAnalyzer:
     """Analyze fitness library processing status and quality"""
@@ -187,9 +194,9 @@ class FitnessLibraryAnalyzer:
             if not title_match:
                 issues.append("No title found")
             
-            # Check for ID preservation
-            id_match = re.search(r'\*\*ID:\*\*\s*(.+)$', content, re.MULTILINE)
-            if not id_match:
+            # Check for ID preservation (YAML first, bold metadata fallback)
+            metadata = read_metadata(content)
+            if not metadata.note_id:
                 issues.append("No ID found")
             
             # Check minimum word count

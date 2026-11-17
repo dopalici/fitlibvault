@@ -1,6 +1,10 @@
+---
+id: EXL-79-CEX-PULLTHROUGH
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-79: Cable Pull-Through**
-
-**ID:** EXL-79-CEX-PULLTHROUGH **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The cable pull-through is a beginner-friendly hip hinge exercise that teaches proper hip movement patterns while strengthening the glutes and hamstrings with controlled resistance.

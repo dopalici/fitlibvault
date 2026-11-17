@@ -1,6 +1,10 @@
+---
+id: EXL-33-DB-INCLINECURL
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-33: Dumbbell Incline Curl**
-
-**ID:** EXL-33-DB-INCLINECURL **Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The dumbbell incline curl is an intermediate biceps isolation exercise that uses an inclined bench position to create greater stretch on the biceps long head, enhancing muscle activation and growth stimulus.

@@ -1,6 +1,10 @@
+---
+id: EXL-17-BB-PENDLAYROW
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-17: Pendlay Row**
-
-**ID:** EXL-17-BB-PENDLAYROW **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The Pendlay Row is an explosive barbell rowing variation that starts from a dead stop on the floor each rep, eliminating momentum to maximize upper back muscle activation and power development.

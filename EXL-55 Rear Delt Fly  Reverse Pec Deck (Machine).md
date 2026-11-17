@@ -1,6 +1,12 @@
-### **EXL-55: Rear Delt Fly / Reverse Pec Deck (Machine)**
+---
+id: EXL-55-MEX-REARDELTFLY
+created: '2025-04-30
 
-**ID:** EXL-55-MEX-REARDELTFLY **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-55: Rear Delt Fly / Reverse Pec Deck (Machine)**
 
 **(Brief Description):** An isolation exercise performed on a Pec Deck machine [[B10. Machine Training]] adapted for reverse flyes, or on a dedicated reverse fly machine. It targets the posterior deltoids and upper back muscles by moving the arms horizontally backward (abduction/extension) against resistance.
 

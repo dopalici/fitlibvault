@@ -1,6 +1,10 @@
+---
+id: EXL-31-DB-HAMMERCURL
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-31: Dumbbell Hammer Curl**
-
-**ID:** EXL-31-DB-HAMMERCURL **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A neutral-grip elbow flexion exercise that targets the brachialis and brachioradialis muscles more than traditional bicep curls, making it essential for complete arm development.

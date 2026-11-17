@@ -1,6 +1,10 @@
+---
+id: EXL-06-BB-ROW-PRONATED
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-06: Barbell Bent-Over Row (Pronated Grip)**
-
-**ID:** EXL-06-BB-ROW-PRONATED **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A compound pulling exercise that builds upper and mid-back strength while challenging core stability through a hip-hinged position with overhand grip.

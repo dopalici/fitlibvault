@@ -1,6 +1,10 @@
+---
+id: IX-3-INJURY-MANAGEMENT
+created: '2025-04-24'
+updated: '2026-05-08'
+section: IX
+---
 ### IX-3. Basic Injury Management (Acute Phase)
-**ID:** IX-3-INJURY-MANAGEMENT
-**Created:** 2025-04-24 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Modern injury management follows PEACE (immediate care) and LOVE (ongoing recovery) protocols, emphasizing protection initially followed by gradual loading and movement rather than extended rest.

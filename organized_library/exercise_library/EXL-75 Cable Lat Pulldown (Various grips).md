@@ -1,6 +1,12 @@
-### **EXL-75: Cable Lat Pulldown (Various grips)**
+---
+id: 'EXL-75-CEX-LATPD-VARIOUS _(Note: Similar to EXL-56 but emphasizing cable variation)_'
+created: '2025-04-30
 
-**ID:** EXL-75-CEX-LATPD-VARIOUS _(Note: Similar to EXL-56 but emphasizing cable variation)_ **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-75: Cable Lat Pulldown (Various grips)**
 
 **(Brief Description):** A vertical pulling exercise using a high pulley cable machine [[../resistance_training/B10. Machine Training]] and various grip attachments (wide bar, close grip V-bar, neutral grip handles, single D-handle) to target the latissimus dorsi and other back muscles. Provides constant tension.
 

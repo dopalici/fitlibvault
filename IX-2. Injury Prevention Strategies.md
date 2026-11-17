@@ -1,6 +1,10 @@
+---
+id: IX-2-INJURY-PREVENTION
+created: '2025-04-24'
+updated: '2026-05-08'
+section: IX
+---
 ### IX-2. Injury Prevention Strategies
-**ID:** IX-2-INJURY-PREVENTION
-**Created:** 2025-04-24 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Evidence-based injury prevention strategies—including proper training load management, targeted strength training, and movement quality—can reduce sports injury risk by 35-39% across various activities.

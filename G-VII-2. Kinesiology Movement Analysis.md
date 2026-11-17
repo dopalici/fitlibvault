@@ -1,6 +1,10 @@
+---
+id: G-VII-2-KINESIOLOGY
+created: '2025-04-24'
+updated: '2026-05-08'
+section: G
+---
 ### G-VII-2. Kinesiology: Movement Analysis
-**ID:** G-VII-2-KINESIOLOGY
-**Created:** 2025-04-24 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Kinesiology analyzes human movement by breaking down exercises into specific planes of motion, joint actions, and muscle roles to optimize training effectiveness and prevent injury.

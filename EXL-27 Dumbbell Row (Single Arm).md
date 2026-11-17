@@ -1,6 +1,10 @@
+---
+id: EXL-27-DB-ROW-SA
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-27: Dumbbell Row (Single Arm)**
-
-**ID:** EXL-27-DB-ROW-SA **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A unilateral pulling exercise that targets back muscles while challenging core stability through anti-rotation demands.

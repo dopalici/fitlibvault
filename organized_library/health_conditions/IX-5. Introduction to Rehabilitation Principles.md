@@ -1,6 +1,10 @@
+---
+id: IX-5-REHAB-PRINCIPLES
+created: '2025-04-24'
+updated: '2025-01-11'
+section: IX
+---
 ### IX-5. Introduction to Rehabilitation Principles
-**ID:** IX-5-REHAB-PRINCIPLES
-**Created:** 2025-04-24 (Updated: 2025-01-11)
 
 ## Quick Takeaway
 Effective rehabilitation is a systematic, criteria-based progression through three overlapping phases that prioritizes tissue healing, functional restoration, and injury prevention rather than rushing back to activity.

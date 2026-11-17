@@ -1,6 +1,10 @@
+---
+id: EXL-44-DB-FLOORPRESS
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-44: Dumbbell Floor Press**
-
-**ID:** EXL-44-DB-FLOORPRESS **Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The dumbbell floor press is a bench press variation performed on the floor that reduces shoulder stress through limited range of motion while emphasizing triceps strength and lockout power.

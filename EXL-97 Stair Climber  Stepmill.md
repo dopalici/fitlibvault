@@ -1,6 +1,10 @@
+---
+id: EXL-97-CARDIO-STAIRCLIMBER
+created: '2025-05-01'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-97: Stair Climber / Stepmill**
-
-**ID:** EXL-97-CARDIO-STAIRCLIMBER **Created:** 2025-05-01 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 Stair climbers provide high-intensity cardiovascular exercise while strengthening lower body muscles, offering greater caloric expenditure than many other cardio machines with lower impact than running.

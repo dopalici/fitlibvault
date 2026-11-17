@@ -1,6 +1,12 @@
-### **EXL-83: Push-up (Standard & Variations)**
+---
+id: EXL-83-BW-PUSHUP
+created: '2025-05-01
 
-**ID:** EXL-83-BW-PUSHUP **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-83: Push-up (Standard & Variations)**
 
 **(Brief Description):** A fundamental bodyweight exercise [[../resistance_training/B7. Bodyweight Training]] involving lowering and raising the body using the arms while maintaining a straight torso. Primarily targets the chest, shoulders, and triceps. Includes numerous variations to adjust difficulty.
 

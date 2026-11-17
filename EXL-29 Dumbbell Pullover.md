@@ -1,6 +1,10 @@
+---
+id: EXL-29-DB-PULLOVER
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-29: Dumbbell Pullover**
-
-**ID:** EXL-29-DB-PULLOVER **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A versatile exercise that targets both the lats and chest by lowering a dumbbell behind the head while lying across a bench, requiring good shoulder mobility and core control.

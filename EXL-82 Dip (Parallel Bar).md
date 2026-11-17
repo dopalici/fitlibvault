@@ -1,6 +1,10 @@
+---
+id: EXL-82-BW-DIP
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-82: Dip (Parallel Bar)**
-
-**ID:** EXL-82-BW-DIP **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Parallel bar dips are an intermediate-to-advanced bodyweight exercise that primarily targets triceps, chest, and front shoulders through a compound pressing movement between parallel bars.

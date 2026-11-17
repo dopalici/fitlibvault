@@ -1,6 +1,10 @@
+---
+id: IX-4-EXERCISE-CHRONIC-CONDITIONS
+created: '2025-04-24'
+updated: '2026-05-08'
+section: IX
+---
 ### IX-4. Exercise with Chronic Conditions
-**ID:** IX-4-EXERCISE-CHRONIC-CONDITIONS
-**Created:** 2025-04-24 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Regular exercise serves as powerful medicine for chronic conditions, but requires individualized programming with medical clearance, symptom monitoring, and gradual progression to maximize benefits while ensuring safety.

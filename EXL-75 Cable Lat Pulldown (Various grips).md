@@ -1,7 +1,10 @@
+---
+id: 'EXL-75-CEX-LATPD-VARIOUS _(Note: Similar to EXL-56 but emphasizing cable variation)_'
+created: '2025-04-30'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-75: Cable Lat Pulldown (Various grips)**
-
-**ID:** EXL-75-CEX-LATPD-VARIOUS _(Note: Similar to EXL-56 but emphasizing cable variation)_
-**Created:** 2025-04-30 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 Cable lat pulldowns with various grips provide constant tension throughout the range of motion while allowing grip modifications to target different aspects of back musculature and prepare for bodyweight pulling movements.

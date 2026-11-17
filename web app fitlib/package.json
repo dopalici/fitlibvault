@@ -7,7 +7,9 @@
   "scripts": {
     "dev": "tsx server.ts",
     "content:build": "tsx scripts/buildContentBridge.ts",
-    "build": "npm run content:build && vite build",
+    "content:check:wikilinks": "tsx scripts/checkUnresolvedWikilinks.ts",
+    "content:verify": "npm run content:build && npm run content:check:wikilinks",
+    "build": "npm run content:verify && vite build",
     "preview": "vite preview",
     "start": "tsx server.ts",
     "start:prod": "NODE_ENV=production tsx server.ts",

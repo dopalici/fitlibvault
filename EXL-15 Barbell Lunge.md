@@ -1,6 +1,10 @@
+---
+id: EXL-15-BB-LUNGE
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### EXL-15: Barbell Lunge
-**ID:** EXL-15-BB-LUNGE
-**Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The barbell lunge is an advanced unilateral lower-body exercise that develops single-leg strength, stability, and coordination while requiring significant core control due to the overhead load placement.

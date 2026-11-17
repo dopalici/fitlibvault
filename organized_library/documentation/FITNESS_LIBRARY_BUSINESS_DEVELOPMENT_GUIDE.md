@@ -1,3 +1,9 @@
+---
+id: '[UNIQUE-IDENTIFIER]'
+created: '[DATE]'
+updated: '[DATE]'
+section: F
+---
 # Comprehensive Fitness Library - Business Development Guide
 
 ## 🎯 **Project Overview & Value Proposition**
@@ -60,8 +66,6 @@ This represents a **$100,000+ intellectual property asset** that could serve:
 ### Current File Structure Template
 ```markdown
 ### [Topic Name]
-**ID:** [UNIQUE-IDENTIFIER]
-**Created:** [DATE] (Updated: [DATE])
 
 ## Quick Takeaway
 [2-3 sentence summary for immediate understanding]

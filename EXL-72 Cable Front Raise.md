@@ -1,6 +1,12 @@
-### **EXL-72: Cable Front Raise**
+---
+id: EXL-72-CEX-FRONTRAISE
+created: '2025-04-30
 
-**ID:** EXL-72-CEX-FRONTRAISE **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-72: Cable Front Raise**
 
 **(Brief Description):** An isolation exercise using a low pulley cable machine [[B10. Machine Training]] to target the anterior (front) deltoids. Involves raising the arm(s) straight forward against the constant tension of the cable.
 

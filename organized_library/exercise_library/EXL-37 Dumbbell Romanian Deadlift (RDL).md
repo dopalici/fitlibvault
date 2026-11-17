@@ -1,6 +1,12 @@
-### **EXL-37: Dumbbell Romanian Deadlift (RDL)**
+---
+id: EXL-37-DB-RDL
+created: '2025-04-29
 
-**ID:** EXL-37-DB-RDL **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-37: Dumbbell Romanian Deadlift (RDL)**
 
 **(Brief Description):** A hip hinge exercise using dumbbells, involving lowering the weights towards the floor by pushing the hips back while maintaining a nearly straight leg position and a neutral spine. Primarily targets the hamstrings and glutes, similar to the barbell RDL but allowing a more natural hand position.
 

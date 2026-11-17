@@ -1,6 +1,10 @@
+---
+id: EXL-76-CEX-WOODCHOP
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-76: Cable Woodchop (High-to-Low / Low-to-High)**
-
-**ID:** EXL-76-CEX-WOODCHOP **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A diagonal rotational core exercise using cables that trains the obliques and rotational movement patterns essential for sports and daily activities.

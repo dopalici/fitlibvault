@@ -1,6 +1,10 @@
+---
+id: EXL-60-MEX-BICEPCURL
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-60: Bicep Curl (Machine - Preacher or Seated)**
-
-**ID:** EXL-60-MEX-BICEPCURL **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Machine bicep curls provide a stable, controlled way to isolate the elbow flexors with reduced stabilization demands, making them ideal for beginners or focused muscle development.

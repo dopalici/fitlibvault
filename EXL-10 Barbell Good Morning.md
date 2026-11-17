@@ -1,6 +1,10 @@
+---
+id: EXL-10-BB-GOODMORNING
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-10: Barbell Good Morning**
-
-**ID:** EXL-10-BB-GOODMORNING **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The barbell good morning is an advanced hip hinge exercise that primarily strengthens the posterior chain (spinal erectors, glutes, hamstrings) but requires excellent technique and should only be performed by those who have mastered safer hip hinge movements first.

@@ -1,6 +1,12 @@
-### **EXL-30: Dumbbell Bicep Curl (Standing, Alternating)**
+---
+id: EXL-30-DB-BICEPCURL-ALT
+created: '2025-04-29
 
-**ID:** EXL-30-DB-BICEPCURL-ALT **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-30: Dumbbell Bicep Curl (Standing, Alternating)**
 
 **(Brief Description):** An isolation exercise targeting the elbow flexors, performed standing while alternating curls between the left and right arms using dumbbells. Allows focus on each arm individually.
 

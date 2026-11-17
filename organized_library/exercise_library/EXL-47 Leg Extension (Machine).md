@@ -1,6 +1,12 @@
- ### **EXL-47: Leg Extension (Machine)**
+---
+id: EXL-47-MEX-LEGEXT
+created: '2025-04-29
 
-**ID:** EXL-47-MEX-LEGEXT **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+ ### **EXL-47: Leg Extension (Machine)**
 
 **(Brief Description):** An isolation exercise performed on a machine [[../resistance_training/B10. Machine Training]] involving extending the knee against resistance while seated. Primarily targets the quadriceps muscles.
 

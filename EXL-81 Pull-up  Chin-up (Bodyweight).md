@@ -1,6 +1,12 @@
-### **EXL-81: Pull-up / Chin-up (Bodyweight)**
+---
+id: EXL-81-BW-PULLUP
+created: '2025-04-30
 
-**ID:** EXL-81-BW-PULLUP **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-81: Pull-up / Chin-up (Bodyweight)**
 
 **(Brief Description):** A fundamental bodyweight upper-body pulling exercise [[B7. Bodyweight Training]] involving pulling the body upwards from a dead hang position until the chin clears the bar. Primarily targets the back and biceps. Variations include pull-ups (overhand grip) and chin-ups (underhand grip).
 

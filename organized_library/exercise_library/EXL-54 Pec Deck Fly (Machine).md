@@ -1,6 +1,12 @@
-### **EXL-54: Pec Deck Fly (Machine)**
+---
+id: EXL-54-MEX-PECDECK
+created: '2025-04-30
 
-**ID:** EXL-54-MEX-PECDECK **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-54: Pec Deck Fly (Machine)**
 
 **(Brief Description):** An isolation exercise performed on a machine [[../resistance_training/B10. Machine Training]] targeting the pectoralis major muscles. Involves bringing the arms together horizontally (adduction) against resistance provided by pads or handles.
 

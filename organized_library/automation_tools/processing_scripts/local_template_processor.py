@@ -8,6 +8,7 @@ Reduces API payload size by 60-80% while maintaining quality
 import os
 import re
 import json
+import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from dataclasses import dataclass
@@ -15,6 +16,12 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+AUTOMATION_ROOT = Path(__file__).resolve().parents[1]
+if str(AUTOMATION_ROOT) not in sys.path:
+    sys.path.append(str(AUTOMATION_ROOT))
+
+from utility_scripts.note_metadata import read_metadata
 
 @dataclass
 class TemplateContent:
@@ -118,13 +125,11 @@ class LocalTemplateProcessor:
     
     def _extract_id(self, content: str) -> str:
         """Extract ID from content"""
-        match = re.search(r'\*\*ID:\*\*\s*(.+)$', content, re.MULTILINE)
-        return match.group(1).strip() if match else "NO-ID"
+        return read_metadata(content).note_id or "NO-ID"
     
     def _extract_date(self, content: str) -> str:
         """Extract creation date"""
-        match = re.search(r'\*\*Created:\*\*\s*([^(]+)', content, re.MULTILINE)
-        return match.group(1).strip() if match else "Unknown"
+        return read_metadata(content).created or "Unknown"
     
     def _extract_citations(self, content: str) -> List[str]:
         """Extract existing citations"""

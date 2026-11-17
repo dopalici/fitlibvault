@@ -1,6 +1,10 @@
+---
+id: G-VII-3-NEUROPHYSIOLOGY-MOVEMENT
+created: '2025-04-24'
+updated: '2025-01-27'
+section: G
+---
 ### G-VII-3. Neurophysiology of Movement
-**ID:** G-VII-3-NEUROPHYSIOLOGY-MOVEMENT
-**Created:** 2025-04-24 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 Your nervous system controls movement through a complex network that you can train - early strength gains come from neural improvements before muscle growth, and practicing balance/coordination literally rewires your brain for better performance.

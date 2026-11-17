@@ -1,6 +1,12 @@
-### **EXL-46: Leg Press (Machine)**
+---
+id: EXL-46-MEX-LEGPRESS
+created: '2025-04-29
 
-**ID:** EXL-46-MEX-LEGPRESS **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-46: Leg Press (Machine)**
 
 **(Brief Description):** A machine-based compound exercise [[../resistance_training/B10. Machine Training]] involving pushing a weighted sled or platform away from the body using the legs while seated or supine. Primarily targets quadriceps, glutes, and hamstrings.
 

@@ -1,6 +1,12 @@
-### **EXL-04: Barbell Sumo Deadlift**
+---
+id: EXL-04-BB-DEADLIFT-SUMO
+created: '2025-04-28
 
-**ID:** EXL-04-BB-DEADLIFT-SUMO **Created:** 2025-04-28
+
+  **'
+section: EXL
+---
+### **EXL-04: Barbell Sumo Deadlift**
 
 **(Brief Description):** A deadlift variation characterized by a very wide stance and a grip inside the legs. It alters leverage and muscle emphasis compared to the conventional deadlift, often utilizing more hips/quads and requiring greater hip mobility.
 

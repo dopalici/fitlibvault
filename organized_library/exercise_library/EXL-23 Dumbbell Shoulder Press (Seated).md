@@ -1,6 +1,12 @@
-### **EXL-23: Dumbbell Shoulder Press (Seated)**
+---
+id: EXL-23-DB-SHOULDERPRESS
+created: '2025-04-29
 
-**ID:** EXL-23-DB-SHOULDERPRESS **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-23: Dumbbell Shoulder Press (Seated)**
 
 **(Brief Description):** An upper-body compound exercise performed seated on a bench, involving pressing two dumbbells overhead. Primarily targets the deltoids and triceps. The seated position provides more stability than the standing version.
 

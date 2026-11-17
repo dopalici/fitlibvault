@@ -1,6 +1,10 @@
+---
+id: EXL-39-DB-GOBLETSQUAT
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-39: Dumbbell Goblet Squat**
-
-**ID:** EXL-39-DB-GOBLETSQUAT **Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The dumbbell goblet squat uses an anterior load to promote upright posture and proper squat mechanics, making it an excellent beginner-friendly exercise for learning fundamental movement patterns.

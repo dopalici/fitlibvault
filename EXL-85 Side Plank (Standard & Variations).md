@@ -1,6 +1,10 @@
+---
+id: EXL-85-BW-SIDEPLANK
+created: '2025-05-01'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-85: Side Plank (Standard & Variations)**
-
-**ID:** EXL-85-BW-SIDEPLANK **Created:** 2025-05-01 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The side plank is an isometric core exercise that targets lateral stabilizers, particularly the obliques, by maintaining a straight body line while supported on one forearm and feet.

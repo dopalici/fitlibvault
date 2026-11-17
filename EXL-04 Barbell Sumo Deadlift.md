@@ -1,6 +1,10 @@
+---
+id: EXL-04-BB-DEADLIFT-SUMO
+created: '2025-04-28'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-04: Barbell Sumo Deadlift**
-
-**ID:** EXL-04-BB-DEADLIFT-SUMO **Created:** 2025-04-28 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The sumo deadlift uses a wide stance with grip inside the legs, emphasizing glutes and quads more than conventional deadlifts while requiring greater hip mobility and allowing for a more upright torso position.

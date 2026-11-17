@@ -1,6 +1,10 @@
+---
+id: EXL-12-BB-FLOORPRESS
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-12: Barbell Floor Press**
-
-**ID:** EXL-12-BB-FLOORPRESS **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The barbell floor press is a bench press variation performed on the floor that limits range of motion, reducing shoulder stress while emphasizing triceps strength and lockout power.

@@ -1,6 +1,10 @@
+---
+id: EXL-63-MEX-HIPABD
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-63: Hip Abduction (Machine)**
-
-**ID:** EXL-63-MEX-HIPABD **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A beginner-friendly machine exercise that isolates the hip abductor muscles (gluteus medius and minimus) by pushing the legs outward against resistance pads while seated.

@@ -1,6 +1,12 @@
-### **EXL-84: Plank (Standard & Variations)**
+---
+id: 'EXL-84-BW-PLANK _(Note: This duplicates EXL-25 from the list, consolidating variations)_'
+created: '2025-05-01
 
-**ID:** EXL-84-BW-PLANK _(Note: This duplicates EXL-25 from the list, consolidating variations)_ **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-84: Plank (Standard & Variations)**
 
 **(Brief Description):** An isometric core stability exercise [[../resistance_training/B19. Isometrics]] involving holding a rigid, straight line from head to heels, typically supported on forearms/hands and toes. Primarily targets the anterior core muscles [[../cross_training/L4. Core Stability Training]] and emphasizes resisting spinal extension.
 

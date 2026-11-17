@@ -1,6 +1,12 @@
-**EXL-15: Barbell Lunge**
+---
+id: EXL-15-BB-LUNGE
+created: '2025-04-29
 
-**ID:** EXL-15-BB-LUNGE **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+**EXL-15: Barbell Lunge**
 
 **(Brief Description):** A unilateral lower-body exercise involving stepping forward or backward into a lunge position while supporting a barbell across the upper back. Develops single-leg strength, stability, balance, and hypertrophy, placing high demands on coordination and core stability.
 

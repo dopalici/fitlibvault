@@ -1,6 +1,10 @@
+---
+id: EXL-93-CARDIO-BIKEUPRIGHT
+created: '2025-05-01'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-93: Stationary Bike (Upright)**
-
-**ID:** EXL-93-CARDIO-BIKEUPRIGHT **Created:** 2025-05-01 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 An upright stationary bike provides low-impact cardiovascular exercise that targets the lower body while allowing precise control of intensity through resistance and cadence adjustments.

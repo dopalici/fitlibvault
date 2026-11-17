@@ -1,6 +1,12 @@
-### **EXL-94: Stationary Bike (Recumbent)**
+---
+id: EXL-94-CARDIO-BIKERECUMBENT
+created: '2025-05-01
 
-**ID:** EXL-94-CARDIO-BIKERECUMBENT **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-94: Stationary Bike (Recumbent)**
 
 **(Brief Description):** A cardiovascular exercise machine [[../equipment_technology/VIII-2. Commercial Gym Equipment]] where the rider is seated in a reclined position with back support, pedaling with legs out in front. Offers a low-impact workout with greater comfort and back support compared to upright bikes [[../cardiovascular_training/E7. Cycling (Technique, Programming)]].
 

@@ -1,6 +1,10 @@
+---
+id: Evidence-Based Fitness Zettelkasten for Obsidian v1
+created: '[Original date]'
+updated: '2024-12-19'
+section: F
+---
 ### Evidence-Based Fitness Zettelkasten for Obsidian v1
-**ID:** Evidence-Based Fitness Zettelkasten for Obsidian v1
-**Created:** [Original date] (Updated: 2024-12-19)
 
 ## Quick Takeaway
 This comprehensive framework outlines the essential components needed to create an AI-powered fitness recommendation system using evidence-based knowledge organization and structured individual assessment data.

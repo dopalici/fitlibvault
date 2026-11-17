@@ -14,7 +14,7 @@ Baseball and softball training requires integrated development of rotational pow
 ## Deep Dive
 
 ### Rotational Power Development
-Baseball and softball require powerful rotational movements for both batting and throwing. The kinetic chain transfers energy from the ground up through the lower body, core, and into the upper extremities. Medicine ball throws, cable woodchops ([[EXL-76 Cable Woodchop (High-to-Low & Low-to-High)]]), and rotational resistance exercises specifically target this movement pattern. Force-velocity profiling ([[A31. Force-Velocity Profiling]]) helps determine optimal training loads for power development.
+Baseball and softball require powerful rotational movements for both batting and throwing. The kinetic chain transfers energy from the ground up through the lower body, core, and into the upper extremities. Medicine ball throws, cable woodchops ([[organized_library/exercise_library/EXL-76 Cable Woodchop (High-to-Low  Low-to-High)|EXL-76 Cable Woodchop (High-to-Low  Low-to-High)]]), and rotational resistance exercises specifically target this movement pattern. Force-velocity profiling ([[A31. Force-Velocity Profiling]]) helps determine optimal training loads for power development.
 
 ### Throwing Mechanics and Arm Care
 Overhead throwing places significant stress on the shoulder and elbow joints. Progressive throwing programs gradually increase throwing volume and intensity while maintaining proper mechanics. Shoulder stability exercises and scapular strengthening form the foundation of arm care programs. Core stability training ([[L4. Core Stability Training]]) provides the stable base necessary for efficient energy transfer during throwing motions.

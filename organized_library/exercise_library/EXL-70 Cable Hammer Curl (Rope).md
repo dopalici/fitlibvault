@@ -1,6 +1,12 @@
-### **EXL-70: Cable Hammer Curl (Rope)**
+---
+id: EXL-70-CEX-HAMMERCURL
+created: '2025-04-30
 
-**ID:** EXL-70-CEX-HAMMERCURL **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-70: Cable Hammer Curl (Rope)**
 
 **(Brief Description):** An elbow flexion exercise using a low pulley cable machine [[../resistance_training/B10. Machine Training]] and a rope attachment, performed with a neutral (palms facing) grip. This variation emphasizes the brachialis and brachioradialis muscles while providing constant tension.
 

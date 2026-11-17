@@ -104,11 +104,17 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--staged-apply",
         action="store_true",
+        default=True,
         help=(
-            "Use staged_promotion.py (per-file confirm + date stamping + history) "
-            "instead of the all-or-nothing promote_rewritten_to_og.py. "
+            "Use staged_promotion.py (per-file confirm + date stamping + history). "
+            "Enabled by default; disable with --bulk-apply. "
             "Requires a TTY for interactive prompts; pair with --staged-auto-yes for headless."
         ),
+    )
+    parser.add_argument(
+        "--bulk-apply",
+        action="store_true",
+        help="Use legacy all-or-nothing promote_rewritten_to_og.py for apply step",
     )
     parser.add_argument(
         "--staged-auto-yes",
@@ -294,7 +300,8 @@ def main() -> int:
             return validate_rc
 
     if args.apply and validate_rc == 0:
-        if args.staged_apply:
+        use_staged_apply = args.staged_apply and not args.bulk_apply
+        if use_staged_apply:
             staged_cmd = [
                 sys.executable,
                 str(STAGED_PROMOTE_SCRIPT),

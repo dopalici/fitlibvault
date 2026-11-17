@@ -1,6 +1,10 @@
+---
+id: Foundation-Index-001
+created: '[Original date]'
+updated: '2026-05-08'
+section: A
+---
 ### Foundation Topics Index
-**ID:** Foundation-Index-001
-**Created:** [Original date] (Updated: 2026-05-08)
 
 ## Quick Takeaway
 This index contains 29 fundamental exercise science topics covering nutrition, physiology, biomechanics, and training principles that form the foundation for all advanced fitness concepts.

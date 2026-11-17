@@ -1,6 +1,12 @@
-### **EXL-16: Barbell Shrug**
+---
+id: EXL-16-BB-SHRUG
+created: '2025-04-29
 
-**ID:** EXL-16-BB-SHRUG **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-16: Barbell Shrug**
 
 **(Brief Description):** An isolation exercise targeting the upper trapezius muscles, involving elevating the shoulders (shrugging) while holding a loaded barbell in front of the body.
 

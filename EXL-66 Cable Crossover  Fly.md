@@ -1,6 +1,12 @@
-### **EXL-66: Cable Crossover / Fly**
+---
+id: EXL-66-CEX-CROSSOVER
+created: '2025-04-30
 
-**ID:** EXL-66-CEX-CROSSOVER **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-66: Cable Crossover / Fly**
 
 **(Brief Description):** An isolation exercise using a cable station [[B10. Machine Training]] to target the pectoralis major muscles. Involves bringing the arms together (adduction) against the constant tension provided by the cables. Cable height can be varied to emphasize different parts of the chest.
 

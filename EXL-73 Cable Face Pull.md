@@ -1,6 +1,10 @@
+---
+id: EXL-73-CEX-FACEPULL
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-73: Cable Face Pull**
-
-**ID:** EXL-73-CEX-FACEPULL **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Cable face pulls are a high-pulley cable exercise that targets rear deltoids and rotator cuff muscles through horizontal pulling with external rotation, making them essential for shoulder health and posture correction.

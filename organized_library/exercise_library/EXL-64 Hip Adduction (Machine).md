@@ -1,6 +1,12 @@
-### **EXL-64: Hip Adduction (Machine)**
+---
+id: EXL-64-MEX-HIPADD
+created: '2025-04-30
 
-**ID:** EXL-64-MEX-HIPADD **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-64: Hip Adduction (Machine)**
 
 **(Brief Description):** An isolation exercise performed on a machine [[../resistance_training/B10. Machine Training]], involving squeezing the legs inward against resistance pads while seated. Primarily targets the adductor muscles of the inner thigh.
 

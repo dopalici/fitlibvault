@@ -1,6 +1,10 @@
+---
+id: EXL-89-BW-CRUNCH
+created: '2025-05-01'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-89: Abdominal Crunch / Sit-up (Floor or Bench)**
-
-**ID:** EXL-89-BW-CRUNCH **Created:** 2025-05-01 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A fundamental spinal flexion exercise targeting the rectus abdominis, but core stability exercises may be more beneficial for functional strength and spine health.

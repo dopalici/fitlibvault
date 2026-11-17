@@ -1,3 +1,7 @@
+---
+updated: YYYY-MM-DD
+section: C
+---
 # FitLib — Project Capabilities
 
 **Audit date:** 2026-05-08

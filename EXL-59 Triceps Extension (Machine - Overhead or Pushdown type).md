@@ -1,6 +1,12 @@
-### **EXL-59: Triceps Extension (Machine - Overhead or Pushdown type)**
+---
+id: EXL-59-MEX-TRIEXT
+created: '2025-04-30
 
-**ID:** EXL-59-MEX-TRIEXT **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-59: Triceps Extension (Machine - Overhead or Pushdown type)**
 
 **(Brief Description):** An isolation exercise performed on a machine [[B10. Machine Training]] targeting the triceps brachii. Machines typically replicate either an overhead extension or a pushdown motion.
 

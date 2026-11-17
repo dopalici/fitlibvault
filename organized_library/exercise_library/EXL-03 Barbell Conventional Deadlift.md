@@ -1,6 +1,12 @@
-### **EXL-03: Barbell Conventional Deadlift**
+---
+id: EXL-03-BB-DEADLIFT
+created: '2025-04-28
 
-**ID:** EXL-03-BB-DEADLIFT **Created:** 2025-04-28
+
+  **'
+section: EXL
+---
+### **EXL-03: Barbell Conventional Deadlift**
 
 **(Brief Description):** A fundamental compound exercise involving lifting a loaded barbell off the floor from a hip-hinged position until standing upright with hips and knees locked out. Develops strength and hypertrophy in the entire posterior chain (glutes, hamstrings, spinal erectors), legs, back, and grip.
 

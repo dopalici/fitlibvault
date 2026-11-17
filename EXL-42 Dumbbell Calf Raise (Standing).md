@@ -1,6 +1,10 @@
+---
+id: EXL-42-DB-CALFRAISE-STAND
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-42: Dumbbell Calf Raise (Standing)**
-
-**ID:** EXL-42-DB-CALFRAISE-STAND **Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A standing calf exercise using dumbbells that targets both gastrocnemius and soleus muscles through ankle plantarflexion, offering unilateral loading and enhanced balance demands compared to machine alternatives.

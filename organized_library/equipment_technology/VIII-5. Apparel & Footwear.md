@@ -1,6 +1,10 @@
+---
+id: VIII-5-APPAREL-FOOTWEAR
+created: '2025-04-24'
+updated: '2025-01-27'
+section: VIII
+---
 ### VIII-5. Apparel & Footwear
-
-**ID:** VIII-5-APPAREL-FOOTWEAR **Created:** 2025-04-24 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 The right exercise apparel and footwear enhance comfort, performance, and safety - prioritize function over fashion and choose activity-specific gear that fits your individual movement patterns and training goals.

@@ -1,6 +1,10 @@
+---
+id: EXL-45-DB-ARNOLDPRESS
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-45: Arnold Press**
-
-**ID:** EXL-45-DB-ARNOLDPRESS **Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The Arnold Press is a shoulder exercise that combines pressing with rotation, targeting multiple deltoid heads through an extended range of motion compared to standard overhead presses.

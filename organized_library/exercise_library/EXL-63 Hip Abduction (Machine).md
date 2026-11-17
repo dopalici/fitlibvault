@@ -1,6 +1,12 @@
-### **EXL-63: Hip Abduction (Machine)**
+---
+id: EXL-63-MEX-HIPABD
+created: '2025-04-30
 
-**ID:** EXL-63-MEX-HIPABD **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-63: Hip Abduction (Machine)**
 
 **(Brief Description):** An isolation exercise performed on a machine [[../resistance_training/B10. Machine Training]], involving pushing the legs outward against resistance pads while seated. Primarily targets the gluteus medius and minimus muscles, important for hip stability and abduction.
 

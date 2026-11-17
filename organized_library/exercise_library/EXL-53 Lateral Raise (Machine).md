@@ -1,6 +1,12 @@
-### **EXL-53: Lateral Raise (Machine)**
+---
+id: EXL-53-MEX-LATRAISE
+created: '2025-04-30
 
-**ID:** EXL-53-MEX-LATRAISE **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-53: Lateral Raise (Machine)**
 
 **(Brief Description):** An isolation exercise performed on a machine [[../resistance_training/B10. Machine Training]] designed to target the medial (side) deltoids by abducting the arms against resistance pads. Provides stability and a fixed movement path.
 

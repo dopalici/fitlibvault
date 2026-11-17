@@ -1,6 +1,12 @@
-### **EXL-99: Ski Ergometer**
+---
+id: EXL-99-CARDIO-SKIERG
+created: '2025-05-01
 
-**ID:** EXL-99-CARDIO-SKIERG **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-99: Ski Ergometer**
 
 **(Brief Description):** An exercise machine [[../equipment_technology/VIII-2. Commercial Gym Equipment]] simulating the poling motion of Nordic (cross-country) skiing. Provides a challenging full-body cardiovascular workout with significant emphasis on the upper body and core. Uses air resistance via a flywheel, similar to a rowing ergometer [[EXL-96 Rowing Ergometer (Rower)]].
 

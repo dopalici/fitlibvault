@@ -1,6 +1,12 @@
-### **EXL-08: Barbell Front Squat** 
+---
+id: EXL-08-BB-FRONTSQUAT
+created: '2025-04-29
 
-**ID:** EXL-08-BB-FRONTSQUAT **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-08: Barbell Front Squat** 
 
 **(Brief Description):** A squat variation where the barbell is held across the front of the shoulders (anterior deltoids) instead of the upper back. This necessitates a more upright torso position and places greater emphasis on the quadriceps and upper back/core stability.
 

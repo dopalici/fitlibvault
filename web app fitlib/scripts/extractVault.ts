@@ -5,13 +5,19 @@ import { NodeData, Citation } from '../src/types';
 
 const VAULT_PATH = process.env.FITLIB_VAULT_PATH || path.resolve(process.cwd(), '..');
 const OUTPUT_PATH = path.join(VAULT_PATH, 'fitlib_export.json');
+const UNRESOLVED_WIKILINKS_REPORT_PATH = path.join(VAULT_PATH, 'wikilink_unresolved_report.json');
 const EXCLUDED_DIRS = new Set([
   '.git',
   'node_modules',
   '.cursor',
   'web app fitlib/dist',
+  'web app fitlib/docs',
   'organized_library/automation_tools',
 ]);
+
+// organized_library contains automation assets, mirrors, and generated views.
+// The runtime graph should be built from canonical vault-root notes only.
+const EXCLUDE_ORGANIZED_LIBRARY = true;
 
 interface MarkdownCandidate {
   filePath: string;
@@ -19,6 +25,7 @@ interface MarkdownCandidate {
   content: string;
   title: string;
   id: string;
+  frontmatter: NoteFrontmatter;
 }
 
 export interface VaultMetadata {
@@ -40,15 +47,37 @@ export interface ExportData {
   };
 }
 
-function extractFrontmatter(content: string): { [key: string]: string } {
+interface NoteFrontmatter {
+  id?: string;
+  created?: string;
+  updated?: string;
+  section?: string;
+  tags?: string[];
+}
+
+function extractFrontmatter(content: string): NoteFrontmatter {
   const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
   if (!frontmatterMatch) return {};
   
-  const frontmatter: { [key: string]: string } = {};
+  const frontmatter: NoteFrontmatter = {};
   frontmatterMatch[1].split('\n').forEach(line => {
     const [key, ...valueParts] = line.split(':');
     if (key && valueParts.length > 0) {
-      frontmatter[key.trim()] = valueParts.join(':').trim();
+      const normalizedKey = key.trim().toLowerCase();
+      const rawValue = valueParts.join(':').trim();
+      if (!rawValue) return;
+      if (normalizedKey === 'tags') {
+        const cleaned = rawValue.replace(/^\[/, '').replace(/\]$/, '');
+        frontmatter.tags = cleaned
+          .split(',')
+          .map((item) => item.trim().replace(/^['"]|['"]$/g, ''))
+          .filter(Boolean);
+        return;
+      }
+      if (normalizedKey === 'id') frontmatter.id = rawValue;
+      if (normalizedKey === 'created') frontmatter.created = rawValue;
+      if (normalizedKey === 'updated') frontmatter.updated = rawValue;
+      if (normalizedKey === 'section') frontmatter.section = rawValue;
     }
   });
   return frontmatter;
@@ -60,17 +89,27 @@ function extractSectionContent(content: string, sectionName: string): string {
   return match ? match[1].trim() : '';
 }
 
-function extractExplicitId(content: string): string | null {
-  const idMatch = content.match(/\*\*ID:\*\*\s*([^\n*]+?)(?:\s+\*\*Created:|\s*$)/i);
-  if (!idMatch?.[1]) return null;
-  const normalized = idMatch[1]
+function normalizeId(rawId: string): string {
+  return rawId
     .trim()
     .replace(/\s+/g, '-')
     .replace(/[^A-Za-z0-9-]/g, '-')
     .replace(/-+/g, '-')
     .replace(/^-+|-+$/g, '')
     .toUpperCase();
+}
+
+function extractExplicitId(content: string): string | null {
+  const idMatch = content.match(/\*\*ID:\*\*\s*([^\n*]+?)(?:\s+\*\*Created:|\s*$)/i);
+  if (!idMatch?.[1]) return null;
+  const normalized = normalizeId(idMatch[1]);
   return normalized || null;
+}
+
+function extractExplicitDates(content: string): { created?: string; updated?: string } {
+  const created = content.match(/\*\*Created:\*\*\s*([^(]+?)(?:\s*\(Updated:|\s*$)/im)?.[1]?.trim();
+  const updated = content.match(/\(Updated:\s*([^)]+)\)/i)?.[1]?.trim();
+  return { created, updated };
 }
 
 function extractCitations(content: string): Citation[] {
@@ -134,6 +173,79 @@ function normalizeAlias(value: string): string {
     .trim();
 }
 
+const LEGACY_WIKILINK_MIGRATIONS = new Map<string, string>(
+  Object.entries({
+    'G3. Training with Health Limitations & Chronic Conditions': 'G3-TRAINING-WITH-LIMITATIONS',
+    'A35. Ground Reaction Force Analysis': 'A35-GROUND-REACTION-FORCE-ANALYSIS',
+    'A50. Metabolic Flexibility Training': 'A56-METABOLIC-FLEXIBILITY-TRAINING',
+    'A59. Telomere Length and Exercise': 'A52-TELOMERE-LENGTH-EXERCISE',
+    'A66. Metabolic Flexibility Training': 'A62-METABOLIC-FLEXIBILITY-TRAINING',
+    'A99. Advanced Biomarker Interpretation': 'C99',
+    'B2. Protein Requirements': 'B2-PROTEIN-REQUIREMENTS',
+    'C16. High-Quality Protein Sources': 'C16-HIGH-PROTEIN-DIETS',
+    'C33. Anti-Inflammatory Foods/Diets': 'C33-ANTI-INFLAMMATORY-DIETS',
+    'C8. Metabolic Adaptation (Adaptive Thermogenics)': 'C8-METABOLIC-ADAPTATION',
+    'E4-CONCURRENT-TRAINING': 'E4',
+    'L1-MOVEMENT-PATTERNS-FUNCTIONAL': 'L1-MOVEMENT-PATTERNS',
+    'A67. Hormetic Stress Principles': 'A57-HORMETIC-STRESS-PRINCIPLES',
+    'E. Cardiovascular & Endurance Training': 'e-cardiovascular-endurance-training',
+    'proprioceptive training': 'F14',
+    'functional movement patterns': 'L1-MOVEMENT-PATTERNS',
+    'energy system development': 'A6-ENERGY-SYSTEMS',
+    'training intensity zones': 'E13-HR-ZONE-TRAINING',
+    'periodization principles': 'K2-PERIODIZATION-ADVANCED',
+    'fatigue management strategies': 'F19',
+    'C. Program Design': 'c',
+    'M12. Training Recovery': 'M7-NUTRITION-RECOVERY',
+    'Drop Sets': 'B73-MECHANICAL-DROP-SETS',
+    'Progressive Overload': 'B1-PROGRESSIVE-OVERLOAD',
+    'Recovery Strategies': 'm-recovery-strategies',
+    'Hypertrophy Training': 'B3-HYPERTROPHY',
+    'Training Volume': 'B5-TRAINING-VOLUME',
+    'EXL-101 Cable Crunch': 'EXL-89-BW-CRUNCH',
+    'FZA-2.1': 'F2',
+    'L-CROSS-TRAINING-FUNCTIONAL-FITNESS': 'l-cross-training-and-functional-fitness',
+    'G-VII-2-KINESIOLOGY-MOVEMENT': 'G-VII-2-KINESIOLOGY',
+  }).map(([legacy, canonicalId]) => [normalizeAlias(legacy), canonicalId])
+);
+
+function stripCodeForParsing(content: string): string {
+  const lines = content.split('\n');
+  const stripped: string[] = [];
+  let activeFence: { marker: '`' | '~'; length: number } | null = null;
+
+  for (const line of lines) {
+    const trimmed = line.replace(/^\s{0,3}/, '');
+    const fenceMatch = trimmed.match(/^(`{3,}|~{3,})/);
+
+    if (!activeFence) {
+      if (fenceMatch) {
+        activeFence = {
+          marker: fenceMatch[1][0] as '`' | '~',
+          length: fenceMatch[1].length,
+        };
+        stripped.push('');
+        continue;
+      }
+      stripped.push(line);
+      continue;
+    }
+
+    if (
+      fenceMatch &&
+      fenceMatch[1][0] === activeFence.marker &&
+      fenceMatch[1].length >= activeFence.length
+    ) {
+      activeFence = null;
+    }
+    stripped.push('');
+  }
+
+  return stripped
+    .join('\n')
+    .replace(/(`+)([^`\n]+?)\1/g, (match) => ' '.repeat(match.length));
+}
+
 function collectMarkdownFiles(dir: string, baseDir = dir): string[] {
   const files: string[] = [];
   const entries = fs.readdirSync(dir, { withFileTypes: true });
@@ -145,6 +257,10 @@ function collectMarkdownFiles(dir: string, baseDir = dir): string[] {
 
     if (entry.isDirectory()) {
       if (EXCLUDED_DIRS.has(relativePath) || EXCLUDED_DIRS.has(entry.name)) {
+        continue;
+      }
+      const parts = relativePath.split('/');
+      if (EXCLUDE_ORGANIZED_LIBRARY && parts.length >= 1 && parts[0] === 'organized_library') {
         continue;
       }
       files.push(...collectMarkdownFiles(absolutePath, baseDir));
@@ -159,7 +275,11 @@ function collectMarkdownFiles(dir: string, baseDir = dir): string[] {
   return files;
 }
 
-function deriveNodeId(relativePath: string, title: string, content?: string): string {
+function deriveNodeId(relativePath: string, title: string, frontmatter?: NoteFrontmatter, content?: string): string {
+  const frontmatterId = frontmatter?.id ? normalizeId(frontmatter.id) : null;
+  if (frontmatterId) {
+    return frontmatterId;
+  }
   const explicitId = content ? extractExplicitId(content) : null;
   if (explicitId) {
     return explicitId;
@@ -293,6 +413,7 @@ export async function extractVault(): Promise<ExportData> {
     }
 
     const content = fs.readFileSync(filePath, 'utf-8');
+    const parseContent = stripCodeForParsing(content);
     const filename = path.basename(filePath, '.md');
 
     // Prefer the title declared inside the rewritten note body when the file
@@ -306,12 +427,13 @@ export async function extractVault(): Promise<ExportData> {
     // for the title — otherwise an `## Quick Takeaway` ends up as the note's
     // displayed name. Look only at the highest-level heading present (#, then
     // ###) and reject section names explicitly.
-    const explicitId = extractExplicitId(content);
-    const structuredTitle = explicitId ? findStructuredTitle(content) : null;
-    const heading = content.match(/^#\s+(.+)$/m)?.[1]?.trim();
+    const frontmatter = extractFrontmatter(parseContent);
+    const explicitId = frontmatter.id ? normalizeId(frontmatter.id) : extractExplicitId(parseContent);
+    const structuredTitle = explicitId ? findStructuredTitle(parseContent) : null;
+    const heading = parseContent.match(/^#\s+(.+)$/m)?.[1]?.trim();
     const title = structuredTitle || heading || filename;
-    const id = deriveNodeId(relativePath, title, content);
-    candidates.push({ filePath, relativePath, content, title, id });
+    const id = deriveNodeId(relativePath, title, frontmatter, parseContent);
+    candidates.push({ filePath, relativePath, content, title, id, frontmatter });
   });
 
   const preferredDocsById = new Map<string, MarkdownCandidate>();
@@ -356,8 +478,12 @@ export async function extractVault(): Promise<ExportData> {
       docsByTitle.set(titleKey, candidate);
       return;
     }
-    const existingHasId = Boolean(extractExplicitId(existing.content));
-    const candidateHasId = Boolean(extractExplicitId(candidate.content));
+    const existingHasId = Boolean(
+      existing.frontmatter.id || extractExplicitId(stripCodeForParsing(existing.content))
+    );
+    const candidateHasId = Boolean(
+      candidate.frontmatter.id || extractExplicitId(stripCodeForParsing(candidate.content))
+    );
     if (candidateHasId && !existingHasId) {
       titleAliasFallback.push(existing);
       docsByTitle.set(titleKey, candidate);
@@ -369,7 +495,10 @@ export async function extractVault(): Promise<ExportData> {
   const selectedDocs = Array.from(docsByTitle.values());
   const nodes: NodeData[] = [];
   const aliasToId = new Map<string, string>();
+  const numericPrefixToIds = new Map<string, Set<string>>();
   const brokenLinks: Array<{ source_node: string; broken_link: string; issue: string }> = [];
+  const migrationHits = new Map<string, number>();
+  const numericPrefixHits = new Map<string, number>();
   let totalWikilinks = 0;
   let resolvedWikilinks = 0;
 
@@ -377,6 +506,8 @@ export async function extractVault(): Promise<ExportData> {
   const buildAliases = (doc: MarkdownCandidate): Set<string> => {
     const filename = path.basename(doc.filePath, '.md');
     const aliases = new Set([
+      doc.id,
+      `${doc.id}.md`,
       filename,
       doc.title,
       `${filename}.md`,
@@ -391,6 +522,12 @@ export async function extractVault(): Promise<ExportData> {
 
   selectedDocs.forEach((doc) => {
     buildAliases(doc).forEach((alias) => aliasToId.set(normalizeAlias(alias), doc.id));
+    const numericPrefix = doc.id.match(/^([A-Z]{1,4}-?\d+)/i)?.[1]?.toUpperCase();
+    if (numericPrefix) {
+      const bucket = numericPrefixToIds.get(numericPrefix) || new Set<string>();
+      bucket.add(doc.id);
+      numericPrefixToIds.set(numericPrefix, bucket);
+    }
   });
 
   // Title-dedupe fallback: ensure aliases of the discarded twin still point
@@ -407,23 +544,46 @@ export async function extractVault(): Promise<ExportData> {
   // Second pass: extract content.
   selectedDocs.forEach((doc) => {
     const content = doc.content;
-    const frontmatter = extractFrontmatter(content);
+    const parseContent = stripCodeForParsing(content);
+    const frontmatter = doc.frontmatter;
+    const fallbackDates = extractExplicitDates(parseContent);
     const id = doc.id;
     const title = doc.title;
-    const seriesCandidate = (id.match(/^([A-Z])/i)?.[1] || 'Other').toUpperCase();
+    const sectionFromMetadata = frontmatter.section?.trim().toUpperCase();
+    const seriesCandidate = (sectionFromMetadata?.[0] || id.match(/^([A-Z])/i)?.[1] || 'Other').toUpperCase();
     const series = ['A', 'B', 'C', 'E'].includes(seriesCandidate)
       ? (seriesCandidate as 'A' | 'B' | 'C' | 'E')
       : 'Other';
 
     const fullContent = content.replace(/^---\n[\s\S]*?\n---\n?/m, '').trim() || `# ${title}`;
-    const citations = extractCitations(content);
-    const wikilinks = extractWikilinks(content);
+    const citations = extractCitations(parseContent);
+    const wikilinks = extractWikilinks(parseContent);
 
     totalWikilinks += wikilinks.length;
 
     const resolvedLinks: string[] = [];
     wikilinks.forEach(wikilink => {
-      const resolved = aliasToId.get(normalizeAlias(wikilink)) || null;
+      const wikilinkKey = normalizeAlias(wikilink);
+      let resolved = aliasToId.get(wikilinkKey) || null;
+      if (!resolved) {
+        const migratedTargetId = LEGACY_WIKILINK_MIGRATIONS.get(wikilinkKey);
+        if (migratedTargetId) {
+          resolved = aliasToId.get(normalizeAlias(migratedTargetId)) || null;
+          if (resolved) {
+            migrationHits.set(wikilink, (migrationHits.get(wikilink) || 0) + 1);
+          }
+        }
+      }
+      if (!resolved) {
+        const numericPrefix = wikilink.match(/^([A-Z]{1,4}-?\d+)(?:\.|\s|$)/i)?.[1]?.toUpperCase();
+        if (numericPrefix) {
+          const candidates = Array.from(numericPrefixToIds.get(numericPrefix) || []);
+          if (candidates.length === 1) {
+            resolved = candidates[0];
+            numericPrefixHits.set(wikilink, (numericPrefixHits.get(wikilink) || 0) + 1);
+          }
+        }
+      }
       if (resolved) {
         resolvedLinks.push(resolved);
         resolvedWikilinks++;
@@ -440,6 +600,8 @@ export async function extractVault(): Promise<ExportData> {
       id,
       title,
       series: ['A', 'B', 'C', 'E'].includes(series) ? series : 'Other',
+      created: frontmatter.created || fallbackDates.created,
+      updated: frontmatter.updated || fallbackDates.updated,
       content: fullContent,
       credibilityScore: citations.length > 0 
         ? citations.reduce((sum, c) => sum + c.credibilityScore, 0) / citations.length 
@@ -448,12 +610,13 @@ export async function extractVault(): Promise<ExportData> {
       citations,
       links: [...new Set(resolvedLinks)],
       tags: [
-        ...new Set(
-          extractSectionContent(content, 'Related Concepts')
+        ...new Set([
+          ...(frontmatter.tags || []).map((tag) => tag.toLowerCase()),
+          ...extractSectionContent(parseContent, 'Related Concepts')
             .split('[[')
             .filter(t => t.includes(']]'))
-            .map(t => t.split(']]')[0].toLowerCase())
-        ),
+            .map(t => t.split(']]')[0].toLowerCase()),
+        ]),
       ],
     };
 
@@ -484,6 +647,23 @@ export async function extractVault(): Promise<ExportData> {
   }
 
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(exportData, null, 2));
+  const brokenByTarget = brokenLinks.reduce<Record<string, number>>((acc, item) => {
+    acc[item.broken_link] = (acc[item.broken_link] || 0) + 1;
+    return acc;
+  }, {});
+  const unresolvedReport = {
+    generated_at: new Date().toISOString(),
+    summary: {
+      total_wikilinks: totalWikilinks,
+      resolved_wikilinks: resolvedWikilinks,
+      unresolved_wikilinks: brokenLinks.length,
+      unresolved_unique_targets: Object.keys(brokenByTarget).length,
+    },
+    unresolved_by_target: Object.entries(brokenByTarget)
+      .sort((a, b) => b[1] - a[1])
+      .map(([target, count]) => ({ target, count })),
+  };
+  fs.writeFileSync(UNRESOLVED_WIKILINKS_REPORT_PATH, JSON.stringify(unresolvedReport, null, 2));
   console.log(`✅ Extracted ${nodes.length} nodes from Obsidian vault`);
   console.log(`✅ Total citations: ${exportData.metadata.total_citations}`);
   console.log(`✅ Wikilinks resolved: ${resolvedWikilinks}/${totalWikilinks}`);
@@ -493,7 +673,32 @@ export async function extractVault(): Promise<ExportData> {
   if (overriddenDocs.length > 0) {
     console.log(`ℹ️ Resolved ${overriddenDocs.length} duplicate ID candidates using canonical path priority`);
   }
+  if (migrationHits.size > 0) {
+    const totalMigrated = Array.from(migrationHits.values()).reduce((acc, count) => acc + count, 0);
+    console.log(
+      `ℹ️ Applied ${totalMigrated} legacy wikilink migrations across ${migrationHits.size} target labels`
+    );
+    Array.from(migrationHits.entries())
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 10)
+      .forEach(([label, count]) => {
+        console.log(`   ↳ ${count}x [[${label}]]`);
+      });
+  }
+  if (numericPrefixHits.size > 0) {
+    const totalPrefixResolutions = Array.from(numericPrefixHits.values()).reduce((acc, count) => acc + count, 0);
+    console.log(
+      `ℹ️ Resolved ${totalPrefixResolutions} wikilinks via unique numeric-prefix fallback across ${numericPrefixHits.size} labels`
+    );
+    Array.from(numericPrefixHits.entries())
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 10)
+      .forEach(([label, count]) => {
+        console.log(`   ↳ ${count}x [[${label}]]`);
+      });
+  }
   console.log(`✅ Export saved to ${OUTPUT_PATH}`);
+  console.log(`✅ Unresolved wikilink report saved to ${UNRESOLVED_WIKILINKS_REPORT_PATH}`);
 
   return exportData;
 }

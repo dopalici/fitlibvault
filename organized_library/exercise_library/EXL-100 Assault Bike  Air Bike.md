@@ -1,6 +1,12 @@
-### **EXL-100: Assault Bike / Air Bike**
+---
+id: EXL-100-CARDIO-AIRBIKE
+created: '2025-05-01
 
-**ID:** EXL-100-CARDIO-AIRBIKE **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-100: Assault Bike / Air Bike**
 
 **(Brief Description):** A type of stationary bike [[../equipment_technology/VIII-2. Commercial Gym Equipment]] that uses a fan for resistance – the harder you pedal and push/pull the handles, the greater the air resistance becomes. Provides a demanding full-body, high-intensity cardiovascular workout. Often used in CrossFit [[../sports_specific/X10. CrossFit]] and functional fitness settings.
 

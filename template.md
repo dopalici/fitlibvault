@@ -37,7 +37,7 @@
 
 ## Connections to Existing Knowledge
 
-[Link to related concepts in the library using double brackets, e.g., [[A1. Concept Name]]]
+[Link to related concepts in the library using double brackets, e.g., `[[A1. Concept Name]]`]
 
 ## Key References
 

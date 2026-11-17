@@ -1,6 +1,10 @@
+---
+id: EXL-49-MEX-LEGCURL-LYING
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-49: Lying Leg Curl (Machine)**
-
-**ID:** EXL-49-MEX-LEGCURL-LYING **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 The lying leg curl is a machine-based isolation exercise that targets the hamstrings while allowing for greater hip extension compared to seated variations, making it effective for hamstring development and knee flexion strength.

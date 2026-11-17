@@ -1,6 +1,10 @@
+---
+id: VIII-1-HOME-GYM
+created: '2025-04-24'
+updated: '2026-05-08'
+section: VIII
+---
 ### VIII-1. Home Gym Setup
-**ID:** VIII-1-HOME-GYM 
-**Created:** 2025-04-24 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Start with versatile basics (resistance bands, bodyweight equipment) and progressively add free weights and specialized equipment based on your training goals and available space.

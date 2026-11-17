@@ -1,6 +1,10 @@
+---
+id: EXL-70-CEX-HAMMERCURL
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-70: Cable Hammer Curl (Rope)**
-
-**ID:** EXL-70-CEX-HAMMERCURL **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 Cable hammer curls with rope provide constant tension throughout the movement while emphasizing the brachialis and brachioradialis muscles more than traditional bicep curls.

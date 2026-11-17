@@ -1,6 +1,10 @@
+---
+id: EXL-58-MEX-ROW-CHESTSUP
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-58: Chest Supported Row (Machine)**
-
-**ID:** EXL-58-MEX-ROW-CHESTSUP **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A beginner-friendly machine row where chest support eliminates momentum and torso involvement, allowing focused development of back muscles with enhanced safety and stability.

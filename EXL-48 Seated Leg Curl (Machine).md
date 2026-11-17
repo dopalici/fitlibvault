@@ -1,6 +1,10 @@
+---
+id: EXL-48-MEX-LEGCURL-SEATED
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-48: Seated Leg Curl (Machine)**
-
-**ID:** EXL-48-MEX-LEGCURL-SEATED **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A beginner-friendly machine isolation exercise that targets the hamstrings through knee flexion while seated, providing stable support and controlled resistance.

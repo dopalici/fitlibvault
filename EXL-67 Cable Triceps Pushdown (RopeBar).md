@@ -1,7 +1,11 @@
+---
+id: 'EXL-67-CEX-TRIPUSHDOWN _(Note: This is the same exercise as EXL-12 from the list,
+  consolidating)_'
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-67: Cable Triceps Pushdown (Rope/Bar)**
-
-**ID:** EXL-67-CEX-TRIPUSHDOWN _(Note: This is the same exercise as EXL-12 from the list, consolidating)_ 
-**Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A beginner-friendly cable isolation exercise that effectively targets all three heads of the triceps through controlled elbow extension with various attachment options.

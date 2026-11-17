@@ -1,6 +1,10 @@
+---
+id: EXL-34-DB-TRICKICKBACK
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-34: Dumbbell Triceps Kickback**
-
-**ID:** EXL-34-DB-TRICKICKBACK **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A triceps isolation exercise performed in a bent-over position that requires strict upper arm stabilization to effectively target the triceps brachii through elbow extension.

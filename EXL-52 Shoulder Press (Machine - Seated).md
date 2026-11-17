@@ -1,6 +1,10 @@
+---
+id: EXL-52-MEX-SHOULDERPRESS
+created: '2025-04-30'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-52: Shoulder Press (Machine - Seated)**
-
-**ID:** EXL-52-MEX-SHOULDERPRESS **Created:** 2025-04-30 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A beginner-friendly machine exercise that builds shoulder and arm strength through a vertical pressing motion while providing stability and safety through guided movement patterns.

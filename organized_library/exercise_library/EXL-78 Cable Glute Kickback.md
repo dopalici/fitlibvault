@@ -1,6 +1,12 @@
-### **EXL-78: Cable Glute Kickback**
+---
+id: EXL-78-CEX-GLUTEKICKBACK
+created: '2025-04-30
 
-**ID:** EXL-78-CEX-GLUTEKICKBACK **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-78: Cable Glute Kickback**
 
 **(Brief Description):** An isolation exercise using a low pulley cable machine [[../resistance_training/B10. Machine Training]] and an ankle strap attachment to target the gluteus maximus through hip extension.
 

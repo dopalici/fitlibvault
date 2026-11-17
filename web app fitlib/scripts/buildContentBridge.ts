@@ -44,6 +44,8 @@ function toNodeSummary(node: NodeData): NodeSummary {
     id: node.id,
     title: node.title,
     series: node.series,
+    created: node.created,
+    updated: node.updated,
     credibilityScore: node.credibilityScore,
     citationCount: node.citationCount,
     links: node.links,

@@ -1,6 +1,12 @@
-### **EXL-17: Pendlay Row**
+---
+id: EXL-17-BB-PENDLAYROW
+created: '2025-04-29
 
-**ID:** EXL-17-BB-PENDLAYROW **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-17: Pendlay Row**
 
 **(Brief Description):** A strict variation of the barbell bent-over row where the barbell starts and returns to a dead stop on the floor for each repetition. This minimizes momentum and targets the upper back muscles explosively from a static start.
 

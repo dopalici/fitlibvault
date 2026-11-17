@@ -1,6 +1,12 @@
-### **EXL-50: Hack Squat (Machine)**
+---
+id: EXL-50-MEX-HACKSQUAT
+created: '2025-04-30
 
-**ID:** EXL-50-MEX-HACKSQUAT **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-50: Hack Squat (Machine)**
 
 **(Brief Description):** A machine-based squat variation [[../resistance_training/B10. Machine Training]] where the lifter stands on an angled platform and pushes against shoulder pads attached to a sled moving on rails. Typically emphasizes the quadriceps more than traditional squats due to the fixed path and back support.
 

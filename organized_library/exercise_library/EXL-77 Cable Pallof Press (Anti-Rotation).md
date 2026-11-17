@@ -1,6 +1,12 @@
-### **EXL-77: Cable Pallof Press (Anti-Rotation)**
+---
+id: EXL-77-CEX-PALLOFPRESS
+created: '2025-04-30
 
-**ID:** EXL-77-CEX-PALLOFPRESS **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-77: Cable Pallof Press (Anti-Rotation)**
 
 **(Brief Description):** An anti-rotation core stability exercise [[../cross_training/L4. Core Stability Training]] using a cable machine [[../resistance_training/B10. Machine Training]]. Involves holding a handle at chest height with arms extended and resisting the cable's rotational pull on the torso.
 

@@ -1,6 +1,12 @@
-### **EXL-29: Dumbbell Pullover**
+---
+id: EXL-29-DB-PULLOVER
+created: '2025-04-29
 
-**ID:** EXL-29-DB-PULLOVER **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-29: Dumbbell Pullover**
 
 **(Brief Description):** An exercise performed lying typically crosswise on a bench, lowering a single dumbbell held with both hands behind the head and pulling it back over the chest. Targets primarily the latissimus dorsi and pectoralis major, also involves serratus and triceps long head.
 

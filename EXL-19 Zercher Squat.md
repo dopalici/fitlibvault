@@ -1,6 +1,10 @@
+---
+id: EXL-19-BB-ZERCHERSQUAT
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-19: Zercher Squat**
-
-**ID:** EXL-19-BB-ZERCHERSQUAT **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A squat variation where the barbell is held in the crook of the elbows, creating extreme core and upper back demands while allowing for a very upright torso position.

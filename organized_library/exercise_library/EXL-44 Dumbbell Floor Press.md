@@ -1,6 +1,12 @@
-### **EXL-44: Dumbbell Floor Press**
+---
+id: EXL-44-DB-FLOORPRESS
+created: '2025-04-29
 
-**ID:** EXL-44-DB-FLOORPRESS **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-44: Dumbbell Floor Press**
 
 **(Brief Description):** A bench press variation performed lying on the floor with dumbbells. The limited range of motion (upper arms stop at floor) reduces shoulder stress and emphasizes lockout strength, similar to the barbell version [[EXL-12 Barbell Floor Press]], but with independent dumbbell control.
 

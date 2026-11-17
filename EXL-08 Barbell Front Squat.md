@@ -1,6 +1,10 @@
+---
+id: EXL-08-BB-FRONTSQUAT
+created: '2025-04-29'
+updated: '2025-01-11'
+section: EXL
+---
 ### **EXL-08: Barbell Front Squat**
-
-**ID:** EXL-08-BB-FRONTSQUAT **Created:** 2025-04-29 (Updated: 2025-01-11)
 
 ## Quick Takeaway
 The front squat is an advanced squat variation with the barbell positioned across the front shoulders, emphasizing quadriceps development and requiring superior mobility, core stability, and upper back strength.

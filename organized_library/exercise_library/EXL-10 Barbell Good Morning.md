@@ -1,6 +1,12 @@
-### **EXL-10: Barbell Good Morning**
+---
+id: EXL-10-BB-GOODMORNING
+created: '2025-04-29
 
-**ID:** EXL-10-BB-GOODMORNING **Created:** 2025-04-29
+
+  **'
+section: EXL
+---
+### **EXL-10: Barbell Good Morning**
 
 **(Brief Description):** A hip hinge exercise performed with a barbell positioned across the upper back (similar to a squat), involving hinging at the hips to lower the torso towards parallel while maintaining a neutral spine and slightly bent knees. Primarily targets the spinal erectors, glutes, and hamstrings.
 

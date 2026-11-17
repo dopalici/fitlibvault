@@ -1,6 +1,10 @@
+---
+id: C
+created: '[Original date]'
+updated: '2024-12-19'
+section: C
+---
 ### C. Nutrition & Diet
-**ID:** C
-**Created:** [Original date] (Updated: 2024-12-19)
 
 ## Quick Takeaway
 This section covers evidence-based nutrition principles from basic energy balance to advanced performance strategies, organized as a comprehensive reference for optimizing health, body composition, and athletic performance.

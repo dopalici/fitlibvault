@@ -1,6 +1,10 @@
+---
+id: EXL-20-BB-CALFRAISE
+created: '2025-04-29'
+updated: '2025-01-27'
+section: EXL
+---
 ### **EXL-20: Barbell Calf Raise**
-
-**ID:** EXL-20-BB-CALFRAISE **Created:** 2025-04-29 (Updated: 2025-01-27)
 
 ## Quick Takeaway
 A barbell-loaded calf exercise that targets both gastrocnemius and soleus muscles through ankle plantarflexion, requiring intermediate balance and loading skills.

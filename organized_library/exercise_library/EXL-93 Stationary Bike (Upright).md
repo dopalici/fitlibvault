@@ -1,6 +1,12 @@
-### **EXL-93: Stationary Bike (Upright)**
+---
+id: EXL-93-CARDIO-BIKEUPRIGHT
+created: '2025-05-01
 
-**ID:** EXL-93-CARDIO-BIKEUPRIGHT **Created:** 2025-05-01
+
+  **'
+section: EXL
+---
+### **EXL-93: Stationary Bike (Upright)**
 
 **(Brief Description):** A piece of cardiovascular exercise equipment [[../equipment_technology/VIII-2. Commercial Gym Equipment]] simulating outdoor cycling in an upright posture. Provides a low-impact workout primarily targeting the lower body and cardiovascular system [[../cardiovascular_training/E7. Cycling (Technique, Programming)]].
 

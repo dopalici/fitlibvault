@@ -1,6 +1,12 @@
-### **EXL-60: Bicep Curl (Machine - Preacher or Seated)**
+---
+id: EXL-60-MEX-BICEPCURL
+created: '2025-04-30
 
-**ID:** EXL-60-MEX-BICEPCURL **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-60: Bicep Curl (Machine - Preacher or Seated)**
 
 **(Brief Description):** An isolation exercise performed on a machine [[../resistance_training/B10. Machine Training]] targeting the elbow flexors (biceps, brachialis). Machines typically involve seated curls or preacher curls (where the upper arm is braced against a pad).
 

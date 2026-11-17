@@ -1,6 +1,12 @@
-### **EXL-79: Cable Pull-Through**
+---
+id: EXL-79-CEX-PULLTHROUGH
+created: '2025-04-30
 
-**ID:** EXL-79-CEX-PULLTHROUGH **Created:** 2025-04-30
+
+  **'
+section: EXL
+---
+### **EXL-79: Cable Pull-Through**
 
 **(Brief Description):** A hip hinge exercise [[../cross_training/L1. Movement Patterns and Functional Training]] using a low pulley cable machine [[../resistance_training/B10. Machine Training]] and typically a rope attachment. Involves pulling the cable between the legs while extending the hips, primarily targeting the glutes and hamstrings. Often used as a hip hinge teaching tool or glute accessory.
 

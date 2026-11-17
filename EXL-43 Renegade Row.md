@@ -1,6 +1,10 @@
+---
+id: EXL-43-DB-RENEGADEROW
+created: '2025-04-29'
+updated: '2026-05-08'
+section: EXL
+---
 ### **EXL-43: Renegade Row**
-
-**ID:** EXL-43-DB-RENEGADEROW **Created:** 2025-04-29 (Updated: 2026-05-08)
 
 ## Quick Takeaway
 A compound exercise combining plank stabilization with single-arm rowing that challenges core anti-rotation strength, back muscles, and shoulder stability simultaneously.
